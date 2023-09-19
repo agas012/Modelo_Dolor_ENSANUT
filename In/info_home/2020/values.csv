@@ -1,0 +1,2521 @@
+﻿Valor,,Etiqueta
+NOTA1,1,"¿Acepta usted? ,,,, Sí"
+,2,"¿Acepta usted? ,,,, No"
+NOTA1A,1,Favor de Continuar
+H0101,1,Material de desecho
+,2,Lámina de cartón
+,3,Lámina metálica
+,4,Lámina de asbesto
+,5,Palma o paja
+,6,Madera o tejamanil
+,7,Terrado con vigueria
+,8,Teja
+,9,Losa de concreto o viguetas con bovedilla
+H0102,1,Material de desecho
+,2,Lámina de cartón
+,3,Lámina de asbesto o metálica
+,4,"Carrizo, bambú o palma"
+,5,"Embarro, bajareque o paja"
+,6,Madera
+,7,Adobe
+,8,"Tabique, ladrillo,block, piedra, cantera, cemento o concreto"
+H0103,1,Tierra
+,2,Cemento o firme
+,3,"Madera, mosaico u otro recubrimiento"
+H0106,1,Sí
+,2,No
+H0107,1,en un pasillo o corredor?
+,2,en un tejabán o techito?
+,3,al aire libre?
+,4,¿No cocinan en esta vivienda?
+H0108,1,Sí
+,2,No
+H0109,1,leña?
+,2,carbón?
+,3,gas de cilindro o estacionario?
+,4,gas natural o de tubería?
+,5,electricidad?
+,6,¿Otro combustible?
+,7,¿No cocinan?
+H0110,1,Estufa o parrilla de gas
+,2,Estufa o parrilla eléctrica
+,3,Fuego abierto u horno sin chimenea ni campana
+,4,Fuego abierto u horno con chimenea o campana
+,5,Horno cerrado con chimenea
+,6,Otro
+H0111,1,Sí
+,2,No
+H0112,1,dentro de la vivienda?
+,2,solo en el terreno?
+,3,¿No tiene agua entubada?
+H0113,1,del servicio público de agua?
+,2,de un pozo?
+,3,de una pipa?
+,4,de otra vivienda?
+,5,de otro lugar?
+H0114,1,la sacan o acarrean de un pozo?
+,2,la acarrean de una toma o llave comunitaria?
+,3,la traen de otra vivienda?
+,4,la traen de una pipa?
+,5,"la acarrean de un río, arroyo o lago?"
+,6,la captan de la lluvia?
+H0114B,1,Sí
+,2,No
+,8,NS/NR
+H0114C,1,"Sí, mostrado"
+,2,"No, mostrado"
+H0114DA,1,Jabón en pastilla
+,2,Detergente (en polvo / liquido / en pasta)
+,3,Jabón liquido
+,4,"Ceniza, barro o arena"
+H0114DB,1,Jabón en pastilla
+,2,Detergente (en polvo / liquido / en pasta)
+,3,Jabón liquido
+,4,"Ceniza, barro o arena"
+H0114DC,1,Jabón en pastilla
+,2,Detergente (en polvo / liquido / en pasta)
+,3,Jabón liquido
+,4,"Ceniza, barro o arena"
+H0114DD,1,Jabón en pastilla
+,2,Detergente (en polvo / liquido / en pasta)
+,3,Jabón liquido
+,4,"Ceniza, barro o arena"
+H0115,1,la red pública?
+,2,una fosa séptica o tanque séptico (biodigestor)?
+,3,una tubería que va a dar a una barranca o grieta?
+,4,"una tubería que va a dar a un río, lago o mar?"
+,5,¿No tiene drenaje?
+H0117,1,tiene descarga directa de agua?
+,2,le echan agua con cubeta?
+,3,no se le puede echar agua?
+,4,no tiene servicio sanitario?
+H0118,1,Sí
+,2,No
+H0119,1,la recoge un camión o un carrito de basura?
+,2,la tiran en el basurero público?
+,3,la tiran en un contenedor o depósito?
+,4,la queman?
+,5,la entierran?
+,6,la tiran en un terreno baldío o calle?
+,7,la tiran a la barranca o grieta?
+,8,"la tiran al río, lago o mar?"
+H0120,1,Sí
+,2,No
+H0121,1,Aparato o sistema de calefacción
+,2,Calentón
+,3,Resistencia
+,4,Brasero
+,5,Chimenea
+,6,Otro
+H0122,1,Gas
+,2,Electricidad
+,3,Queroseno
+,4,Carbón mineral
+,5,Carbón vegetal
+,6,Leña o madera
+,7,Residuos agrícolas o de cultivos
+,8,Estiercol animal
+,9,Matojos o hierba
+,10,Otro combustible
+H0123,1,es rentada?
+,2,es prestada?
+,3,es propia pero la están pagando?
+,4,es propia?
+,5,está intestada o en litigio?
+,6,está en otra situación?
+H0124A,1,Sí
+,2,No
+H0124B,1,Sí
+,2,No
+H0124C,1,Sí
+,2,No
+H0124D,1,Sí
+,2,No
+H0124E,1,Sí
+,2,No
+H0125A,1,Sí
+,2,No
+H0125B,1,Sí
+,2,No
+H0125C,1,Sí
+,2,No
+H0125D,1,Sí
+,2,No
+H0125E,1,Sí
+,2,No
+NOTA2,1,Favor de Continuar
+H0201,1,Sí
+,2,No
+H0205,1,Sí
+,2,No
+,3,No se observan ventanas
+NOTA3,1,Favor de Continuar
+H305T,1,Sí
+,2,No
+H0326,1,"1- 5,999 pesos"
+,2,"6,000-9,999 pesos"
+,3,"10,000-13,999 pesos"
+,4,"14,000-21,999 pesos"
+,5,"22,000 o más pesos"
+,6,No percibieron ingresos
+,8,No quiso responder
+,9,No sabe
+NOTA4,1,Favor de Continuar
+NOTA5,1,Favor de Continuar
+NOTA6,1,Favor de Continuar
+H0601A,1,Sí
+,2,No
+H0601B,1,Sí
+,2,No
+H0601C,1,Sí
+,2,No
+H0601D,1,Sí
+,2,No
+H0601E,1,Sí
+,2,No
+H0601F,1,Sí
+,2,No
+H0601G,1,Sí
+,2,No
+H0601H,1,Sí
+,2,No
+H0601I,1,Sí
+,2,No
+H0601J,1,Sí
+,2,No
+H0601K,1,Sí
+,2,No
+H0601L,1,Sí
+,2,No
+H0601M,1,Sí
+,2,No
+H0601N,1,Sí
+,2,No
+H0601O,1,Sí
+,2,No
+NOTA7,1,Favor de Continuar
+H070101A,1,Arroz o maíz en grano
+,2,Harina
+,3,"Pan (bolillos, teleras, pan de caja, o pan dulce)"
+,4,Tortillas
+,5,Pasta de cualquier tipo
+,6,Cereales de caja
+,7,Otros cereales o derivados de cereales  (ESPECIFIQUE)
+,9,No tuvo gastos
+H070101B,1,Arroz o maíz en grano
+,2,Harina
+,3,"Pan (bolillos, teleras, pan de caja, o pan dulce)"
+,4,Tortillas
+,5,Pasta de cualquier tipo
+,6,Cereales de caja
+,7,Otros cereales o derivados de cereales  (ESPECIFIQUE)
+,9,No tuvo gastos
+H070101C,1,Arroz o maíz en grano
+,2,Harina
+,3,"Pan (bolillos, teleras, pan de caja, o pan dulce)"
+,4,Tortillas
+,5,Pasta de cualquier tipo
+,6,Cereales de caja
+,7,Otros cereales o derivados de cereales  (ESPECIFIQUE)
+,9,No tuvo gastos
+H070101D,1,Arroz o maíz en grano
+,2,Harina
+,3,"Pan (bolillos, teleras, pan de caja, o pan dulce)"
+,4,Tortillas
+,5,Pasta de cualquier tipo
+,6,Cereales de caja
+,7,Otros cereales o derivados de cereales  (ESPECIFIQUE)
+,9,No tuvo gastos
+H070101E,1,Arroz o maíz en grano
+,2,Harina
+,3,"Pan (bolillos, teleras, pan de caja, o pan dulce)"
+,4,Tortillas
+,5,Pasta de cualquier tipo
+,6,Cereales de caja
+,7,Otros cereales o derivados de cereales  (ESPECIFIQUE)
+,9,No tuvo gastos
+H070101F,1,Arroz o maíz en grano
+,2,Harina
+,3,"Pan (bolillos, teleras, pan de caja, o pan dulce)"
+,4,Tortillas
+,5,Pasta de cualquier tipo
+,6,Cereales de caja
+,7,Otros cereales o derivados de cereales  (ESPECIFIQUE)
+,9,No tuvo gastos
+H070101G,1,Arroz o maíz en grano
+,2,Harina
+,3,"Pan (bolillos, teleras, pan de caja, o pan dulce)"
+,4,Tortillas
+,5,Pasta de cualquier tipo
+,6,Cereales de caja
+,7,Otros cereales o derivados de cereales  (ESPECIFIQUE)
+,9,No tuvo gastos
+H070101H,1,Arroz o maíz en grano
+,2,Harina
+,3,"Pan (bolillos, teleras, pan de caja, o pan dulce)"
+,4,Tortillas
+,5,Pasta de cualquier tipo
+,6,Cereales de caja
+,7,Otros cereales o derivados de cereales  (ESPECIFIQUE)
+,9,No tuvo gastos
+H070108A,1,"Papas u otros tipos de tubérculos (camote, rábanos, etc)"
+,2,Hongos o quelites de cualquier tipo
+,3,"Cilantro, Perejil , Epazote o cualquier tipo de hierba de ol"
+,4,"Otros tubérculos, quelites  (ESPECIFIQUE)"
+,9,No tuvo gastos
+H070108B,1,"Papas u otros tipos de tubérculos (camote, rábanos, etc)"
+,2,Hongos o quelites de cualquier tipo
+,3,"Cilantro, Perejil , Epazote o cualquier tipo de hierba de ol"
+,4,"Otros tubérculos, quelites  (ESPECIFIQUE)"
+,9,No tuvo gastos
+H070108C,1,"Papas u otros tipos de tubérculos (camote, rábanos, etc)"
+,2,Hongos o quelites de cualquier tipo
+,3,"Cilantro, Perejil , Epazote o cualquier tipo de hierba de ol"
+,4,"Otros tubérculos, quelites  (ESPECIFIQUE)"
+,9,No tuvo gastos
+H070108D,1,"Papas u otros tipos de tubérculos (camote, rábanos, etc)"
+,2,Hongos o quelites de cualquier tipo
+,3,"Cilantro, Perejil , Epazote o cualquier tipo de hierba de ol"
+,4,"Otros tubérculos, quelites  (ESPECIFIQUE)"
+,9,No tuvo gastos
+H070108E,1,"Papas u otros tipos de tubérculos (camote, rábanos, etc)"
+,2,Hongos o quelites de cualquier tipo
+,3,"Cilantro, Perejil , Epazote o cualquier tipo de hierba de ol"
+,4,"Otros tubérculos, quelites  (ESPECIFIQUE)"
+,9,No tuvo gastos
+H070112A,1,"Frijoles, lentejas, habas o garbanzos"
+,2,Chícharos o ejotes
+,3,Soya
+,4,"Nueces, almendras o cacahuates"
+,5,Semillas de cualquier tipo
+,6,Otras legumbres  (ESPECIFIQUE)
+,7,Otros tipo de nueces o semillas  (ESPECIFIQUE)
+,9,No tuvo gastos
+H070112B,1,"Frijoles, lentejas, habas o garbanzos"
+,2,Chícharos o ejotes
+,3,Soya
+,4,"Nueces, almendras o cacahuates"
+,5,Semillas de cualquier tipo
+,6,Otras legumbres  (ESPECIFIQUE)
+,7,Otros tipo de nueces o semillas  (ESPECIFIQUE)
+,9,No tuvo gastos
+H070112C,1,"Frijoles, lentejas, habas o garbanzos"
+,2,Chícharos o ejotes
+,3,Soya
+,4,"Nueces, almendras o cacahuates"
+,5,Semillas de cualquier tipo
+,6,Otras legumbres  (ESPECIFIQUE)
+,7,Otros tipo de nueces o semillas  (ESPECIFIQUE)
+,9,No tuvo gastos
+H070112D,1,"Frijoles, lentejas, habas o garbanzos"
+,2,Chícharos o ejotes
+,3,Soya
+,4,"Nueces, almendras o cacahuates"
+,5,Semillas de cualquier tipo
+,6,Otras legumbres  (ESPECIFIQUE)
+,7,Otros tipo de nueces o semillas  (ESPECIFIQUE)
+,9,No tuvo gastos
+H070112E,1,"Frijoles, lentejas, habas o garbanzos"
+,2,Chícharos o ejotes
+,3,Soya
+,4,"Nueces, almendras o cacahuates"
+,5,Semillas de cualquier tipo
+,6,Otras legumbres  (ESPECIFIQUE)
+,7,Otros tipo de nueces o semillas  (ESPECIFIQUE)
+,9,No tuvo gastos
+H070112F,1,"Frijoles, lentejas, habas o garbanzos"
+,2,Chícharos o ejotes
+,3,Soya
+,4,"Nueces, almendras o cacahuates"
+,5,Semillas de cualquier tipo
+,6,Otras legumbres  (ESPECIFIQUE)
+,7,Otros tipo de nueces o semillas  (ESPECIFIQUE)
+,9,No tuvo gastos
+H070112G,1,"Frijoles, lentejas, habas o garbanzos"
+,2,Chícharos o ejotes
+,3,Soya
+,4,"Nueces, almendras o cacahuates"
+,5,Semillas de cualquier tipo
+,6,Otras legumbres  (ESPECIFIQUE)
+,7,Otros tipo de nueces o semillas  (ESPECIFIQUE)
+,9,No tuvo gastos
+H070112H,1,"Frijoles, lentejas, habas o garbanzos"
+,2,Chícharos o ejotes
+,3,Soya
+,4,"Nueces, almendras o cacahuates"
+,5,Semillas de cualquier tipo
+,6,Otras legumbres  (ESPECIFIQUE)
+,7,Otros tipo de nueces o semillas  (ESPECIFIQUE)
+,9,No tuvo gastos
+H070119A,01,Jitomates
+,02,Tomates verdes o tomatillos
+,03,Chiles frescos o secos
+,04,Lechugas de cualquier tipo
+,05,Cebollas o cebollín
+,06,Ajo
+,07,Pimientos de cualquier tipo
+,08,Calabacitas
+,09,Zanahorias
+,10,Chayotes
+,11,Elotes
+,12,Pepinos
+,13,Jícamas
+,14,Coliflor de cualquier tipo o col de cualquier tipo
+,15,Espinacas o acelgas
+,16,Otras verduras     (ESPECIFIQUE)
+,99,No tuvo gastos
+H070119B,01,Jitomates
+,02,Tomates verdes o tomatillos
+,03,Chiles frescos o secos
+,04,Lechugas de cualquier tipo
+,05,Cebollas o cebollín
+,06,Ajo
+,07,Pimientos de cualquier tipo
+,08,Calabacitas
+,09,Zanahorias
+,10,Chayotes
+,11,Elotes
+,12,Pepinos
+,13,Jícamas
+,14,Coliflor de cualquier tipo o col de cualquier tipo
+,15,Espinacas o acelgas
+,16,Otras verduras     (ESPECIFIQUE)
+,99,No tuvo gastos
+H070119C,01,Jitomates
+,02,Tomates verdes o tomatillos
+,03,Chiles frescos o secos
+,04,Lechugas de cualquier tipo
+,05,Cebollas o cebollín
+,06,Ajo
+,07,Pimientos de cualquier tipo
+,08,Calabacitas
+,09,Zanahorias
+,10,Chayotes
+,11,Elotes
+,12,Pepinos
+,13,Jícamas
+,14,Coliflor de cualquier tipo o col de cualquier tipo
+,15,Espinacas o acelgas
+,16,Otras verduras     (ESPECIFIQUE)
+,99,No tuvo gastos
+H070119D,01,Jitomates
+,02,Tomates verdes o tomatillos
+,03,Chiles frescos o secos
+,04,Lechugas de cualquier tipo
+,05,Cebollas o cebollín
+,06,Ajo
+,07,Pimientos de cualquier tipo
+,08,Calabacitas
+,09,Zanahorias
+,10,Chayotes
+,11,Elotes
+,12,Pepinos
+,13,Jícamas
+,14,Coliflor de cualquier tipo o col de cualquier tipo
+,15,Espinacas o acelgas
+,16,Otras verduras     (ESPECIFIQUE)
+,99,No tuvo gastos
+H070119E,01,Jitomates
+,02,Tomates verdes o tomatillos
+,03,Chiles frescos o secos
+,04,Lechugas de cualquier tipo
+,05,Cebollas o cebollín
+,06,Ajo
+,07,Pimientos de cualquier tipo
+,08,Calabacitas
+,09,Zanahorias
+,10,Chayotes
+,11,Elotes
+,12,Pepinos
+,13,Jícamas
+,14,Coliflor de cualquier tipo o col de cualquier tipo
+,15,Espinacas o acelgas
+,16,Otras verduras     (ESPECIFIQUE)
+,99,No tuvo gastos
+H070119F,01,Jitomates
+,02,Tomates verdes o tomatillos
+,03,Chiles frescos o secos
+,04,Lechugas de cualquier tipo
+,05,Cebollas o cebollín
+,06,Ajo
+,07,Pimientos de cualquier tipo
+,08,Calabacitas
+,09,Zanahorias
+,10,Chayotes
+,11,Elotes
+,12,Pepinos
+,13,Jícamas
+,14,Coliflor de cualquier tipo o col de cualquier tipo
+,15,Espinacas o acelgas
+,16,Otras verduras     (ESPECIFIQUE)
+,99,No tuvo gastos
+H070119G,01,Jitomates
+,02,Tomates verdes o tomatillos
+,03,Chiles frescos o secos
+,04,Lechugas de cualquier tipo
+,05,Cebollas o cebollín
+,06,Ajo
+,07,Pimientos de cualquier tipo
+,08,Calabacitas
+,09,Zanahorias
+,10,Chayotes
+,11,Elotes
+,12,Pepinos
+,13,Jícamas
+,14,Coliflor de cualquier tipo o col de cualquier tipo
+,15,Espinacas o acelgas
+,16,Otras verduras     (ESPECIFIQUE)
+,99,No tuvo gastos
+H070119H,01,Jitomates
+,02,Tomates verdes o tomatillos
+,03,Chiles frescos o secos
+,04,Lechugas de cualquier tipo
+,05,Cebollas o cebollín
+,06,Ajo
+,07,Pimientos de cualquier tipo
+,08,Calabacitas
+,09,Zanahorias
+,10,Chayotes
+,11,Elotes
+,12,Pepinos
+,13,Jícamas
+,14,Coliflor de cualquier tipo o col de cualquier tipo
+,15,Espinacas o acelgas
+,16,Otras verduras     (ESPECIFIQUE)
+,99,No tuvo gastos
+H070119I,01,Jitomates
+,02,Tomates verdes o tomatillos
+,03,Chiles frescos o secos
+,04,Lechugas de cualquier tipo
+,05,Cebollas o cebollín
+,06,Ajo
+,07,Pimientos de cualquier tipo
+,08,Calabacitas
+,09,Zanahorias
+,10,Chayotes
+,11,Elotes
+,12,Pepinos
+,13,Jícamas
+,14,Coliflor de cualquier tipo o col de cualquier tipo
+,15,Espinacas o acelgas
+,16,Otras verduras     (ESPECIFIQUE)
+,99,No tuvo gastos
+H070119J,01,Jitomates
+,02,Tomates verdes o tomatillos
+,03,Chiles frescos o secos
+,04,Lechugas de cualquier tipo
+,05,Cebollas o cebollín
+,06,Ajo
+,07,Pimientos de cualquier tipo
+,08,Calabacitas
+,09,Zanahorias
+,10,Chayotes
+,11,Elotes
+,12,Pepinos
+,13,Jícamas
+,14,Coliflor de cualquier tipo o col de cualquier tipo
+,15,Espinacas o acelgas
+,16,Otras verduras     (ESPECIFIQUE)
+,99,No tuvo gastos
+H070119K,01,Jitomates
+,02,Tomates verdes o tomatillos
+,03,Chiles frescos o secos
+,04,Lechugas de cualquier tipo
+,05,Cebollas o cebollín
+,06,Ajo
+,07,Pimientos de cualquier tipo
+,08,Calabacitas
+,09,Zanahorias
+,10,Chayotes
+,11,Elotes
+,12,Pepinos
+,13,Jícamas
+,14,Coliflor de cualquier tipo o col de cualquier tipo
+,15,Espinacas o acelgas
+,16,Otras verduras     (ESPECIFIQUE)
+,99,No tuvo gastos
+H070119L,01,Jitomates
+,02,Tomates verdes o tomatillos
+,03,Chiles frescos o secos
+,04,Lechugas de cualquier tipo
+,05,Cebollas o cebollín
+,06,Ajo
+,07,Pimientos de cualquier tipo
+,08,Calabacitas
+,09,Zanahorias
+,10,Chayotes
+,11,Elotes
+,12,Pepinos
+,13,Jícamas
+,14,Coliflor de cualquier tipo o col de cualquier tipo
+,15,Espinacas o acelgas
+,16,Otras verduras     (ESPECIFIQUE)
+,99,No tuvo gastos
+H070119M,01,Jitomates
+,02,Tomates verdes o tomatillos
+,03,Chiles frescos o secos
+,04,Lechugas de cualquier tipo
+,05,Cebollas o cebollín
+,06,Ajo
+,07,Pimientos de cualquier tipo
+,08,Calabacitas
+,09,Zanahorias
+,10,Chayotes
+,11,Elotes
+,12,Pepinos
+,13,Jícamas
+,14,Coliflor de cualquier tipo o col de cualquier tipo
+,15,Espinacas o acelgas
+,16,Otras verduras     (ESPECIFIQUE)
+,99,No tuvo gastos
+H070119N,01,Jitomates
+,02,Tomates verdes o tomatillos
+,03,Chiles frescos o secos
+,04,Lechugas de cualquier tipo
+,05,Cebollas o cebollín
+,06,Ajo
+,07,Pimientos de cualquier tipo
+,08,Calabacitas
+,09,Zanahorias
+,10,Chayotes
+,11,Elotes
+,12,Pepinos
+,13,Jícamas
+,14,Coliflor de cualquier tipo o col de cualquier tipo
+,15,Espinacas o acelgas
+,16,Otras verduras     (ESPECIFIQUE)
+,99,No tuvo gastos
+H070119O,01,Jitomates
+,02,Tomates verdes o tomatillos
+,03,Chiles frescos o secos
+,04,Lechugas de cualquier tipo
+,05,Cebollas o cebollín
+,06,Ajo
+,07,Pimientos de cualquier tipo
+,08,Calabacitas
+,09,Zanahorias
+,10,Chayotes
+,11,Elotes
+,12,Pepinos
+,13,Jícamas
+,14,Coliflor de cualquier tipo o col de cualquier tipo
+,15,Espinacas o acelgas
+,16,Otras verduras     (ESPECIFIQUE)
+,99,No tuvo gastos
+H070119P,01,Jitomates
+,02,Tomates verdes o tomatillos
+,03,Chiles frescos o secos
+,04,Lechugas de cualquier tipo
+,05,Cebollas o cebollín
+,06,Ajo
+,07,Pimientos de cualquier tipo
+,08,Calabacitas
+,09,Zanahorias
+,10,Chayotes
+,11,Elotes
+,12,Pepinos
+,13,Jícamas
+,14,Coliflor de cualquier tipo o col de cualquier tipo
+,15,Espinacas o acelgas
+,16,Otras verduras     (ESPECIFIQUE)
+,99,No tuvo gastos
+H070119Q,0,Jitomates
+,1,Chayotes
+,9,No tuvo gastos
+H070135A,01,Manzanas o peras
+,02,"Limones, naranjas, mandarinas o limas"
+,03,Plátanos
+,04,Melones de cualquier tipo
+,05,Sandías
+,06,Piñas
+,07,Mangos
+,08,Papayas
+,09,"Durazos, nectarinas, tejocotes"
+,10,Fresas
+,11,Uvas
+,12,Aguacates
+,13,Otras frutas  (ESPECIFIQUE)
+,99,No tuvo gastos
+H070135B,01,Manzanas o peras
+,02,"Limones, naranjas, mandarinas o limas"
+,03,Plátanos
+,04,Melones de cualquier tipo
+,05,Sandías
+,06,Piñas
+,07,Mangos
+,08,Papayas
+,09,"Durazos, nectarinas, tejocotes"
+,10,Fresas
+,11,Uvas
+,12,Aguacates
+,13,Otras frutas  (ESPECIFIQUE)
+,99,No tuvo gastos
+H070135C,01,Manzanas o peras
+,02,"Limones, naranjas, mandarinas o limas"
+,03,Plátanos
+,04,Melones de cualquier tipo
+,05,Sandías
+,06,Piñas
+,07,Mangos
+,08,Papayas
+,09,"Durazos, nectarinas, tejocotes"
+,10,Fresas
+,11,Uvas
+,12,Aguacates
+,13,Otras frutas  (ESPECIFIQUE)
+,99,No tuvo gastos
+H070135D,01,Manzanas o peras
+,02,"Limones, naranjas, mandarinas o limas"
+,03,Plátanos
+,04,Melones de cualquier tipo
+,05,Sandías
+,06,Piñas
+,07,Mangos
+,08,Papayas
+,09,"Durazos, nectarinas, tejocotes"
+,10,Fresas
+,11,Uvas
+,12,Aguacates
+,13,Otras frutas  (ESPECIFIQUE)
+,99,No tuvo gastos
+H070135E,01,Manzanas o peras
+,02,"Limones, naranjas, mandarinas o limas"
+,03,Plátanos
+,04,Melones de cualquier tipo
+,05,Sandías
+,06,Piñas
+,07,Mangos
+,08,Papayas
+,09,"Durazos, nectarinas, tejocotes"
+,10,Fresas
+,11,Uvas
+,12,Aguacates
+,13,Otras frutas  (ESPECIFIQUE)
+,99,No tuvo gastos
+H070135F,01,Manzanas o peras
+,02,"Limones, naranjas, mandarinas o limas"
+,03,Plátanos
+,04,Melones de cualquier tipo
+,05,Sandías
+,06,Piñas
+,07,Mangos
+,08,Papayas
+,09,"Durazos, nectarinas, tejocotes"
+,10,Fresas
+,11,Uvas
+,12,Aguacates
+,13,Otras frutas  (ESPECIFIQUE)
+,99,No tuvo gastos
+H070135G,01,Manzanas o peras
+,02,"Limones, naranjas, mandarinas o limas"
+,03,Plátanos
+,04,Melones de cualquier tipo
+,05,Sandías
+,06,Piñas
+,07,Mangos
+,08,Papayas
+,09,"Durazos, nectarinas, tejocotes"
+,10,Fresas
+,11,Uvas
+,12,Aguacates
+,13,Otras frutas  (ESPECIFIQUE)
+,99,No tuvo gastos
+H070135H,01,Manzanas o peras
+,02,"Limones, naranjas, mandarinas o limas"
+,03,Plátanos
+,04,Melones de cualquier tipo
+,05,Sandías
+,06,Piñas
+,07,Mangos
+,08,Papayas
+,09,"Durazos, nectarinas, tejocotes"
+,10,Fresas
+,11,Uvas
+,12,Aguacates
+,13,Otras frutas  (ESPECIFIQUE)
+,99,No tuvo gastos
+H070135I,01,Manzanas o peras
+,02,"Limones, naranjas, mandarinas o limas"
+,03,Plátanos
+,04,Melones de cualquier tipo
+,05,Sandías
+,06,Piñas
+,07,Mangos
+,08,Papayas
+,09,"Durazos, nectarinas, tejocotes"
+,10,Fresas
+,11,Uvas
+,12,Aguacates
+,13,Otras frutas  (ESPECIFIQUE)
+,99,No tuvo gastos
+H070135J,01,Manzanas o peras
+,02,"Limones, naranjas, mandarinas o limas"
+,03,Plátanos
+,04,Melones de cualquier tipo
+,05,Sandías
+,06,Piñas
+,07,Mangos
+,08,Papayas
+,09,"Durazos, nectarinas, tejocotes"
+,10,Fresas
+,11,Uvas
+,12,Aguacates
+,13,Otras frutas  (ESPECIFIQUE)
+,99,No tuvo gastos
+H070135K,01,Manzanas o peras
+,02,"Limones, naranjas, mandarinas o limas"
+,03,Plátanos
+,04,Melones de cualquier tipo
+,05,Sandías
+,06,Piñas
+,07,Mangos
+,08,Papayas
+,09,"Durazos, nectarinas, tejocotes"
+,10,Fresas
+,11,Uvas
+,12,Aguacates
+,13,Otras frutas  (ESPECIFIQUE)
+,99,No tuvo gastos
+H070135L,01,Manzanas o peras
+,02,"Limones, naranjas, mandarinas o limas"
+,03,Plátanos
+,04,Melones de cualquier tipo
+,05,Sandías
+,06,Piñas
+,07,Mangos
+,08,Papayas
+,09,"Durazos, nectarinas, tejocotes"
+,10,Fresas
+,11,Uvas
+,12,Aguacates
+,13,Otras frutas  (ESPECIFIQUE)
+,99,No tuvo gastos
+H070135M,0,Manzanas o peras
+,1,Fresas
+,9,No tuvo gastos
+H070135N,0,Manzanas o peras
+,1,Fresas
+,9,No tuvo gastos
+H070148A,1,"Carne roja de cualquier tipo (res, cerdo, etc.)"
+,2,"Pollo, pavo, guajolote o cualquier tipo de carne blanca"
+,3,Cualquier tipo de pescado
+,4,Cualquier tipo de mariscos
+,5,"Otro tipo de carnes, pescados o mariscos (ESPECIFIQUE)"
+,9,No tuvo gastos
+H070148B,1,"Carne roja de cualquier tipo (res, cerdo, etc.)"
+,2,"Pollo, pavo, guajolote o cualquier tipo de carne blanca"
+,3,Cualquier tipo de pescado
+,4,Cualquier tipo de mariscos
+,5,"Otro tipo de carnes, pescados o mariscos (ESPECIFIQUE)"
+,9,No tuvo gastos
+H070148C,1,"Carne roja de cualquier tipo (res, cerdo, etc.)"
+,2,"Pollo, pavo, guajolote o cualquier tipo de carne blanca"
+,3,Cualquier tipo de pescado
+,4,Cualquier tipo de mariscos
+,5,"Otro tipo de carnes, pescados o mariscos (ESPECIFIQUE)"
+,9,No tuvo gastos
+H070148D,1,"Carne roja de cualquier tipo (res, cerdo, etc.)"
+,2,"Pollo, pavo, guajolote o cualquier tipo de carne blanca"
+,3,Cualquier tipo de pescado
+,4,Cualquier tipo de mariscos
+,5,"Otro tipo de carnes, pescados o mariscos (ESPECIFIQUE)"
+,9,No tuvo gastos
+H070148E,1,"Carne roja de cualquier tipo (res, cerdo, etc.)"
+,2,"Pollo, pavo, guajolote o cualquier tipo de carne blanca"
+,3,Cualquier tipo de pescado
+,4,Cualquier tipo de mariscos
+,5,"Otro tipo de carnes, pescados o mariscos (ESPECIFIQUE)"
+,9,No tuvo gastos
+H070153A,1,Huevos
+,2,Leche
+,3,"lácteos como quesos, cremas o yogur"
+,4,Otros productos lácteos   (ESPECIFIQUE)
+,9,No tuvo gastos
+H070153B,1,Huevos
+,2,Leche
+,3,"lácteos como quesos, cremas o yogur"
+,4,Otros productos lácteos   (ESPECIFIQUE)
+,9,No tuvo gastos
+H070153C,1,Huevos
+,2,Leche
+,3,"lácteos como quesos, cremas o yogur"
+,4,Otros productos lácteos   (ESPECIFIQUE)
+,9,No tuvo gastos
+H070153D,1,Huevos
+,2,Leche
+,3,"lácteos como quesos, cremas o yogur"
+,4,Otros productos lácteos   (ESPECIFIQUE)
+,9,No tuvo gastos
+H070153E,1,Huevos
+,2,Leche
+,3,"lácteos como quesos, cremas o yogur"
+,4,Otros productos lácteos   (ESPECIFIQUE)
+,9,No tuvo gastos
+H070157A,1,Aceite o manteca para cocinar (de cualquier tipo)
+,2,Margarina o mantequilla
+,3,Otro tipo de aceites y grasas (ESPECIFIQUE)
+,9,No tuvo gastos
+H070157B,1,Aceite o manteca para cocinar (de cualquier tipo)
+,2,Margarina o mantequilla
+,3,Otro tipo de aceites y grasas (ESPECIFIQUE)
+,9,No tuvo gastos
+H070157C,1,Aceite o manteca para cocinar (de cualquier tipo)
+,2,Margarina o mantequilla
+,3,Otro tipo de aceites y grasas (ESPECIFIQUE)
+,9,No tuvo gastos
+H070157D,1,Aceite o manteca para cocinar (de cualquier tipo)
+,2,Margarina o mantequilla
+,3,Otro tipo de aceites y grasas (ESPECIFIQUE)
+,9,No tuvo gastos
+H070160A,1,Azúcar refinada o no refinada
+,2,"Edulcorantes artificiales (canderel, splenda, stevia, etc.)"
+,3,Miel de abeja
+,4,"Piloncillo o jarabes de cualquier tipo (maple, miel caro, et"
+,5,"Cajeta, leche condesada u otros endulzantes"
+,6,Otros endulzantes (ESPECIFIQUE)
+,9,No tuvo gastos
+H070160B,1,Azúcar refinada o no refinada
+,2,"Edulcorantes artificiales (canderel, splenda, stevia, etc.)"
+,3,Miel de abeja
+,4,"Piloncillo o jarabes de cualquier tipo (maple, miel caro, et"
+,5,"Cajeta, leche condesada u otros endulzantes"
+,6,Otros endulzantes (ESPECIFIQUE)
+,9,No tuvo gastos
+H070160C,1,Azúcar refinada o no refinada
+,2,"Edulcorantes artificiales (canderel, splenda, stevia, etc.)"
+,3,Miel de abeja
+,4,"Piloncillo o jarabes de cualquier tipo (maple, miel caro, et"
+,5,"Cajeta, leche condesada u otros endulzantes"
+,6,Otros endulzantes (ESPECIFIQUE)
+,9,No tuvo gastos
+H070160D,1,Azúcar refinada o no refinada
+,2,"Edulcorantes artificiales (canderel, splenda, stevia, etc.)"
+,3,Miel de abeja
+,4,"Piloncillo o jarabes de cualquier tipo (maple, miel caro, et"
+,5,"Cajeta, leche condesada u otros endulzantes"
+,6,Otros endulzantes (ESPECIFIQUE)
+,9,No tuvo gastos
+H070160E,1,Azúcar refinada o no refinada
+,2,"Edulcorantes artificiales (canderel, splenda, stevia, etc.)"
+,3,Miel de abeja
+,4,"Piloncillo o jarabes de cualquier tipo (maple, miel caro, et"
+,5,"Cajeta, leche condesada u otros endulzantes"
+,6,Otros endulzantes (ESPECIFIQUE)
+,9,No tuvo gastos
+H070160F,1,Azúcar refinada o no refinada
+,2,"Edulcorantes artificiales (canderel, splenda, stevia, etc.)"
+,3,Miel de abeja
+,4,"Piloncillo o jarabes de cualquier tipo (maple, miel caro, et"
+,5,"Cajeta, leche condesada u otros endulzantes"
+,6,Otros endulzantes (ESPECIFIQUE)
+,9,No tuvo gastos
+H070160G,1,Azúcar refinada o no refinada
+,2,"Edulcorantes artificiales (canderel, splenda, stevia, etc.)"
+,3,Miel de abeja
+,4,"Piloncillo o jarabes de cualquier tipo (maple, miel caro, et"
+,5,"Cajeta, leche condesada u otros endulzantes"
+,6,Otros endulzantes (ESPECIFIQUE)
+,9,No tuvo gastos
+H070167A,1,Sal
+,2,"Especias (pimienta, comino, clavo, etc.)"
+,3,"Hierbas aromáticas (laurel, salvia, orégano, etc.)"
+,4,Vinagre
+,5,"Sazonador en polvo (caldo de pollo, caldo de res, etc.)"
+,6,"Salsas (soya, inglesa, picantes, etc.)"
+,7,Otros condimentos (ESPECIFIQUE)
+,9,No tuvo gastos
+H070167B,1,Sal
+,2,"Especias (pimienta, comino, clavo, etc.)"
+,3,"Hierbas aromáticas (laurel, salvia, orégano, etc.)"
+,4,Vinagre
+,5,"Sazonador en polvo (caldo de pollo, caldo de res, etc.)"
+,6,"Salsas (soya, inglesa, picantes, etc.)"
+,7,Otros condimentos (ESPECIFIQUE)
+,9,No tuvo gastos
+H070167C,1,Sal
+,2,"Especias (pimienta, comino, clavo, etc.)"
+,3,"Hierbas aromáticas (laurel, salvia, orégano, etc.)"
+,4,Vinagre
+,5,"Sazonador en polvo (caldo de pollo, caldo de res, etc.)"
+,6,"Salsas (soya, inglesa, picantes, etc.)"
+,7,Otros condimentos (ESPECIFIQUE)
+,9,No tuvo gastos
+H070167D,1,Sal
+,2,"Especias (pimienta, comino, clavo, etc.)"
+,3,"Hierbas aromáticas (laurel, salvia, orégano, etc.)"
+,4,Vinagre
+,5,"Sazonador en polvo (caldo de pollo, caldo de res, etc.)"
+,6,"Salsas (soya, inglesa, picantes, etc.)"
+,7,Otros condimentos (ESPECIFIQUE)
+,9,No tuvo gastos
+H070167E,1,Sal
+,2,"Especias (pimienta, comino, clavo, etc.)"
+,3,"Hierbas aromáticas (laurel, salvia, orégano, etc.)"
+,4,Vinagre
+,5,"Sazonador en polvo (caldo de pollo, caldo de res, etc.)"
+,6,"Salsas (soya, inglesa, picantes, etc.)"
+,7,Otros condimentos (ESPECIFIQUE)
+,9,No tuvo gastos
+H070167F,1,Sal
+,2,"Especias (pimienta, comino, clavo, etc.)"
+,3,"Hierbas aromáticas (laurel, salvia, orégano, etc.)"
+,4,Vinagre
+,5,"Sazonador en polvo (caldo de pollo, caldo de res, etc.)"
+,6,"Salsas (soya, inglesa, picantes, etc.)"
+,7,Otros condimentos (ESPECIFIQUE)
+,9,No tuvo gastos
+H070167G,1,Sal
+,2,"Especias (pimienta, comino, clavo, etc.)"
+,3,"Hierbas aromáticas (laurel, salvia, orégano, etc.)"
+,4,Vinagre
+,5,"Sazonador en polvo (caldo de pollo, caldo de res, etc.)"
+,6,"Salsas (soya, inglesa, picantes, etc.)"
+,7,Otros condimentos (ESPECIFIQUE)
+,9,No tuvo gastos
+H070167H,1,Sal
+,2,"Especias (pimienta, comino, clavo, etc.)"
+,3,"Hierbas aromáticas (laurel, salvia, orégano, etc.)"
+,4,Vinagre
+,5,"Sazonador en polvo (caldo de pollo, caldo de res, etc.)"
+,6,"Salsas (soya, inglesa, picantes, etc.)"
+,7,Otros condimentos (ESPECIFIQUE)
+,9,No tuvo gastos
+H070174A,1,"Dulces y caramelos (chocolates, caramelos, gomitas, etc.)"
+,2,Pastelitos y galletas
+,3,"Botanas saladas (papitas, cacahuates, chicharrones, churrito"
+,4,Otras botanas o dulces (ESPECIFIQUE)
+,9,No tuvo gastos
+H070174B,1,"Dulces y caramelos (chocolates, caramelos, gomitas, etc.)"
+,2,Pastelitos y galletas
+,3,"Botanas saladas (papitas, cacahuates, chicharrones, churrito"
+,4,Otras botanas o dulces (ESPECIFIQUE)
+,9,No tuvo gastos
+H070174C,1,"Dulces y caramelos (chocolates, caramelos, gomitas, etc.)"
+,2,Pastelitos y galletas
+,3,"Botanas saladas (papitas, cacahuates, chicharrones, churrito"
+,4,Otras botanas o dulces (ESPECIFIQUE)
+,9,No tuvo gastos
+H070174D,1,"Dulces y caramelos (chocolates, caramelos, gomitas, etc.)"
+,2,Pastelitos y galletas
+,3,"Botanas saladas (papitas, cacahuates, chicharrones, churrito"
+,4,Otras botanas o dulces (ESPECIFIQUE)
+,9,No tuvo gastos
+H070174E,1,"Dulces y caramelos (chocolates, caramelos, gomitas, etc.)"
+,2,Pastelitos y galletas
+,3,"Botanas saladas (papitas, cacahuates, chicharrones, churrito"
+,4,Otras botanas o dulces (ESPECIFIQUE)
+,9,No tuvo gastos
+H070178A,1,Agua embotellada o de garrafón
+,2,Tés o infusiones
+,3,Café
+,4,Refrescos o bebidas artificiales
+,5,Jugos naturales
+,6,"Cerveza, vino o licor"
+,7,Otras bebidas (ESPECIFIQUE)
+,9,No tuvo gastos
+H070178B,1,Agua embotellada o de garrafón
+,2,Tés o infusiones
+,3,Café
+,4,Refrescos o bebidas artificiales
+,5,Jugos naturales
+,6,"Cerveza, vino o licor"
+,7,Otras bebidas (ESPECIFIQUE)
+,9,No tuvo gastos
+H070178C,1,Agua embotellada o de garrafón
+,2,Tés o infusiones
+,3,Café
+,4,Refrescos o bebidas artificiales
+,5,Jugos naturales
+,6,"Cerveza, vino o licor"
+,7,Otras bebidas (ESPECIFIQUE)
+,9,No tuvo gastos
+H070178D,1,Agua embotellada o de garrafón
+,2,Tés o infusiones
+,3,Café
+,4,Refrescos o bebidas artificiales
+,5,Jugos naturales
+,6,"Cerveza, vino o licor"
+,7,Otras bebidas (ESPECIFIQUE)
+,9,No tuvo gastos
+H070178E,1,Agua embotellada o de garrafón
+,2,Tés o infusiones
+,3,Café
+,4,Refrescos o bebidas artificiales
+,5,Jugos naturales
+,6,"Cerveza, vino o licor"
+,7,Otras bebidas (ESPECIFIQUE)
+,9,No tuvo gastos
+H070178F,1,Agua embotellada o de garrafón
+,2,Tés o infusiones
+,3,Café
+,4,Refrescos o bebidas artificiales
+,5,Jugos naturales
+,6,"Cerveza, vino o licor"
+,7,Otras bebidas (ESPECIFIQUE)
+,9,No tuvo gastos
+H070178G,1,Agua embotellada o de garrafón
+,2,Tés o infusiones
+,3,Café
+,4,Refrescos o bebidas artificiales
+,5,Jugos naturales
+,6,"Cerveza, vino o licor"
+,7,Otras bebidas (ESPECIFIQUE)
+,9,No tuvo gastos
+H070178H,1,Agua embotellada o de garrafón
+,2,Tés o infusiones
+,3,Café
+,4,Refrescos o bebidas artificiales
+,5,Jugos naturales
+,6,"Cerveza, vino o licor"
+,7,Otras bebidas (ESPECIFIQUE)
+,9,No tuvo gastos
+H070185A,1,Comida preparada para microondas o congelada
+,2,Comida a domicilio de cualquier tipo
+,3,Comida preparada consumida en el hogar  [NO INCLUIR COMIDA C
+,4,Otros alimentos preparados fuera de casa (ESPECIFIQUE)
+,9,No tuvo gastos
+H070185B,1,Comida preparada para microondas o congelada
+,2,Comida a domicilio de cualquier tipo
+,3,Comida preparada consumida en el hogar  [NO INCLUIR COMIDA C
+,4,Otros alimentos preparados fuera de casa (ESPECIFIQUE)
+,9,No tuvo gastos
+H070185C,1,Comida preparada para microondas o congelada
+,2,Comida a domicilio de cualquier tipo
+,3,Comida preparada consumida en el hogar  [NO INCLUIR COMIDA C
+,4,Otros alimentos preparados fuera de casa (ESPECIFIQUE)
+,9,No tuvo gastos
+H070185D,1,Comida preparada para microondas o congelada
+,2,Comida a domicilio de cualquier tipo
+,3,Comida preparada consumida en el hogar  [NO INCLUIR COMIDA C
+,4,Otros alimentos preparados fuera de casa (ESPECIFIQUE)
+,9,No tuvo gastos
+H070185E,1,Comida preparada para microondas o congelada
+,2,Comida a domicilio de cualquier tipo
+,3,Comida preparada consumida en el hogar  [NO INCLUIR COMIDA C
+,4,Otros alimentos preparados fuera de casa (ESPECIFIQUE)
+,9,No tuvo gastos
+H070189A,1,"Comidas en restaurantes, fondas, o cocinas económicas"
+,2,Comidas o botanas en puestos callejeros o tienditas
+,3,Bebidas de cualquier tipo compradas en puestos o tienditas
+,4,Otro tipo de comida o bebida consumida fuera de casa por cua
+,9,No tuvo gastos
+H070189B,1,"Comidas en restaurantes, fondas, o cocinas económicas"
+,2,Comidas o botanas en puestos callejeros o tienditas
+,3,Bebidas de cualquier tipo compradas en puestos o tienditas
+,4,Otro tipo de comida o bebida consumida fuera de casa por cua
+,9,No tuvo gastos
+H070189C,1,"Comidas en restaurantes, fondas, o cocinas económicas"
+,2,Comidas o botanas en puestos callejeros o tienditas
+,3,Bebidas de cualquier tipo compradas en puestos o tienditas
+,4,Otro tipo de comida o bebida consumida fuera de casa por cua
+,9,No tuvo gastos
+H070189D,1,"Comidas en restaurantes, fondas, o cocinas económicas"
+,2,Comidas o botanas en puestos callejeros o tienditas
+,3,Bebidas de cualquier tipo compradas en puestos o tienditas
+,4,Otro tipo de comida o bebida consumida fuera de casa por cua
+,9,No tuvo gastos
+H070189E,1,"Comidas en restaurantes, fondas, o cocinas económicas"
+,2,Comidas o botanas en puestos callejeros o tienditas
+,3,Bebidas de cualquier tipo compradas en puestos o tienditas
+,4,Otro tipo de comida o bebida consumida fuera de casa por cua
+,9,No tuvo gastos
+H070301A,1,Cigarros o tabaco
+,9,No tuvo gastos
+H070301B,1,Cigarros o tabaco
+,9,No tuvo gastos
+H070302A,01,Renta
+,02,Hipotecas o créditos
+,03,Pago de agua
+,04,Pago de luz
+,05,Pago de gas
+,06,Compra de leña u otros combustibles para cocinar
+,07,Pago por recolección de basura
+,08,"Televisión por cable, satelital"
+,09,Internet y teléfono fijo
+,10,Pago de celulares
+,11,Otro pago de servicios o créditos en este hogar (ESPECIFIQUE
+,12,No tuvo gastos
+H070302B,01,Renta
+,02,Hipotecas o créditos
+,03,Pago de agua
+,04,Pago de luz
+,05,Pago de gas
+,06,Compra de leña u otros combustibles para cocinar
+,07,Pago por recolección de basura
+,08,"Televisión por cable, satelital"
+,09,Internet y teléfono fijo
+,10,Pago de celulares
+,11,Otro pago de servicios o créditos en este hogar (ESPECIFIQUE
+,12,No tuvo gastos
+H070302C,01,Renta
+,02,Hipotecas o créditos
+,03,Pago de agua
+,04,Pago de luz
+,05,Pago de gas
+,06,Compra de leña u otros combustibles para cocinar
+,07,Pago por recolección de basura
+,08,"Televisión por cable, satelital"
+,09,Internet y teléfono fijo
+,10,Pago de celulares
+,11,Otro pago de servicios o créditos en este hogar (ESPECIFIQUE
+,12,No tuvo gastos
+H070302D,01,Renta
+,02,Hipotecas o créditos
+,03,Pago de agua
+,04,Pago de luz
+,05,Pago de gas
+,06,Compra de leña u otros combustibles para cocinar
+,07,Pago por recolección de basura
+,08,"Televisión por cable, satelital"
+,09,Internet y teléfono fijo
+,10,Pago de celulares
+,11,Otro pago de servicios o créditos en este hogar (ESPECIFIQUE
+,12,No tuvo gastos
+H070302E,01,Renta
+,02,Hipotecas o créditos
+,03,Pago de agua
+,04,Pago de luz
+,05,Pago de gas
+,06,Compra de leña u otros combustibles para cocinar
+,07,Pago por recolección de basura
+,08,"Televisión por cable, satelital"
+,09,Internet y teléfono fijo
+,10,Pago de celulares
+,11,Otro pago de servicios o créditos en este hogar (ESPECIFIQUE
+,12,No tuvo gastos
+H070302F,01,Renta
+,02,Hipotecas o créditos
+,03,Pago de agua
+,04,Pago de luz
+,05,Pago de gas
+,06,Compra de leña u otros combustibles para cocinar
+,07,Pago por recolección de basura
+,08,"Televisión por cable, satelital"
+,09,Internet y teléfono fijo
+,10,Pago de celulares
+,11,Otro pago de servicios o créditos en este hogar (ESPECIFIQUE
+,12,No tuvo gastos
+H070302G,01,Renta
+,02,Hipotecas o créditos
+,03,Pago de agua
+,04,Pago de luz
+,05,Pago de gas
+,06,Compra de leña u otros combustibles para cocinar
+,07,Pago por recolección de basura
+,08,"Televisión por cable, satelital"
+,09,Internet y teléfono fijo
+,10,Pago de celulares
+,11,Otro pago de servicios o créditos en este hogar (ESPECIFIQUE
+,12,No tuvo gastos
+H070302H,01,Renta
+,02,Hipotecas o créditos
+,03,Pago de agua
+,04,Pago de luz
+,05,Pago de gas
+,06,Compra de leña u otros combustibles para cocinar
+,07,Pago por recolección de basura
+,08,"Televisión por cable, satelital"
+,09,Internet y teléfono fijo
+,10,Pago de celulares
+,11,Otro pago de servicios o créditos en este hogar (ESPECIFIQUE
+,12,No tuvo gastos
+H070302I,0,Renta
+,1,Pago de celulares
+H070302J,0,Renta
+,1,Pago de celulares
+H070302K,0,Renta
+,1,Pago de celulares
+H070302L,0,Renta
+,1,Pago de celulares
+H070313A,1,"Transporte público como taxi, colectivo, combi, autobús, met"
+,2,"Autobuses foráneos, aviones, barcos o trenes para viajes ext"
+,3,Otros gastos para transportarse (ESPECIFIQUE)
+,9,No tuvo gastos
+H070313B,1,"Transporte público como taxi, colectivo, combi, autobús, met"
+,2,"Autobuses foráneos, aviones, barcos o trenes para viajes ext"
+,3,Otros gastos para transportarse (ESPECIFIQUE)
+,9,No tuvo gastos
+H070313C,1,"Transporte público como taxi, colectivo, combi, autobús, met"
+,2,"Autobuses foráneos, aviones, barcos o trenes para viajes ext"
+,3,Otros gastos para transportarse (ESPECIFIQUE)
+,9,No tuvo gastos
+H070313D,1,"Transporte público como taxi, colectivo, combi, autobús, met"
+,2,"Autobuses foráneos, aviones, barcos o trenes para viajes ext"
+,3,Otros gastos para transportarse (ESPECIFIQUE)
+,9,No tuvo gastos
+H070316,01,"Productos de higiene personal (jabón, shampoo, pasta de dientes, desodorantes, cremas, etc.)"
+,02,"Cosméticos, algodones, toallitas limpiadoras"
+,03,"Papel de baño, pañuelos, toallas sanitarias"
+,04,Servicios de peluquería o salón de belleza
+,05,Pañales
+,06,Detergentes y productos de limpieza para la casa
+,07,"Tintorería, lavandería, pago de planchado y lavado"
+,08,"Pago de mantenimiento en la vivienda (limpieza, jardinería, etc)"
+,09,Otros productos o servicios de higiene personal o limpieza del hogar (ESPECIFIQUE)
+,99,No tuvo gastos
+H070316A,01,"Productos de higiene personal (jabón, shampoo, pasta de dien"
+,02,"Cosméticos, algodones, toallitas limpiadoras"
+,03,"Papel de baño, pañuelos, toallas sanitarias"
+,04,Servicios de peluquería o salón de belleza
+,05,Pañales
+,06,Detergentes y productos de limpieza para la casa
+,07,"Tintorería, lavandería, pago de planchado y lavado"
+,08,"Pago de mantenimiento en la vivienda (limpieza, jardinería,"
+,09,Otros productos o servicios de higiene personal o limpieza d
+,99,No tuvo gastos
+H070316B,01,"Productos de higiene personal (jabón, shampoo, pasta de dien"
+,02,"Cosméticos, algodones, toallitas limpiadoras"
+,03,"Papel de baño, pañuelos, toallas sanitarias"
+,04,Servicios de peluquería o salón de belleza
+,05,Pañales
+,06,Detergentes y productos de limpieza para la casa
+,07,"Tintorería, lavandería, pago de planchado y lavado"
+,08,"Pago de mantenimiento en la vivienda (limpieza, jardinería,"
+,09,Otros productos o servicios de higiene personal o limpieza d
+,99,No tuvo gastos
+H070316C,01,"Productos de higiene personal (jabón, shampoo, pasta de dien"
+,02,"Cosméticos, algodones, toallitas limpiadoras"
+,03,"Papel de baño, pañuelos, toallas sanitarias"
+,04,Servicios de peluquería o salón de belleza
+,05,Pañales
+,06,Detergentes y productos de limpieza para la casa
+,07,"Tintorería, lavandería, pago de planchado y lavado"
+,08,"Pago de mantenimiento en la vivienda (limpieza, jardinería,"
+,09,Otros productos o servicios de higiene personal o limpieza d
+,99,No tuvo gastos
+H070316D,01,"Productos de higiene personal (jabón, shampoo, pasta de dien"
+,02,"Cosméticos, algodones, toallitas limpiadoras"
+,03,"Papel de baño, pañuelos, toallas sanitarias"
+,04,Servicios de peluquería o salón de belleza
+,05,Pañales
+,06,Detergentes y productos de limpieza para la casa
+,07,"Tintorería, lavandería, pago de planchado y lavado"
+,08,"Pago de mantenimiento en la vivienda (limpieza, jardinería,"
+,09,Otros productos o servicios de higiene personal o limpieza d
+,99,No tuvo gastos
+H070316E,01,"Productos de higiene personal (jabón, shampoo, pasta de dien"
+,02,"Cosméticos, algodones, toallitas limpiadoras"
+,03,"Papel de baño, pañuelos, toallas sanitarias"
+,04,Servicios de peluquería o salón de belleza
+,05,Pañales
+,06,Detergentes y productos de limpieza para la casa
+,07,"Tintorería, lavandería, pago de planchado y lavado"
+,08,"Pago de mantenimiento en la vivienda (limpieza, jardinería,"
+,09,Otros productos o servicios de higiene personal o limpieza d
+,99,No tuvo gastos
+H070316F,01,"Productos de higiene personal (jabón, shampoo, pasta de dien"
+,02,"Cosméticos, algodones, toallitas limpiadoras"
+,03,"Papel de baño, pañuelos, toallas sanitarias"
+,04,Servicios de peluquería o salón de belleza
+,05,Pañales
+,06,Detergentes y productos de limpieza para la casa
+,07,"Tintorería, lavandería, pago de planchado y lavado"
+,08,"Pago de mantenimiento en la vivienda (limpieza, jardinería,"
+,09,Otros productos o servicios de higiene personal o limpieza d
+,99,No tuvo gastos
+H070316G,01,"Productos de higiene personal (jabón, shampoo, pasta de dien"
+,02,"Cosméticos, algodones, toallitas limpiadoras"
+,03,"Papel de baño, pañuelos, toallas sanitarias"
+,04,Servicios de peluquería o salón de belleza
+,05,Pañales
+,06,Detergentes y productos de limpieza para la casa
+,07,"Tintorería, lavandería, pago de planchado y lavado"
+,08,"Pago de mantenimiento en la vivienda (limpieza, jardinería,"
+,09,Otros productos o servicios de higiene personal o limpieza d
+,99,No tuvo gastos
+H070316H,01,"Productos de higiene personal (jabón, shampoo, pasta de dien"
+,02,"Cosméticos, algodones, toallitas limpiadoras"
+,03,"Papel de baño, pañuelos, toallas sanitarias"
+,04,Servicios de peluquería o salón de belleza
+,05,Pañales
+,06,Detergentes y productos de limpieza para la casa
+,07,"Tintorería, lavandería, pago de planchado y lavado"
+,08,"Pago de mantenimiento en la vivienda (limpieza, jardinería,"
+,09,Otros productos o servicios de higiene personal o limpieza d
+,99,No tuvo gastos
+H070316I,0,"Productos de higiene personal (jabón, shampoo, pasta de dien"
+,9,No tuvo gastos
+H070316J,0,"Productos de higiene personal (jabón, shampoo, pasta de dien"
+,9,No tuvo gastos
+H070501A,1,Consultas con médico general
+,2,"Consultas con médico especialista (pediatría y ginecología,"
+,3,"Consultas dentales (placas dentales o prótesis dentales, etc"
+,4,"Análisis clínicos y estudios médicos: rayos X, tamiz, exudad"
+,5,"Consultas con curandero, huesero, quiropráctico, etcétera"
+,9,No tuvo gastos
+H070501B,1,Consultas con médico general
+,2,"Consultas con médico especialista (pediatría y ginecología,"
+,3,"Consultas dentales (placas dentales o prótesis dentales, etc"
+,4,"Análisis clínicos y estudios médicos: rayos X, tamiz, exudad"
+,5,"Consultas con curandero, huesero, quiropráctico, etcétera"
+,9,No tuvo gastos
+H070501C,1,Consultas con médico general
+,2,"Consultas con médico especialista (pediatría y ginecología,"
+,3,"Consultas dentales (placas dentales o prótesis dentales, etc"
+,4,"Análisis clínicos y estudios médicos: rayos X, tamiz, exudad"
+,5,"Consultas con curandero, huesero, quiropráctico, etcétera"
+,9,No tuvo gastos
+H070501D,1,Consultas con médico general
+,2,"Consultas con médico especialista (pediatría y ginecología,"
+,3,"Consultas dentales (placas dentales o prótesis dentales, etc"
+,4,"Análisis clínicos y estudios médicos: rayos X, tamiz, exudad"
+,5,"Consultas con curandero, huesero, quiropráctico, etcétera"
+,9,No tuvo gastos
+H070501E,1,Consultas con médico general
+,2,"Consultas con médico especialista (pediatría y ginecología,"
+,3,"Consultas dentales (placas dentales o prótesis dentales, etc"
+,4,"Análisis clínicos y estudios médicos: rayos X, tamiz, exudad"
+,5,"Consultas con curandero, huesero, quiropráctico, etcétera"
+,9,No tuvo gastos
+H070501F,1,Consultas con médico general
+,2,"Consultas con médico especialista (pediatría y ginecología,"
+,3,"Consultas dentales (placas dentales o prótesis dentales, etc"
+,4,"Análisis clínicos y estudios médicos: rayos X, tamiz, exudad"
+,5,"Consultas con curandero, huesero, quiropráctico, etcétera"
+,9,No tuvo gastos
+H0705EMB,1,Sí
+,2,No
+H070506A,1,"Honorarios por servicios profesionales: cirugía, anestesia,"
+,2,Hospitalización
+,3,"Análisis clínicos y estudios médicos: rayos X, ultrasonido,"
+,4,Medicamentos recetados y material de curación
+,5,Servicio de partera
+,6,"Otros servicios como ambulancia, etcétera (ESPECIFIQUE)"
+,9,No tuvo gastos
+H070506B,1,"Honorarios por servicios profesionales: cirugía, anestesia,"
+,2,Hospitalización
+,3,"Análisis clínicos y estudios médicos: rayos X, ultrasonido,"
+,4,Medicamentos recetados y material de curación
+,5,Servicio de partera
+,6,"Otros servicios como ambulancia, etcétera (ESPECIFIQUE)"
+,9,No tuvo gastos
+H070506C,1,"Honorarios por servicios profesionales: cirugía, anestesia,"
+,2,Hospitalización
+,3,"Análisis clínicos y estudios médicos: rayos X, ultrasonido,"
+,4,Medicamentos recetados y material de curación
+,5,Servicio de partera
+,6,"Otros servicios como ambulancia, etcétera (ESPECIFIQUE)"
+,9,No tuvo gastos
+H070506D,1,"Honorarios por servicios profesionales: cirugía, anestesia,"
+,2,Hospitalización
+,3,"Análisis clínicos y estudios médicos: rayos X, ultrasonido,"
+,4,Medicamentos recetados y material de curación
+,5,Servicio de partera
+,6,"Otros servicios como ambulancia, etcétera (ESPECIFIQUE)"
+,9,No tuvo gastos
+H070506E,1,"Honorarios por servicios profesionales: cirugía, anestesia,"
+,2,Hospitalización
+,3,"Análisis clínicos y estudios médicos: rayos X, ultrasonido,"
+,4,Medicamentos recetados y material de curación
+,5,Servicio de partera
+,6,"Otros servicios como ambulancia, etcétera (ESPECIFIQUE)"
+,9,No tuvo gastos
+H070506F,1,"Honorarios por servicios profesionales: cirugía, anestesia,"
+,2,Hospitalización
+,3,"Análisis clínicos y estudios médicos: rayos X, ultrasonido,"
+,4,Medicamentos recetados y material de curación
+,5,Servicio de partera
+,6,"Otros servicios como ambulancia, etcétera (ESPECIFIQUE)"
+,9,No tuvo gastos
+H070506G,1,"Honorarios por servicios profesionales: cirugía, anestesia,"
+,2,Hospitalización
+,3,"Análisis clínicos y estudios médicos: rayos X, ultrasonido,"
+,4,Medicamentos recetados y material de curación
+,5,Servicio de partera
+,6,"Otros servicios como ambulancia, etcétera (ESPECIFIQUE)"
+,9,No tuvo gastos
+H070512A,01,"Diarrea, infecciones y malestar estomacal"
+,02,Gripe
+,03,Piel
+,04,Alergias
+,05,Tos
+,06,Infecciones de la garganta
+,07,Fiebre
+,08,Inflamación
+,09,Otras infecciones (antibióticos)
+,10,Dolor de cabeza y migraña
+,11,Otro tipo de dolores
+,12,Presión arterial
+,13,Diabetes
+,14,Vitaminas
+,15,Anticonceptivos
+,16,Otros medicamentos con receta (ESPECIFIQUE)
+,99,No tuvo gastos
+H070512B,01,"Diarrea, infecciones y malestar estomacal"
+,02,Gripe
+,03,Piel
+,04,Alergias
+,05,Tos
+,06,Infecciones de la garganta
+,07,Fiebre
+,08,Inflamación
+,09,Otras infecciones (antibióticos)
+,10,Dolor de cabeza y migraña
+,11,Otro tipo de dolores
+,12,Presión arterial
+,13,Diabetes
+,14,Vitaminas
+,15,Anticonceptivos
+,16,Otros medicamentos con receta (ESPECIFIQUE)
+,99,No tuvo gastos
+H070512C,01,"Diarrea, infecciones y malestar estomacal"
+,02,Gripe
+,03,Piel
+,04,Alergias
+,05,Tos
+,06,Infecciones de la garganta
+,07,Fiebre
+,08,Inflamación
+,09,Otras infecciones (antibióticos)
+,10,Dolor de cabeza y migraña
+,11,Otro tipo de dolores
+,12,Presión arterial
+,13,Diabetes
+,14,Vitaminas
+,15,Anticonceptivos
+,16,Otros medicamentos con receta (ESPECIFIQUE)
+,99,No tuvo gastos
+H070512D,01,"Diarrea, infecciones y malestar estomacal"
+,02,Gripe
+,03,Piel
+,04,Alergias
+,05,Tos
+,06,Infecciones de la garganta
+,07,Fiebre
+,08,Inflamación
+,09,Otras infecciones (antibióticos)
+,10,Dolor de cabeza y migraña
+,11,Otro tipo de dolores
+,12,Presión arterial
+,13,Diabetes
+,14,Vitaminas
+,15,Anticonceptivos
+,16,Otros medicamentos con receta (ESPECIFIQUE)
+,99,No tuvo gastos
+H070512E,01,"Diarrea, infecciones y malestar estomacal"
+,02,Gripe
+,03,Piel
+,04,Alergias
+,05,Tos
+,06,Infecciones de la garganta
+,07,Fiebre
+,08,Inflamación
+,09,Otras infecciones (antibióticos)
+,10,Dolor de cabeza y migraña
+,11,Otro tipo de dolores
+,12,Presión arterial
+,13,Diabetes
+,14,Vitaminas
+,15,Anticonceptivos
+,16,Otros medicamentos con receta (ESPECIFIQUE)
+,99,No tuvo gastos
+H070512F,01,"Diarrea, infecciones y malestar estomacal"
+,02,Gripe
+,03,Piel
+,04,Alergias
+,05,Tos
+,06,Infecciones de la garganta
+,07,Fiebre
+,08,Inflamación
+,09,Otras infecciones (antibióticos)
+,10,Dolor de cabeza y migraña
+,11,Otro tipo de dolores
+,12,Presión arterial
+,13,Diabetes
+,14,Vitaminas
+,15,Anticonceptivos
+,16,Otros medicamentos con receta (ESPECIFIQUE)
+,99,No tuvo gastos
+H070512G,01,"Diarrea, infecciones y malestar estomacal"
+,02,Gripe
+,03,Piel
+,04,Alergias
+,05,Tos
+,06,Infecciones de la garganta
+,07,Fiebre
+,08,Inflamación
+,09,Otras infecciones (antibióticos)
+,10,Dolor de cabeza y migraña
+,11,Otro tipo de dolores
+,12,Presión arterial
+,13,Diabetes
+,14,Vitaminas
+,15,Anticonceptivos
+,16,Otros medicamentos con receta (ESPECIFIQUE)
+,99,No tuvo gastos
+H070512H,01,"Diarrea, infecciones y malestar estomacal"
+,02,Gripe
+,03,Piel
+,04,Alergias
+,05,Tos
+,06,Infecciones de la garganta
+,07,Fiebre
+,08,Inflamación
+,09,Otras infecciones (antibióticos)
+,10,Dolor de cabeza y migraña
+,11,Otro tipo de dolores
+,12,Presión arterial
+,13,Diabetes
+,14,Vitaminas
+,15,Anticonceptivos
+,16,Otros medicamentos con receta (ESPECIFIQUE)
+,99,No tuvo gastos
+H070512I,01,"Diarrea, infecciones y malestar estomacal"
+,02,Gripe
+,03,Piel
+,04,Alergias
+,05,Tos
+,06,Infecciones de la garganta
+,07,Fiebre
+,08,Inflamación
+,09,Otras infecciones (antibióticos)
+,10,Dolor de cabeza y migraña
+,11,Otro tipo de dolores
+,12,Presión arterial
+,13,Diabetes
+,14,Vitaminas
+,15,Anticonceptivos
+,16,Otros medicamentos con receta (ESPECIFIQUE)
+,99,No tuvo gastos
+H070512J,01,"Diarrea, infecciones y malestar estomacal"
+,02,Gripe
+,03,Piel
+,04,Alergias
+,05,Tos
+,06,Infecciones de la garganta
+,07,Fiebre
+,08,Inflamación
+,09,Otras infecciones (antibióticos)
+,10,Dolor de cabeza y migraña
+,11,Otro tipo de dolores
+,12,Presión arterial
+,13,Diabetes
+,14,Vitaminas
+,15,Anticonceptivos
+,16,Otros medicamentos con receta (ESPECIFIQUE)
+,99,No tuvo gastos
+H070512K,01,"Diarrea, infecciones y malestar estomacal"
+,02,Gripe
+,03,Piel
+,04,Alergias
+,05,Tos
+,06,Infecciones de la garganta
+,07,Fiebre
+,08,Inflamación
+,09,Otras infecciones (antibióticos)
+,10,Dolor de cabeza y migraña
+,11,Otro tipo de dolores
+,12,Presión arterial
+,13,Diabetes
+,14,Vitaminas
+,15,Anticonceptivos
+,16,Otros medicamentos con receta (ESPECIFIQUE)
+,99,No tuvo gastos
+H070512L,0,"Diarrea, infecciones y malestar estomacal"
+,1,Dolor de cabeza y migraña
+,9,No tuvo gastos
+H070512M,0,"Diarrea, infecciones y malestar estomacal"
+,1,Dolor de cabeza y migraña
+,9,No tuvo gastos
+H070512N,0,"Diarrea, infecciones y malestar estomacal"
+,1,Dolor de cabeza y migraña
+,9,No tuvo gastos
+H070512O,0,"Diarrea, infecciones y malestar estomacal"
+,1,Dolor de cabeza y migraña
+,9,No tuvo gastos
+H070512P,0,"Diarrea, infecciones y malestar estomacal"
+,1,Dolor de cabeza y migraña
+,9,No tuvo gastos
+H070512Q,0,"Diarrea, infecciones y malestar estomacal"
+,1,Dolor de cabeza y migraña
+,9,No tuvo gastos
+H070528A,1,"Honorarios por servicios profesionales: cirujano, anestesist"
+,2,Hospitalización
+,3,"Análisis clínicos y estudios médicos (rayos X, electros, etc"
+,4,Medicamentos recetados y material de curación
+,5,"Otros: servicio de ambulancia, oxígeno, suero, sondas, bolsa"
+,6,"Medicamentos naturistas, hierbas medicinales, remedios caser"
+,7,Medicamentos homeopáticos
+,9,No tuvo gastos
+H070528B,1,"Honorarios por servicios profesionales: cirujano, anestesist"
+,2,Hospitalización
+,3,"Análisis clínicos y estudios médicos (rayos X, electros, etc"
+,4,Medicamentos recetados y material de curación
+,5,"Otros: servicio de ambulancia, oxígeno, suero, sondas, bolsa"
+,6,"Medicamentos naturistas, hierbas medicinales, remedios caser"
+,7,Medicamentos homeopáticos
+,9,Medicamentos homeopáticos
+H070528C,1,"Honorarios por servicios profesionales: cirujano, anestesist"
+,2,Hospitalización
+,3,"Análisis clínicos y estudios médicos (rayos X, electros, etc"
+,4,Medicamentos recetados y material de curación
+,5,"Otros: servicio de ambulancia, oxígeno, suero, sondas, bolsa"
+,6,"Medicamentos naturistas, hierbas medicinales, remedios caser"
+,7,Medicamentos homeopáticos
+,9,Medicamentos homeopáticos
+H070528D,1,"Honorarios por servicios profesionales: cirujano, anestesist"
+,2,Hospitalización
+,3,"Análisis clínicos y estudios médicos (rayos X, electros, etc"
+,4,Medicamentos recetados y material de curación
+,5,"Otros: servicio de ambulancia, oxígeno, suero, sondas, bolsa"
+,6,"Medicamentos naturistas, hierbas medicinales, remedios caser"
+,7,Medicamentos homeopáticos
+,9,Medicamentos homeopáticos
+H070528E,1,"Honorarios por servicios profesionales: cirujano, anestesist"
+,2,Hospitalización
+,3,"Análisis clínicos y estudios médicos (rayos X, electros, etc"
+,4,Medicamentos recetados y material de curación
+,5,"Otros: servicio de ambulancia, oxígeno, suero, sondas, bolsa"
+,6,"Medicamentos naturistas, hierbas medicinales, remedios caser"
+,7,Medicamentos homeopáticos
+,9,Medicamentos homeopáticos
+H070528F,1,"Honorarios por servicios profesionales: cirujano, anestesist"
+,2,Hospitalización
+,3,"Análisis clínicos y estudios médicos (rayos X, electros, etc"
+,4,Medicamentos recetados y material de curación
+,5,"Otros: servicio de ambulancia, oxígeno, suero, sondas, bolsa"
+,6,"Medicamentos naturistas, hierbas medicinales, remedios caser"
+,7,Medicamentos homeopáticos
+,9,Medicamentos homeopáticos
+H070528G,1,"Honorarios por servicios profesionales: cirujano, anestesist"
+,2,Hospitalización
+,3,"Análisis clínicos y estudios médicos (rayos X, electros, etc"
+,4,Medicamentos recetados y material de curación
+,5,"Otros: servicio de ambulancia, oxígeno, suero, sondas, bolsa"
+,6,"Medicamentos naturistas, hierbas medicinales, remedios caser"
+,7,Medicamentos homeopáticos
+,9,Medicamentos homeopáticos
+H070535A,1,Anteojos y lentes de contacto
+,2,Aparatos para sordera
+,3,"Aparatos ortopédicos y para terapia, silla de ruedas, andade"
+,4,"Otros: pago de enfermeras y personal al cuidado de enfermos,"
+,9,No tuvo gastos
+H070535B,1,Anteojos y lentes de contacto
+,2,Aparatos para sordera
+,3,"Aparatos ortopédicos y para terapia, silla de ruedas, andade"
+,4,"Otros: pago de enfermeras y personal al cuidado de enfermos,"
+,9,No tuvo gastos
+H070535C,1,Anteojos y lentes de contacto
+,2,Aparatos para sordera
+,3,"Aparatos ortopédicos y para terapia, silla de ruedas, andade"
+,4,"Otros: pago de enfermeras y personal al cuidado de enfermos,"
+,9,No tuvo gastos
+H070535D,1,Anteojos y lentes de contacto
+,2,Aparatos para sordera
+,3,"Aparatos ortopédicos y para terapia, silla de ruedas, andade"
+,4,"Otros: pago de enfermeras y personal al cuidado de enfermos,"
+,9,No tuvo gastos
+H070539A,1,Cuotas a hospitales y clínicas
+,2,Cuotas a compañías de seguros
+,3,Cuotas a seguro popular
+,9,No tuvo gastos
+H070539B,1,Cuotas a hospitales y clínicas
+,2,Cuotas a compañías de seguros
+,3,Cuotas a seguro popular
+,9,No tuvo gastos
+H070539C,1,Cuotas a hospitales y clínicas
+,2,Cuotas a compañías de seguros
+,3,Cuotas a seguro popular
+,9,No tuvo gastos
+H070539D,1,Cuotas a hospitales y clínicas
+,2,Cuotas a compañías de seguros
+,3,Cuotas a seguro popular
+,9,No tuvo gastos
+H070701A,1,Ropa y zapatos para miembros del hogar
+,2,Costo de reparación de calzado y ropa
+,3,Otros gastos relacionados con calzado y ropa (ESPECIFIQUE)
+,9,No tuvo gastos
+H070701B,1,Ropa y zapatos para miembros del hogar
+,2,Costo de reparación de calzado y ropa
+,3,Otros gastos relacionados con calzado y ropa (ESPECIFIQUE)
+,9,No tuvo gastos
+H070701C,1,Ropa y zapatos para miembros del hogar
+,2,Costo de reparación de calzado y ropa
+,3,Otros gastos relacionados con calzado y ropa (ESPECIFIQUE)
+,9,No tuvo gastos
+H070701D,1,Ropa y zapatos para miembros del hogar
+,2,Costo de reparación de calzado y ropa
+,3,Otros gastos relacionados con calzado y ropa (ESPECIFIQUE)
+,9,No tuvo gastos
+H070704A,1,"Muebles para el hogar como sillas, mesas, sillones, camas, e"
+,2,"Utensilios de cocina y comedor (platos, vasos, cubiertos, ca"
+,3,"Accesorios para baño y recámara (toallas, sábanas, cobijas,"
+,4,"Materiales de construcción (cemento, tabique, madera, etc.)"
+,5,Reparación y mantenimiento de la vivienda (servicios de alba
+,6,Otros costos en la vivienda (ESPECIFIQUE)
+,9,No tuvo gastos
+H070704B,1,"Muebles para el hogar como sillas, mesas, sillones, camas, e"
+,2,"Utensilios de cocina y comedor (platos, vasos, cubiertos, ca"
+,3,"Accesorios para baño y recámara (toallas, sábanas, cobijas,"
+,4,"Materiales de construcción (cemento, tabique, madera, etc.)"
+,5,Reparación y mantenimiento de la vivienda (servicios de alba
+,6,Otros costos en la vivienda (ESPECIFIQUE)
+,9,No tuvo gastos
+H070704C,1,"Muebles para el hogar como sillas, mesas, sillones, camas, e"
+,2,"Utensilios de cocina y comedor (platos, vasos, cubiertos, ca"
+,3,"Accesorios para baño y recámara (toallas, sábanas, cobijas,"
+,4,"Materiales de construcción (cemento, tabique, madera, etc.)"
+,5,Reparación y mantenimiento de la vivienda (servicios de alba
+,6,Otros costos en la vivienda (ESPECIFIQUE)
+,9,No tuvo gastos
+H070704D,1,"Muebles para el hogar como sillas, mesas, sillones, camas, e"
+,2,"Utensilios de cocina y comedor (platos, vasos, cubiertos, ca"
+,3,"Accesorios para baño y recámara (toallas, sábanas, cobijas,"
+,4,"Materiales de construcción (cemento, tabique, madera, etc.)"
+,5,Reparación y mantenimiento de la vivienda (servicios de alba
+,6,Otros costos en la vivienda (ESPECIFIQUE)
+,9,No tuvo gastos
+H070704E,1,"Muebles para el hogar como sillas, mesas, sillones, camas, e"
+,2,"Utensilios de cocina y comedor (platos, vasos, cubiertos, ca"
+,3,"Accesorios para baño y recámara (toallas, sábanas, cobijas,"
+,4,"Materiales de construcción (cemento, tabique, madera, etc.)"
+,5,Reparación y mantenimiento de la vivienda (servicios de alba
+,6,Otros costos en la vivienda (ESPECIFIQUE)
+,9,No tuvo gastos
+H070704F,1,"Muebles para el hogar como sillas, mesas, sillones, camas, e"
+,2,"Utensilios de cocina y comedor (platos, vasos, cubiertos, ca"
+,3,"Accesorios para baño y recámara (toallas, sábanas, cobijas,"
+,4,"Materiales de construcción (cemento, tabique, madera, etc.)"
+,5,Reparación y mantenimiento de la vivienda (servicios de alba
+,6,Otros costos en la vivienda (ESPECIFIQUE)
+,9,No tuvo gastos
+H070704G,1,"Muebles para el hogar como sillas, mesas, sillones, camas, e"
+,2,"Utensilios de cocina y comedor (platos, vasos, cubiertos, ca"
+,3,"Accesorios para baño y recámara (toallas, sábanas, cobijas,"
+,4,"Materiales de construcción (cemento, tabique, madera, etc.)"
+,5,Reparación y mantenimiento de la vivienda (servicios de alba
+,6,Otros costos en la vivienda (ESPECIFIQUE)
+,9,No tuvo gastos
+H070710A,1,"Vehículos como autos, motocicletas, bicicletas, etc."
+,2,"Reparación y mantenimiento de vehículos (servicio del coche,"
+,3,"Artículos electrónicos (computadora, celular, tabletas, tele"
+,4,"Electrodomésticos (lavadora, refrigerador, plancha, aspirado"
+,5,"Artículos de joyería, relojería o accesorios (bolsas, carter"
+,6,Otros aparatos eléctricos (ESPECIFIQUE)
+,7,Otros servicios de reparación y mantenimiento (ESPECIFIQUE)
+,9,No tuvo gastos
+H070710B,1,"Vehículos como autos, motocicletas, bicicletas, etc."
+,2,"Reparación y mantenimiento de vehículos (servicio del coche,"
+,3,"Artículos electrónicos (computadora, celular, tabletas, tele"
+,4,"Electrodomésticos (lavadora, refrigerador, plancha, aspirado"
+,5,"Artículos de joyería, relojería o accesorios (bolsas, carter"
+,6,Otros aparatos eléctricos (ESPECIFIQUE)
+,7,Otros servicios de reparación y mantenimiento (ESPECIFIQUE)
+,9,No tuvo gastos
+H070710C,1,"Vehículos como autos, motocicletas, bicicletas, etc."
+,2,"Reparación y mantenimiento de vehículos (servicio del coche,"
+,3,"Artículos electrónicos (computadora, celular, tabletas, tele"
+,4,"Electrodomésticos (lavadora, refrigerador, plancha, aspirado"
+,5,"Artículos de joyería, relojería o accesorios (bolsas, carter"
+,6,Otros aparatos eléctricos (ESPECIFIQUE)
+,7,Otros servicios de reparación y mantenimiento (ESPECIFIQUE)
+,9,No tuvo gastos
+H070710D,1,"Vehículos como autos, motocicletas, bicicletas, etc."
+,2,"Reparación y mantenimiento de vehículos (servicio del coche,"
+,3,"Artículos electrónicos (computadora, celular, tabletas, tele"
+,4,"Electrodomésticos (lavadora, refrigerador, plancha, aspirado"
+,5,"Artículos de joyería, relojería o accesorios (bolsas, carter"
+,6,Otros aparatos eléctricos (ESPECIFIQUE)
+,7,Otros servicios de reparación y mantenimiento (ESPECIFIQUE)
+,9,No tuvo gastos
+H070710E,1,"Vehículos como autos, motocicletas, bicicletas, etc."
+,2,"Reparación y mantenimiento de vehículos (servicio del coche,"
+,3,"Artículos electrónicos (computadora, celular, tabletas, tele"
+,4,"Electrodomésticos (lavadora, refrigerador, plancha, aspirado"
+,5,"Artículos de joyería, relojería o accesorios (bolsas, carter"
+,6,Otros aparatos eléctricos (ESPECIFIQUE)
+,7,Otros servicios de reparación y mantenimiento (ESPECIFIQUE)
+,9,No tuvo gastos
+H070710F,1,"Vehículos como autos, motocicletas, bicicletas, etc."
+,2,"Reparación y mantenimiento de vehículos (servicio del coche,"
+,3,"Artículos electrónicos (computadora, celular, tabletas, tele"
+,4,"Electrodomésticos (lavadora, refrigerador, plancha, aspirado"
+,5,"Artículos de joyería, relojería o accesorios (bolsas, carter"
+,6,Otros aparatos eléctricos (ESPECIFIQUE)
+,7,Otros servicios de reparación y mantenimiento (ESPECIFIQUE)
+,9,No tuvo gastos
+H070710G,1,"Vehículos como autos, motocicletas, bicicletas, etc."
+,2,"Reparación y mantenimiento de vehículos (servicio del coche,"
+,3,"Artículos electrónicos (computadora, celular, tabletas, tele"
+,4,"Electrodomésticos (lavadora, refrigerador, plancha, aspirado"
+,5,"Artículos de joyería, relojería o accesorios (bolsas, carter"
+,6,Otros aparatos eléctricos (ESPECIFIQUE)
+,7,Otros servicios de reparación y mantenimiento (ESPECIFIQUE)
+,9,No tuvo gastos
+H070710H,1,"Vehículos como autos, motocicletas, bicicletas, etc."
+,2,"Reparación y mantenimiento de vehículos (servicio del coche,"
+,3,"Artículos electrónicos (computadora, celular, tabletas, tele"
+,4,"Electrodomésticos (lavadora, refrigerador, plancha, aspirado"
+,5,"Artículos de joyería, relojería o accesorios (bolsas, carter"
+,6,Otros aparatos eléctricos (ESPECIFIQUE)
+,7,Otros servicios de reparación y mantenimiento (ESPECIFIQUE)
+,9,No tuvo gastos
+H070717A,1,Colegiaturas
+,2,Inscripción
+,3,Uniformes
+,4,"Material escolar (libros, libretas, lápices, plumas, etc.)"
+,5,"Otros costos escolares (cuotas, viajes escolares, etc.) (ESP"
+,9,No tuvo gastos
+H070717B,1,Colegiaturas
+,2,Inscripción
+,3,Uniformes
+,4,"Material escolar (libros, libretas, lápices, plumas, etc.)"
+,5,"Otros costos escolares (cuotas, viajes escolares, etc.) (ESP"
+,9,No tuvo gastos
+H070717C,1,Colegiaturas
+,2,Inscripción
+,3,Uniformes
+,4,"Material escolar (libros, libretas, lápices, plumas, etc.)"
+,5,"Otros costos escolares (cuotas, viajes escolares, etc.) (ESP"
+,9,No tuvo gastos
+H070717D,1,Colegiaturas
+,2,Inscripción
+,3,Uniformes
+,4,"Material escolar (libros, libretas, lápices, plumas, etc.)"
+,5,"Otros costos escolares (cuotas, viajes escolares, etc.) (ESP"
+,9,No tuvo gastos
+H070717E,1,Colegiaturas
+,2,Inscripción
+,3,Uniformes
+,4,"Material escolar (libros, libretas, lápices, plumas, etc.)"
+,5,"Otros costos escolares (cuotas, viajes escolares, etc.) (ESP"
+,9,No tuvo gastos
+H070717F,1,Colegiaturas
+,2,Inscripción
+,3,Uniformes
+,4,"Material escolar (libros, libretas, lápices, plumas, etc.)"
+,5,"Otros costos escolares (cuotas, viajes escolares, etc.) (ESP"
+,9,No tuvo gastos
+H070722,1,"Libros, DVD, discos, juegos de mesa, revistas, periódicos, e"
+,2,"Salidas al teatro, cine, eventos culturales y musicales (con"
+,3,"Bodas, quince años, bautizos, fiestas de cumpleaños, mayordo"
+,4,Funerales
+,5,"Viajes, vacaciones, etc."
+,6,Otros eventos especiales (ESPECIFIQUE)
+,9,No tuvo gastos
+H070722A,1,"Libros, DVD, discos, juegos de mesa, revistas, periódicos, e"
+,2,"Salidas al teatro, cine, eventos culturales y musicales (con"
+,3,"Bodas, quince años, bautizos, fiestas de cumpleaños, mayordo"
+,4,Funerales
+,5,"Viajes, vacaciones, etc."
+,9,No tuvo gastos
+H070722B,1,"Libros, DVD, discos, juegos de mesa, revistas, periódicos, e"
+,2,"Salidas al teatro, cine, eventos culturales y musicales (con"
+,3,"Bodas, quince años, bautizos, fiestas de cumpleaños, mayordo"
+,4,Funerales
+,5,"Viajes, vacaciones, etc."
+,9,No tuvo gastos
+H070722C,1,"Libros, DVD, discos, juegos de mesa, revistas, periódicos, e"
+,2,"Salidas al teatro, cine, eventos culturales y musicales (con"
+,3,"Bodas, quince años, bautizos, fiestas de cumpleaños, mayordo"
+,4,Funerales
+,5,"Viajes, vacaciones, etc."
+,9,No tuvo gastos
+H070722D,1,"Libros, DVD, discos, juegos de mesa, revistas, periódicos, e"
+,2,"Salidas al teatro, cine, eventos culturales y musicales (con"
+,3,"Bodas, quince años, bautizos, fiestas de cumpleaños, mayordo"
+,4,Funerales
+,5,"Viajes, vacaciones, etc."
+,9,No tuvo gastos
+H070722E,1,"Libros, DVD, discos, juegos de mesa, revistas, periódicos, e"
+,2,"Salidas al teatro, cine, eventos culturales y musicales (con"
+,3,"Bodas, quince años, bautizos, fiestas de cumpleaños, mayordo"
+,4,Funerales
+,5,"Viajes, vacaciones, etc."
+,9,No tuvo gastos
+H070722F,1,"Libros, DVD, discos, juegos de mesa, revistas, periódicos, e"
+,2,"Salidas al teatro, cine, eventos culturales y musicales (con"
+,3,"Bodas, quince años, bautizos, fiestas de cumpleaños, mayordo"
+,4,Funerales
+,5,"Viajes, vacaciones, etc."
+,9,No tuvo gastos
+H070722G,1,"Libros, DVD, discos, juegos de mesa, revistas, periódicos, e"
+,2,"Salidas al teatro, cine, eventos culturales y musicales (con"
+,3,"Bodas, quince años, bautizos, fiestas de cumpleaños, mayordo"
+,4,Funerales
+,5,"Viajes, vacaciones, etc."
+,9,No tuvo gastos
+H070901,1,"ahorros (cuentas bancarias, tandas, etcétera)?"
+,2,"venta de propiedades, muebles o animales?"
+,3,empeño de bienes?
+,4,préstamos o envíos de dinero de familiares u otras personas
+,5,crédito bancario?
+,6,otro recurso financiero (especifica)?
+,9,No tuvo gastos
+H070901A,1,"ahorros (cuentas bancarias, tandas, etcétera)?"
+,2,"venta de propiedades, muebles o animales?"
+,3,empeño de bienes?
+,4,préstamos o envíos de dinero de familiares u otras personas
+,5,crédito bancario?
+,6,otro recurso financiero (especifica)?
+,9,No tuvo gastos
+H070901B,1,"ahorros (cuentas bancarias, tandas, etcétera)?"
+,2,"venta de propiedades, muebles o animales?"
+,3,empeño de bienes?
+,4,préstamos o envíos de dinero de familiares u otras personas
+,5,crédito bancario?
+,6,otro recurso financiero (especifica)?
+,9,No tuvo gastos
+H070901C,1,"ahorros (cuentas bancarias, tandas, etcétera)?"
+,2,"venta de propiedades, muebles o animales?"
+,3,empeño de bienes?
+,4,préstamos o envíos de dinero de familiares u otras personas
+,5,crédito bancario?
+,6,otro recurso financiero (especifica)?
+,9,No tuvo gastos
+H070901D,1,"ahorros (cuentas bancarias, tandas, etcétera)?"
+,2,"venta de propiedades, muebles o animales?"
+,3,empeño de bienes?
+,4,préstamos o envíos de dinero de familiares u otras personas
+,5,crédito bancario?
+,6,otro recurso financiero (especifica)?
+,9,No tuvo gastos
+H070901E,1,"ahorros (cuentas bancarias, tandas, etcétera)?"
+,2,"venta de propiedades, muebles o animales?"
+,3,empeño de bienes?
+,4,préstamos o envíos de dinero de familiares u otras personas
+,5,crédito bancario?
+,6,otro recurso financiero (especifica)?
+,9,No tuvo gastos
+H070901F,1,"ahorros (cuentas bancarias, tandas, etcétera)?"
+,2,"venta de propiedades, muebles o animales?"
+,3,empeño de bienes?
+,4,préstamos o envíos de dinero de familiares u otras personas
+,5,crédito bancario?
+,6,otro recurso financiero (especifica)?
+,9,No tuvo gastos
+H070901G,1,"ahorros (cuentas bancarias, tandas, etcétera)?"
+,2,"venta de propiedades, muebles o animales?"
+,3,empeño de bienes?
+,4,préstamos o envíos de dinero de familiares u otras personas
+,5,crédito bancario?
+,6,otro recurso financiero (especifica)?
+,9,No tuvo gastos
+NOTA8,1,Favor de Continuar
+H0801,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+H0802,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+H0803,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+H0804,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+H0805,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+H0806,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+H0807,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+H0808,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+H0809,1,Sí
+,2,No
+H0810,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+H0811,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+H0812,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+H0813,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+H0814,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+H0815,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+H0816,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+NOTA9,1,Favor de Continuar
+H0901A,1,Sí
+,2,No
+H0901B,1,Sí
+,2,No
+H0901C,1,Sí
+,2,No
+NOTA10,1,Favor de Continuar
+H1001,1,Enfermedad crónica
+,2,Enfermedad infecciosa causada por un virus
+,3,Enfermedad renal
+,4,Enfermedad causada por estrés o ansiedad
+,5,No existe esta enfermedad
+,6,No sabe
+,7,Otro (especifique)
+,8,No desea responder
+H1002A,1,Lavarse las manos con agua y jabón frecuentemente en el día
+,2,Usar gel con alcohol para desinfectarse las manos
+,3,Usar cubreboca
+,4,Guardar distancia de al menos 1.5 metros de otras personas
+,5,No acudir a lugares concurrridos
+,6,Quedarse en casa
+,8,No desea responder
+,9,No sabe
+H1002B,1,Lavarse las manos con agua y jabón frecuentemente en el día
+,2,Usar gel con alcohol para desinfectarse las manos
+,3,Usar cubreboca
+,4,Guardar distancia de al menos 1.5 metros de otras personas
+,5,No acudir a lugares concurrridos
+,6,Quedarse en casa
+,8,No desea responder
+,9,No sabe
+H1002C,1,Lavarse las manos con agua y jabón frecuentemente en el día
+,2,Usar gel con alcohol para desinfectarse las manos
+,3,Usar cubreboca
+,4,Guardar distancia de al menos 1.5 metros de otras personas
+,5,No acudir a lugares concurrridos
+,6,Quedarse en casa
+,8,No desea responder
+,9,No sabe
+H1002D,1,Lavarse las manos con agua y jabón frecuentemente en el día
+,2,Usar gel con alcohol para desinfectarse las manos
+,3,Usar cubreboca
+,4,Guardar distancia de al menos 1.5 metros de otras personas
+,5,No acudir a lugares concurrridos
+,6,Quedarse en casa
+,8,No desea responder
+,9,No sabe
+H1002E,1,Lavarse las manos con agua y jabón frecuentemente en el día
+,2,Usar gel con alcohol para desinfectarse las manos
+,3,Usar cubreboca
+,4,Guardar distancia de al menos 1.5 metros de otras personas
+,5,No acudir a lugares concurrridos
+,6,Quedarse en casa
+,8,No desea responder
+,9,No sabe
+H1002F,1,Lavarse las manos con agua y jabón frecuentemente en el día
+,2,Usar gel con alcohol para desinfectarse las manos
+,3,Usar cubreboca
+,4,Guardar distancia de al menos 1.5 metros de otras personas
+,5,No acudir a lugares concurrridos
+,6,Quedarse en casa
+,8,No desea responder
+,9,No sabe
+H1002G,1,Lavarse las manos con agua y jabón frecuentemente en el día
+,2,Usar gel con alcohol para desinfectarse las manos
+,3,Usar cubreboca
+,4,Guardar distancia de al menos 1.5 metros de otras personas
+,5,No acudir a lugares concurrridos
+,6,Quedarse en casa
+,8,No desea responder
+,9,No sabe
+H1002H,1,Lavarse las manos con agua y jabón frecuentemente en el día
+,2,Usar gel con alcohol para desinfectarse las manos
+,3,Usar cubreboca
+,4,Guardar distancia de al menos 1.5 metros de otras personas
+,5,No acudir a lugares concurrridos
+,6,Quedarse en casa
+,8,No desea responder
+,9,No sabe
+H1002I,1,Lavarse las manos con agua y jabón frecuentemente en el día
+,2,Usar gel con alcohol para desinfectarse las manos
+,3,Usar cubreboca
+,4,Guardar distancia de al menos 1.5 metros de otras personas
+,5,No acudir a lugares concurrridos
+,6,Quedarse en casa
+,8,No desea responder
+,9,No sabe
+H1003A,1,Lavarse las manos con agua y jabón frecuentemente en el día
+,2,Usar gel con alcohol para desinfectarse las manos
+,3,Usar cubreboca
+,4,Guardar distancia de al menos 1.5 metros de otras personas
+,5,No acudir a lugares concurrridos
+,6,Quedarse en casa
+,7,Ninguna
+,8,No desea responder
+,9,No sabe
+H1003B,1,Lavarse las manos con agua y jabón frecuentemente en el día
+,2,Usar gel con alcohol para desinfectarse las manos
+,3,Usar cubreboca
+,4,Guardar distancia de al menos 1.5 metros de otras personas
+,5,No acudir a lugares concurrridos
+,6,Quedarse en casa
+,7,Ninguna
+,8,No desea responder
+,9,No sabe
+H1003C,1,Lavarse las manos con agua y jabón frecuentemente en el día
+,2,Usar gel con alcohol para desinfectarse las manos
+,3,Usar cubreboca
+,4,Guardar distancia de al menos 1.5 metros de otras personas
+,5,No acudir a lugares concurrridos
+,6,Quedarse en casa
+,7,Ninguna
+,8,No desea responder
+,9,No sabe
+H1003D,1,Lavarse las manos con agua y jabón frecuentemente en el día
+,2,Usar gel con alcohol para desinfectarse las manos
+,3,Usar cubreboca
+,4,Guardar distancia de al menos 1.5 metros de otras personas
+,5,No acudir a lugares concurrridos
+,6,Quedarse en casa
+,7,Ninguna
+,8,No desea responder
+,9,No sabe
+H1003E,1,Lavarse las manos con agua y jabón frecuentemente en el día
+,2,Usar gel con alcohol para desinfectarse las manos
+,3,Usar cubreboca
+,4,Guardar distancia de al menos 1.5 metros de otras personas
+,5,No acudir a lugares concurrridos
+,6,Quedarse en casa
+,7,Ninguna
+,8,No desea responder
+,9,No sabe
+H1003F,1,Lavarse las manos con agua y jabón frecuentemente en el día
+,2,Usar gel con alcohol para desinfectarse las manos
+,3,Usar cubreboca
+,4,Guardar distancia de al menos 1.5 metros de otras personas
+,5,No acudir a lugares concurrridos
+,6,Quedarse en casa
+,7,Ninguna
+,8,No desea responder
+,9,No sabe
+H1003G,1,Lavarse las manos con agua y jabón frecuentemente en el día
+,2,Usar gel con alcohol para desinfectarse las manos
+,3,Usar cubreboca
+,4,Guardar distancia de al menos 1.5 metros de otras personas
+,5,No acudir a lugares concurrridos
+,6,Quedarse en casa
+,7,Ninguna
+,8,No desea responder
+,9,No sabe
+H1003H,1,Lavarse las manos con agua y jabón frecuentemente en el día
+,2,Usar gel con alcohol para desinfectarse las manos
+,3,Usar cubreboca
+,4,Guardar distancia de al menos 1.5 metros de otras personas
+,5,No acudir a lugares concurrridos
+,6,Quedarse en casa
+,7,Ninguna
+,8,No desea responder
+,9,No sabe
+H1003I,1,Lavarse las manos con agua y jabón frecuentemente en el día
+,2,Usar gel con alcohol para desinfectarse las manos
+,3,Usar cubreboca
+,4,Guardar distancia de al menos 1.5 metros de otras personas
+,5,No acudir a lugares concurrridos
+,6,Quedarse en casa
+,7,Ninguna
+,8,No desea responder
+,9,No sabe
+H1004A,1,trabajo?
+,2,compra de alimentos?
+,3,compra de medicamentos?
+,4,consultas médicas?
+,5,"llevar alimentos, medicinas a familiares?"
+,7,otro (especifique)
+H1004B,1,trabajo?
+,2,compra de alimentos?
+,3,compra de medicamentos?
+,4,consultas médicas?
+,5,"llevar alimentos, medicinas a familiares?"
+,7,otro (especifique)
+H1004C,1,trabajo?
+,2,compra de alimentos?
+,3,compra de medicamentos?
+,4,consultas médicas?
+,5,"llevar alimentos, medicinas a familiares?"
+,7,otro (especifique)
+H1004D,1,trabajo?
+,2,compra de alimentos?
+,3,compra de medicamentos?
+,4,consultas médicas?
+,5,"llevar alimentos, medicinas a familiares?"
+,7,otro (especifique)
+H1004E1,1,trabajo?
+,2,compra de alimentos?
+,3,compra de medicamentos?
+,4,consultas médicas?
+,5,"llevar alimentos, medicinas a familiares?"
+,7,otro (especifique)
+H1004F,1,trabajo?
+,2,compra de alimentos?
+,3,compra de medicamentos?
+,4,consultas médicas?
+,5,"llevar alimentos, medicinas a familiares?"
+,7,otro (especifique)
+H1005A,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+H1006A,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+H1005B,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+H1006B,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+NOTA12,1,Favor de Continuar
+NOTA13,1,Favor de Continuar
+NOTA14,1,Favor de Continuar
+H14011,1,Aumentó ?
+,2,Disminuyó ?
+,3,Fue igual ?
+,4,No sabe/no responde
+H14012,1,Aumentó ?
+,2,Disminuyó ?
+,3,Fue igual ?
+,4,No sabe/no responde
+H14013,1,Aumentó ?
+,2,Disminuyó ?
+,3,Fue igual ?
+,4,No sabe/no responde
+H14014,1,Aumentó ?
+,2,Disminuyó ?
+,3,Fue igual ?
+,4,No sabe/no responde
+H14015,1,Aumentó ?
+,2,Disminuyó ?
+,3,Fue igual ?
+,4,No sabe/no responde
+H14016,1,Aumentó ?
+,2,Disminuyó ?
+,3,Fue igual ?
+,4,No sabe/no responde
+H14017,1,Aumentó ?
+,2,Disminuyó ?
+,3,Fue igual ?
+,4,No sabe/no responde
+H14018,1,Aumentó ?
+,2,Disminuyó ?
+,3,Fue igual ?
+,4,No sabe/no responde
+H14019,1,Aumentó ?
+,2,Disminuyó ?
+,3,Fue igual ?
+,4,No sabe/no responde
+H140110,1,Aumentó ?
+,2,Disminuyó ?
+,3,Fue igual ?
+,4,No sabe/no responde
+NOTA15,1,Favor de Continuar
+H1501,1,Sí
+,2,No
+,9,NO SABE
+H1502,1,Sí
+,2,No
+,9,NO SABE
+H1507,1,"1 - 5,999 pesos"
+,2,"6,000 - 9,999 pesos"
+,3,"10,000 - 13,999 pesos"
+,4,"14,000 - 21,999 pesos"
+,5,"22,000 o más pesos"
+,6,No percibieron ingresos
+,8,No quiso responder
+,9,No sabe
+NOTA17,1,Favor de Continuar
+NOTA17A2,1,Favor de Continuar
+H17A021,1,Sí
+,2,No
+,3,A veces
+H17A022,1,Sí
+,2,No
+,3,A veces
+H17A023,1,Sí
+,2,No
+,3,A veces
+H17A024,1,Sí
+,2,No
+,3,A veces
+H17A025,1,Sí
+,2,No
+,3,A veces
+H17A031,1,Siempre
+,2,A veces
+,3,Nunca
+H17A032,1,Siempre
+,2,A veces
+,3,Nunca
+H17A033,1,Siempre
+,2,A veces
+,3,Nunca
+H17A034,1,Siempre
+,2,A veces
+,3,Nunca
+H17A035,1,Siempre
+,2,A veces
+,3,Nunca
+H17A036,1,Siempre
+,2,A veces
+,3,Nunca
+H17A037,1,Siempre
+,2,A veces
+,3,Nunca
+H17A038,1,Siempre
+,2,A veces
+,3,Nunca
+H17A041,1,Siempre
+,2,A veces
+,3,Nunca
+H17A042,1,Siempre
+,2,A veces
+,3,Nunca
+H17A043A,1,Familiar que no vive en casa
+,2,Amigo (a)
+,3,Vecino (a)
+,4,Otro (especifique)
+H17A043B,1,Familiar que no vive en casa
+,2,Amigo (a)
+,3,Vecino (a)
+,4,Otro (especifique)
+H17A043C,1,Familiar que no vive en casa
+,2,Amigo (a)
+,3,Vecino (a)
+,4,Otro (especifique)
+H17A043D,1,Familiar que no vive en casa
+,2,Amigo (a)
+,3,Vecino (a)
+,4,Otro (especifique)
+NOTA17N,1,Favor de Continuar
+H1700,1,Sí
+,2,No
+,3,"No aplica, no trabaja"
+H1701,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+H1702,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+H1703,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+H1704,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+H1706,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+H1707,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+H1708,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+H1709,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+H1710,1,Sí
+,2,No
+H1711,1,Sí
+,2,No
+H1712,1,Sí
+,2,No
+H1713,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+H1714,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+H1715,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+H1716,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+H1718,1,Sí
+,2,No
+,9,No aplica
+H1719A,1,Sí
+,2,No
+H1719,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+H1720,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+H1721,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+COMPLETA,1,Favor de continuar (Entrevista Completa)/ENTREVISTA COMPLETA
+,2,ENTREVISTA INCOMPLETA
+,3,INFORMANTE INADECUADO
+,4,ENTREVISTA APLAZADA (HACER CITA)
+,5,AUSENTE DE PERSONAS EN EL MOMENTO DE LA VISITA
+,6,SE NEGO A DAR INFORMACIÓN
+,7,VIVIENDA DESHABITADA
+,8,VIVIENDA DE USO TEMPORAL
+,9,HABLA ALGUNA LENGUA EXTRANGERA
+,10,NO ES VIVIENDA
+,11,OTRO
+,12,"Se negó, por haber algún enfermo de COVID en el hogar"
+region_cv,1.00,Pacifico-Norte
+,2.00,Frontera
+,3.00,Pacifico-Centro
+,4.00,Centro-Norte
+,5.00,Centro
+,6.00,Cd México
+,7.00,Edo México
+,8.00,Pacífico-Sur
+,9.00,Península
+estrato,1.00,menos 2500
+,2.00, 2500-100mil
+,3.00,100 mil o mas
+rural_20,1.00,Rural
+,2.00,Urbano
+,3.00,Metropolitano
+area_20,1.00,Rural
+,2.00,Urbano

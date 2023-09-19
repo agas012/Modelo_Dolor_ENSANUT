@@ -1,0 +1,243 @@
+Variable,Posicion,Etiqueta,Niveldemedicion
+FOLIO_I,1,Folio,Nominal
+ID_INT,2,Int_hogar,Nominal
+FOLIO_INT,3,Folio Integrante en el hogar,Nominal
+ENTIDAD,4,Entidad,Nominal
+DESC_ENT,5,DESC_ENT,Nominal
+VIVO,6,Integrante en el hogar vivo,Nominal
+H0302,7,Sexo,Nominal
+H0303,8,Edad,Escala
+H0303AD,9,¿En que día falleció (NOMBRE)?,Nominal
+H0303AM,10,¿En qué mes falleció,Nominal
+H0304,11,Fecha de Nacimiento,Escala
+MESES,12,Meses,Nominal
+H0305,13,¿Que es (NOMBRE) de la (del) jefe(a)?,Nominal
+H0305_ES,14,Especifique,Nominal
+INT_NUEVO,15,Existe otro integrante en el hogar,Nominal
+INTP1,16,Int_hogar,Nominal
+H0306,17,H0306 ¿En que estado de la República Mexicana o país nació (NOMBRE)?,Nominal
+H0306E,18,H0306E ¿En cual estado de la República Mexicana? nació (NOMBRE)?,Escala
+H0306P,19,H0306P ¿En cual país? nació (NOMBRE)?,Nominal
+H0307,20,"H0307 En esta vivienda, ¿vive la madre de (NOMBRE)?",Nominal
+H0307Q,21,H0307Q ¿Quién es?,Nominal
+H0308,22,"H0308 En esta vivienda, ¿vive el padre de (NOMBRE)?",Nominal
+H0308Q,23,H0308Q ¿Quién es?,Nominal
+H0310A,24,H0310 ¿(NOMBRE) tiene derecho o acceso a servicios médicos:,Nominal
+H0310B,25,H0310 ¿(NOMBRE) tiene derecho o acceso a servicios médicos:,Nominal
+H0310C,26,H0310 ¿(NOMBRE) tiene derecho o acceso a servicios médicos:,Nominal
+H0310E,27,H0310E ESPECIFICAR,Nominal
+H0311,28,H0311 ¿(NOMBRE) habla alguna lengua indígena (dialecto)?,Nominal
+H0312,29,H0312 ¿(NOMBRE) habla también español?,Nominal
+H0313,30,H0313 ¿ (NOMBRE) asiste actualmente a la escuela?,Nominal
+H0314,31,H0314 ¿La escuela a la que asiste (NOMBRE) es...,Nominal
+H0315,32,H0315 ¿A que turno asiste (NOMBRE)?,Nominal
+H0316,33,H0316 ¿Cuál es la razón principal por la que (NOMBRE) no asiste actualmente a la escuela?,Nominal
+H0316ESP,34,H0316ESP ESPECIFIQUE,Nominal
+H0317A,35,H0317A ¿Cuál es el último año o grado que aprobó (USTED/NOMBRE) en la escuela? NIVEL,Nominal
+H0317G,36,H0317G ¿Cuál es el último año y grado que aprobó (USTED/NOMBRE) en la escuela? GRADO,Nominal
+H0318,37,H0318 ¿ (NOMBRE) sabe leer y escribir un recado?,Nominal
+INTP3,38,Int_hogar,Nominal
+H0319,39,H0319 ¿Actualmente (USTED/NOMBRE)...,Nominal
+H0320,40,"H0320 En este hogar, ¿vive el conyugue de (NOMBRE)?",Nominal
+H0320Q,41,H0320Q ¿Quién es?,Nominal
+H0322,42,"H0322 Aunque ya me dijo que (NOMBRE) no trabajó, ¿la semana pasada:",Nominal
+H0322A,43,"H0322A Entonces, ¿la semana pasada (NOMBRE) ...",Nominal
+H0321,44,"H0321 ¿Durante la semana pasada, (NOMBRE) trabajó (al menos una hora)?",Nominal
+H0323,45,H0323 ¿En su trabajo o negocio de la semana pasada (NOMBRE) fue:,Nominal
+H0323ESP,46,H0323ESP ESPECIFIQUE,Nominal
+H0324A,47,"H0324A ¿(NOMBRE) recibe o puede recibir por su trabajo servicio médico (IMSS, ISSSTE u otro)?",Nominal
+H0324B,48,H0324B ¿(NOMBRE) recibe o puede recibir por su trabajo aguinaldo?,Nominal
+H0324C,49,H0324C ¿(NOMBRE) recibe o puede recibir por su trabajo vacaciones con goce de sueldo?,Nominal
+H0324D,50,H0324D ¿(NOMBRE) recibe o puede recibir por su trabajo reparto de utilidades o prima vacacional?,Nominal
+H0324E,51,H0324E ¿(NOMBRE) recibe o puede recibir por su trabajo fondo de retiro (SAR o AFORE)?,Nominal
+H0324F,52,"H0324F ¿(NOMBRE) recibe o puede recibir por su trabajo crédito para la vivienda (Infonavit, Fovissste)?",Nominal
+H0324G,53,H0324G ¿(NOMBRE) recibe o puede recibir por su trabajo guardería?,Nominal
+H0324H,54,H0324H ¿(NOMBRE) recibe o puede recibir por su trabajo tiempo para cuidados maternos o paternos?,Nominal
+H0324I,55,H0324I ¿(NOMBRE) recibe o puede recibir por su trabajo seguro de vida?,Nominal
+H0324J,56,H0324J ¿(NOMBRE) recibe o puede recibir por su trabajo seguro privado para gastos médicos?,Nominal
+H0324K,57,H0324K ¿(NOMBRE) recibe o puede recibir por su trabajo préstamos personales o caja de ahorro?,Nominal
+INTP4,58,Int_hogar,Nominal
+H0401,59,H0401 En los últimos 3 meses ¿(USTED/NOMBRE) ha tenido alguna necesidad de salud?,Nominal
+H0402,60,H0402 ¿Podría decirme cuál fue la última necesidad de salud que tuvo (USTED/NOMBRE) en los últimos 3 meses?,Escala
+H0402ESP,61,H0402ESP ESPECIFIQUE,Nominal
+H0403,62,H0403 ¿Esto ocurrió en las últimas dos semanas?,Nominal
+H0404,63,H0404 ¿(USTED/NOMBRE) buscó atención por esa necesidad de salud?,Nominal
+H0405A,64,H0405 ¿Por qué motivo (USTED/NOMBRE) no buscó atención?,Nominal
+H0405B,65,H0405 ¿Por qué motivo (USTED/NOMBRE) no buscó atención?,Nominal
+H0405C,66,H0405 ¿Por qué motivo (USTED/NOMBRE) no buscó atención?,Nominal
+H0405ESP,67,H0405ESP ESPECIFIQUE,Nominal
+H0406,68,H0406 ¿(USTED/NOMBRE) fue atendido por esa necesidad de salud en alguna institución de salud (pública o privada) o con algún practicante tradicional?,Nominal
+H0407A,69,H0407 ¿Por qué motivo (USTED/NOMBRE) no fue atendido?,Nominal
+H0407B,70,H0407 ¿Por qué motivo (USTED/NOMBRE) no fue atendido?,Nominal
+H0407C,71,H0407 ¿Por qué motivo (USTED/NOMBRE) no fue atendido?,Nominal
+H0407ESP,72,H0407ESP ESPECIFIQUE:,Nominal
+H0408,73,H0408 ¿En qué institución de salud (USTED/NOMBRE) se atendió/solicitó ser atendido?,Nominal
+H0408ESP,74,H0408ESP ESPECIFIQUE:,Nominal
+H0409A,75,H0409 ¿La atención que buscó (USTED/NOMBRE) requirió...,Nominal
+H0409B,76,H0409 ¿La atención que buscó (USTED/NOMBRE) requirió...,Nominal
+H0409C,77,H0409 ¿La atención que buscó (USTED/NOMBRE) requirió...,Nominal
+H0902A,78,Algún médico le ha dicho/le dijo a [NOMBRE] que tiene/tuvo?,Nominal
+H0902B,79,Algún médico le ha dicho/le dijo a [NOMBRE] que tiene/tuvo?,Nominal
+H0902C,80,Algún médico le ha dicho/le dijo a [NOMBRE] que tiene/tuvo?,Nominal
+H0902D,81,Algún médico le ha dicho/le dijo a [NOMBRE] que tiene/tuvo?,Nominal
+H0902E,82,Algún médico le ha dicho/le dijo a [NOMBRE] que tiene/tuvo?,Nominal
+H0902F,83,Algún médico le ha dicho/le dijo a [NOMBRE] que tiene/tuvo?,Nominal
+H0902G,84,Algún médico le ha dicho/le dijo a [NOMBRE] que tiene/tuvo?,Nominal
+H0902H,85,Algún médico le ha dicho/le dijo a [NOMBRE] que tiene/tuvo?,Nominal
+H0904,86,H0904 ¿Durante el período de confinamiento (23 de marzo a 1 de junio) (NOMBRE) consumió alcohol?,Nominal
+H0905,87,"H0905 ¿(NOMBRE) consumió más, menos o igual cantidad de alcohol durante el período de confinamiento (23 de marzo al 1 de junio) que antes de este período?",Nominal
+H0906,88,H0906 ¿Antes del período de confinamiento (antes de fallecer) (USTED/NOMBRE) realizaba alguna actividad física o deporte?,Nominal
+H0910,89,H0910 Durante el período de confinamiento el tiempo destinado a su deporte o actividad física?,Nominal
+H0911,90,"H0911 En comparación al tiempo que pasaba sentado o reclinado de forma habitual, durante el período de confinamiento, este tiempo?",Nominal
+H12011,91,"H12011 En el mes anterior al inicio del confinamiento (23 de marzo del 2020), NOMBRE/USTED, ¿trabajó como?",Nominal
+H12011E,92,H12011E ESPECIFIQUE,Nominal
+H12012,93,"H12012 La empresa privada en la que trabajó, se dedica a?",Nominal
+H12012E,94,H12012E ESPECIFIQUE,Nominal
+H12013,95,"H12013 Durante el confinamiento de COVID (23 de marzo al 31 de mayo), ¿NOMBRE/USTED?",Nominal
+H13000,96,"H13000 Entre marzo de 2020 y [FECHA ACTUAL] ¿(USTED/NOMBRE) tuvo/ ha tenido gripa/resfriado, influenza, COVID-19 o alguna otra enfermedad",Nominal
+H13001,97,"H13001 Entre marzo de 2020 y [FECHA ACTUAL], NOMBRE, estuvo en contacto con alguien con síntomas sospechosos (o confirmado) de COVID-19?",Nominal
+H13002,98,H13002 (NOMBRE) ¿cuántos días se mantuvo en aislamiento después de estar en contacto?,Nominal
+H1302A,99,H1302 En algún momento desde marzo de 2020 y [FECHA ACTUAL] ¿(USTED/NOMBRE) presentó alguno de los siguientes síntomas (molestias)?,Nominal
+H1302B,100,H1302 En algún momento desde marzo de 2020 y [FECHA ACTUAL] ¿(USTED/NOMBRE) presentó alguno de los siguientes síntomas (molestias)?,Nominal
+H1302C,101,H1302 En algún momento desde marzo de 2020 y [FECHA ACTUAL] ¿(USTED/NOMBRE) presentó alguno de los siguientes síntomas (molestias)?,Nominal
+H1302D,102,H1302 En algún momento desde marzo de 2020 y [FECHA ACTUAL] ¿(USTED/NOMBRE) presentó alguno de los siguientes síntomas (molestias)?,Nominal
+H1302E1,103,H1302 En algún momento desde marzo de 2020 y [FECHA ACTUAL] ¿(USTED/NOMBRE) presentó alguno de los siguientes síntomas (molestias)?,Nominal
+H1302F,104,H1302 En algún momento desde marzo de 2020 y [FECHA ACTUAL] ¿(USTED/NOMBRE) presentó alguno de los siguientes síntomas (molestias)?,Nominal
+H1302G,105,H1302 En algún momento desde marzo de 2020 y [FECHA ACTUAL] ¿(USTED/NOMBRE) presentó alguno de los siguientes síntomas (molestias)?,Nominal
+H1302H,106,H1302 En algún momento desde marzo de 2020 y [FECHA ACTUAL] ¿(USTED/NOMBRE) presentó alguno de los siguientes síntomas (molestias)?,Nominal
+H1302I,107,H1302 En algún momento desde marzo de 2020 y [FECHA ACTUAL] ¿(USTED/NOMBRE) presentó alguno de los siguientes síntomas (molestias)?,Nominal
+H1302J,108,H1302 En algún momento desde marzo de 2020 y [FECHA ACTUAL] ¿(USTED/NOMBRE) presentó alguno de los siguientes síntomas (molestias)?,Nominal
+H1302K,109,H1302 En algún momento desde marzo de 2020 y [FECHA ACTUAL] ¿(USTED/NOMBRE) presentó alguno de los siguientes síntomas (molestias)?,Nominal
+H1302L,110,H1302 En algún momento desde marzo de 2020 y [FECHA ACTUAL] ¿(USTED/NOMBRE) presentó alguno de los siguientes síntomas (molestias)?,Nominal
+H1302M,111,H1302 En algún momento desde marzo de 2020 y [FECHA ACTUAL] ¿(USTED/NOMBRE) presentó alguno de los siguientes síntomas (molestias)?,Nominal
+H1302N,112,H1302 En algún momento desde marzo de 2020 y [FECHA ACTUAL] ¿(USTED/NOMBRE) presentó alguno de los siguientes síntomas (molestias)?,Nominal
+H1302O,113,H1302 En algún momento desde marzo de 2020 y [FECHA ACTUAL] ¿(USTED/NOMBRE) presentó alguno de los siguientes síntomas (molestias)?,Nominal
+H1302P,114,H1302 En algún momento desde marzo de 2020 y [FECHA ACTUAL] ¿(USTED/NOMBRE) presentó alguno de los siguientes síntomas (molestias)?,Nominal
+H1302E,115,H1302E ESPECIFIQUE,Nominal
+H13022,116,H13022 ¿En qué mes (USTED/NOM-BRE) presentó estos síntomas (molestias)?,Nominal
+H1303,117,"H1303 Cuándo (USTED/NOMBRE) tuvo estos síntomas (molestias), ¿presentó dificultad para respirar o dolor de pecho (tórax)?",Nominal
+H1304A,118,H1304 Cuando (USTED/NOMBRE) presentó estos síntomas (molestias) ¿(USTED/NOMBRE) qué hizo para NO contagiar a otros?,Nominal
+H1304B,119,H1304 Cuando (USTED/NOMBRE) presentó estos síntomas (molestias) ¿(USTED/NOMBRE) qué hizo para NO contagiar a otros?,Nominal
+H1304C,120,H1304 Cuando (USTED/NOMBRE) presentó estos síntomas (molestias) ¿(USTED/NOMBRE) qué hizo para NO contagiar a otros?,Nominal
+H1304D,121,H1304 Cuando (USTED/NOMBRE) presentó estos síntomas (molestias) ¿(USTED/NOMBRE) qué hizo para NO contagiar a otros?,Nominal
+H1304E1,122,H1304 Cuando (USTED/NOMBRE) presentó estos síntomas (molestias) ¿(USTED/NOMBRE) qué hizo para NO contagiar a otros?,Nominal
+H1304F,123,H1304 Cuando (USTED/NOMBRE) presentó estos síntomas (molestias) ¿(USTED/NOMBRE) qué hizo para NO contagiar a otros?,Nominal
+H1304G,124,H1304 Cuando (USTED/NOMBRE) presentó estos síntomas (molestias) ¿(USTED/NOMBRE) qué hizo para NO contagiar a otros?,Nominal
+H1304H,125,H1304 Cuando (USTED/NOMBRE) presentó estos síntomas (molestias) ¿(USTED/NOMBRE) qué hizo para NO contagiar a otros?,Nominal
+H1304I,126,H1304 Cuando (USTED/NOMBRE) presentó estos síntomas (molestias) ¿(USTED/NOMBRE) qué hizo para NO contagiar a otros?,Nominal
+H1304J,127,H1304 Cuando (USTED/NOMBRE) presentó estos síntomas (molestias) ¿(USTED/NOMBRE) qué hizo para NO contagiar a otros?,Nominal
+H1304E,128,H1304E ESPECIFIQUE,Nominal
+H1305A,129,H1305 Cuando (USTED/NOMBRE) presentó síntomas ¿Cómo se cuidó a sí mismo/cómo lo cuidaron?,Nominal
+H1305B,130,H1305 Cuando (USTED/NOMBRE) presentó síntomas ¿Cómo se cuidó a sí mismo/cómo lo cuidaron?,Nominal
+H1305C,131,H1305 Cuando (USTED/NOMBRE) presentó síntomas ¿Cómo se cuidó a sí mismo/cómo lo cuidaron?,Nominal
+H1305D,132,H1305 Cuando (USTED/NOMBRE) presentó síntomas ¿Cómo se cuidó a sí mismo/cómo lo cuidaron?,Nominal
+H1305E1,133,H1305 Cuando (USTED/NOMBRE) presentó síntomas ¿Cómo se cuidó a sí mismo/cómo lo cuidaron?,Nominal
+H1305F,134,H1305 Cuando (USTED/NOMBRE) presentó síntomas ¿Cómo se cuidó a sí mismo/cómo lo cuidaron?,Nominal
+H1305G,135,H1305 Cuando (USTED/NOMBRE) presentó síntomas ¿Cómo se cuidó a sí mismo/cómo lo cuidaron?,Nominal
+H1305H,136,H1305 Cuando (USTED/NOMBRE) presentó síntomas ¿Cómo se cuidó a sí mismo/cómo lo cuidaron?,Nominal
+H1305E,137,H1305E ESPECIFIQUE,Nominal
+H1306,138,"H1306 Cuando (USTED/NOMBRE) presentó síntomas, ¿buscó atención médica?",Nominal
+H1307A,139,H1307 ¿Por qué motivo no buscó atención médica?,Nominal
+H1307B,140,H1307 ¿Por qué motivo no buscó atención médica?,Nominal
+H1307C,141,H1307 ¿Por qué motivo no buscó atención médica?,Nominal
+H1307D,142,H1307 ¿Por qué motivo no buscó atención médica?,Nominal
+H1307E1,143,H1307 ¿Por qué motivo no buscó atención médica?,Nominal
+H1307F,144,H1307 ¿Por qué motivo no buscó atención médica?,Nominal
+H1307G,145,H1307 ¿Por qué motivo no buscó atención médica?,Nominal
+H1307H,146,H1307 ¿Por qué motivo no buscó atención médica?,Nominal
+H1307I,147,H1307 ¿Por qué motivo no buscó atención médica?,Nominal
+H1307J,148,H1307 ¿Por qué motivo no buscó atención médica?,Nominal
+H1307K,149,H1307 ¿Por qué motivo no buscó atención médica?,Nominal
+H1307L,150,H1307 ¿Por qué motivo no buscó atención médica?,Nominal
+H1307M,151,H1307 ¿Por qué motivo no buscó atención médica?,Nominal
+H1307N,152,H1307 ¿Por qué motivo no buscó atención médica?,Nominal
+H1307E,153,H1307E ESPECIFIQUE,Nominal
+H1308A,154,H1308 ¿Qué fue lo que hizo?,Nominal
+H1308B,155,H1308 ¿Qué fue lo que hizo?,Nominal
+H1308C,156,H1308 ¿Qué fue lo que hizo?,Nominal
+H1308D,157,H1308 ¿Qué fue lo que hizo?,Nominal
+H1309,158,H1309 ¿Cuál es el estado actual de (USTED/NOMBRE)?,Nominal
+H1309E,159,H1309E ESPECIFIQUE,Nominal
+H1310,160,H1310 ¿(USTED/NOMBRE) buscó atención médica en más de un sitio?,Nominal
+H1311,161,H1311 ¿Cuál fue el último lugar dónde buscó atención (USTED/NOMBRE)?,Nominal
+H1311E,162,H1311E ESPECIFIQUE,Nominal
+H1312,163,H1312 ¿Fue atendido (USTED/NOMBRE)?,Nominal
+H1313A,164,H1313 ¿Por qué motivo no fue atendido?,Nominal
+H1313B,165,H1313 ¿Por qué motivo no fue atendido?,Nominal
+H1313C,166,H1313 ¿Por qué motivo no fue atendido?,Nominal
+H1313D,167,H1313 ¿Por qué motivo no fue atendido?,Nominal
+H1313E1,168,H1313 ¿Por qué motivo no fue atendido?,Nominal
+H1313F,169,H1313 ¿Por qué motivo no fue atendido?,Nominal
+H1313G,170,H1313 ¿Por qué motivo no fue atendido?,Nominal
+H1313H,171,H1313 ¿Por qué motivo no fue atendido?,Nominal
+H1313I,172,H1313 ¿Por qué motivo no fue atendido?,Nominal
+H1313J,173,H1313 ¿Por qué motivo no fue atendido?,Nominal
+H1313K,174,H1313 ¿Por qué motivo no fue atendido?,Nominal
+H1313L,175,H1313 ¿Por qué motivo no fue atendido?,Nominal
+H1313M,176,H1313 ¿Por qué motivo no fue atendido?,Nominal
+H1313N,177,H1313 ¿Por qué motivo no fue atendido?,Nominal
+H1313O,178,H1313 ¿Por qué motivo no fue atendido?,Nominal
+H1313P,179,H1313 ¿Por qué motivo no fue atendido?,Nominal
+H1313Q,180,H1313 ¿Por qué motivo no fue atendido?,Nominal
+H1313E,181,H1313E ESPECIFIQUE,Nominal
+H1314A,182,H1314 ¿Qué fue lo que hizo después de que no lo atendieron?,Nominal
+H1314B,183,H1314 ¿Qué fue lo que hizo después de que no lo atendieron?,Nominal
+H1314C,184,H1314 ¿Qué fue lo que hizo después de que no lo atendieron?,Nominal
+H1314D,185,H1314 ¿Qué fue lo que hizo después de que no lo atendieron?,Nominal
+H1315,186,H1315 ¿Cuál es el estado actual de la persona que presentó los síntomas?,Nominal
+H1315E,187,H1315E ESPECIFIQUE,Nominal
+H1315A,188,"H1315A Con base en sus síntomas, ¿algún personal de salud le dijo a (USTED/NOMBRE) que tenía COVID-19?",Nominal
+H1316,189,H1316 A (USTED/NOMBRE) ¿le realizaron la prueba para detectar el virus causante de la COVID-19? metiéndole en la nariz o la boca un cotonete largo?,Nominal
+H13161,190,H13161 ¿Le dieron el resultado de la prueba?,Nominal
+H13161AA,191,"H13161A Durante la atención, ¿Algún personal de salud le diagnosticó por primera vez alguna de estas enfermedades crónicas a (USTED/NOMBRE)",Nominal
+H13161AB,192,"H13161A Durante la atención, ¿Algún personal de salud le diagnosticó por primera vez alguna de estas enfermedades crónicas a (USTED/NOMBRE)",Nominal
+H13161AC,193,"H13161A Durante la atención, ¿Algún personal de salud le diagnosticó por primera vez alguna de estas enfermedades crónicas a (USTED/NOMBRE)",Nominal
+H13161AD,194,"H13161A Durante la atención, ¿Algún personal de salud le diagnosticó por primera vez alguna de estas enfermedades crónicas a (USTED/NOMBRE)",Nominal
+H13161AE,195,"H13161A Durante la atención, ¿Algún personal de salud le diagnosticó por primera vez alguna de estas enfermedades crónicas a (USTED/NOMBRE)",Nominal
+H13161AF,196,"H13161A Durante la atención, ¿Algún personal de salud le diagnosticó por primera vez alguna de estas enfermedades crónicas a (USTED/NOMBRE)",Nominal
+H13161AG,197,"H13161A Durante la atención, ¿Algún personal de salud le diagnosticó por primera vez alguna de estas enfermedades crónicas a (USTED/NOMBRE)",Nominal
+H13161AH,198,"H13161A Durante la atención, ¿Algún personal de salud le diagnosticó por primera vez alguna de estas enfermedades crónicas a (USTED/NOMBRE)",Nominal
+H1317A,199,H1317  ¿La atención que recibió (USTED/NOMBRE) requirió...,Nominal
+H1317B,200,H1317  ¿La atención que recibió (USTED/NOMBRE) requirió...,Nominal
+H1317C,201,H1317  ¿La atención que recibió (USTED/NOMBRE) requirió...,Nominal
+H1317D,202,H1317  ¿La atención que recibió (USTED/NOMBRE) requirió...,Nominal
+H1317E,203,H1317  ¿La atención que recibió (USTED/NOMBRE) requirió...,Nominal
+H1318,204,H1318 ¿Cuántos días estuvo hospitalizado o en terapia intensiva (USTED/NOMBRE)?,Nominal
+H1319,205,H1319 ¿Cuál es el estado actual de (USTED/NOMBRE)?,Nominal
+H1319E,206,H1319E ESPECIFIQUE,Nominal
+H1320A,207,"H1320A Por la enfermedad ¿(USTED/NOMBRE) cuántos días dejó de realizar sus actividades cotidianas como: trabajar, ayudar a los quehaceres del hogar, tomar clases, u otra actividad?",Nominal
+H1320B,208,"H1320B Por la recuperación ¿(USTED/NOMBRE) cuántos días dejó de realizar sus actividades cotidianas como: trabajar, ayudar a los quehaceres del hogar, tomar clases, u otra actividad?",Nominal
+H1320C,209,"H1320C Por secuelas ¿(USTED/NOMBRE) cuántos días dejó de realizar sus actividades cotidianas como: trabajar, ayudar a los quehaceres del hogar, tomar clases, u otra actividad?",Nominal
+H1321,210,H1321 ¿le cobraron por la atención médica de (USTED/NOMBRE)?,Nominal
+H1322,211,H1322 ¿Cuánto le cobraron?,Escala
+H1323,212,H1323 ¿(USTED/NOMBRE) gastó en medicamentos?,Nominal
+H1324,213,H1324 ¿Cuánto gastó en medicamentos?,Escala
+H1325,214,H1325 ¿(USTED/NOMBRE) gastó en estudios o pruebas?,Nominal
+H1326,215,H1326 ¿Cuánto gastó?,Escala
+H1327,216,"H1327 Aparte de lo que ya me dijo, ¿(USTED/NOMBRE) tuvo otros gastos relacionados con la atención?",Nominal
+H1328A,217,H1328A ¿En qué gastó? En Otros gastos médicos,Nominal
+H1329A,218,H1329A Cuánto gastó? En Otros gastos médicos,Escala
+H1328B,219,H1328B ¿En qué gastó? En Comida/hospedaje,Nominal
+H1329B,220,H1329B Cuánto gastó? En Comida/hospedaje,Escala
+H1328C,221,H1328C ¿En qué gastó? En Otros gastos,Nominal
+H1329C,222,H1329C Cuánto gastó? En Otros gastos,Escala
+H17A01,223,H17A01 ¿Usted/(NOMBRE) utiliza celular?,Nominal
+H17A02,224,H17A02 ¿ Usted (NOMBRE) utiliza computadora?,Nominal
+H17A03,225,H17A03 ¿ Usted /(NOMBRE) utiliza Internet?,Nominal
+H17A04A,226,H17A04 ¿Usted/(NOMBRE) utiliza Redes Sociales? [Señale X cuál o cuáles],Nominal
+H17A04B,227,H17A04 ¿Usted/(NOMBRE) utiliza Redes Sociales? [Señale X cuál o cuáles],Nominal
+H17A04C,228,H17A04 ¿Usted/(NOMBRE) utiliza Redes Sociales? [Señale X cuál o cuáles],Nominal
+H17A04D,229,H17A04 ¿Usted/(NOMBRE) utiliza Redes Sociales? [Señale X cuál o cuáles],Nominal
+H17A04E1,230,H17A04 ¿Usted/(NOMBRE) utiliza Redes Sociales? [Señale X cuál o cuáles],Nominal
+H17A04F,231,H17A04 ¿Usted/(NOMBRE) utiliza Redes Sociales? [Señale X cuál o cuáles],Nominal
+H17A04G,232,H17A04 ¿Usted/(NOMBRE) utiliza Redes Sociales? [Señale X cuál o cuáles],Nominal
+H17A04E,233,H17A04 ESPECIFIQUE,Nominal
+COMPLETA1,234,Resultado de Entrevista,Nominal
+ponde_f,235,ponderador de integrantes de hogar,Escala
+estrato,236,Estrato de Urbanidad según tamaño de la localidad,Nominal
+region_cv,237,Regiones CV-19,Nominal
+est_sel,238,Estrato de selección,Escala
+Upm,239,Unidad Primaria de Muestreo,Nominal
+rural_20,240,Estrato de urbanidad Censo 2020,Nominal
+ponde_f20,241,ponderador actualizado para Censo 2020,Escala
+area_20,242,Estrato de urbanidad Censo 2020 recodificado,Escala

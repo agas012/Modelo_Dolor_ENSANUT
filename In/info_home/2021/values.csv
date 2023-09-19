@@ -1,0 +1,668 @@
+﻿Valor,,Etiqueta
+region,1,Pacifico_Norte
+,2,Frontera
+,3,Pacifico_Centro
+,4,Centro_Norte
+,5,Centro
+,6,Cd México
+,7,EdoMéxico
+,8,Pácifico_Sur
+,9,Península
+region_s,1,Pacifico_Norte
+,2,Frontera
+,3,Pacifico_Centro
+,4,Centro_Norte
+,5,Centro
+,6,Cd México
+,7,EdoMéxico
+,8,Pácifico_Sur
+,9,Península
+nota1a,1,Favor de Continuar
+h0101,1,Material de desecho
+,2,Lámina de cartón
+,3,Lámina metálica
+,4,Lámina de asbesto
+,5,Palma o paja
+,6,Madera o tejamanil
+,7,Terrado con vigueria
+,8,Teja
+,9,Losa de concreto o viguetas con bovedilla
+h0102,1,Material de desecho
+,2,Lámina de cartón
+,3,Lámina de asbesto o metálica
+,4,"Carrizo, bambú o palma"
+,5,"Embarro, bajareque o paja"
+,6,Madera
+,7,Adobe
+,8,"Tabique, ladrillo,block, piedra, cantera, cemento o concreto"
+h0103,1,Tierra
+,2,Cemento o firme
+,3,"Madera, mosaico u otro recubrimiento"
+h0106,1,Sí
+,2,No
+h0107,1,en un pasillo o corredor?
+,2,en un tejabán o techito?
+,3,al aire libre?
+,4,¿No cocinan en esta vivienda?
+h0108,1,Sí
+,2,No
+h0109,1,leña?
+,2,carbón?
+,3,gas de cilindro o estacionario?
+,4,gas natural o de tubería?
+,5,electricidad?
+,6,¿Otro combustible?
+,7,¿No cocinan?
+h0110,1,Estufa o parrilla de gas
+,2,Estufa o parrilla eléctrica
+,3,Fuego abierto u horno sin chimenea ni campana
+,4,Fuego abierto u horno con chimenea o campana
+,5,Horno cerrado con chimenea
+,6,Otro
+h0111,1,Sí
+,2,No
+h0112,1,dentro de la vivienda?
+,2,solo en el terreno?
+,3,no tiene agua entubada?
+h0113,1,del servicio público de agua?
+,2,de un pozo?
+,3,de una pipa?
+,4,de otra vivienda?
+,5,de otro lugar?
+h0114,1,la sacan o acarrean de un pozo?
+,2,la acarrean de una toma o llave comunitaria?
+,3,la traen de otra vivienda?
+,4,la trae una pipa?
+,5,"la acarrean de un río, arroyo o lago?"
+,6,la captan de la lluvia?
+h0115,1,Sí
+,2,No
+,8,NS/NR
+h0116,1,"Sí, mostrado"
+,2,"No, mostrado"
+H0117A,1,Jabón en pastilla
+,2,Detergente (en polvo / liquido / en pasta)
+,3,Jabón liquido
+,4,"Ceniza, barro o arena"
+H0117B,1,Jabón en pastilla
+,2,Detergente (en polvo / liquido / en pasta)
+,3,Jabón liquido
+,4,"Ceniza, barro o arena"
+H0117C,1,Jabón en pastilla
+,2,Detergente (en polvo / liquido / en pasta)
+,3,Jabón liquido
+,4,"Ceniza, barro o arena"
+H0117D,1,Jabón en pastilla
+,2,Detergente (en polvo / liquido / en pasta)
+,3,Jabón liquido
+,4,"Ceniza, barro o arena"
+h0118,1,la red pública?
+,2,una fosa séptica o tanque séptico (biodigestor)?
+,3,una tubería que va a dar a una barranca o grieta?
+,4,"una tubería que va a dar a un río, lago o mar?"
+,5,¿No tiene drenaje?
+h0119,1,tiene descarga directa de agua?
+,2,le echan agua con cubeta?
+,3,no se le puede echar agua?
+,4,no tiene servicio sanitario?
+h0120,1,Sí
+,2,No
+h0121,1,la recoge un camión o un carrito de basura?
+,2,la tiran en el basurero público?
+,3,la tiran en un contenedor o depósito?
+,4,la queman?
+,5,la entierran?
+,6,la tiran en un terreno baldío o calle?
+,7,la tiran a la barranca o grieta?
+,8,"la tiran al río, lago o mar?"
+h0122,1,Sí
+,2,No
+h0123,1,Aparato o sistema de calefacción
+,2,Calentón
+,3,Resistencia
+,4,Brasero
+,5,Chimenea
+,6,Otro
+h0124,1,Gas
+,2,Electricidad
+,3,Queroseno
+,4,Carbón mineral
+,5,Carbón vegetal
+,6,Leña o madera
+,7,Residuos agrícolas o de cultivos
+,8,Estiércol animal
+,9,Matojos o hierba
+,10,Otro combustible
+h0125,1,es rentada?
+,2,es prestada?
+,3,es propia pero la están pagando?
+,4,es propia?
+,5,está intestada o en litigio?
+,6,está en otra situación?
+h0126a,1,Sí
+,2,No
+h0126b,1,Sí
+,2,No
+h0126c,1,Sí
+,2,No
+h0126d,1,Sí
+,2,No
+h0126e,1,Sí
+,2,No
+h0127a,1,Sí
+,2,No
+h0127b,1,Sí
+,2,No
+h0127c,1,Sí
+,2,No
+h0127d,1,Sí
+,2,No
+h0127e,1,Sí
+,2,No
+nota2,1,Favor de Continuar
+h0201,1,Sí
+,2,No
+h305t,1,Sí
+,2,No
+h0327,1,"1- 5,999 pesos"
+,2,"6,000-9,999 pesos"
+,3,"10,000-13,999 pesos"
+,4,"14,000-21,999 pesos"
+,5,"22,000 o más pesos"
+,6,No percibieron ingresos
+,8,No quiso responder
+,9,No sabe
+nota4,1,Favor de Continuar
+nota5a,1,Favor de Continuar
+h0501a,1,Sí
+,2,No
+h0501b,1,Sí
+,2,No
+h0501c,1,Sí
+,2,No
+h0501d,1,Sí
+,2,No
+h0501e,1,Sí
+,2,No
+h0501f,1,Sí
+,2,No
+h0501g,1,Sí
+,2,No
+h0501h,1,Sí
+,2,No
+h0501i,1,Sí
+,2,No
+h0501j,1,Sí
+,2,No
+h0501k,1,Sí
+,2,No
+h0501l,1,Sí
+,2,No
+h0501m,1,Sí
+,2,No
+h0501n,1,Sí
+,2,No
+h0501o,1,Sí
+,2,No
+nota6,1,Favor de Continuar
+nota7,1,Favor de Continuar
+h0701,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+h0702,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+h0703,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+h0704,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+h0705,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+h0706,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+h0707,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+h0708,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+h0709,1,Sí
+,2,No
+h0710,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+h0711,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+h0712,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+h0713,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+h0714,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+h0715,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+h0716,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+nota8,1,Favor de Continuar
+h0801,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0802,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0803,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0804,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0805,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0806,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0807,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0808,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0809,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0810,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0811,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0812,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+nota9,1,Favor de Continuar
+h0901a,1,Sí
+,2,No
+h0901b,1,Sí
+,2,No
+h0901c,1,Sí
+,2,No
+nota10,1,Favor de Continuar
+h1001,1,Enfermedad crónica
+,2,Enfermedad infecciosa causada por un virus
+,3,Enfermedad renal
+,4,Enfermedad causada por estrés o ansiedad
+,5,No existe esta enfermedad
+,6,No sabe
+,7,Otro (especifique)
+,8,No desea responder
+h1002,1,Nada
+,2,Pocas veces
+,3,A veces
+,4,Casi siempre
+,5,Siempre
+h1003,1,El cubrebocas no sirve/no está claro que el cubrebocas sirva
+,2,No creo estar en riesgo
+,3,No me interesa cumplir con esa medida
+,4,Le dificulta respirar
+,9,Otro especificar
+h1004,1,Nada
+,2,Pocas veces
+,3,A veces
+,4,Casi siempre
+,5,Siempre
+H1005A,1,Por trabajo
+,2,Comprar insumos indispensables para el hogar
+,3,Necesidad en salud
+,4,No creo estar en riesgo
+,5,Necesidad de contacto humano
+,6,No creo que funcione esta medida
+,7,No me interesa cumplir con esa medida)
+,8,Sale a ejercitarse
+,9,Lleva a los niños a la escuela
+,10,Otro especificar
+H1005B,1,Por trabajo
+,2,Comprar insumos indispensables para el hogar
+,3,Necesidad en salud
+,4,No creo estar en riesgo
+,5,Necesidad de contacto humano
+,6,No creo que funcione esta medida
+,7,No me interesa cumplir con esa medida)
+,8,Sale a ejercitarse
+,9,Lleva a los niños a la escuela
+,10,Otro especificar
+H1005C,1,Por trabajo
+,2,Comprar insumos indispensables para el hogar
+,3,Necesidad en salud
+,4,No creo estar en riesgo
+,5,Necesidad de contacto humano
+,6,No creo que funcione esta medida
+,7,No me interesa cumplir con esa medida)
+,8,Sale a ejercitarse
+,9,Lleva a los niños a la escuela
+,10,Otro especificar
+h1006,1,Nada
+,2,Pocas veces
+,3,A veces
+,4,Casi siempre
+,5,Siempre
+H1007A,1,Por trabajo
+,2,Comprar insumos indispensables para el hogar
+,3,Necesidad en salud
+,4,No creo estar en riesgo
+,5,Necesidad de contacto humano
+,6,No creo que funcione esta medida
+,7,No me interesa cumplir con esa medida
+,8,Por hacer ejercicio en lugares cerrados (como gimnasios)
+,9,Otro especificar
+H1007B,1,Por trabajo
+,2,Comprar insumos indispensables para el hogar
+,3,Necesidad en salud
+,4,No creo estar en riesgo
+,5,Necesidad de contacto humano
+,6,No creo que funcione esta medida
+,7,No me interesa cumplir con esa medida
+,8,Por hacer ejercicio en lugares cerrados (como gimnasios)
+,9,Otro especificar
+H1007C,1,Por trabajo
+,2,Comprar insumos indispensables para el hogar
+,3,Necesidad en salud
+,4,No creo estar en riesgo
+,5,Necesidad de contacto humano
+,6,No creo que funcione esta medida
+,7,No me interesa cumplir con esa medida
+,8,Por hacer ejercicio en lugares cerrados (como gimnasios)
+,9,Otro especificar
+nota11,1,Favor de Continuar
+h1103a,1,Sí
+,2,No
+,3,No Sabe
+h1103b,1,Sí
+,2,No
+,3,No Sabe
+h1103c,1,Sí
+,2,No
+,3,No Sabe
+h1103d,1,Sí
+,2,No
+,3,No Sabe
+h1103e,1,Sí
+,2,No
+,3,No Sabe
+h1103f,1,Sí
+,2,No
+,3,No Sabe
+h1103g,1,Sí
+,2,No
+,3,No Sabe
+h1103h,1,Sí
+,2,No
+,3,No Sabe
+h1103i,1,Sí
+,2,No
+,3,No Sabe
+h1103j,1,Sí
+,2,No
+,3,No Sabe
+h1103k,1,Sí
+,2,No
+,3,No Sabe
+h1103l,1,Sí
+,2,No
+,3,No Sabe
+h1103m,1,Sí
+,2,No
+,3,No Sabe
+h1103n,1,Sí
+,2,No
+,3,No Sabe
+h1103o,1,Sí
+,2,No
+,3,No Sabe
+h1104a,1,Sí
+,2,No
+h1104b,1,Sí
+,2,No
+h1104c,1,Sí
+,2,No
+h1104d,1,Sí
+,2,No
+nota12,1,Favor de Continuar
+nota13,1,Favor de Continuar
+h1301,1,Aumentó ?
+,2,Disminuyó ?
+,3,Fue igual ?
+,4,No sabe/no responde
+h1302,1,Aumentó ?
+,2,Disminuyó ?
+,3,Fue igual ?
+,4,No sabe/no responde
+h1303,1,Aumentó ?
+,2,Disminuyó ?
+,3,Fue igual ?
+,4,No sabe/no responde
+h1304,1,Aumentó ?
+,2,Disminuyó ?
+,3,Fue igual ?
+,4,No sabe/no responde
+h1305,1,Aumentó ?
+,2,Disminuyó ?
+,3,Fue igual ?
+,4,No sabe/no responde
+h1306,1,Aumentó ?
+,2,Disminuyó ?
+,3,Fue igual ?
+,4,No sabe/no responde
+h1307,1,Aumentó ?
+,2,Disminuyó ?
+,3,Fue igual ?
+,4,No sabe/no responde
+h1308,1,Aumentó ?
+,2,Disminuyó ?
+,3,Fue igual ?
+,4,No sabe/no responde
+h1309,1,Aumentó ?
+,2,Disminuyó ?
+,3,Fue igual ?
+,4,No sabe/no responde
+h1310,1,Aumentó ?
+,2,Disminuyó ?
+,3,Fue igual ?
+,4,No sabe/no responde
+h1311,1,Aumentó ?
+,2,Disminuyó ?
+,3,Fue igual ?
+,4,No sabe/no responde
+nota14,1,Favor de Continuar
+h1401,1,más altos?
+,2,iguales?
+,3,más bajos?
+h1402,1,más altos?
+,2,iguales?
+,3,más bajos?
+nota15,1,Favor de Continuar
+h1501,1,Sí
+,2,No
+,3,No aplica
+h1502m,1,Enero
+,2,Febrero
+,3,Marzo
+,4,Abril
+,5,Mayo
+,6,Junio
+,7,Julio
+,8,Agosto
+,9,Septiembre
+,10,Octubre
+,11,Noviembre
+,12,Diciembre
+,66,Nunca dejó de asistir a su trabajo
+h1502a,2020,2020
+,2021,2021
+,6666,Nunca dejó de asistir a su trabajo
+h1503,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+h1504,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+h1505,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+h1506,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+h1507,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+h1508,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+h1509,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+h1510,1,Sí
+,2,No
+h1511,1,Sí
+,2,No
+h1513,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+h1514,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+h1515,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+h1516,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+h1517,1,Muy frecuentemente
+,2,Frecuentemente
+,3,Ocasionalmente
+,4,Rara vez
+,5,Nunca
+h1518,1,Sí
+,2,No
+,9,No aplica
+nota16,1,Favor de Continuar
+completa,1,ENTREVISTA COMPLETA
+,2,ENTREVISTA INCOMPLETA
+,3,INFORMANTE INADECUADO
+,4,ENTREVISTA APLAZADA (HACER CITA)
+,5,AUSENTE DE PERSONAS EN EL MOMENTO DE LA VISITA
+,6,SE NEGÓ A DAR INFORMACIÓN
+,7,VIVIENDA DESHABITADA
+,8,VIVIENDA DE USO TEMPORAL
+,9,HABLA ALGUNA LENGUA EXTRANGERA
+,10,NO ES VIVIENDA
+,11,OTRO
+,12,"Se negó, por haber algún enfermo de COVID en el hogar"
+x_region,1.00,Pacifico-Norte
+,2.00,Frontera
+,3.00,Pacífico-Centro
+,4.00,Guanajuato
+,5.00,Resto Centro Norte
+,6.00,Centro
+,7.00,Cd. México
+,8.00,Edo. México
+,9.00,Pacífico Sur
+,10.00,Península
+estrato,1.00,Rural  ( <2500 Hab )
+,2.00,"Urbano ( 2500-99,999 Hab)"
+,3.00,Metropolitano (100mil y + Hab)

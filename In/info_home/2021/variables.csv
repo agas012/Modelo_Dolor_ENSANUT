@@ -1,0 +1,247 @@
+﻿Variable,Posición,Etiqueta,Nivel de medición
+FOLIO_I,1,Folio,Nominal
+maquina,2,MAQUINA,Nominal
+hora_ini_1,3,Hora de Inicio 1,Nominal
+fecha_ini_1,4,Fecha de Inicio 1,Nominal
+hora_fin_1,5,Hora termino 1,Nominal
+fecha_fin_1,6,Fecha termino 1,Nominal
+tiempo1,7,Duración de la Entrevista 1,Escala
+resultado_1,8,Resultado de entrevista 1,Escala
+hora_ini_2,9,Hora de Inicio 2,Nominal
+fecha_ini_2,10,Fecha de Inicio 2,Nominal
+hora_fin_2,11,Hora de Termino 2,Nominal
+fecha_fin_2,12,Fecha de Termino 2,Nominal
+tiempo2,13,Duración de la Entrevista 2,Escala
+resultado_2,14,Resultado de entrevista 2,Escala
+hora_ini_3,15,Hora de Inicio 3,Nominal
+fecha_ini_3,16,Fecha de Inicio 3,Nominal
+hora_fin_3,17,Hora de Termino 3,Nominal
+fecha_fin_3,18,Fecha de Termino 3,Nominal
+tiempo3,19,Duración de la Entrevista 3,Escala
+resultado_3,20,Resultado de entrevista 3,Escala
+hora_ini_4,21,Hora de Inicio 4,Nominal
+fecha_ini_4,22,Fecha de Inicio 4,Nominal
+hora_fin_4,23,Hora de Termino 4,Nominal
+fecha_fin_4,24,Fecha de Termino 4,Nominal
+tiempo4,25,Duración de la Entrevista 4,Escala
+resultado_4,26,Resultado de entrevista 4,Escala
+hora_ini,27,Hora de Inicio,Nominal
+fecha_ini,28,Fecha de inicio,Nominal
+localizado,29,localizado,Escala
+entidad,30,Entidad,Nominal
+region,31,Region o zona de trabajo,Escala
+region_s,32,Region de Selección,Escala
+desc_ent,33,DESC_ENT,Nominal
+municipio,34,Municipio,Nominal
+desc_mun,35,DESC_MUN,Nominal
+vivienda,36,Vivienda,Nominal
+hogar,37,hogar,Nominal
+upm,38,Unidad primaria de muestreo,Nominal
+nota1a,39,SECCION I. CARACTERÍSTCAS DE LA VIVIENDA,Escala
+h0101,40,H0101 ¿De qué material es la mayor parte del techo de esta vivienda?,Escala
+h0102,41,H0102 ¿De qué material es la mayor parte de las paredes o muros de esta vivienda?,Escala
+h0103,42,H0103 ¿De qué material es la mayor parte del piso de esta vivienda?,Escala
+h0104,43,H0104 ¿Cuántos cuartos se usan para dormir sin contar pasillos?,Escala
+h0105,44,"H0105 En total, ¿cuántos cuartos tiene esta vivienda (no cuente pasillos ni baños)?",Escala
+h0106,45,H0106 ¿Esta vivienda tiene un cuarto(espacio) para cocinar?,Escala
+h0107,46,"H0107 Entonces, ¿cocinan los alimentos...",Escala
+h0108,47,"H0108 ¿En el cuarto (espacio) donde cocinan, también duermen?",Escala
+h0109,48,H0109 ¿El combustible que más usan para cocinar es...,Escala
+h0110,49,H0110 ¿Qué tipo de estufa utilizan para cocinar o calentar alimentos?,Escala
+h0110esp,50,H0110ESP ESPECIFIQUE:,Nominal
+h0111,51,H0111 ¿Hay luz eléctrica en esta vivienda?,Escala
+h0112,52,H0112 ¿Esta vivienda tiene agua entubada...,Escala
+h0113,53,H0113 ¿El agua entubada que llega a su vivienda viene...,Escala
+h0114,54,"H0114 Entonces, ¿el agua que usan en esta vivienda...",Escala
+h0115,55,H0115 ¿Tiene algún jabón o detergente o ceniza/barro/arena en el hogar para lavarse las manos?,Escala
+h0116,56,"H0116 ¿Podría mostrármelo, por favor?",Escala
+H0117A,57,H0117  Anote la observación,Escala
+H0117B,58,H0117  Anote la observación,Escala
+H0117C,59,H0117  Anote la observación,Escala
+H0117D,60,H0117  Anote la observación,Escala
+h0118,61,H0118 ¿Esta vivienda tiene drenaje o desagüe conectado a...,Escala
+h0119,62,H0119 ¿El servicio sanitario...,Escala
+h0120,63,H0120 ¿Este servicio sanitario lo comparten con otra vivienda?,Escala
+h0121,64,H0121¿La basura de esta vivienda...,Escala
+h0122,65,"H0122 Cuando hace frío, ¿usan o hacen algo para calentar la vivienda?",Escala
+h0123,66,H0123 ¿Qué utilizan para calentar la vivienda?,Escala
+h0123esp,67,H0123ESP ESPECIFIQUE:,Nominal
+h0124,68,H0124 ¿Qué combustible usan?,Escala
+h0125,69,H0125 ¿Esta vivienda...,Escala
+h0126a,70,H0126A ¿Esta vivienda tiene calentador de agua?,Escala
+h0126b,71,H0126B ¿Esta vivienda tiene tinaco?,Escala
+h0126c,72,H0126C ¿Esta vivienda tiene cisterna o aljibe?,Escala
+h0126d,73,H0126D ¿Esta vivienda tiene medidor de luz?,Escala
+h0126e,74,H0126E ¿Esta vivienda tiene aire acondicionado?,Escala
+h0127a,75,"H0127A ¿Usted o alguien de la vivienda tiene otra casa, construcción, inmueble o terreno?",Escala
+h0127b,76,H0127B ¿Usted o alguien de la vivienda tiene automóvil?,Escala
+h0127c,77,H0127C ¿Usted o alguien de la vivienda tiene camioneta?,Escala
+h0127d,78,H0127D ¿Usted o alguien de la vivienda tiene motocicleta o motoneta?,Escala
+h0127e,79,"H0127E ¿Usted o alguien de la vivienda tiene otro vehículo (como lancha, trajinera o canoa)?",Escala
+nota2,80,SECCIÓN II. IDENTIFICACIÓN DE HOGARES,Escala
+h0201,81,H0201 ¿Todas las personas que viven en esta vivienda comparten un mismo gasto para comer?,Escala
+h0202,82,"H0202 ¿Cuántos hogares o grupos de personas tienen gasto separado para comer, contando el de usted?",Escala
+h0203,83,"H0203 ¿Cuántas personas viven normalmente en esta vivienda,contando a los niños chiquitos y a los ancianos?",Escala
+h0204,84,H0204 ¿Cuántas personas viven normalmente en este hogar?,Escala
+num_int,85,NUM_INT,Escala
+h305t,86,H305T Entonces ¿son (integrantes) las personas que integran este hogar?,Escala
+h305i,87,H305I ¿Nombre del informante?,Escala
+h0327,88,"H0327 Aproximadamente, ¿Cuánto dinero ganan regularmente todos los miembros del hogar al mes?",Escala
+nota4,89,SECCIÓN 4.- SITUACIÓN DE SALUD Y UTILIZACIÓN DE LOS SERVICIOS DE SALUD,Escala
+nota5a,90,NOTA5 SECCIÓN V. OTRAS CARACTERÍSTICAS DEL HOGAR,Escala
+h0501a,91,H0501A ¿Usted o algún integrante de su hogar tiene  televisión?,Escala
+h0501b,92,H0501B ¿Usted o algún integrante de su hogar tiene  servicio de TV de paga?,Escala
+h0501c,93,H0501C ¿Usted o algún integrante de su hogar tiene  radio?,Escala
+h0501d,94,"H0501D ¿Usted o algún integrante de su hogar tiene  modulares, consola, estéreo o bocina?",Escala
+h0501e,95,"H0501E ¿Usted o algún integrante de su hogar tiene  computadora de escritorio, laptop o tablet?",Escala
+h0501f,96,H0501F ¿Usted o algún integrante de su hogar tiene  teléfono celular?,Escala
+h0501g,97,H0501G ¿Usted o algún integrante de su hogar tiene  servicio de internet?,Escala
+h0501h,98,H0501H ¿Usted o algún integrante de su hogar tiene  línea telefónica fija?,Escala
+h0501i,99,H0501I ¿Usted o algún integrante de su hogar tiene  plancha?,Escala
+h0501j,100,H0501J ¿Usted o algún integrante de su hogar tiene  licuadora?,Escala
+h0501k,101,H0501K ¿Usted o algún integrante de su hogar tiene  refrigerador?,Escala
+h0501l,102,H0501L ¿Usted o algún integrante de su hogar tiene  estufa de gas?,Escala
+h0501m,103,H0501M ¿Usted o algún integrante de su hogar tiene  estufa de otro combustible o parrilla eléctrica?,Escala
+h0501n,104,H0501N ¿Usted o algún integrante de su hogar tiene  lavadora o secadora?,Escala
+h0501o,105,H0501O ¿Usted o algún integrante de su hogar tiene  horno de microondas?,Escala
+nota6,106,NOTA 6 SECCIÓN VI. APOYO DE PROGRAMAS SOCIALES,Escala
+nota7,107,NOTA 7 SECCIÓN VII. SEGURIDAD ALIMENTARIA,Escala
+h0701,108,"H0701 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez usted se preocupó de que los alimentos se acabaran en su hogar?",Escala
+h0702,109,"H0702 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez en su hogar se quedaron sin alimentos?",Escala
+h0703,110,"H0703 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez en su hogar dejaron de tener una alimentación saludable, nutritiva, balanceada, equilibrada?",Escala
+h0704,111,"H0704 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez usted o algún adulto en su hogar tuvo una alimentación basada en poca variedad de alimentos?",Escala
+h0705,112,"H0705 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez usted o algún adulto en su hogar dejó de desayunar, comer, almorzar o cenar?",Escala
+h0706,113,"H0706 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez usted o algún adulto en su hogar comió menos de lo que debía comer?",Escala
+h0707,114,"H0707 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez usted o algún adulto en su hogar sintió hambre pero no comió?",Escala
+h0708,115,"H0708 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez usted o algún adulto en su hogar solo comió una vez al día o dejó de comer todo un día?",Escala
+h0709,116,H0709 ¿En su hogar viven personas menores de 18 años?,Escala
+h0710,117,"H0710 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez algún menor de 18 años en su hogar dejó de tener una alimentación saludable, nutritiva, balanceada, equilibrada?",Escala
+h0711,118,"H0711 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez algún menor de 18 años en su hogar tuvo una alimentación basada en poca variedad de alimentos?",Escala
+h0712,119,"H0712 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez algún menor de 18 años en su hogar dejó de desayunar, comer, almorzar o cenar?",Escala
+h0713,120,"H0713 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez algún menor de 18 años en su hogar comió menos de lo que debía?",Escala
+h0714,121,"H0714 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez tuvieron que disminuir la cantidad servida en las comidas a algún menor de 18 años en su hogar?",Escala
+h0715,122,"H0715 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez algún menor de 18 años en su hogar sintió hambre pero no comió?",Escala
+h0716,123,"H0716 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez algún menor de 18 años en su hogar solo comió una vez al día o dejó de comer todo un día?",Escala
+nota8,124,SECCIÓN VIII. ESCALA DE EXPERIENCIAS DE INSEGURIDAD DEL AGUA EN EL HOGAR,Escala
+h0801,125,"H0801 En las últimas 4 semanas, ¿con qué frecuencia usted o alguien en su hogar se preocupó de no tener suficiente agua para todas las necesidades de su hogar?",Escala
+h0802,126,"H0802 En las últimas 4 semanas, ¿con qué frecuencia se ha interrumpido o disminuido el suministro de las fuentes principales de agua en su hogar (por ejemplo, menor presión o interrupción del agua entubada, menor caudal en el río donde se abastece elF54y�",Escala
+h0803,127,"H0803 En las últimas 4 semanas, ¿con qué frecuencia no ha habido suficiente agua en el hogar para lavar la ropa?",Escala
+h0804,128,"H0804 En las últimas 4 semanas, ¿con qué frecuencia usted o alguien en su hogar tuvo que cambiar sus horarios o/ planes debido a problemas con el agua? (Las actividades que pueden haber sido interrumpidas incluyen cuidar a otros, hacer tareas domésticaF5",Escala
+h0805,129,"H0805 En las últimas 4 semanas, ¿con qué frecuencia usted o alguien en su hogar, ha tenido que cambiar lo que iba a comer porque había problemas con el agua (por ejemplo, para lavar los alimentos, cocinar, etc.)?",Escala
+h0806,130,"H0806 En las últimas 4 semanas, ¿con qué frecuencia usted o alguien en su hogar, no pudo lavarse las manos después de actividades antihigiénicas (como, después de ir al baño o cambiar pañales, limpiar desechos de animal) porque no tenía suficienteF54y�",Escala
+h0807,131,"H0807 En las últimas 4 semanas, ¿con qué frecuencia usted o alguien en su hogar no pudo bañarse porque no había suficiente agua? (por ejemplo, no hay suficiente agua, está sucia, difícil acceso)",Escala
+h0808,132,"H0808 En las últimas 4 semanas, ¿con qué frecuencia no hubo suficiente agua para beber para usted u otro integrante de su hogar?",Escala
+h0809,133,"H0809 En las últimas 4 semanas, ¿con qué frecuencia usted o alguien en su hogar se sintió molesto(a) por alguna situación referente al agua?",Escala
+h0810,134,"H0810 En las últimas 4 semanas, ¿con qué frecuencia usted o alguien en su hogar se durmió con sed porque no había agua para beber?",Escala
+h0811,135,"H0811 En las últimas 4 semanas, ¿con qué frecuencia hubo en su hogar agua no potable o que no se puede tomar?",Escala
+h0812,136,"H0812 En las últimas 4 semanas, ¿con qué frecuencia usted o alguien en su hogar sintió vergüenza o rechazo a causa de los problemas con el agua?",Escala
+nota9,137,NOTA9 GRUPOS DE RIESGO PARA ENFERMAR POR COVID-19 Y FACTORES DE RIESGO,Escala
+h0901a,138,"H0901A En su hogar, habitan personas de 60 años y más?",Escala
+h0901aa,139,H0901AA Cuántas personas,Escala
+h0901b,140,"H0901B En su hogar, habitan menores de 5 años?",Escala
+h0901bb,141,H0901BB Cuántas personas,Escala
+h0901c,142,"H0901C En su hogar, habitan embarazadas?",Escala
+h0901cc,143,H0901CC Cuántas personas,Escala
+nota10,144,NOTA10 SECCIÓN X. CONOCIMIENTO Y MEDIDAS DE MITIGACIÓN ANTE EL COVID-19,Escala
+h1001,145,H1001 ¿Sabe qué es el COVID-19?,Escala
+h1001e,146,H1001E ESPECIFIQUE,Nominal
+h1002,147,"H1002 Durante el último mes, ¿qué tan seguido ha utilizado el cubrebocas al salir de su casa o al convivir con personas que no viven con usted?",Escala
+h1003,148,H1003 ¿Por qué ha hecho excepciones para cumplir con el uso de cubrebocas durante el último mes?,Nominal
+h1003e,149,H1003E ESPECIFIQUE,Nominal
+h1004,150,"H1004 Durante el último mes, ¿qué tanto ha cumplido con la medida de quedarse en casa?",Escala
+H1005A,151,"H1005 ¿Por qué ha hecho excepciones para cumplir con quedarse en casa, durante el último mes?",Escala
+H1005B,152,"H1005 ¿Por qué ha hecho excepciones para cumplir con quedarse en casa, durante el último mes?",Escala
+H1005C,153,"H1005 ¿Por qué ha hecho excepciones para cumplir con quedarse en casa, durante el último mes?",Escala
+h1005e,154,H1005E ESPECIFIQUE,Nominal
+h1006,155,"H1006 Durante el último mes, ¿qué tanto ha cumplido con la medida de no acudir a lugares concurridos?",Escala
+H1007A,156,"H1007 ¿Por qué ha hecho excepciones a la medida de no acudir a lugares concurridos, durante el último mes?",Escala
+H1007B,157,"H1007 ¿Por qué ha hecho excepciones a la medida de no acudir a lugares concurridos, durante el último mes?",Escala
+H1007C,158,"H1007 ¿Por qué ha hecho excepciones a la medida de no acudir a lugares concurridos, durante el último mes?",Escala
+h1007e,159,H1007E ESPECIFIQUE,Nominal
+nota11,160,NOTA11 SECCIÓN XI. ACCIONES FAMILIARES DURANTE EL COVID 19,Escala
+h1101,161,"H1101  En este hogar, ¿cuántas personas estudian?",Escala
+h1102a,162,H1102A De enero a la fecha ¿Cuántos miembros del hogar toman clases en forma presencial?,Escala
+h1102b,163,"H1102B De enero a la fecha ¿Cuántos miembros del hogar toman clases a distancia en medios virtuales a través de plataformas como: Zoom, Skype, Google Classroom, Teams, entre otras?",Escala
+h1102c,164,H1102C De enero a la fecha ¿Cuántos miembros del hogar toman clases En televisión o radio?,Escala
+h1102d,165,H1102D De enero a la fecha ¿Cuántos miembros del hogar toman clases en Cuadernillos o materiales impresos?,Escala
+h1103a,166,"H1103A Para el regreso a clases, ¿las autoridades o maestros le informaron sobre las medidas de higiene y seguridad que se implementarían en la escuela?",Escala
+h1103b,167,"H1103B Para el regreso a clases, ¿las autoridades o maestros les toman la temperatura a los niños al ingresar a la escuela?",Escala
+h1103c,168,"H1103C Para el regreso a clases, ¿las autoridades o maestros les proporcionan soluciones de alcohol gel para desinfectar sus manos?",Escala
+h1103d,169,"H1103D Para el regreso a clases, ¿las autoridades o maestros solicitaron que los niños usen cubrebocas?",Escala
+h1103e,170,"H1103E Para el regreso a clases, ¿las autoridades o maestros solicitaron que los niños usen careta?",Escala
+h1103f,171,"H1103F Para el regreso a clases, ¿las autoridades o maestros eliminaron los saludos que impliquen contacto físico?",Escala
+h1103g,172,"H1103G Para el regreso a clases, ¿las autoridades o maestros implementaron rutinas para el lavado de manos?",Escala
+h1103h,173,"H1103H Para el regreso a clases, ¿las autoridades o maestros permiten el ingreso a personas con síntomas de gripe o de resfriado?",Escala
+h1103i,174,"H1103I Para el regreso a clases, ¿las autoridades o maestros establecieron rutinas durante la jornada escolar para desinfectar las áreas comunes?",Escala
+h1103j,175,"H1103J Para el regreso a clases, ¿las autoridades o maestros escalonaron la entrada o salida a la escuela?",Escala
+h1103k,176,"H1103K Para el regreso a clases, ¿las autoridades o maestros escalonaron el recreo en la escuela?",Escala
+h1103l,177,"H1103L Para el regreso a clases, ¿las autoridades o maestros establecieron horarios para el uso del baño?",Escala
+h1103m,178,"H1103M Para el regreso a clases, ¿las autoridades o maestros colocaron señalamientos en la entrada de la escuela para indicar la sana distancia?",Escala
+h1103n,179,"H1103N Para el regreso a clases, ¿las autoridades o maestros mantienen distancia entre los asientos de los niños?",Escala
+h1103o,180,"H1103O Para el regreso a clases, ¿las autoridades o maestros tienen vías exclusivas para el acceso y salida de la escuela?",Escala
+h1104a,181,"H1104A En su hogar, como medida de protección personal ¿dotaron por su cuenta a los escolares de solución de alcohol/ gel?",Escala
+h1104b,182,"H1104B En su hogar, como medida de protección personal ¿dotaron por su cuenta a los escolares de Cubrebocas?",Escala
+h1104c,183,"H1104C En su hogar, como medida de protección personal ¿dotaron por su cuenta a los escolares de Careta?",Escala
+h1104d,184,"H1104D En su hogar, como medida de protección personal ¿dotaron por su cuenta a los escolares de Jabón?",Escala
+nota12,185,NOTA12 SSECCIÓN XIII. ALIMENTACIÓN DURANTE EL CONFINAMIENTO,Escala
+nota13,186,NOTA13 SECCIÓN XIII. ALIMENTACIÓN DURANTE EL CONFINAMIENTO,Escala
+h1301,187,"H1301 En comparación con su consumo habitual antes de la pandemia por COVID-19, considera que ¿El consumo de frutas en su hogar?",Escala
+h1301a,188,"H1301A En una semana regular, ¿Cuántos días los consumen en su hogar?",Escala
+h1302,189,"H1302 En comparación con su consumo habitual antes de la pandemia por COVID-19, considera que ¿El consumo de verduras en su hogar?",Escala
+h1302a,190,"H1302A En una semana regular, ¿Cuántos días los consumen en su hogar?",Escala
+h1303,191,"H1303 En comparación con su consumo habitual antes de la pandemia por COVID-19, considera que ¿El consumo de leguminosas (frijol, lentejas, habas, garbanzos, etc) en su hogar?",Escala
+h1303a,192,"H1303A En una semana regular, ¿Cuántos días los consumen en su hogar?",Escala
+h1304,193,"H1304 En comparación con su consumo habitual antes de la pandemia por COVID-19, considera que ¿El consumo de carne de res, carne de cerdo, pollo, pescado en su hogar?",Escala
+h1304a,194,"H1304A En una semana regular, ¿Cuántos días los consumen en su hogar?",Escala
+h1305,195,"H1305 En comparación con su consumo habitual antes de la pandemia por COVID-19, considera que ¿El consumo de leche, queso, yogurt, etc,. en su hogar…?",Escala
+h1305a,196,"H1305A En una semana regular, ¿Cuántos días los consumen en su hogar?",Escala
+h1306,197,"H1306 En comparación con su consumo habitual antes de la pandemia por COVID-19, considera que ¿El consumo de alimentos como tortilla de maíz, pan integral (no dulce), arroz integral, avena o algún otro cereal integral en su hogar?",Escala
+h1306a,198,"H1306A En una semana regular, ¿Cuántos días los consumen en su hogar?",Escala
+h1307,199,"H1307 En comparación con el consumo habitual antes de la pandemia por COVID-19, considera que ¿El consumo de alimentos como tortilla de trigo, pan blanco, arroz o sopa de pasta en su hogar?",Escala
+h1307a,200,"H1306A En una semana regular, ¿Cuántos días los consumen en su hogar?",Escala
+h1308,201,"H1308 En comparación con su consumo habitual antes de la pandemia por COVID-19, considera que ¿El consumo de dulces como caramelos o chocolates en su hogar?",Escala
+h1308a,202,"H1308A En una semana regular, ¿Cuántos días los consumen en su hogar?",Escala
+h1309,203,"H1309 En comparación con su consumo habitual antes de la pandemia por COVID-19, considera que ¿El consumo de Botanas en su hogar?",Escala
+h1309a,204,"H1309A En una semana regular, ¿Cuántos días los consumen en su hogar?",Escala
+h1310,205,"H1310 En comparación con su consumo habitual antes de la pandemia por COVID-19, considera que ¿El consumo de pan dulce, pastelillos o postres en su hogar?",Escala
+h1310a,206,"H1310A En una semana regular, ¿Cuántos días los consumen en su hogar?",Escala
+h1311,207,"H1311 En comparación con su consumo habitual antes de la pandemia por COVID-19, considera que ¿El consumo de bebidas endulzadas como refrescos, aguas de sabor con azúcar, jugos o néctares de frutas industrializados en su hogar?",Escala
+h1311a,208,"H1311A En una semana regular, ¿Cuántos días los consumen en su hogar?",Escala
+nota14,209,NOTA14 SECCIÓN XIV. SITUACIÓN ECONÓMICA ANTE EL COVID-19,Escala
+h1401,210,"H1401 Piense en su situación actual. Los gastos generales de su hogar, si los compara con el inicio de la pandemia a inicios del 2020, ¿actualmente son…",Escala
+h1402,211,"H1402 Piense en su situación actual. Los gastos en alimentos de su hogar, si los compara con el inicio de la pandemia a inicios del 2020, ¿actualmente son ….",Escala
+h1403,212,"H1403 Si compara la situación actual con el inicio de la pandemia a inicios del 2020, ¿cuántos miembros del hogar perdieron su empleo?",Escala
+h1404,213,"H1404 Si compara la situación actual con el inicio de la pandemia a inicios del 2020, ¿cuántos miembros del hogar dejaron de percibir ingresos?",Escala
+h1405,214,"H1405 Si compara la situación actual con el inicio de la pandemia a inicios del 2020, ¿cuántos miembros del hogar tuvieron reducciones en su ingreso?",Escala
+nota15,215,NOTA15 SECCIÓN XV. COMPORTAMIENTO ANTE EL COVID-19,Escala
+h1501,216,H1501 ¿Actualmente acude a su lugar de trabajo?,Escala
+h1502m,217,H1502M ¿A partir de qué mes y año regresó a su lugar de trabajo de forma rutinaria? MES,Escala
+h1502a,218,H1502A ¿A partir de qué mes y año regresó a su lugar de trabajo de forma rutinaria? AÑO,Escala
+h1503,219,H1503 ¿En su lugar de trabajo se mantiene una distancia de 1.5 metros entre personas?,Escala
+h1504,220,H1504 ¿En su lugar de trabajo hay gel antibacterial disponible?,Escala
+h1505,221,H1505 ¿En su lugar de trabajo hay jabón y agua para lavarse las manos?,Escala
+h1506,222,H1506 ¿En su lugar de trabajo las personas usan cubrebocas?,Escala
+h1507,223,H1507 ¿En su lugar de trabajo se estimula que las personas hagan trabajo a distancia tanto como sea posible?,Escala
+h1508,224,H1508 ¿En su lugar de trabajo las personas de más de 60 años acuden a trabajar?,Escala
+h1509,225,H1509 ¿En su lugar de trabajo las personas con enfermedades crónicas como diabetes e hipertensión acuden a trabajar?,Escala
+h1510,226,H1510 ¿En su lugar de trabajo se ha implementado un esquema de horarios escalonados para disminuir el número de personas en el espacio?,Escala
+h1511,227,H1511 ¿cuenta usted el tiempo cuando se lava las manos ?,Escala
+h1512,228,H1512 ¿Aproximadamente cuántas veces se lava las manos al día?,Escala
+h1512as,229,H1512AS ¿Cuánto tiempo ocupa en lavarse las manos? SEGUNDOS,Escala
+h1512am,230,H1512AM ¿Cuánto tiempo ocupa en lavarse las manos? MINUTOS,Escala
+h1513,231,H1513 ¿En su hogar una sola persona sale a hacer las compras?,Escala
+h1514,232,H1514 ¿En su hogar sanitizan las cosas que compran cuando llegan a casa?,Escala
+h1515,233,H1515 ¿En su hogar han pasado los fines de semana en casa?,Escala
+h1516,234,H1516 ¿En su hogar los han visitado en casa?,Escala
+h1517,235,H1517 ¿En su hogar han realizado reuniones o celebraciones a los que acudan personas que no viven con Usted?,Escala
+h1518,236,H1518 ¿En su hogar los integrantes que aún estudian han continuado clases vía virtual?,Escala
+nota16,237,NOTA16 SECCIÓN XVI. VACUNACIÓN,Escala
+comentario,238,¿Algún comentario de la entrevista?,Nominal
+hora_fin,239,Hora de termino,Nominal
+fecha_fin,240,Fecha de Termino,Nominal
+completa,241,Resultado de Entrevista,Escala
+otroent,242,Especifique otro resultado de entrevista,Nominal
+x_region,243,Region,Nominal
+ponde_f,244,ponderador de hogar,Escala
+estrato,245,Estrato urbanidad/ruralidad,Nominal
+est_sel,246, Estrato de seleccion,Escala

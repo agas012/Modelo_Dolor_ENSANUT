@@ -1,0 +1,174 @@
+﻿Variable,Posición,Etiqueta,Nivel de medición
+FOLIO_I,1,Folio,Nominal
+t_hora,2,TIEMPO HORA,Escala
+t_min,3,TIEMPO MINUTOS,Escala
+t_sumai,4,TIEMPO SUMA INICIO,Escala
+t_sumaf,5,TIEMPO SUMA FIN,Escala
+hora_ini_1,6,Hora de Inicio 1,Nominal
+fecha_ini_1,7,Fecha de Inicio 1,Nominal
+hora_fin_1,8,Hora termino 1,Nominal
+fecha_fin_1,9,Fecha termino 1,Nominal
+tiempo1,10,Duración de la Entrevista 1,Escala
+resultado_1,11,Resultado de entrevista 1,Escala
+hora_ini_2,12,Hora de Inicio 2,Nominal
+fecha_ini_2,13,Fecha de Inicio 2,Nominal
+hora_fin_2,14,Hora de Termino 2,Nominal
+fecha_fin_2,15,Fecha de Termino 2,Nominal
+tiempo2,16,Duración de la Entrevista 2,Escala
+resultado_2,17,Resultado de entrevista 2,Escala
+hora_ini_3,18,Hora de Inicio 3,Nominal
+fecha_ini_3,19,Fecha de Inicio 3,Nominal
+hora_fin_3,20,Hora de Termino 3,Nominal
+fecha_fin_3,21,Fecha de Termino 3,Nominal
+tiempo3,22,Duración de la Entrevista 3,Escala
+resultado_3,23,Resultado de entrevista 3,Escala
+hora_ini_4,24,Hora de Inicio 4,Nominal
+fecha_ini_4,25,Fecha de Inicio 4,Nominal
+hora_fin_4,26,Hora de Termino 4,Nominal
+fecha_fin_4,27,Fecha de Termino 4,Nominal
+tiempo4,28,Duración de la Entrevista 4,Escala
+resultado_4,29,Resultado de entrevista 4,Escala
+hora_ini,30,Hora de Inicio,Nominal
+fecha_ini,31,Fecha de inicio,Nominal
+region,32,Region o zona de trabajo,Escala
+entidad,33,Entidad,Nominal
+desc_ent,34,DESC_ENT,Nominal
+municipio,35,Municipio,Nominal
+desc_mun,36,DESC_MUN,Nominal
+nota1,37,Concentimiento para realizar la entrevista,Escala
+upm,38,Unidad primaria de muestreo,Nominal
+nota1a,39,SECCION I. CARACTERÍSTCAS DE LA VIVIENDA,Escala
+h0101,40,H0101 ¿De qué material es la mayor parte del techo de esta vivienda?,Escala
+h0102,41,H0102 ¿De qué material es la mayor parte de las paredes o muros de esta vivienda?,Escala
+h0103,42,H0103 ¿De qué material es la mayor parte del piso de esta vivienda?,Escala
+h0104,43,H0104 ¿Cuántos cuartos se usan para dormir sin contar pasillos?,Escala
+h0105,44,"H0105 En total, ¿cuántos cuartos tiene esta vivienda (no cuente pasillos ni baños)?",Escala
+h0106,45,H0106 ¿Esta vivienda tiene un cuarto(espacio) para cocinar?,Escala
+h0107,46,"H0107 Entonces, ¿cocinan los alimentos...",Escala
+h0108,47,"H0108 ¿En el cuarto (espacio) donde cocinan, también duermen?",Escala
+h0109,48,H0109 ¿El combustible que más usan para cocinar es...,Escala
+h0110,49,H0110 ¿Qué tipo de estufa utilizan para cocinar o calentar alimentos?,Escala
+h0110esp,50,H0110ESP ESPECIFIQUE:,Nominal
+h0111,51,H0111 ¿Hay luz eléctrica en esta vivienda?,Escala
+h0112,52,H0112 ¿Esta vivienda tiene agua entubada...,Escala
+h0113,53,H0113 ¿El agua entubada que llega a su vivienda viene...,Escala
+h0114,54,"H0114 Entonces, ¿el agua que usan en esta vivienda...",Escala
+h0118,55,H0118 ¿Esta vivienda tiene drenaje o desagüe conectado a...,Escala
+h0119,56,H0119 ¿El servicio sanitario...,Escala
+h0120,57,H0120 ¿Este servicio sanitario lo comparten con otra vivienda?,Escala
+h0121,58,H0121¿La basura de esta vivienda...,Escala
+h0122,59,"H0122 Cuando hace frío, ¿usan o hacen algo para calentar la vivienda?",Escala
+h0123,60,H0123 ¿Qué utilizan para calentar la vivienda?,Escala
+h0123esp,61,H0123ESP ESPECIFIQUE:,Nominal
+h0124,62,H0124 ¿Qué combustible usan?,Escala
+h0125,63,H0125 ¿Esta vivienda...,Escala
+nota2,64,SECCIÓN II. IDENTIFICACIÓN DE HOGARES,Escala
+h0201,65,H0201 ¿Todas las personas que viven en esta vivienda comparten un mismo gasto para comer?,Escala
+h0202,66,"H0202 ¿Cuántos hogares o grupos de personas tienen gasto separado para comer, contando el de usted?",Escala
+h0203,67,"H0203 ¿Cuántas personas viven normalmente en esta vivienda,contando a los niños chiquitos y a los ancianos?",Escala
+h0204,68,H0204 ¿Cuántas personas viven normalmente en este hogar?,Escala
+nota3,69,SECCIÓN III. CARACTERÍSTICAS SOCIODEMOGRÁFICAS,Escala
+jefe,70,JEFE DEL HOGAR,Escala
+num_int,71,NUM_INT,Escala
+h305t,72,H305T Entonces ¿son (integrantes) las personas que integran este hogar?,Escala
+h305i,73,H305I ¿Nombre del informante?,Escala
+h0327,74,"H0327 Aproximadamente, ¿Cuánto dinero ganan regularmente todos los miembros del hogar al mes?",Escala
+nota4,75,SECCIÓN 4.- SITUACIÓN DE SALUD Y UTILIZACIÓN DE LOS SERVICIOS DE SALUD,Escala
+veri_selec,76,VERIFICACION DE SELECCION,Escala
+nota5,77,VER SELECCIONADOS PARA CUESTIONARIOS INDIVIDUALES,Escala
+nota5a,78,NOTA5 SECCIÓN V. OTRAS CARACTERÍSTICAS DEL HOGAR,Escala
+h0501a,79,H0501A ¿Usted o algún integrante de su hogar tiene  televisión?,Escala
+h0501b,80,H0501B ¿Usted o algún integrante de su hogar tiene  servicio de TV de paga?,Escala
+h0501c,81,H0501C ¿Usted o algún integrante de su hogar tiene  radio?,Escala
+h0501e,82,"H0501E ¿Usted o algún integrante de su hogar tiene  computadora de escritorio, laptop o tablet?",Escala
+h0501f,83,H0501F ¿Usted o algún integrante de su hogar tiene  teléfono celular?,Escala
+h0501g,84,H0501G ¿Usted o algún integrante de su hogar tiene  servicio de internet?,Escala
+h0501k,85,H0501K ¿Usted o algún integrante de su hogar tiene  refrigerador?,Escala
+h0501l,86,H0501L ¿Usted o algún integrante de su hogar tiene  estufa de gas?,Escala
+h0501n,87,H0501N ¿Usted o algún integrante de su hogar tiene  lavadora o secadora?,Escala
+h0501o,88,H0501O ¿Usted o algún integrante de su hogar tiene  horno de microondas?,Escala
+h0501p,89,H0501P ¿Usted o algún integrante de su hogar tiene  calentador de agua?,Escala
+h0501q,90,H0501Q ¿Usted o algún integrante de su hogar tiene  tinaco?,Escala
+h0501r,91,H0501R ¿Usted o algún integrante de su hogar tiene  cisterna o aljibe?,Escala
+h0501s,92,H0501S ¿Usted o algún integrante de su hogar tiene  medidor de luz?,Escala
+h0501t,93,H0501T ¿Usted o algún integrante de su hogar tiene  aire acondicionado?,Escala
+h0501u,94,"H0501U ¿Usted o algún integrante de su hogar tiene  otra casa, construcción, inmueble o terreno?",Escala
+h0501v,95,H0501V ¿Usted o algún integrante de su hogar tiene  automóvil?,Escala
+h0501w,96,H0501W ¿Usted o algún integrante de su hogar tiene  camioneta?,Escala
+h0501x,97,H0501X ¿Usted o algún integrante de su hogar tiene  motocicleta o motoneta?,Escala
+h0501y,98,"H0501Y ¿Usted o algún integrante de su hogar tiene  otro vehículo (como lancha, trajinera o canoa)?",Escala
+nota6,99,NOTA 6 SECCIÓN VI. APOYO DE PROGRAMAS SOCIALES,Escala
+nota8,100,SECCIÓN VIII. ESCALA DE EXPERIENCIAS DE INSEGURIDAD DEL AGUA EN EL HOGAR,Escala
+h0801,101,"H0801 En las últimas 4 semanas, ¿con qué frecuencia usted o alguien en su hogar se preocupó de no tener suficiente agua para todas las necesidades de su hogar?",Escala
+h0802,102,"H0802 En las últimas 4 semanas, ¿con qué frecuencia se ha interrumpido o disminuido el suministro de las fuentes principales de agua en su hogar (por ejemplo, menor presión o interrupción del agua entubada, menor caudal en el río donde se abastece e",Escala
+h0803,103,"H0803 En las últimas 4 semanas, ¿con qué frecuencia no ha habido suficiente agua en el hogar para lavar la ropa?",Escala
+h0804,104,"H0804 En las últimas 4 semanas, ¿con qué frecuencia usted o alguien en su hogar tuvo que cambiar sus horarios o planes debido a problemas con el agua, tales como problemas para obtener o distribuir agua dentro del hogar?",Escala
+h0805,105,"H0805 En las últimas 4 semanas, ¿con qué frecuencia usted o alguien en su hogar, ha tenido que cambiar lo que iba a comer porque había problemas con el agua (por ejemplo, para lavar los alimentos, cocinar, etc.)?",Escala
+h0806,106,"H0806 En las últimas 4 semanas, ¿con qué frecuencia usted o alguien en su hogar, no pudo lavarse las manos después de actividades poco higiénicas porque no tenía suficiente agua?",Escala
+h0807,107,"H0807 En las últimas 4 semanas, ¿con qué frecuencia usted o alguien en su hogar no pudo bañarse porque no había suficiente agua? (por ejemplo, no había suficiente agua, estaba sucia, o era de difícil acceso)",Escala
+h0808,108,"H0808 En las últimas 4 semanas, ¿con qué frecuencia no hubo suficiente agua para beber para usted u otro integrante de su hogar?",Escala
+h0809,109,"H0809 En las últimas 4 semanas, ¿con qué frecuencia usted o alguien en su hogar se sintió molesto(a) por alguna situación referente al agua?",Escala
+h0810,110,"H0810 En las últimas 4 semanas, ¿con qué frecuencia usted o alguien en su hogar se durmió con sed porque no había agua para beber?",Escala
+h0811,111,"H0811 En las últimas 4 semanas, ¿con qué frecuencia NO hubo en su hogar agua apta o recomendable para uso en el hogar o para consumo humano?",Escala
+h0812,112,"H0812 En las últimas 4 semanas, ¿con qué frecuencia usted o alguien en su hogar sintió vergüenza o rechazo de otros a causa de los problemas con el agua?",Escala
+nota08a1,113,NOTA08A1 SECCIÓN VIII.a. SUMINISTRO Y MANEJO DE AGUA,Escala
+h08a01,114,"8.a.1. ¿Quién es la persona encargada de organizar el agua dentro del hogar? Por ejemplo, estar al pendiente de la llegada del agua, prender la bomba, preparar cubetas, llenar el tinaco, etc.",Escala
+h08a01esp,115,H08A01ESP 8.a.1.ESP Especifique,Nominal
+h08a02,116,H08A02 8.a.2. ENTREVISTADOR SELECCIONA EL NÚMERO DE RENGLÓN DEL INTEGRANTE,Escala
+nota08a2,117,NOTA08A2 CONTINUIDAD EN EL ABASTECIMIENTO DE AGUA AL HOGAR,Escala
+h08a03,118,"H08A03 8.a.3. En las últimas 4 semanas, ¿con qué frecuencia llegó agua entubada a su vivienda?",Escala
+h08a0401,119,H08A0401 8.a.401 ¿Llega agua entubada a su vivienda el día Lunes?,Escala
+h08a0501,120,H08A0501 8.a.501 ¿Durante cuántas horas al día llega?,Escala
+h08a0402,121,H08A0402 8.a.402 ¿Llega agua entubada a su vivienda el día Martes?,Escala
+h08a0502,122,H08A0502 8.a.502 ¿Durante cuántas horas al día llega?,Escala
+h08a0403,123,H08A0403 8.a.403¿Llega agua entubada a su vivienda el día Miércoles?,Escala
+h08a0503,124,H08A0503 8.a.503 ¿Durante cuántas horas al día llega?,Escala
+h08a0404,125,H08A0404 8.a.404 ¿Llega agua entubada a su vivienda el día Jueves?,Escala
+h08a0504,126,H08A0504 8.a.504 ¿Durante cuántas horas al día llega?,Escala
+h08a0405,127,H08A0405 8.a.405 ¿Llega agua entubada a su vivienda el día Viernes?,Escala
+h08a0505,128,H08A0505 8.a.505 ¿Durante cuántas horas al día llega?,Escala
+h08a0406,129,H08A0406 8.a.406 ¿Llega agua entubada a su vivienda el día Sábado?,Escala
+h08a0506,130,H08A0506 8.a.506 ¿Durante cuántas horas al día llega?,Escala
+h08a0407,131,H08A0407 8.a.407 ¿Llega agua entubada a su vivienda el día Domingo?,Escala
+h08a0507,132,H08A0507 8.a.507 ¿Durante cuántas horas al día llega?,Escala
+h08a0408,133,"H08A0408 8.a.408 ¿Llega agua entubada a su vivienda, No sabe, varia todas las semanas",Escala
+h08a0508,134,H08A0508 8.a.508 ¿Durante cuántas horas al día llega?,Escala
+h08a0409,135,"H08A0409 8.a.409 ¿Llega agua entubada a su vivienda, No sabe, desconozco la frecuencia",Escala
+h08a0509,136,H08A0509 8.a.509 ¿Durante cuántas horas al día llega?,Escala
+h08a06,137,"H08A06 8.a.6. Ahora le voy a preguntar sobre la escasez del agua. Por favor, piense en la temporada en que llegó menos agua y con menos frecuencia durante los últimos 12 meses. ¿En qué mes empezó la temporada en la que escaseó más el agua en su viv",Escala
+h08a07,138,H08A07 8.a.7. ¿Cuánto tiempo duró la temporada de mayor escasez?,Escala
+h08a08,139,"H08A08 8.a.8. Durante la temporada de escasez, ¿Con qué Frecuencia llegó agua entubada a su vivienda…",Escala
+nota08a3,140,NOTA08A3 ALMACENAMIENTO Y TRATAMIENTO DEL AGUA PARA BEBER,Escala
+h08a091,141,"H08A09A 8.a.9.1. ¿En esta vivienda el agua, se almacena?",Escala
+h08a09a,142,"H08A09A 8.a.9A.  ¿En esta vivienda el agua, se almacena en una cisterna?",Escala
+h08a09b,143,"H08A09B 8.a.9B. ¿En esta vivienda el agua, se almacena en un tinaco?",Escala
+h08a09c,144,"H08A09C 8.a.9C. ¿En esta vivienda el agua, se almacena en una cubeta u otro contenedor sin tapa?",Escala
+h08a09d,145,"H08A09D 8.a.9D. ¿En esta vivienda el agua, se almacena en una cubeta u otro contenedor con tapa?",Escala
+h08a09e,146,H08A09E 8.a.9E.¿En esta vivienda usan otro tipo de almacenamiento para el agua?,Escala
+h08a09es,147,H08A09ES 8.a.9ESP. ¿En esta vivienda que otro tipo de almacenamiento usan para el agua? Especifique,Nominal
+h08a101,148,"H08A10A 8.a.10.1 ¿El agua que se usa para beber en este hogar, se trata?",Escala
+h08a10a,149,"H08A10A 8.a.10A. ¿El agua que se usa para beber en este hogar,  se filtra?",Escala
+h08a10b,150,"H08A10B 8.a.10B. ¿El agua que se usa para beber en este hogar, se hierve?",Escala
+h08a10c,151,"H08A10C 8.a.10C. ¿El agua que se usa para beber en este hogar, se trata con desinfectantes químicos (por ejemplo, cloro)?",Escala
+h08a10d,152,"H08A10D 8.a.10D. ¿El agua que se usa para beber en este hogar, se trata con desinfección solar?",Escala
+h08a10e,153,"H08A10E 8.a.10E. ¿El agua que se usa para beber en este hogar, le aplica otro tratamiento?",Escala
+h08a10es,154,"H08A10ES 8.a.10ES. ¿El agua que se usa para beber en este hogar, le aplica otro tratamiento? Especifique",Nominal
+nota08a4,155,NOTA08A4 FUENTE DE AGUA PARA USO DOMÉSTICO,Escala
+h08a11,156,H08A11 8.a.11. ¿Cuál es la principal fuente de agua que los miembros de su hogar usan para beber?,Escala
+h08a11esp,157,H08A11ESP 8.a.11.ESP ESPECIFICAR,Nominal
+h08a12,158,H08A12 8.a.12. ¿Cuál es la principal fuente de agua que los miembros de su hogar usan para cocinar?,Escala
+h08a12esp,159,H08A12ESP 8.a.12.ESP ESPECIFICAR,Nominal
+h08a13,160,"H08A13 8.a.13. ¿Cuál es la principal fuente de agua que los miembros de su hogar usan para lavarse las manos o bañarse, etc.?",Escala
+h08a13esp,161,H08A13ESP 8.a.13.ESP ESPECIFICAR,Nominal
+nota12,162,NOTA12 SSECCIÓN XIII. ALIMENTACIÓN DURANTE EL CONFINAMIENTO,Escala
+nota16,163,NOTA16 SECCIÓN XVI. VACUNACIÓN,Escala
+comentario,164,¿Algún comentario de la entrevista?,Nominal
+tiempo,165,Duración de la Entrevista,Escala
+hora_fin,166,Hora de termino,Nominal
+fecha_fin,167,Fecha de Termino,Nominal
+completa,168,Resultado de Entrevista,Escala
+otroent,169,Especifique otro resultado de entrevista,Nominal
+ponde_f,170,ponderador de hogar,Escala
+estrato,171,Estrato urbanidad/ruralidad,Nominal
+est_sel,172, Estrato de seleccion,Escala
+indigena_h,173,Hogar con al menos un integrante que habla alguna lengua indígena,Nominal

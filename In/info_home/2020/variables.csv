@@ -1,0 +1,693 @@
+﻿Variable,Posición,Etiqueta,Nivel de medición
+FOLIO_I,1,folio,Nominal
+ENTIDAD,2,Entidad,Nominal
+DESC_ENT,3,DESC_ENT,Nominal
+MUNICIPIO,4,Municipio,Nominal
+DESC_MUN,5,DESC_MUN,Nominal
+CUENTA,6,CUENTA,Escala
+MAQUINA,7,MAQUINA,Nominal
+HORA_INI_1,8,Hora de Inicio 1,Nominal
+FECHA_INI_1,9,Fecha de Inicio 1,Nominal
+HORA_FIN_1,10,Hora termino 1,Nominal
+FECHA_FIN_1,11,Fecha termino 1,Nominal
+TIEMPO1,12,Duración de la Entrevista 1,Escala
+RESULTADO_1,13,Resultado de entrevista 1,Nominal
+HORA_INI_2,14,Hora de Inicio 2,Nominal
+FECHA_INI_2,15,Fecha de Inicio 2,Nominal
+HORA_FIN_2,16,Hora de Termino 2,Nominal
+FECHA_FIN_2,17,Fecha de Termino 2,Nominal
+TIEMPO2,18,Duración de la Entrevista 2,Escala
+RESULTADO_2,19,Resultado de entrevista 2,Nominal
+HORA_INI_3,20,Hora de Inicio 3,Nominal
+FECHA_INI_3,21,Fecha de Inicio 3,Nominal
+HORA_FIN_3,22,Hora de Termino 3,Nominal
+FECHA_FIN_3,23,Fecha de Termino 3,Nominal
+TIEMPO3,24,Duración de la Entrevista 3,Escala
+RESULTADO_3,25,Resultado de entrevista 3,Nominal
+HORA_INI_4,26,Hora de Inicio 4,Nominal
+FECHA_INI_4,27,Fecha de Inicio 4,Nominal
+HORA_FIN_4,28,Hora de Termino 4,Nominal
+FECHA_FIN_4,29,Fecha de Termino 4,Nominal
+TIEMPO4,30,Duración de la Entrevista 4,Escala
+RESULTADO_4,31,Resultado de entrevista 4,Nominal
+HORA_INI,32,Hora de Inicio,Nominal
+FECHA_INI,33,Fecha de inicio,Nominal
+LOCALIZADO,34,localizado,Nominal
+NOTA1,35,Concentimiento para realizar la entrevista,Nominal
+NOTA1A,36,SECCION I. CARACTERÍSTCAS DE LA VIVIENDA,Nominal
+H0101,37,H0101 ¿De qué material es la mayor parte del techo de esta vivienda?,Nominal
+H0102,38,H0102 ¿De qué material es la mayor parte de las paredes o muros de esta vivienda?,Nominal
+H0103,39,H0103 ¿De qué material es la mayor parte del piso de esta vivienda?,Nominal
+H0104,40,H0104 ¿Cuántos cuartos se usan para dormir sin contar pasillos?,Nominal
+H0105,41,"H0105 En total, ¿cuántos cuartos tiene esta vivienda (no cuente pasillos ni baños)?",Nominal
+H0106,42,H0106 ¿Esta vivienda tiene un cuarto(espacio) para cocinar?,Nominal
+H0107,43,"H0107 Entonces, ¿cocinan los alimentos...",Nominal
+H0108,44,"H0108 ¿En el cuarto (espacio) donde cocinan, también duermen?",Nominal
+H0109,45,H0109 ¿El combustible que más usan para cocinar es...,Nominal
+H0110,46,H0110 ¿Qué tipo de estufa utilizan para cocinar o calentar alimentos?,Nominal
+H0110ESP,47,H0110ESP ESPECIFIQUE:,Nominal
+H0111,48,H0111 ¿Hay luz eléctrica en esta vivienda?,Nominal
+H0112,49,H0112 ¿Esta vivienda tiene agua entubada...,Nominal
+H0113,50,H0113 ¿El agua entubada que llega a su vivienda viene...,Nominal
+H0114,51,"H0114 Entonces, ¿el agua que usan en esta vivienda...",Nominal
+H0114B,52,H114B ¿Tiene algún jabón o detergente o ceniza/barro/arena en el hogar para lavarse las manos?,Nominal
+H0114C,53,"H114C ¿Podría mostrármelo, por favor?",Nominal
+H0114DA,54,H114D  Anote la observación,Nominal
+H0114DB,55,H114D  Anote la observación,Nominal
+H0114DC,56,H114D  Anote la observación,Nominal
+H0114DD,57,H114D  Anote la observación,Nominal
+H0115,58,H0115 ¿Esta vivienda tiene drenaje o desagüe conectado a...,Nominal
+H0117,59,H0117 ¿El servicio sanitario...,Nominal
+H0118,60,H0118 ¿Este servicio sanitario lo comparten con otra vivienda?,Nominal
+H0119,61,H0119 ¿La basura de esta vivienda...,Nominal
+H0120,62,"H0120 Cuando hace frío, ¿usan o hacen algo para calentar la vivienda?",Nominal
+H0121,63,H0121 ¿Qué utilizan para calentar la vivienda?,Nominal
+H0121ESP,64,H0121ESP ESPECIFIQUE:,Nominal
+H0122,65,H0122 ¿Qué combustible usan?,Nominal
+H0123,66,H0123 ¿Esta vivienda...,Nominal
+H0124A,67,H0124A ¿Esta vivienda tiene calentador de agua?,Nominal
+H0124B,68,H0124B ¿Esta vivienda tiene tinaco?,Nominal
+H0124C,69,H0124C ¿Esta vivienda tiene cisterna o aljibe?,Nominal
+H0124D,70,H0124D ¿Esta vivienda tiene medidor de luz?,Nominal
+H0124E,71,H0124E ¿Esta vivienda tiene aire acondicionado?,Nominal
+H0125A,72,"H0125A ¿Usted o alguien de la vivienda tiene otra casa, construcción, inmueble o terreno?",Nominal
+H0125B,73,H0125B ¿Usted o alguien de la vivienda tiene automóvil?,Nominal
+H0125C,74,H0125C ¿Usted o alguien de la vivienda tiene camioneta?,Nominal
+H0125D,75,H0125D ¿Usted o alguien de la vivienda tiene motocicleta o motoneta?,Nominal
+H0125E,76,"H0125E ¿Usted o alguien de la vivienda tiene otro vehículo (como lancha, trajinera o canoa)?",Nominal
+NOTA2,77,SECCIÓN II. IDENTIFICACIÓN DE HOGARES,Nominal
+H0201,78,H0201 ¿Todas las personas que viven en esta vivienda comparten un mismo gasto para comer?,Nominal
+H0202,79,"H0202 ¿Cuántos hogares o grupos de personas tienen gasto separado para comer, contando el de usted?",Nominal
+H0203,80,"H0203 ¿Cuántas personas viven normalmente en esta vivienda,contando a los niños chiquitos y a los ancianos?",Nominal
+H0204,81,H0204 ¿Cuántas personas viven normalmente en este hogar?,Nominal
+H0205,82,H0205 ENTREVISTADOR: Por observación anote si las ventanas de la vivienda se encuentran abiertas,Nominal
+NOTA3,83,SECCIÓN III. CARACTERÍSTICAS SOCIODEMOGRÁFICAS,Nominal
+NUM_INT,84,Numero de Integrantes en el Hogar,Nominal
+H305T,85,H305T Entonces ¿son (integrantes) las personas que integran este hogar?,Nominal
+H305I,86,H305I ¿Nombre del informante?,Nominal
+H0326,87,"H0326 Aproximadamente, ¿Cuánto dinero ganan regularmente todos los miembros del hogar al mes?",Nominal
+NOTA4,88,SECCIÓN 4.- SITUACIÓN DE SALUD Y UTILIZACIÓN DE LOS SERVICIOS DE SALUD,Nominal
+VERI_SELEC,89,VERIFICACION DE SELECCION,Nominal
+NOTA5,90,VER SELECCIONADOS PARA CUESTIONARIOS INDIVIDUALES,Nominal
+NOTA6,91,NOTA6 SECCIÓN VI. OTRAS CARACTERÍSTICAS DEL HOGAR,Nominal
+H0601A,92,H0601A ¿Usted o algún integrante de su hogar tiene  televisión?,Nominal
+H0601B,93,H0601B ¿Usted o algún integrante de su hogar tiene  servicio de TV de paga?,Nominal
+H0601C,94,H0601C ¿Usted o algún integrante de su hogar tiene  radio?,Nominal
+H0601D,95,"H0601D ¿Usted o algún integrante de su hogar tiene  modulares, consola, estéreo o bocina?",Nominal
+H0601E,96,"H0601E ¿Usted o algún integrante de su hogar tiene  computadora de escritorio, laptop o tablet?",Nominal
+H0601F,97,H0601F ¿Usted o algún integrante de su hogar tiene  teléfono celular?,Nominal
+H0601G,98,H0601G ¿Usted o algún integrante de su hogar tiene  servicio de internet?,Nominal
+H0601H,99,H0601H ¿Usted o algún integrante de su hogar tiene  línea telefónica fija?,Nominal
+H0601I,100,H0601I ¿Usted o algún integrante de su hogar tiene  plancha?,Nominal
+H0601J,101,H0601J ¿Usted o algún integrante de su hogar tiene  licuadora?,Nominal
+H0601K,102,H0601K ¿Usted o algún integrante de su hogar tiene  refrigerador?,Nominal
+H0601L,103,H0601L ¿Usted o algún integrante de su hogar tiene  estufa de gas?,Nominal
+H0601M,104,H0601M ¿Usted o algún integrante de su hogar tiene  estufa de otro combustible o parrilla eléctrica?,Nominal
+H0601N,105,H0601N ¿Usted o algún integrante de su hogar tiene  lavadora o secadora?,Nominal
+H0601O,106,H0601O ¿Usted o algún integrante de su hogar tiene  horno de microondas?,Nominal
+INGRESO,107,INGRESO A LA SECCION 7,Nominal
+NOTA7,108,NOTA7 SECCIÓN VII. GASTOS EN EL HOGAR,Nominal
+H0701,109,"GASTOS EN ALIMENTOS, ULTIMOS 7 DIAS En los últimos 7 días, ¿usted o algún miembro del hogar compró alguno de los siguientes productos? INFORMANTE",Nominal
+H070101A,110,CEREALES O DERIVADOS DE CEREALES,Nominal
+H070101B,111,CEREALES O DERIVADOS DE CEREALES,Nominal
+H070101C,112,CEREALES O DERIVADOS DE CEREALES,Nominal
+H070101D,113,CEREALES O DERIVADOS DE CEREALES,Nominal
+H070101E,114,CEREALES O DERIVADOS DE CEREALES,Nominal
+H070101F,115,CEREALES O DERIVADOS DE CEREALES,Nominal
+H070101G,116,CEREALES O DERIVADOS DE CEREALES,Nominal
+H070101H,117,CEREALES O DERIVADOS DE CEREALES,Nominal
+H070201,118,Arroz o maíz en grano,Escala
+H070202,119,Harina,Escala
+H070203,120,"Pan (bolillos, teleras, pan de caja, o pan dulce)",Escala
+H070204,121,Tortillas,Escala
+H070205,122,Pasta de cualquier tipo,Escala
+H070206,123,Cereales de caja,Escala
+H070107E,124,ESPECIFIQUE Otros cereales o derivados de cereales,Nominal
+H070207,125,Otros cereales o derivados de cereales  (ESPECIFIQUE),Escala
+H070108A,126,"TUBÉRCULOS, QUELITES Y HIERBAS DE OLOR",Nominal
+H070108B,127,"TUBÉRCULOS, QUELITES Y HIERBAS DE OLOR",Nominal
+H070108C,128,"TUBÉRCULOS, QUELITES Y HIERBAS DE OLOR",Nominal
+H070108D,129,"TUBÉRCULOS, QUELITES Y HIERBAS DE OLOR",Nominal
+H070108E,130,"TUBÉRCULOS, QUELITES Y HIERBAS DE OLOR",Nominal
+H070208,131,"Papas u otros tipos de tubérculos (camote, rábanos, etc)",Escala
+H070209,132,Hongos o quelites de cualquier tipo,Nominal
+H070210,133,"Cilantro, Perejil , Epazote o cualquier tipo de hierba de olor",Escala
+H070111E,134,"ESPECIFIQUE Otros tubérculos, quelites o hierbas de olor",Nominal
+H070211,135,"Otros tubérculos, quelites o hierbas de olor  (ESPECIFIQUE)",Escala
+H070112A,136,LEGUMBRES Y NUECES,Nominal
+H070112B,137,LEGUMBRES Y NUECES,Nominal
+H070112C,138,LEGUMBRES Y NUECES,Nominal
+H070112D,139,LEGUMBRES Y NUECES,Nominal
+H070112E,140,LEGUMBRES Y NUECES,Nominal
+H070112F,141,LEGUMBRES Y NUECES,Nominal
+H070112G,142,LEGUMBRES Y NUECES,Nominal
+H070112H,143,LEGUMBRES Y NUECES,Nominal
+H070212,144,"Frijoles, lentejas, habas o garbanzos",Escala
+H070213,145,Chícharos o ejotes,Escala
+H070214,146,Soya,Nominal
+H070215,147,"Nueces, almendras o cacahuates",Escala
+H070216,148,Semillas de cualquier tipo,Escala
+H070117E,149,ESPECIFIQUE Otras legumbres,Nominal
+H070217,150,Otras legumbres  (ESPECIFIQUE),Escala
+H070118E,151,ESPECIFIQUE Otros tipo de nueces o semillas,Nominal
+H070218,152,Otros tipo de nueces o semillas  (ESPECIFIQUE),Escala
+H070119A,153,VERDURAS,Nominal
+H070119B,154,VERDURAS,Nominal
+H070119C,155,VERDURAS,Nominal
+H070119D,156,VERDURAS,Nominal
+H070119E,157,VERDURAS,Nominal
+H070119F,158,VERDURAS,Nominal
+H070119G,159,VERDURAS,Nominal
+H070119H,160,VERDURAS,Nominal
+H070119I,161,VERDURAS,Nominal
+H070119J,162,VERDURAS,Nominal
+H070119K,163,VERDURAS,Nominal
+H070119L,164,VERDURAS,Nominal
+H070119M,165,VERDURAS,Nominal
+H070119N,166,VERDURAS,Nominal
+H070119O,167,VERDURAS,Nominal
+H070119P,168,VERDURAS,Nominal
+H070119Q,169,VERDURAS,Nominal
+H070219,170,Jitomates,Escala
+H070220,171,Tomates verdes o tomatillos,Escala
+H070221,172,Chiles frescos o secos,Escala
+H070222,173,Lechugas de cualquier tipo,Escala
+H070223,174,Cebollas o cebollín,Escala
+H070224,175,Ajo,Escala
+H070225,176,Pimientos de cualquier tipo,Escala
+H070226,177,Calabacitas,Escala
+H070227,178,Zanahorias,Escala
+H070228,179,Chayotes,Escala
+H070229,180,Elotes,Escala
+H070230,181,Pepinos,Escala
+H070231,182,Jícamas,Escala
+H070232,183,Coliflor de cualquier tipo o col de cualquier tipo,Escala
+H070233,184,Espinacas o acelgas,Escala
+H070134E,185,ESPECIFIQUE Otras verduras,Nominal
+H070234,186,Otras verduras     (ESPECIFIQUE),Escala
+H070135A,187,FRUTAS,Nominal
+H070135B,188,FRUTAS,Nominal
+H070135C,189,FRUTAS,Nominal
+H070135D,190,FRUTAS,Nominal
+H070135E,191,FRUTAS,Nominal
+H070135F,192,FRUTAS,Nominal
+H070135G,193,FRUTAS,Nominal
+H070135H,194,FRUTAS,Nominal
+H070135I,195,FRUTAS,Nominal
+H070135J,196,FRUTAS,Nominal
+H070135K,197,FRUTAS,Nominal
+H070135L,198,FRUTAS,Nominal
+H070135M,199,FRUTAS,Nominal
+H070135N,200,FRUTAS,Nominal
+H070235,201,Manzanas o peras,Escala
+H070236,202,"Limones, naranjas, mandarinas o limas",Escala
+H070237,203,Plátanos,Escala
+H070238,204,Melones de cualquier tipo,Escala
+H070239,205,Sandías,Escala
+H070240,206,Piñas,Nominal
+H070241,207,Mangos,Nominal
+H070242,208,Papayas,Escala
+H070243,209,"Durazos, nectarinas, tejocotes",Escala
+H070244,210,Fresas,Escala
+H070245,211,Uvas,Escala
+H070246,212,Aguacates,Escala
+H070147E,213,ESPECIFIQUE Otras frutas,Nominal
+H070247,214,Otras frutas  (ESPECIFIQUE),Escala
+H070148A,215,"CARNES, PESCADOS Y MARISCOS",Nominal
+H070148B,216,"CARNES, PESCADOS Y MARISCOS",Nominal
+H070148C,217,"CARNES, PESCADOS Y MARISCOS",Nominal
+H070148D,218,"CARNES, PESCADOS Y MARISCOS",Nominal
+H070148E,219,"CARNES, PESCADOS Y MARISCOS",Nominal
+H070248,220,"Carne roja de cualquier tipo (res, cerdo, etc.)",Escala
+H070249,221,"Pollo, pavo, guajolote o cualquier tipo de carne blanca",Escala
+H070250,222,Cualquier tipo de pescado,Escala
+H070251,223,Cualquier tipo de mariscos,Escala
+H070152E,224,"ESPECIFIQUE Otro tipo de carnes, pescados o mariscos",Nominal
+H070252,225,"Otro tipo de carnes, pescados o mariscos (ESPECIFIQUE)",Escala
+H070153A,226,PRODUCTOS LÁCTEOS Y HUEVO,Nominal
+H070153B,227,PRODUCTOS LÁCTEOS Y HUEVO,Nominal
+H070153C,228,PRODUCTOS LÁCTEOS Y HUEVO,Nominal
+H070153D,229,PRODUCTOS LÁCTEOS Y HUEVO,Nominal
+H070153E,230,PRODUCTOS LÁCTEOS Y HUEVO,Nominal
+H070253,231,Huevos,Escala
+H070254,232,Leche,Escala
+H070255,233,"lácteos como quesos, cremas o yogur",Escala
+H070156E,234,ESPECIFIQUE Otros productos lácteos,Nominal
+H070256,235,Otros productos lácteos   (ESPECIFIQUE),Escala
+H070157A,236,ACEITES Y GRASAS,Nominal
+H070157B,237,ACEITES Y GRASAS,Nominal
+H070157C,238,ACEITES Y GRASAS,Nominal
+H070157D,239,ACEITES Y GRASAS,Nominal
+H070257,240,Aceite o manteca para cocinar (de cualquier tipo),Escala
+H070258,241,Margarina o mantequilla,Escala
+H070159E,242,ESPECIFIQUE Otro tipo de aceites y grasas,Nominal
+H070259,243,Otro tipo de aceites y grasas (ESPECIFIQUE),Escala
+H070160A,244,AZÚCARES,Nominal
+H070160B,245,AZÚCARES,Nominal
+H070160C,246,AZÚCARES,Nominal
+H070160D,247,AZÚCARES,Nominal
+H070160E,248,AZÚCARES,Nominal
+H070160F,249,AZÚCARES,Nominal
+H070160G,250,AZÚCARES,Nominal
+H070261,251,Azúcar refinada o no refinada,Escala
+H070262,252,"Edulcorantes artificiales (canderel, splenda, stevia, etc.)",Escala
+H070263,253,Miel de abeja,Escala
+H070264,254,"Piloncillo o jarabes de cualquier tipo (maple, miel caro, etc.)",Nominal
+H070265,255,"Cajeta, leche condesada u otros endulzantes",Escala
+H070166E,256,ESPECIFIQUE Otros endulzantes,Nominal
+H070266,257,Otros endulzantes (ESPECIFIQUE),Nominal
+H070167A,258,CONDIMENTOS,Nominal
+H070167B,259,CONDIMENTOS,Nominal
+H070167C,260,CONDIMENTOS,Nominal
+H070167D,261,CONDIMENTOS,Nominal
+H070167E,262,CONDIMENTOS,Nominal
+H070167F,263,CONDIMENTOS,Nominal
+H070167G,264,CONDIMENTOS,Nominal
+H070167H,265,CONDIMENTOS,Nominal
+H070267,266,Sal,Nominal
+H070268,267,"Especias (pimienta, comino, clavo, etc.)",Nominal
+H070269,268,"Hierbas aromáticas (laurel, salvia, orégano, etc.)",Nominal
+H070270,269,Vinagre,Escala
+H070271,270,"Sazonador en polvo (caldo de pollo, caldo de res, etc.)",Nominal
+H070272,271,"Salsas (soya, inglesa, picantes, etc.)",Escala
+H070173E,272,ESPECIFIQUE Otros condimentos,Nominal
+H070273,273,Otros condimentos (ESPECIFIQUE),Nominal
+H070174A,274,DULCES Y BOTANAS,Nominal
+H070174B,275,DULCES Y BOTANAS,Nominal
+H070174C,276,DULCES Y BOTANAS,Nominal
+H070174D,277,DULCES Y BOTANAS,Nominal
+H070174E,278,DULCES Y BOTANAS,Nominal
+H070274,279,"Dulces y caramelos (chocolates, caramelos, gomitas, etc.)",Escala
+H070275,280,Pastelitos y galletas,Escala
+H070276,281,"Botanas saladas (papitas, cacahuates, chicharrones, churritos, etc.)",Nominal
+H070177E,282,ESPECIFIQUE Otras botanas o dulces,Nominal
+H070277,283,Otras botanas o dulces (ESPECIFIQUE),Nominal
+H070178A,284,BEBIDAS,Nominal
+H070178B,285,BEBIDAS,Nominal
+H070178C,286,BEBIDAS,Nominal
+H070178D,287,BEBIDAS,Nominal
+H070178E,288,BEBIDAS,Nominal
+H070178F,289,BEBIDAS,Nominal
+H070178G,290,BEBIDAS,Nominal
+H070178H,291,BEBIDAS,Nominal
+H070278,292,Agua embotellada o de garrafón,Escala
+H070279,293,Tés o infusiones,Nominal
+H070280,294,Café,Escala
+H070281,295,Refrescos o bebidas artificiales,Escala
+H070282,296,Jugos naturales,Escala
+H070283,297,"Cerveza, vino o licor",Escala
+H070184E,298,ESPECIFIQUE Otras bebidas,Nominal
+H070284,299,Otras bebidas (ESPECIFIQUE),Nominal
+H070185A,300,ALIMENTOS PROCESADOS O PREPARADOS,Nominal
+H070185B,301,ALIMENTOS PROCESADOS O PREPARADOS,Nominal
+H070185C,302,ALIMENTOS PROCESADOS O PREPARADOS,Nominal
+H070185D,303,ALIMENTOS PROCESADOS O PREPARADOS,Nominal
+H070185E,304,ALIMENTOS PROCESADOS O PREPARADOS,Nominal
+H070285,305,Comida preparada para microondas o congelada,Escala
+H070286,306,Comida a domicilio de cualquier tipo,Escala
+H070287,307,Comida preparada consumida en el hogar  [NO INCLUIR COMIDA CONSUMIDA FUERA DE CASA],Escala
+H070188E,308,ESPECIFIQUE Otros alimentos preparados fuera de casa,Nominal
+H070288,309,Otros alimentos preparados fuera de casa (ESPECIFIQUE),Nominal
+H070189A,310,CONSUMO DE ALIMENTOS FUERA DE CASA,Nominal
+H070189B,311,CONSUMO DE ALIMENTOS FUERA DE CASA,Nominal
+H070189C,312,CONSUMO DE ALIMENTOS FUERA DE CASA,Nominal
+H070189D,313,CONSUMO DE ALIMENTOS FUERA DE CASA,Nominal
+H070189E,314,CONSUMO DE ALIMENTOS FUERA DE CASA,Nominal
+H070289,315,"Comidas en restaurantes, fondas, o cocinas económicas",Escala
+H070290,316,Comidas o botanas en puestos callejeros o tienditas,Escala
+H070291,317,Bebidas de cualquier tipo compradas en puestos o tienditas,Escala
+H070192E,318,ESPECIFIQUE Otro tipo de comida o bebida consumida fuera de casa por cualquier miembro del hogar,Nominal
+H070292,319,Otro tipo de comida o bebida consumida fuera de casa por cualquier miembro del hogar (ESPECIFIQUE),Escala
+H0703,320,"GASTOS NO ALIMENTARIO, MENSUAL  En las últimas 4 semanas, ¿usted o alguien en este hogar gastó en, o estuvo pagando, alguno de los siguientes servicios o artículos que le voy a mencionar?  INFORMANTE",Nominal
+H070301A,321,TABACO O CIGARROS,Nominal
+H070301B,322,TABACO O CIGARROS,Nominal
+H070401,323,Cigarros o tabaco,Escala
+H070302A,324,RENTAS Y SERVICIOS,Nominal
+H070302B,325,RENTAS Y SERVICIOS,Nominal
+H070302C,326,RENTAS Y SERVICIOS,Nominal
+H070302D,327,RENTAS Y SERVICIOS,Nominal
+H070302E,328,RENTAS Y SERVICIOS,Nominal
+H070302F,329,RENTAS Y SERVICIOS,Nominal
+H070302G,330,RENTAS Y SERVICIOS,Nominal
+H070302H,331,RENTAS Y SERVICIOS,Nominal
+H070302I,332,RENTAS Y SERVICIOS,Nominal
+H070302J,333,RENTAS Y SERVICIOS,Nominal
+H070302K,334,RENTAS Y SERVICIOS,Nominal
+H070302L,335,RENTAS Y SERVICIOS,Nominal
+H070402,336,Renta,Escala
+H070403,337,Hipotecas o créditos,Escala
+H070404,338,Pago de agua,Escala
+H070405,339,Pago de luz,Escala
+H070406,340,Pago de gas,Escala
+H070407,341,Compra de leña u otros combustibles para cocinar,Nominal
+H070408,342,Pago por recolección de basura,Nominal
+H070409,343,"Televisión por cable, satelital",Nominal
+H070410,344,Internet y teléfono fijo,Escala
+H070411,345,Pago de celulares,Escala
+H070312E,346,ESPECIFIQUE Otro pago de servicios o créditos en este hogar,Nominal
+H070412,347,Otro pago de servicios o créditos en este hogar (ESPECIFIQUE),Escala
+H070313A,348,TRANSPORTE,Nominal
+H070313B,349,TRANSPORTE,Nominal
+H070313C,350,TRANSPORTE,Nominal
+H070313D,351,TRANSPORTE,Nominal
+H070413,352,"Transporte público como taxi, colectivo, combi, autobús, metro, etc, para transportarse al trabajo o a la escuela",Escala
+H070414,353,"Autobuses foráneos, aviones, barcos o trenes para viajes extraordinarios (vacaciones, eventos sociales, etc.)",Nominal
+H070315E,354,ESPECIFIQUE Otros gastos para transportarse,Nominal
+H070415,355,Otros gastos para transportarse (ESPECIFIQUE),Escala
+H070316,356,"HIGIENE PERSONAL, LIMPIEZA Y MANTENIMIENTO DEL HOGAR",Nominal
+H070316A,357,"HIGIENE PERSONAL, LIMPIEZA Y MANTENIMIENTO DEL HOGAR",Nominal
+H070316B,358,"HIGIENE PERSONAL, LIMPIEZA Y MANTENIMIENTO DEL HOGAR",Nominal
+H070316C,359,"HIGIENE PERSONAL, LIMPIEZA Y MANTENIMIENTO DEL HOGAR",Nominal
+H070316D,360,"HIGIENE PERSONAL, LIMPIEZA Y MANTENIMIENTO DEL HOGAR",Nominal
+H070316E,361,"HIGIENE PERSONAL, LIMPIEZA Y MANTENIMIENTO DEL HOGAR",Nominal
+H070316F,362,"HIGIENE PERSONAL, LIMPIEZA Y MANTENIMIENTO DEL HOGAR",Nominal
+H070316G,363,"HIGIENE PERSONAL, LIMPIEZA Y MANTENIMIENTO DEL HOGAR",Nominal
+H070316H,364,"HIGIENE PERSONAL, LIMPIEZA Y MANTENIMIENTO DEL HOGAR",Nominal
+H070316I,365,"HIGIENE PERSONAL, LIMPIEZA Y MANTENIMIENTO DEL HOGAR",Nominal
+H070316J,366,"HIGIENE PERSONAL, LIMPIEZA Y MANTENIMIENTO DEL HOGAR",Nominal
+H070416,367,"Productos de higiene personal (jabón, shampoo, pasta de dientes, desodorantes, cremas, etc.)",Escala
+H070417,368,"Cosméticos, algodones, toallitas limpiadoras",Escala
+H070418,369,"Papel de baño, pañuelos, toallas sanitarias",Escala
+H070419,370,Servicios de peluquería o salón de belleza,Escala
+H070420,371,Pañales,Escala
+H070421,372,Detergentes y productos de limpieza para la casa,Escala
+H070422,373,"Tintorería, lavandería, pago de planchado y lavado",Escala
+H070423,374,"Pago de mantenimiento en la vivienda (limpieza, jardinería, etc)",Escala
+H070324E,375,ESPECIFIQUE Otros productos o servicios de higiene personal o limpieza del hogar,Nominal
+H070424,376,Otros productos o servicios de higiene personal o limpieza del hogar (ESPECIFIQUE),Escala
+H0705,377,"GASTOS NO ALIMENTARIO, TRIMESTRAL  En los últimos 3 meses, ¿usted o alguien en este hogar gastó en, o estuvo pagando, alguno de los siguientes servicios o artículos que le voy a mencionar?  INFORMANTE",Nominal
+H070501A,378,CONSULTA EXTERNA (NO HOSPITALARIA NI DE EMBARAZO),Nominal
+H070501B,379,CONSULTA EXTERNA (NO HOSPITALARIA NI DE EMBARAZO),Nominal
+H070501C,380,CONSULTA EXTERNA (NO HOSPITALARIA NI DE EMBARAZO),Nominal
+H070501D,381,CONSULTA EXTERNA (NO HOSPITALARIA NI DE EMBARAZO),Nominal
+H070501E,382,CONSULTA EXTERNA (NO HOSPITALARIA NI DE EMBARAZO),Nominal
+H070501F,383,CONSULTA EXTERNA (NO HOSPITALARIA NI DE EMBARAZO),Nominal
+H070601,384,Consultas con médico general,Nominal
+H070602,385,"Consultas con médico especialista (pediatría y ginecología, etc.)",Escala
+H070603,386,"Consultas dentales (placas dentales o prótesis dentales, etc.)",Escala
+H070604,387,"Análisis clínicos y estudios médicos: rayos X, tamiz, exudados, etc.",Nominal
+H070605,388,"Consultas con curandero, huesero, quiropráctico, etcétera",Escala
+H0705EMB,389,¿Alguna persona del hogar ha estado embarazada durante los últimos tres meses?,Nominal
+H070506A,390,SERVICIOS MÉDICOS DURANTE EL PARTO,Nominal
+H070506B,391,SERVICIOS MÉDICOS DURANTE EL PARTO,Nominal
+H070506C,392,SERVICIOS MÉDICOS DURANTE EL PARTO,Nominal
+H070506D,393,SERVICIOS MÉDICOS DURANTE EL PARTO,Nominal
+H070506E,394,SERVICIOS MÉDICOS DURANTE EL PARTO,Nominal
+H070506F,395,SERVICIOS MÉDICOS DURANTE EL PARTO,Nominal
+H070506G,396,SERVICIOS MÉDICOS DURANTE EL PARTO,Nominal
+H070606,397,"Honorarios por servicios profesionales: cirugía, anestesia, etcétera",Nominal
+H070607,398,Hospitalización,Nominal
+H070608,399,"Análisis clínicos y estudios médicos: rayos X, ultrasonido, etcétera",Escala
+H070609,400,Medicamentos recetados y material de curación,Escala
+H070610,401,Servicio de partera,Nominal
+H070511E,402,"ESPECIFIQUE Otros servicios como ambulancia, etcétera",Nominal
+H070611,403,"Otros servicios como ambulancia, etcétera (ESPECIFIQUE)",Nominal
+H070512A,404,MEDICAMENTOS,Nominal
+H070512B,405,MEDICAMENTOS,Nominal
+H070512C,406,MEDICAMENTOS,Nominal
+H070512D,407,MEDICAMENTOS,Nominal
+H070512E,408,MEDICAMENTOS,Nominal
+H070512F,409,MEDICAMENTOS,Nominal
+H070512G,410,MEDICAMENTOS,Nominal
+H070512H,411,MEDICAMENTOS,Nominal
+H070512I,412,MEDICAMENTOS,Nominal
+H070512J,413,MEDICAMENTOS,Nominal
+H070512K,414,MEDICAMENTOS,Nominal
+H070512L,415,MEDICAMENTOS,Nominal
+H070512M,416,MEDICAMENTOS,Nominal
+H070512N,417,MEDICAMENTOS,Nominal
+H070512O,418,MEDICAMENTOS,Nominal
+H070512P,419,MEDICAMENTOS,Nominal
+H070512Q,420,MEDICAMENTOS,Nominal
+H070612,421,"Diarrea, infecciones y malestar estomacal",Escala
+H070613,422,Gripe,Escala
+H070614,423,Piel,Escala
+H070615,424,Alergias,Escala
+H070616,425,Tos,Escala
+H070617,426,Infecciones de la garganta,Nominal
+H070618,427,Fiebre,Escala
+H070619,428,Inflamación,Escala
+H070620,429,Otras infecciones (antibióticos),Escala
+H070621,430,Dolor de cabeza y migraña,Nominal
+H070622,431,Otro tipo de dolores,Escala
+H070623,432,Presión arterial,Escala
+H070624,433,Diabetes,Escala
+H070625,434,Vitaminas,Escala
+H070626,435,Anticonceptivos,Nominal
+H070527E,436,ESPECIFIQUE Otros medicamentos con receta,Nominal
+H070627,437,Otros medicamentos con receta (ESPECIFIQUE),Escala
+H070528A,438,ATENCIÓN HOSPITALARIA (NO INCLUYE PARTO),Nominal
+H070528B,439,ATENCIÓN HOSPITALARIA (NO INCLUYE PARTO),Nominal
+H070528C,440,ATENCIÓN HOSPITALARIA (NO INCLUYE PARTO),Nominal
+H070528D,441,ATENCIÓN HOSPITALARIA (NO INCLUYE PARTO),Nominal
+H070528E,442,ATENCIÓN HOSPITALARIA (NO INCLUYE PARTO),Nominal
+H070528F,443,ATENCIÓN HOSPITALARIA (NO INCLUYE PARTO),Nominal
+H070528G,444,ATENCIÓN HOSPITALARIA (NO INCLUYE PARTO),Nominal
+H070628,445,"Honorarios por servicios profesionales: cirujano, anestesista, etc.",Escala
+H070629,446,Hospitalización,Escala
+H070630,447,"Análisis clínicos y estudios médicos (rayos X, electros, etc.)",Escala
+H070631,448,Medicamentos recetados y material de curación,Escala
+H070632,449,"Otros: servicio de ambulancia, oxígeno, suero, sondas, bolsas de diálisis y de orina, cómodos, etc.",Escala
+H070633,450,"Medicamentos naturistas, hierbas medicinales, remedios caseros",Escala
+H070634,451,Medicamentos homeopáticos,Nominal
+H070535A,452,APARATOS ORTOPÉDICOS Y TERAPÉUTICOS,Nominal
+H070535B,453,APARATOS ORTOPÉDICOS Y TERAPÉUTICOS,Nominal
+H070535C,454,APARATOS ORTOPÉDICOS Y TERAPÉUTICOS,Nominal
+H070535D,455,APARATOS ORTOPÉDICOS Y TERAPÉUTICOS,Nominal
+H070635,456,Anteojos y lentes de contacto,Escala
+H070636,457,Aparatos para sordera,Nominal
+H070637,458,"Aparatos ortopédicos y para terapia, silla de ruedas, andadera, muletas, etcétera",Escala
+H070538E,459,"ESPECIFIQUEOtros: pago de enfermeras y personal al cuidado de enfermos, terapias, etcétera",Nominal
+H070638,460,"Otros: pago de enfermeras y personal al cuidado de enfermos, terapias, etcétera (ESPECIFIQUE)",Nominal
+H070539A,461,SEGURO MÉDICO,Nominal
+H070539B,462,SEGURO MÉDICO,Nominal
+H070539C,463,SEGURO MÉDICO,Nominal
+H070539D,464,SEGURO MÉDICO,Nominal
+H070639,465,Cuotas a hospitales y clínicas,Escala
+H070640,466,Cuotas a compañías de seguros,Escala
+H070641,467,Cuotas a seguro popular,Nominal
+H0707,468,"GASTOS NO ALIMENTARIO, SEMESTRAL En los últimos  6 meses, ¿usted o alguien en este hogar gastó en, o estuvo pagando, alguno de los siguientes servicios o artículos que le voy a mencionar?  INFORMANTE",Nominal
+H070701A,469,ROPA Y CALZADO,Nominal
+H070701B,470,ROPA Y CALZADO,Nominal
+H070701C,471,ROPA Y CALZADO,Nominal
+H070701D,472,ROPA Y CALZADO,Nominal
+H070801,473,Ropa y zapatos para miembros del hogar,Escala
+H070802,474,Costo de reparación de calzado y ropa,Escala
+H070703E,475,ESPECIFIQUE Otros gastos relacionados con calzado y ropa,Nominal
+H070803,476,Otros gastos relacionados con calzado y ropa (ESPECIFIQUE),Nominal
+H070704A,477,VIVIENDA,Nominal
+H070704B,478,VIVIENDA,Nominal
+H070704C,479,VIVIENDA,Nominal
+H070704D,480,VIVIENDA,Nominal
+H070704E,481,VIVIENDA,Nominal
+H070704F,482,VIVIENDA,Nominal
+H070704G,483,VIVIENDA,Nominal
+H070804,484,"Muebles para el hogar como sillas, mesas, sillones, camas, etc.",Escala
+H070805,485,"Utensilios de cocina y comedor (platos, vasos, cubiertos, cacerolas, sartenes, etc.)",Escala
+H070806,486,"Accesorios para baño y recámara (toallas, sábanas, cobijas, cobertores, etc.)",Escala
+H070807,487,"Materiales de construcción (cemento, tabique, madera, etc.)",Escala
+H070808,488,"Reparación y mantenimiento de la vivienda (servicios de albañilería, plomería, pintura, etc.)",Escala
+H070709E,489,ESPECIFIQUE Otros costos en la vivienda,Nominal
+H070809,490,Otros costos en la vivienda (ESPECIFIQUE),Escala
+H070710A,491,OTROS BIENES Y SERVICIOS DE MANTENIMIENTO,Nominal
+H070710B,492,OTROS BIENES Y SERVICIOS DE MANTENIMIENTO,Nominal
+H070710C,493,OTROS BIENES Y SERVICIOS DE MANTENIMIENTO,Nominal
+H070710D,494,OTROS BIENES Y SERVICIOS DE MANTENIMIENTO,Nominal
+H070710E,495,OTROS BIENES Y SERVICIOS DE MANTENIMIENTO,Nominal
+H070710F,496,OTROS BIENES Y SERVICIOS DE MANTENIMIENTO,Nominal
+H070710G,497,OTROS BIENES Y SERVICIOS DE MANTENIMIENTO,Nominal
+H070710H,498,OTROS BIENES Y SERVICIOS DE MANTENIMIENTO,Nominal
+H070810,499,"Vehículos como autos, motocicletas, bicicletas, etc.",Escala
+H070811,500,"Reparación y mantenimiento de vehículos (servicio del coche, taller mecánico, verificación, etc.)",Escala
+H070812,501,"Artículos electrónicos (computadora, celular, tabletas, televisión, etc.)",Escala
+H070813,502,"Electrodomésticos (lavadora, refrigerador, plancha, aspiradora, horno de microondas, lavaplatos, etc.)",Escala
+H070814,503,"Artículos de joyería, relojería o accesorios (bolsas, carteras, alhajas, cinturones, aretes, etc.)",Escala
+H070715E,504,ESPECIFIQUE Otros aparatos eléctricos,Nominal
+H070815,505,Otros aparatos eléctricos (ESPECIFIQUE),Nominal
+H070716E,506,ESPECIFIQUE Otros servicios de reparación y mantenimiento,Nominal
+H070816,507,Otros servicios de reparación y mantenimiento (ESPECIFIQUE),Nominal
+H070717A,508,GASTOS ESCOLARES,Nominal
+H070717B,509,GASTOS ESCOLARES,Nominal
+H070717C,510,GASTOS ESCOLARES,Nominal
+H070717D,511,GASTOS ESCOLARES,Nominal
+H070717E,512,GASTOS ESCOLARES,Nominal
+H070717F,513,GASTOS ESCOLARES,Nominal
+H070817,514,Colegiaturas,Escala
+H070818,515,Inscripción,Escala
+H070819,516,Uniformes,Escala
+H070820,517,"Material escolar (libros, libretas, lápices, plumas, etc.)",Escala
+H070721E,518,ESPECIFIQUE Otros costos escolares,Nominal
+H070821,519,"Otros costos escolares (cuotas, viajes escolares, etc.) (ESPECIFIQUE)",Escala
+H070722,520,"CULTURA, ENTRETENIMIENTO Y EVENTOS ESPECIALES",Nominal
+H070722A,521,"CULTURA, ENTRETENIMIENTO Y EVENTOS ESPECIALES",Nominal
+H070722B,522,"CULTURA, ENTRETENIMIENTO Y EVENTOS ESPECIALES",Nominal
+H070722C,523,"CULTURA, ENTRETENIMIENTO Y EVENTOS ESPECIALES",Nominal
+H070722D,524,"CULTURA, ENTRETENIMIENTO Y EVENTOS ESPECIALES",Nominal
+H070722E,525,"CULTURA, ENTRETENIMIENTO Y EVENTOS ESPECIALES",Nominal
+H070722F,526,"CULTURA, ENTRETENIMIENTO Y EVENTOS ESPECIALES",Nominal
+H070722G,527,"CULTURA, ENTRETENIMIENTO Y EVENTOS ESPECIALES",Nominal
+H070822,528,"Libros, DVD, discos, juegos de mesa, revistas, periódicos, etc.",Escala
+H070823,529,"Salidas al teatro, cine, eventos culturales y musicales (conciertos, festivales, museos, etc.)",Escala
+H070824,530,"Bodas, quince años, bautizos, fiestas de cumpleaños, mayordomías, etc.",Escala
+H070825,531,Funerales,Nominal
+H070826,532,"Viajes, vacaciones, etc.",Nominal
+H070727E,533,ESPECIFIQUE Otros eventos especiales,Nominal
+H070827,534,Otros eventos especiales (ESPECIFIQUE),Nominal
+H070901,535,RECURSO FINANCIERO,Nominal
+H070901A,536,RECURSO FINANCIERO,Nominal
+H070901B,537,RECURSO FINANCIERO,Nominal
+H070901C,538,RECURSO FINANCIERO,Nominal
+H070901D,539,RECURSO FINANCIERO,Nominal
+H070901E,540,RECURSO FINANCIERO,Nominal
+H070901F,541,RECURSO FINANCIERO,Nominal
+H070901G,542,RECURSO FINANCIERO,Nominal
+H071001,543,"ahorros (cuentas bancarias, tandas, etcétera)?",Escala
+H071002,544,"venta de propiedades, muebles o animales?",Escala
+H071003,545,empeño de bienes?,Escala
+H071004,546,préstamos o envíos de dinero de familiares u otras personas fuera del hogar?,Escala
+H071005,547,crédito bancario?,Escala
+H070906E,548,ESPECIFIQUE Otros eventos especiales,Nominal
+H071006,549,otro recurso financiero (especifica)?,Escala
+NOTA8,550,NOTA 8 SECCIÓN 8. SEGURIDAD ALIMENTARIA,Nominal
+H0801,551,"H0801 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez usted se preocupó de que los alimentos se acabaran en su hogar?",Nominal
+H0802,552,"H0802 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez en su hogar se quedaron sin alimentos?",Nominal
+H0803,553,"H0803 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez en su hogar dejaron de tener una alimentación saludable, nutritiva, balanceada, equilibrada?",Nominal
+H0804,554,"H0804 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez usted o algún adulto en su hogar tuvo una alimentación basada en poca variedad de alimentos?",Nominal
+H0805,555,"H0805 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez usted o algún adulto en su hogar dejó de desayunar, comer, almorzar o cenar?",Nominal
+H0806,556,"H0806 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez usted o algún adulto en su hogar comió menos de lo que debía comer?",Nominal
+H0807,557,"H0807 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez usted o algún adulto en su hogar sintió hambre pero no comió?",Nominal
+H0808,558,"H0808 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez usted o algún adulto en su hogar solo comió una vez al día o dejó de comer todo un día?",Nominal
+H0809,559,H0809 ¿En su hogar viven personas menores de 18 años?,Nominal
+H0810,560,"H0810 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez algún menor de 18 años en su hogar dejó de tener una alimentación saludable, nutritiva, balanceada, equilibrada?",Nominal
+H0811,561,"H0811 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez algún menor de 18 años en su hogar tuvo una alimentación basada en poca variedad de alimentos?",Nominal
+H0812,562,"H0812 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez algún menor de 18 años en su hogar dejó de desayunar, comer, almorzar o cenar?",Nominal
+H0813,563,"H0813 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez algún menor de 18 años en su hogar comió menos de lo que debía?",Nominal
+H0814,564,"H0814 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez tuvieron que disminuir la cantidad servida en las comidas a algún menor de 18 años en su hogar?",Nominal
+H0815,565,"H0815 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez algún menor de 18 años en su hogar sintió hambre pero no comió?",Nominal
+H0816,566,"H0816 En los últimos tres meses, por falta de dinero u otros recursos, ¿alguna vez algún menor de 18 años en su hogar solo comió una vez al día o dejó de comer todo un día?",Nominal
+NOTA9,567,NOTA9 GRUPOS DE RIESGO PARA ENFERMAR POR COVID-19 Y FACTORES DE RIESGO,Nominal
+H0900,568,H0900 ENTREVISTADOR: Anote el nombre y número de registro del ADULTO que responde,Nominal
+H0901A,569,"H0901A En su hogar, habitan personas de 60 años y más?",Nominal
+H0901AA,570,H0901AA Cuántas personas,Nominal
+H0901B,571,"H0901B En su hogar, habitan menores de 5 años?",Nominal
+H0901BB,572,H0901BB Cuántas personas,Nominal
+H0901C,573,"H0901C En su hogar, habitan embarazadas?",Nominal
+H0901CC,574,H0901CC Cuántas personas,Nominal
+NOTA10,575,NOTA10 SECCIÓN X. CONOCIMIENTO Y MEDIDAS DE MITIGACIÓN ANTE EL COVID-19,Nominal
+H1001,576,H1001 ¿Sabe qué es el COVID-19?,Nominal
+H1001E,577,H1001E ESPECIFIQUE,Nominal
+H1002A,578,H1002 ¿Qué medidas previenen el COVID?,Nominal
+H1002B,579,H1002 ¿Qué medidas previenen el COVID?,Nominal
+H1002C,580,H1002 ¿Qué medidas previenen el COVID?,Nominal
+H1002D,581,H1002 ¿Qué medidas previenen el COVID?,Nominal
+H1002E,582,H1002 ¿Qué medidas previenen el COVID?,Nominal
+H1002F,583,H1002 ¿Qué medidas previenen el COVID?,Nominal
+H1002G,584,H1002 ¿Qué medidas previenen el COVID?,Nominal
+H1002H,585,H1002 ¿Qué medidas previenen el COVID?,Nominal
+H1002I,586,H1002 ¿Qué medidas previenen el COVID?,Nominal
+H1003A,587,"H1003 De las medidas que mencionó como prevención del COVID, ¿cuáles adoptó con mayor frecuencia  durante el confinamiento del 23 de marzo al 31 de mayo del 2020?",Nominal
+H1003B,588,"H1003 De las medidas que mencionó como prevención del COVID, ¿cuáles adoptó con mayor frecuencia  durante el confinamiento del 23 de marzo al 31 de mayo del 2020?",Nominal
+H1003C,589,"H1003 De las medidas que mencionó como prevención del COVID, ¿cuáles adoptó con mayor frecuencia  durante el confinamiento del 23 de marzo al 31 de mayo del 2020?",Nominal
+H1003D,590,"H1003 De las medidas que mencionó como prevención del COVID, ¿cuáles adoptó con mayor frecuencia  durante el confinamiento del 23 de marzo al 31 de mayo del 2020?",Nominal
+H1003E,591,"H1003 De las medidas que mencionó como prevención del COVID, ¿cuáles adoptó con mayor frecuencia  durante el confinamiento del 23 de marzo al 31 de mayo del 2020?",Nominal
+H1003F,592,"H1003 De las medidas que mencionó como prevención del COVID, ¿cuáles adoptó con mayor frecuencia  durante el confinamiento del 23 de marzo al 31 de mayo del 2020?",Nominal
+H1003G,593,"H1003 De las medidas que mencionó como prevención del COVID, ¿cuáles adoptó con mayor frecuencia  durante el confinamiento del 23 de marzo al 31 de mayo del 2020?",Nominal
+H1003H,594,"H1003 De las medidas que mencionó como prevención del COVID, ¿cuáles adoptó con mayor frecuencia  durante el confinamiento del 23 de marzo al 31 de mayo del 2020?",Nominal
+H1003I,595,"H1003 De las medidas que mencionó como prevención del COVID, ¿cuáles adoptó con mayor frecuencia  durante el confinamiento del 23 de marzo al 31 de mayo del 2020?",Nominal
+H1004A,596,H1004 Durante el confinamiento del 23 de marzo al 31 de mayo del 2020 ¿Usted/Nombre tuvo que salir de casa con frecuencia por?.,Nominal
+H1004B,597,H1004 Durante el confinamiento del 23 de marzo al 31 de mayo del 2020 ¿Usted/Nombre tuvo que salir de casa con frecuencia por?.,Nominal
+H1004C,598,H1004 Durante el confinamiento del 23 de marzo al 31 de mayo del 2020 ¿Usted/Nombre tuvo que salir de casa con frecuencia por?.,Nominal
+H1004D,599,H1004 Durante el confinamiento del 23 de marzo al 31 de mayo del 2020 ¿Usted/Nombre tuvo que salir de casa con frecuencia por?.,Nominal
+H1004E1,600,H1004 Durante el confinamiento del 23 de marzo al 31 de mayo del 2020 ¿Usted/Nombre tuvo que salir de casa con frecuencia por?.,Nominal
+H1004F,601,H1004 Durante el confinamiento del 23 de marzo al 31 de mayo del 2020 ¿Usted/Nombre tuvo que salir de casa con frecuencia por?.,Nominal
+H1004E,602,H1004E ESPECIFIQUE,Nominal
+H1005A,603,H1005A  Durante el período de confinamiento (23 de marzo- 31 de mayo 2020) debido a COVID-19 con qué frecuencia a) usó el transporte público?,Nominal
+H1006A,604,H1006A Del 1 de junio a la fecha  con qué frecuencia usó el transporte público?,Nominal
+H1005B,605,"H1005B Durante el período de confinamiento (23 de marzo- 31 de mayo 2020) debido a COVID-19 con qué frecuencia acudió a algún parque, concierto, bar, restaurante o algún otro lugar concurrido?",Nominal
+H1006B,606,"H1006B Del 1 de junio a la fecha  con qué frecuencia b) acudió a algún parque, concierto, bar, restaurante o algún otro lugar concurrido?",Nominal
+NOTA12,607,NOTA12 SECCIÓN XII. ACCIONES FAMILIARES DURANTE EL COVID 19,Nominal
+H12014,608,"H12014 En este hogar, ¿cuántas personas en edad escolar hay?",Nominal
+H120151,609,"H120151 Durante el confinamiento de COVID-19 (23 de marzo al 05 de junio), ¿cuántos miembros del hogar estudiaron en sus Libros de Texto Gratuito o en cuadernillos?",Nominal
+H120152,610,"H120152 Durante el confinamiento de COVID-19 (23 de marzo al 05 de junio), ¿cuántos miembros del hogar tomaron clases virtuales en plataformas como: zoom, Skype, GOOGLE CLASSROOM, TEAMS, entre otras?",Nominal
+H120153,611,"H120153 Durante el confinamiento de COVID-19 (23 de marzo al 05 de junio), ¿cuántos miembros del hogar tomaron clases por TV o Radio?",Nominal
+H120154,612,"H120154 Durante el confinamiento de COVID-19 (23 de marzo al 05 de junio), ¿cuántos miembros del hogar algún miembro de la familia estudió sin estar inscrito en la escuela?",Nominal
+NOTA13,613,NOTA13 SECCIÓN XIII. CASOS POSITIVOS DE COVID-19,Nominal
+NOTA14,614,NOTA14 SECCIÓN 14. ALIMENTACIÓN DURANTE EL CONFINAMIENTO,Nominal
+H14011,615,"H14011 En comparación con su consumo habitual antes de la contingencia por COVID-19, durante el período de confinamiento (23 de marzo a 31 de mayo) el consumo de frutas en su hogar??",Nominal
+H14012,616,"H14012 En comparación con su consumo habitual antes de la contingencia por COVID-19, durante el período de confinamiento (23 de marzo a 31 de mayo) el consumo de verduras en su hogar??",Nominal
+H14013,617,"H14013 En comparación con su consumo habitual antes de la contingencia por COVID-19, durante el período de confinamiento (23 de marzo a 31 de mayo) el consumo de leguminosas (frijol, lentejas, habas, garbanzos, etc) en su hogar??",Nominal
+H14014,618,"H14014 En comparación con su consumo habitual antes de la contingencia por COVID-19, durante el período de confinamiento (23 de marzo a 31 de mayo) el consumo de carne de res, carne de cerdo, pollo, pescado en su hogar??",Nominal
+H14015,619,"H14015 En comparación con su consumo habitual antes de la contingencia por COVID-19, durante el período de confinamiento (23 de marzo a 31 de mayo) el consumo de leche, queso, yogurt, etc,. en su hogar??",Nominal
+H14016,620,"H14016 En comparación con su consumo habitual antes de la contingencia por COVID-19, durante el período de confinamiento (23 de marzo a 31 de mayo) el consumo de alimentos como tortilla, arroz, avena, sopa de pasta, pan blanco, en su hogar??",Nominal
+H14017,621,"H14017 En comparación con su consumo habitual antes de la contingencia por COVID-19, durante el período de confinamiento (23 de marzo a 31 de mayo) el consumo de Dulces como caramelos o chocolates en su hogar?",Nominal
+H14018,622,"H14018 En comparación con su consumo habitual antes de la contingencia por COVID-19, durante el período de confinamiento (23 de marzo a 31 de mayo) el consumo de Botanas en su hogar??",Nominal
+H14019,623,"H14019 En comparación con su consumo habitual antes de la contingencia por COVID-19, durante el período de confinamiento (23 de marzo a 31 de mayo) el consumo de pan dulce, pastelillos o postres en su hogar??",Nominal
+H140110,624,"H140110 bebidas endulzadas como refrescos, aguas de sabor con azúcar, jugos o néctares de frutas industrializados en su hogar?",Nominal
+NOTA15,625,NOTA15 SECCIÓN 15. CUESTIONARIO DE SITUACIÓN ECONÓMICA ANTE EL COVID 19,Nominal
+H1501,626,"H1501 A causa del COVID-19 (coronavirus), en su hogar ¿Tuvieron que reducir sus gastos generales durante la contingencia de marzo a junio?",Nominal
+H1502,627,"H1502 A causa del COVID-19 (coronavirus), en su hogar ¿Tuvieron que reducir sus gastos en alimentos durante la contingencia de marzo a junio?",Nominal
+H1503,628,"H1503 A causa del COVID-19 (coronavirus), ¿en su hogar cuántos miembros de su hogar dejaron de recibir ingresos durante la contingencia de marzo a junio?",Nominal
+H1504,629,"H1504 A causa del COVID-19 (coronavirus), en su hogar a cuántos miembros de su hogar les han reducido el sueldo?",Nominal
+H1505,630,"H1505 A causa del COVID-19 (coronavirus), ¿en su hogar cuántos miembros de su hogar perdieron su empleo?",Nominal
+H1507,631,"H1507 ¿Antes del coronavirus (?en febrero?) cuánto dinero ganaban entre todos los miembros de su hogar al mes, aproximadamente?",Nominal
+NOTA17,632,NOTA17 SECCIÓN 17A. SECCIÓN PARA RECONOCIMIENTO SITUACIONAL DE SOCIALIZACIÓN,Nominal
+NOTA17A2,633,17A.2 SOCIALIZACIÓN,Nominal
+H17A021,634,"H17A021 ¿Alguna persona (familiar o amigo)  le llamó a usted, por teléfono, WhatsApp, Skype, Facebook, etcét",Nominal
+H17A022,635,"H17A022 ¿ Usted le llamó a alguna persona (familiar o amigo) por teléfono, WhatsApp, Skype, Facebook, etcéte",Nominal
+H17A023,636,H17A023 ¿A usted le hubiera gustado hacer nuevos amigos?,Nominal
+H17A024,637,"H17A024 ¿A usted le hubiera gustado formar parte de los grupos (a distancia) para ver y escuchar música, pel",Nominal
+H17A025,638,H17A025  ¿A usted le hubiera gustado compartir (a distancia) sus ideas para llevar a cabo actividades de oci,Nominal
+H17A031,639,H17A031 ¿Usted tiene a alguien con quien pueda hablar de sus problemas cotidianos?,Nominal
+H17A032,640,H17A032 ¿ Usted cree que hay personas que se preocupan por usted?,Nominal
+H17A033,641,H17A033 ¿ Usted tiene amigos o familiares cuando le hacen falta?,Nominal
+H17A034,642,H17A034 ¿ Usted siente que no le hacen caso?,Nominal
+H17A035,643,H17A035 ¿Usted se siente triste?,Nominal
+H17A036,644,H17A036 ¿Se siente usted solo o sola?,Nominal
+H17A037,645,"H17A037 ¿Y, por la noche, usted se siente solo (a)?",Nominal
+H17A038,646,H17A038 ¿Usted se siente querido o querida?,Nominal
+H17A041,647,"H17A041 Durante el tiempo de confinamiento (23 de marzo a 31 de mayo), usted tuvo que salir de su casa por a",Nominal
+H17A042,648,"H17A042 Durante el tiempo de confinamiento (23 de marzo a 31 de mayo), alguien le apoyaba para hacer las com",Nominal
+H17A043A,649,H17A043 ¿Quién le apoyaba?,Nominal
+H17A043B,650,H17A043 ¿Quién le apoyaba?,Nominal
+H17A043C,651,H17A043 ¿Quién le apoyaba?,Nominal
+H17A043D,652,H17A043 ¿Quién le apoyaba?,Nominal
+H17A043E,653,H17A043E ESPECIFIQUE,Nominal
+NOTA17N,654,NOTA17N SECCIÓN XVII. NUEVA NORMALIDAD ANTE EL COVID 19,Nominal
+H1700,655,H1700 Actualmente acude a su lugar de trabajo?,Nominal
+H1701,656,H1701 Se mantiene una distancia de 1.5 metros entre personas?,Nominal
+H1702,657,H1702 Hay gel antibacterial disponible?,Nominal
+H1703,658,H1703 Hay jabón y agua para lavarse las manos?,Nominal
+H1704,659,H1704 Las personas usan cubrebocas?,Nominal
+H1706,660,H1706 Se limpian los espacios de trabajo (incluyendo superficies)?,Nominal
+H1707,661,H1707 Se estimula que las personas hagan trabajo a distancia tanto como sea posible?,Nominal
+H1708,662,H1708 Las personas de más de 60 años acuden a trabajar?,Nominal
+H1709,663,H1709 Las personas con enfermedades crónicas como diabetes e hipertensión acuden a trabajar?,Nominal
+H1710,664,H1710  Se ha implementado un esquema de horarios escalonados para disminuir el número de personas en el es,Nominal
+H1711,665,H1711  Se ha respetado el horario y días de trabajo escalonado?,Nominal
+H1712,666,H1712  Le han explicado o compartido información sobre el plan y acciones para la nueva normalidad?,Nominal
+H1713,667,H1713 ¿En su hogar se lavan las manos con agua y jabón por 20 segundos?,Nominal
+H1714,668,H1714 ¿En su hogar una sola persona sale a hacer las compras?,Nominal
+H1715,669,H1715 ¿En su hogar han pasado los fines de semana en casa?,Nominal
+H1716,670,H1716 ¿En su hogar los han visitado en casa?,Nominal
+H1718,671,H1718 ¿En su hogar los integrantes que aún estudian han continuado clases vía virtual?,Nominal
+H1719A,672,H1719A ¿Usa el transporte público camión/metro/taxi/pesero?,Nominal
+H1719,673,H1719  En el transporte público ha caminado más para evitar usar camiones?,Nominal
+H1720,674,H1720 En el transporte público las personas usan cubrebocas en el camión/metro/taxi/pesero?,Nominal
+H1721,675,H1721 En el transporte público las personas llevan gel desinfectante para limpiarse las manos después de bajar del transporte?,Nominal
+COMENTARIO,676,¿Algún comentario de la entrevista?,Nominal
+HORA_FIN,677,Hora de termino,Nominal
+FECHA_FIN,678,Fecha de Termino,Nominal
+TIEMPO,679,Duración de la Entrevista,Escala
+COMPLETA,680,Resultado de Entrevista,Nominal
+OTROENT,681,Especifique otro resultado de entrevista,Nominal
+FOL_REM,682,Folio de remplazo,Nominal
+Upm,683,Unidad Primaria de Muestreo,Nominal
+region_cv,684,Regiones CV-19,Nominal
+estrato,685,Estrato de Urbanidad según tamaño de la localidad,Nominal
+est_sel,686,Estrato de selección,Escala
+ponde_f,687,ponderador de hogar,Escala
+ponde_g,688,ponderador de sección detallada de ingreso,Escala
+rural_20,689,Estrato de urbanidad Censo 2020,Nominal
+ponde_f20,690,ponderador actualizado para Censo 2020,Escala
+ponde_g20,691,ponderador de sección detallada de ingreso actualizado para Censo 2020,Escala
+area_20,692,Estrato de urbanidad Censo 2020 recodificado,Escala
