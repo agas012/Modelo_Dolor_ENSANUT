@@ -9,111 +9,100 @@ cwd = Path.cwd()
 out_path_files = Path(cwd, "Out/")
 
 #%% read the files
-DataI22 = pd.read_csv(Path('In/info_home/2022/data.csv'), sep=';', encoding="utf-8")
-ValueI22 = pd.read_csv(Path('In/info_home/2022/values.csv'), encoding="utf-8")
-VariablesI22 = pd.read_csv(Path('In/info_home/2022/variables.csv'), encoding="utf-8")
+DataH22 = pd.read_csv(Path('In/info_home/2022/data.csv'), sep=';', encoding="utf8")
+ValueH22 = pd.read_csv(Path('In/info_home/2022/values.csv'), encoding="utf8")
+VariablesH22 = pd.read_csv(Path('In/info_home/2022/variables.csv'), encoding="utf8")
 
-DataI21 = pd.read_csv(Path('In/info_home/2021/data.csv'), encoding="utf-8")
-ValueI21 = pd.read_csv(Path('In/info_home/2021/values.csv'), encoding="utf-8")
-VariablesI21 = pd.read_csv(Path('In/info_home/2021/variables.csv'), encoding="utf-8")
+DataH21 = pd.read_csv(Path('In/info_home/2021/data.csv'), encoding="utf8")
+ValueH21 = pd.read_csv(Path('In/info_home/2021/values.csv'), encoding="utf8")
+VariablesH21 = pd.read_csv(Path('In/info_home/2021/variables.csv'), encoding="utf8")
 
-DataI20 = pd.read_csv(Path('In/info_home/2020/data.csv'), encoding="utf-8")
-ValueI20 = pd.read_csv(Path('In/info_home/2020/values.csv'), encoding="utf-8")
-VariablesI20 = pd.read_csv(Path('In/info_home/2020/variables.csv'), encoding="utf-8")
+DataH20 = pd.read_csv(Path('In/info_home/2020/data.csv'), encoding="utf8")
+ValueH20 = pd.read_csv(Path('In/info_home/2020/values.csv'), encoding="utf8")
+VariablesH20 = pd.read_csv(Path('In/info_home/2020/variables.csv'), encoding="utf8")
 
-DataR20 = pd.read_csv(Path('In/info_residents/2020/data.csv'), encoding="utf-8")
-ValueR20 = pd.read_csv(Path('In/info_residents/2020/values.csv'), encoding="utf-8")
-VariablesR20 = pd.read_csv(Path('In/info_residents/2020/variablesf.csv'), encoding="utf-8")
+DataR20 = pd.read_csv(Path('In/info_residents/2020/data.csv'), encoding="utf8")
+ValueR20 = pd.read_csv(Path('In/info_residents/2020/values.csv'), encoding="utf8")
+VariablesR20 = pd.read_csv(Path('In/info_residents/2020/variables.csv'), encoding="cp1252")
 
-#concatenate VariablesI20 VariablesR20 = variablesC20
+#change all column names to proper variable names
+ValueH22.columns = ['Value', 'Num', 'Label']
+ValueH21.columns = ['Value', 'Num', 'Label']
+ValueH20.columns = ['Value', 'Num', 'Label']
+
+VariablesH22.columns = ['Variable', 'Position', 'Label', 'LevelMeasurement']
+VariablesH21.columns = ['Variable', 'Position', 'Label', 'LevelMeasurement']
+VariablesH20.columns = ['Variable', 'Position', 'Label', 'LevelMeasurement']
+
+VariablesR20.columns = ['Variable', 'Position', 'Label', 'LevelMeasurement']
+
+ValueR20.columns = ['Value', 'Num', 'Label']
 
 #%%clean names and format
-ValueI20.rename(columns={'Unnamed: 1':'num'}, inplace=True)
-ValueI20['Valor'] = ValueI20['Valor'].fillna(method='ffill')
+ValueH20['Value'] = ValueH20['Value'].fillna(method='ffill')
+ValueH21['Value'] = ValueH21['Value'].fillna(method='ffill')
+ValueH22['Value'] = ValueH22['Value'].fillna(method='ffill')
 
-ValueI21.rename(columns={'Unnamed: 1':'num'}, inplace=True)
-ValueI21['Valor'] = ValueI21['Valor'].fillna(method='ffill')
-
-ValueI22.rename(columns={'Unnamed: 1':'num'}, inplace=True)
-ValueI22['Valor'] = ValueI22['Valor'].fillna(method='ffill')
+ValueR20['Value'] = ValueR20['Value'].fillna(method='ffill')
 # %%
 
 #list unique values for visual inspection
-VariablesI20[['Variable']].stack().unique().tolist()
-VariablesI21[['Variable']].stack().unique().tolist()
-VariablesI22[['Variable']].stack().unique().tolist()
+VariablesH20[['Variable']].stack().unique().tolist()
+VariablesH21[['Variable']].stack().unique().tolist()
+VariablesH22[['Variable']].stack().unique().tolist()
 
 VariablesR20[['Variable']].stack().unique().tolist()
 #change all words t lower case
-VariablesI20 = VariablesI20.applymap(lambda x: x.lower() if isinstance(x, str) else x)
-VariablesI21 = VariablesI21.applymap(lambda x: x.lower() if isinstance(x, str) else x)
-VariablesI22 = VariablesI22.applymap(lambda x: x.lower() if isinstance(x, str) else x)
+VariablesH20 = VariablesH20.applymap(lambda x: x.lower() if isinstance(x, str) else x)
+VariablesH21 = VariablesH21.applymap(lambda x: x.lower() if isinstance(x, str) else x)
+VariablesH22 = VariablesH22.applymap(lambda x: x.lower() if isinstance(x, str) else x)
 
 # Merge the DataFrames
 # track rows by adding a index
-
 # Add index as a column in each DataFrame
-VariablesI20['index_20'] = VariablesI20.index
-VariablesI21['index_21'] = VariablesI21.index
-VariablesI22['index_22'] = VariablesI22.index
+VariablesH20['index_20'] = VariablesH20.index
+VariablesH21['index_21'] = VariablesH21.index
+VariablesH22['index_22'] = VariablesH22.index
 
-#this doesnt work because ansanut changes the codes each year
-merged_df =       VariablesI20[['Variable', 'index_20']].merge(VariablesI21[['Variable', 'index_21']], on='Variable', how='inner').merge(VariablesI22[['Variable', 'index_22']], on='Variable', how='inner')
-merged_df_outer = VariablesI20[['Variable', 'index_20']].merge(VariablesI21[['Variable', 'index_21']], on='Variable', how='outer').merge(VariablesI22[['Variable', 'index_22']], on='Variable', how='outer')
-# Filter out rows where values are present in all three original DataFrames
-non_equal_df = merged_df_outer[merged_df_outer[['index_20', 'index_21', 'index_22']].isnull().any(axis=1)]
-file_name = 'non_equal'
-file_save = out_path_files / (file_name + ".csv")
-non_equal_df.to_csv(file_save)
+#delete code from label
+#regular expressions '^h\d' find letter h and number at the beggining 
+mask = VariablesH20['Label'].str.match(r'^h\d')
+VariablesH20.loc[mask, 'Label'] = VariablesH20.loc[mask, 'Label'].str[4:]
+# Split by space, remove the first word and then join back the string
+VariablesH20.loc[mask, 'Label'] = VariablesH20.loc[mask, 'Label'].str.split().apply(lambda x: ' '.join(x[1:]) if len(x) > 1 else x[0])
 
-#we need to use the text of the questions to find similar questions across the years
-merged_df_Etiqueta =       VariablesI20[['Etiqueta', 'index_20']].merge(VariablesI21[['Etiqueta', 'index_21']], on='Etiqueta', how='inner').merge(VariablesI22[['Etiqueta', 'index_22']], on='Etiqueta', how='inner')
-merged_df_outer_Etiqueta = VariablesI20[['Etiqueta', 'index_20']].merge(VariablesI21[['Etiqueta', 'index_21']], on='Etiqueta', how='outer').merge(VariablesI22[['Etiqueta', 'index_22']], on='Etiqueta', how='outer')
-# Filter out rows where values are present in all three original DataFrames
+mask = VariablesH21['Label'].str.match(r'^h\d')
+VariablesH21.loc[mask, 'Label'] = VariablesH21.loc[mask, 'Label'].str[4:]
+# Split by space, remove the first word and then join back the string
+VariablesH21.loc[mask, 'Label'] = VariablesH21.loc[mask, 'Label'].str.split().apply(lambda x: ' '.join(x[1:]) if len(x) > 1 else x[0])
+
+mask = VariablesH22['Label'].str.match(r'^h\d')
+VariablesH22.loc[mask, 'Label'] = VariablesH22.loc[mask, 'Label'].str[4:]
+# Split by space, remove the first word and then join back the string
+VariablesH22.loc[mask, 'Label'] = VariablesH22.loc[mask, 'Label'].str.split().apply(lambda x: ' '.join(x[1:]) if len(x) > 1 else x[0])
+
+#find the questions that are similar across all years we cant use codes since thet change over time 
+merged_df_Etiqueta =       VariablesH20[['Label', 'index_20']].merge(VariablesH21[['Label', 'index_21']], on='Label', how='inner').merge(VariablesH22[['Label', 'index_22']], on='Label', how='inner')
+
+# save the questions that are not equal for visual inspection
+merged_df_outer_Etiqueta = VariablesH20[['Label', 'index_20']].merge(VariablesH21[['Label', 'index_21']], on='Label', how='outer').merge(VariablesH22[['Label', 'index_22']], on='Label', how='outer')
 non_equal_df_Etiqueta  = merged_df_outer_Etiqueta[merged_df_outer_Etiqueta[['index_20', 'index_21', 'index_22']].isnull().any(axis=1)]
 file_name = 'non_equal_Etiqueta'
 file_save = out_path_files / (file_name + ".csv")
 non_equal_df_Etiqueta.to_csv(file_save)
 
 
-
-# Sample DataFrames
-df1 = pd.DataFrame({
-    'column_name': [1, 2, 3, 4],
-    'other_data1': ['a', 'b', 'c', 'd']
-})
-
-df2 = pd.DataFrame({
-    'column_name': [3, 1, 4, 6],
-    'other_data2': ['e', 'f', 'g', 'h']
-})
-
-df3 = pd.DataFrame({
-    'column_name': [1, 4, 7, 8],
-    'other_data3': ['i', 'j', 'k', 'l']
-})
-
-# Merge the DataFrames
-merged_df = df1[['column_name']].merge(df2[['column_name']], on='column_name', how='inner').merge(df3[['column_name']], on='column_name', how='inner')
-
-print(merged_df)
-
-
-
-
-
-
-speeds = pd.DataFrame([
-        ("bird", "Falconiformes", 389.0),
-        ("bird", "Psittaciformes", 24.0),
-        ("mammal", "Carnivora", 80.2),
-        ("mammal", "Primates", 0),
-        ("mammal", "Carnivora", 58),
-    ],
-    index=["falcon", "parrot", "lion", "monkey", "leopard"],
-    columns=("class", "order", "max_speed"),
-)
-
-speeds.groupby("class")['class'].count()
-
-VariablesI22.groupby("Variable")['Variable'].count()
+#final data table
+DataHf2020 = DataH20.iloc[:,merged_df_Etiqueta['index_20']]
+DataHf2020['year'] = 2020
+DataHf2021 = DataH21.iloc[:,merged_df_Etiqueta['index_21']]
+DataHf2021['year'] = 2021
+DataHf2022 = DataH22.iloc[:,merged_df_Etiqueta['index_22']]
+DataHf2022['year'] = 2022
+DataHf2020.columns = DataHf2022.columns
+DataHf2021.columns = DataHf2022.columns
+frames = [DataHf2020, DataHf2021, DataHf2022]
+DataH = pd.concat(frames)
+file_name = 'DataH'
+file_save = out_path_files / (file_name + ".csv")
+DataH.to_csv(file_save)
