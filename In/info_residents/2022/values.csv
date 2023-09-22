@@ -1,0 +1,422 @@
+Valor,,Etiqueta
+region,1,Pacifico-Norte
+,2,Frontera
+,3,Pacífico-Centro
+,4,Centro Norte
+,5,Centro
+,6,Cd./Edo México
+,7,Pacífico Sur
+,8,Península
+,11,Guanajuato
+,15,Edo México
+,19,Nuevo León
+nota1,1,"¿Acepta usted? ,,,, Sí"
+,2,"¿Acepta usted? ,,,, No"
+nota1a,1,Favor de Continuar
+h0101,1,Material de desecho
+,2,Lámina de cartón
+,3,Lámina metálica
+,4,Lámina de asbesto
+,5,Palma o paja
+,6,Madera o tejamanil
+,7,Terrado con viguería
+,8,Teja
+,9,Losa de concreto o viguetas con bovedilla
+h0102,1,Material de desecho
+,2,Lámina de cartón
+,3,Lámina de asbesto o metálica
+,4,"Carrizo, bambú o palma"
+,5,"Embarro, bajareque o paja"
+,6,Madera
+,7,Adobe
+,8,"Tabique, ladrillo, block, piedra, cantera, cemento o concret"
+h0103,1,Tierra
+,2,Cemento o firme
+,3,"Madera, mosaico u otro recubrimiento"
+h0106,1,Sí
+,2,No
+h0107,1,en un pasillo o corredor?
+,2,en un tejabán o techito?
+,3,al aire libre?
+,4,¿No cocinan en esta vivienda?
+h0108,1,Sí
+,2,No
+h0109,1,leña?
+,2,carbón?
+,3,gas de cilindro o estacionario?
+,4,gas natural o de tubería?
+,5,electricidad?
+,6,¿Otro combustible?
+,7,¿No cocinan?
+h0110,1,Estufa o parrilla de gas
+,2,Estufa o parrilla eléctrica
+,3,Fuego abierto u horno sin chimenea ni campana
+,4,Fuego abierto u horno con chimenea o campana
+,5,Horno cerrado con chimenea
+,6,Otro
+h0111,1,Sí
+,2,No
+h0112,1,dentro de la vivienda?
+,2,solo en el terreno?
+,3,no tiene agua entubada?
+h0113,1,del servicio público de agua?
+,2,de un pozo?
+,3,de una pipa?
+,4,de otra vivienda?
+,5,de otro lugar?
+h0114,1,la sacan o acarrean de un pozo?
+,2,la acarrean de una toma o llave comunitaria?
+,3,la traen de otra vivienda?
+,4,la trae una pipa?
+,5,"la acarrean de un río, arroyo o lago?"
+,6,la captan de la lluvia?
+h0118,1,la red pública?
+,2,una fosa séptica o tanque séptico (biodigestor)?
+,3,una tubería que va a dar a una barranca o grieta?
+,4,"una tubería que va a dar a un río, lago o mar?"
+,5,¿No tiene drenaje?
+h0119,1,tiene descarga directa de agua?
+,2,le echan agua con cubeta?
+,3,no se le puede echar agua?
+,4,no tiene servicio sanitario?
+h0120,1,Sí
+,2,No
+h0121,1,la recoge un camión o un carrito de basura?
+,2,la tiran en el basurero público?
+,3,la tiran en un contenedor o depósito?
+,4,la queman?
+,5,la entierran?
+,6,la tiran en un terreno baldío o calle?
+,7,la tiran a la barranca o grieta?
+,8,"la tiran al río, lago o mar?"
+h0122,1,Sí
+,2,No
+h0123,1,Aparato o sistema de calefacción
+,2,Calentón
+,3,Resistencia
+,4,Brasero
+,5,Chimenea
+,6,Otro
+h0124,1,Gas
+,2,Electricidad
+,3,Queroseno
+,4,Carbón mineral
+,5,Carbón vegetal
+,6,Leña o madera
+,7,Residuos agrícolas o de cultivos
+,8,Estiércol animal
+,9,Matojos o hierba
+,10,Otro combustible
+h0125,1,es rentada?
+,2,es prestada?
+,3,es propia pero la están pagando?
+,4,es propia?
+,5,está intestada o en litigio?
+,6,está en otra situación?
+nota2,1,Favor de Continuar
+h0201,1,Sí
+,2,No
+nota3,1,Favor de Continuar
+h305t,1,Sí
+,2,No
+h0327,1,"1- 5,999 pesos"
+,2,"6,000-9,999 pesos"
+,3,"10,000-13,999 pesos"
+,4,"14,000-21,999 pesos"
+,5,"22,000 o más pesos"
+,6,No percibieron ingresos
+,8,No quiso responder
+,9,No sabe
+nota4,1,Favor de Continuar
+nota5,1,Favor de Continuar
+nota5a,1,Favor de Continuar
+h0501a,1,Sí
+,2,No
+h0501b,1,Sí
+,2,No
+h0501c,1,Sí
+,2,No
+h0501e,1,Sí
+,2,No
+h0501f,1,Sí
+,2,No
+h0501g,1,Sí
+,2,No
+h0501k,1,Sí
+,2,No
+h0501l,1,Sí
+,2,No
+h0501n,1,Sí
+,2,No
+h0501o,1,Sí
+,2,No
+h0501p,1,Sí
+,2,No
+h0501q,1,Sí
+,2,No
+h0501r,1,Sí
+,2,No
+h0501s,1,Sí
+,2,No
+h0501t,1,Sí
+,2,No
+h0501u,1,Sí
+,2,No
+h0501v,1,Sí
+,2,No
+h0501w,1,Sí
+,2,No
+h0501x,1,Sí
+,2,No
+h0501y,1,Sí
+,2,No
+nota6,1,Favor de Continuar
+nota8,1,Favor de Continuar
+h0801,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0802,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0803,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0804,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0805,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0806,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0807,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0808,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0809,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0810,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0811,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+h0812,1,Nunca (0 veces en las últimas 4 semanas)
+,2,Raramente (1-2 veces en las últimas 4 semanas)
+,3,A veces (3-10 veces en las últimas 4 semanas)
+,4,Frecuentemente (11-20 veces en las últimas 4 semana)
+,5,Siempre (Más de 20 veces en las últimas 4 semanas)
+,88,No aplica
+,99,No sabe
+nota08a1,1,Favor de Continuar
+h08a01,1,Integrante del hogar?
+,2,Empleado(a) o administrador(a) del edificio/hogar?
+,3,"Nadie, el suministro es automático?"
+,4,Otro
+,5,No sabe
+,6,No responde
+nota08a2,1,Favor de Continuar
+h08a03,1,Diario
+,2,De cuatro a seis días a la semana
+,3,De uno a tres días a la semana
+,4,De una a tres veces en las últimas 4 semanas
+,5,No me ha llegado agua en las últimas 4 semanas
+,6,"No sabe, Desconozco la frecuencia"
+,7,No responde
+h08a0401,1,Sí
+,2,No
+,99,No responde
+h08a0402,1,Sí
+,2,No
+,99,No responde
+h08a0403,1,Sí
+,2,No
+,99,No responde
+h08a0404,1,Sí
+,2,No
+,99,No responde
+h08a0405,1,Sí
+,2,No
+,99,No responde
+h08a0406,1,Sí
+,2,No
+,99,No responde
+h08a0407,1,Sí
+,2,No
+,99,No responde
+h08a0408,1,Sí
+,2,No
+,99,No responde
+h08a0409,1,Sí
+,2,No
+,99,No responde
+h08a06,1,Enero
+,2,Febrero
+,3,Marzo
+,4,Abril
+,5,Mayo
+,6,Junio
+,7,Julio
+,8,Agosto
+,9,Septiembre
+,10,Octubre
+,11,Noviembre
+,12,Diciembre
+,13,Nunca falta agua/ no escaseó en los últimos 12 meses
+,99,No responde
+h08a07,1,Menos de una semana
+,2,Entre una semana y cuatro semanas
+,3,De dos a tres meses
+,4,Más de tres meses
+,96,No sabe
+,99,No responde
+h08a08,1,Diario?
+,2,De cuatro a seis días a la semana?
+,3,De uno a tres días a la semana?
+,4,De una a tres veces durante la temporada de escasez?
+,5,No me llego agua durante la temporada de escasez
+,6,"No sabe, desconozco la frecuencia"
+,7,No responde
+nota08a3,1,Favor de Continuar
+h08a091,1,Sí
+,2,No
+h08a09a,1,Sí
+,2,No
+h08a09b,1,Sí
+,2,No
+h08a09c,1,Sí
+,2,No
+h08a09d,1,Sí
+,2,No
+h08a09e,1,Sí
+,2,No
+h08a101,1,Sí
+,2,No
+h08a10a,1,Sí
+,2,No
+h08a10b,1,Sí
+,2,No
+h08a10c,1,Sí
+,2,No
+h08a10d,1,Sí
+,2,No
+h08a10e,1,Sí
+,2,No
+nota08a4,1,Favor de Continuar
+h08a11,1,01 Agua entubada dentro de la vivienda
+,2,02 Agua entubada en el terreno
+,3,03 Agua entubada en el terreno de un vecino
+,4,04 Agua entubada de una toma o llave comunitaria
+,5,05 Agua entubada de un pozo perforado/hincado
+,6,06 Garrafón de marca
+,7,07 Garrafón de purificadora
+,8,08 Botellas de agua
+,9,09 Otra agua embotellada
+,10,10 Pozo protegido
+,11,11 Pozo no protegido
+,12,12 Manantial protegido
+,13,13 Manantial no protegido
+,14,14 Captación de lluvia
+,15,15 Pipa
+,16,16 Otra fuente
+,17,"17 Aguas superficiales (de un rio, arroyo, o lago)"
+,18,18 En este hogar no se bebe agua de ninguna fuente
+h08a12,1,01 Agua entubada dentro de la vivienda
+,2,02 Agua entubada en el terreno
+,3,03 Agua entubada en el terreno de un vecino
+,4,04 Agua entubada de una toma o llave comunitaria
+,5,05 Agua entubada de un pozo perforado/hincado
+,6,06 Garrafón de marca
+,7,07 Garrafón de purificadora
+,8,08 Botellas de agua
+,9,09 Otra agua embotellada
+,10,10 Pozo protegido
+,11,11 Pozo no protegido
+,12,12 Manantial protegido
+,13,13 Manantial no protegido
+,14,14 Captación de lluvia
+,15,15 Pipa
+,16,16 Otra fuente
+,17,"17 Aguas superficiales (de un rio, arroyo, o lago)"
+h08a13,1,01 Agua entubada dentro de la vivienda
+,2,02 Agua entubada en el terreno
+,3,03 Agua entubada en el terreno de un vecino
+,4,04 Agua entubada de una toma o llave comunitaria
+,5,05 Agua entubada de un pozo perforado/hincado
+,6,06 Garrafón de marca
+,7,07 Garrafón de purificadora
+,8,08 Botellas de agua
+,9,09 Otra agua embotellada
+,10,10 Pozo protegido
+,11,11 Pozo no protegido
+,12,12 Manantial protegido
+,13,13 Manantial no protegido
+,14,14 Captación de lluvia
+,15,15 Pipa
+,16,16 Otra fuente
+,17,"17 Aguas superficiales (de un rio, arroyo, o lago)"
+nota12,1,Favor de Continuar
+nota16,1,Favor de Continuar
+completa,1,ENTREVISTA COMPLETA (Favor de continuar)
+,2,ENTREVISTA INCOMPLETA
+,3,INFORMANTE INADECUADO
+,4,ENTREVISTA APLAZADA (HACER CITA)
+,5,AUSENTE DE PERSONAS EN EL MOMENTO DE LA VISITA
+,6,SE NEGÓ A DAR INFORMACIÓN
+,7,VIVIENDA DESHABITADA
+,8,VIVIENDA DE USO TEMPORAL
+,9,HABLA ALGUNA LENGUA EXTRANGERA
+,10,NO ES VIVIENDA
+,11,OTRO
+,12,"SE NEGÓ, POR HABER ALGUN ENFERMO DE COVID EN EL HOGAR"
+estrato,"1,00",Rural  ( <2500 Hab )
+,"2,00","Urbano ( 2500-99,999 Hab)"
+,"3,00",Metropolitano (100mil y + Hab)
