@@ -1,0 +1,254 @@
+Variable,Posición,Etiqueta,Nivel de medición
+FOLIO_I,1,Folio,Nominal
+FOLIO_INT,2,Folio_integrante,Nominal
+id_int,3,Int_hogar,Nominal
+maquina1,4,Maquina de captura,Nominal
+entidad1,5,Entidad,Nominal
+desc_ent1,6,DESC_ENT,Nominal
+municipio1,7,Municipio,Nominal
+desc_mun1,8,DESC_MUN,Nominal
+localidad1,9,Localidad,Nominal
+desc_loc1,10,DESC_LOC,Nominal
+ageb1,11,AGEB,Nominal
+mza1,12,MZA,Nominal
+vivienda1,13,Vivienda,Nominal
+hogar1,14,hogar,Nominal
+h0302,15,Sexo,Nominal
+h0303,16,Edad,Escala
+h0304,17,Fecha de Nacimiento,Escala
+h0304d,18,Día de Nacimiento,Escala
+h0304m,19,Mes de Nacimiento,Nominal
+h0304a,20,Año de Nacimiento,Escala
+meses,21,Meses,Nominal
+h0305,22,¿Que es (NOMBRE) de la (del) jefe(a)?,Nominal
+h0305_es,23,Especifique,Nominal
+int_nuevo,24,Existe otro integrante en el hogar,Nominal
+h0306,25,H0306 ¿En qué estado de la República Mexicana o país nació (NOMBRE)?,Nominal
+h0306e,26,H0306E ¿En cual estado de la República Mexicana? nació (NOMBRE)?,Escala
+h0306p,27,H0306P ¿En cual país? nació (NOMBRE)?,Escala
+h0307,28,"H0307 En esta vivienda, ¿vive la madre de (NOMBRE)?",Nominal
+h0307q,29,H0307Q ¿Quién es?,Nominal
+h0308,30,"H0308 En esta vivienda, ¿vive el padre de (NOMBRE)?",Nominal
+h0308q,31,H0308Q ¿Quién es?,Nominal
+h0309,32,"H0309 Cuando tiene una necesidad de salud, ¿en dónde se atiende usualmente? Cons",Nominal
+h0309e,33,H0309E ESPECIFIQUE,Nominal
+H0310A,34,H0310 ¿(NOMBRE) tiene derecho o acceso a servicios médicos:,Nominal
+H0310B,35,H0310 ¿(NOMBRE) tiene derecho o acceso a servicios médicos:,Nominal
+H0310C,36,H0310 ¿(NOMBRE) tiene derecho o acceso a servicios médicos:,Nominal
+h0310e,37,H0310E ESPECIFICAR,Nominal
+h0311,38,H0311 ¿(NOMBRE) habla alguna lengua indígena (dialecto)?,Nominal
+h0312,39,H0312 ¿(NOMBRE) habla también español?,Nominal
+h0313,40,H0313 ¿ (NOMBRE) asiste actualmente a la escuela?,Nominal
+h0314,41,H0314 ¿La escuela a la que asiste (NOMBRE) es...,Nominal
+h0315,42,H0315 ¿A que turno asiste (NOMBRE)?,Nominal
+h0316,43,H0316 ¿Cuál es la razón principal por la que (NOMBRE) no asiste actualmente a la,Nominal
+h0316esp,44,H0316ESP ESPECIFIQUE,Nominal
+h0317a,45,H0317A ¿Cuál es el último año o grado que aprobó (USTED/NOMBRE) en la escuela? N,Nominal
+h0317g,46,H0317G ¿Cuál es el último año y grado que aprobó (USTED/NOMBRE) en la escuela? G,Nominal
+h0318,47,H0318 ¿ (NOMBRE) sabe leer y escribir un recado?,Nominal
+intp3,48,Int_hogar,Nominal
+h0319,49,H0319 ¿Actualmente (USTED/NOMBRE)...,Nominal
+h0320,50,"H0320 En este hogar, ¿vive el cónyuge de (NOMBRE)?",Nominal
+h0320q,51,H0320Q ¿Quién es?,Nominal
+h0321,52,"H0321 ¿Durante la semana pasada, (NOMBRE) trabajó (al menos una hora)?",Nominal
+h0322,53,"H0322 Aunque ya me dijo que (NOMBRE) no trabajó, ¿la semana pasada:",Nominal
+h0323,54,"H0323 Entonces, ¿la semana pasada (NOMBRE) ...",Nominal
+h0324,55,H0324 ¿En su trabajo o negocio de la semana pasada (NOMBRE) fue:,Nominal
+h0324esp,56,H0324ESP ESPECIFIQUE,Nominal
+h0325,57,"H0325 ¿En su trabajo, tiene usted (NOMBRE) contacto con gente/clientes o proveed",Nominal
+h0326a,58,"H0326A ¿(NOMBRE) recibe o puede recibir por su trabajo servicio médico (IMSS, IS",Nominal
+h0326b,59,H0326B ¿(NOMBRE) recibe o puede recibir por su trabajo aguinaldo?,Nominal
+h0326c,60,H0326C ¿(NOMBRE) recibe o puede recibir por su trabajo vacaciones con goce de su,Nominal
+h0326d,61,H0326D ¿(NOMBRE) recibe o puede recibir por su trabajo reparto de utilidades o p,Nominal
+h0326e,62,H0326E ¿(NOMBRE) recibe o puede recibir por su trabajo fondo de retiro (SAR o AF,Nominal
+h0326f,63,H0326F ¿(NOMBRE) recibe o puede recibir por su trabajo crédito para la vivienda,Nominal
+h0326g,64,H0326G ¿(NOMBRE) recibe o puede recibir por su trabajo guardería?,Nominal
+h0326h,65,H0326H ¿(NOMBRE) recibe o puede recibir por su trabajo tiempo para cuidados mate,Nominal
+h0326i,66,H0326I ¿(NOMBRE) recibe o puede recibir por su trabajo seguro de vida?,Nominal
+h0326j,67,H0326J ¿(NOMBRE) recibe o puede recibir por su trabajo seguro privado para gasto,Nominal
+h0326k,68,H0326K ¿(NOMBRE) recibe o puede recibir por su trabajo préstamos personales o ca,Nominal
+intp4,69,Int_hogar,Nominal
+h0401,70,H0401 En los últimos 3 meses ¿(USTED/NOMBRE) ha tenido alguna necesidad de salud,Nominal
+h0402,71,H0402 ¿Podría decirme cuál fue la última necesidad de salud que tuvo (USTED/NOMB,Escala
+h0402esp,72,H0402ESP ESPECIFIQUE,Nominal
+h0403,73,H0403 ¿Esto ocurrió en las últimas dos semanas?,Nominal
+h0404,74,H0404 ¿(USTED/NOMBRE) buscó atención por esa necesidad de salud?,Nominal
+H0405A,75,H0405 ¿Por qué motivo (USTED/NOMBRE) no buscó atención?,Nominal
+H0405B,76,H0405 ¿Por qué motivo (USTED/NOMBRE) no buscó atención?,Nominal
+H0405C,77,H0405 ¿Por qué motivo (USTED/NOMBRE) no buscó atención?,Nominal
+h0405esp,78,H0405ESP ESPECIFIQUE,Nominal
+h0406,79,H0406 ¿(USTED/NOMBRE) fue atendido por esa necesidad de salud en alguna instituc,Nominal
+H0407A,80,H0407 ¿Por qué motivo (USTED/NOMBRE) no fue atendido?,Nominal
+H0407B,81,H0407 ¿Por qué motivo (USTED/NOMBRE) no fue atendido?,Nominal
+H0407C,82,H0407 ¿Por qué motivo (USTED/NOMBRE) no fue atendido?,Nominal
+h0407esp,83,H0407ESP ESPECIFIQUE:,Nominal
+h0408,84,H0408 ¿En qué institución de salud (USTED/NOMBRE) se atendió/solicitó ser atendi,Nominal
+h0408esp,85,H0408ESP ESPECIFIQUE:,Nominal
+H0409A,86,H0409 ¿La atención que buscó (USTED/NOMBRE) requirió...,Nominal
+H0409B,87,H0409 ¿La atención que buscó (USTED/NOMBRE) requirió...,Nominal
+H0409C,88,H0409 ¿La atención que buscó (USTED/NOMBRE) requirió...,Nominal
+H0409D,89,H0409 ¿La atención que buscó (USTED/NOMBRE) requirió...,Nominal
+h0601a,90,"H0601A En los últimos 12 meses, ¿(NOMBRE) recibió apoyo del programa Abasto Soci",Nominal
+h0603a,91,H0603A ¿Durante cuánto tiempo lo ha recibido?,Nominal
+h0601b,92,"H0601B En los últimos 12 meses, ¿(NOMBRE) recibió apoyo del programa Pensión par",Nominal
+h0603b,93,H0603B ¿Durante cuánto tiempo lo ha recibido?,Nominal
+h0604b,94,H0604B ¿Cuál es el monto que recibe periódicamente?,Escala
+h0601c,95,"H0601C En los últimos 12 meses, ¿(NOMBRE) recibió apoyo del programa Despensas d",Nominal
+h0603c,96,H0603C ¿Durante cuánto tiempo lo ha recibido?,Nominal
+h0601d,97,"H0601D En los últimos 12 meses, ¿(NOMBRE) recibió apoyo del programa Alimentos E",Nominal
+h0603d,98,H0603D ¿Durante cuánto tiempo lo ha recibido?,Nominal
+h0601e,99,"H0601E En los últimos 12 meses, ¿(NOMBRE) recibió apoyo del programa Alimentos E",Nominal
+h0603e,100,H0603E ¿Durante cuánto tiempo lo ha recibido?,Nominal
+h0601f,101,"H0601F En los últimos 12 meses, ¿(NOMBRE) recibió apoyo del programa  La escuela",Nominal
+h0603f,102,H0603F ¿Durante cuánto tiempo lo ha recibido?,Nominal
+h0601g,103,"H0601G En los últimos 12 meses, ¿(NOMBRE) recibió apoyo del programa Comedores P",Nominal
+h0603g,104,H0603G ¿Durante cuánto tiempo lo ha recibido?,Nominal
+h0601h,105,"H0601H En los últimos 12 meses, ¿(NOMBRE) recibió apoyo del programa de Organiza",Nominal
+h0603h,106,H0603H ¿Durante cuánto tiempo lo ha recibido?,Nominal
+h0601i,107,"H0601I En los últimos 12 meses, ¿(NOMBRE) recibió apoyo del programa Alimentario",Nominal
+h0603i,108,H0603I ¿Durante cuánto tiempo lo ha recibido?,Nominal
+h0601j,109,"H0601J En los últimos 12 meses, ¿(NOMBRE) recibió apoyo del programa  Jóvenes co",Nominal
+h0603j,110,H0603J ¿Durante cuánto tiempo lo ha recibido?,Escala
+h0604j,111,H0604J ¿Cuál es el monto que recibe periódicamente?,Escala
+h0601k,112,"H0601K En los últimos 12 meses, ¿(NOMBRE) recibió apoyo del programa Nacional de",Nominal
+h0603k,113,H0603K ¿Durante cuánto tiempo lo ha recibido?,Nominal
+h0604k,114,H0604K ¿Cuál es el monto que recibe periódicamente?,Escala
+h0601l,115,"H0601L En los últimos 12 meses, ¿(NOMBRE) recibió apoyo del programa Pensión par",Nominal
+h0603l,116,H0603L ¿Durante cuánto tiempo lo ha recibido?,Nominal
+h0604l,117,H0604L ¿Cuál es el monto que recibe periódicamente?,Escala
+h0601m,118,"H0601M En los últimos 12 meses, ¿(NOMBRE) recibió apoyo del programa Para el bie",Nominal
+h0603m,119,H0603M ¿Durante cuánto tiempo lo ha recibido?,Nominal
+h0604m,120,H0604M ¿Cuál es el monto que recibe periódicamente?,Nominal
+h16041d,121,H16041D ¿Cuándo se la pusieron? 1a dosis: DÍA,Escala
+h0601n,122,"H0601N En los últimos 12 meses, ¿(NOMBRE) recibió apoyo del programa Asistencia",Nominal
+h0603n,123,H0603N ¿Durante cuánto tiempo lo ha recibido?,Nominal
+h0601o,124,"H0601O En los últimos 12 meses, ¿(NOMBRE) recibió algún apoyo de programas emerg",Nominal
+h0603o,125,H0603O ¿Durante cuánto tiempo lo ha recibido?,Nominal
+h0604o,126,H0604O ¿Cuál es el monto que recibe periódicamente?,Escala
+h0601p,127,"H0601P En los últimos 12 meses, ¿(NOMBRE) recibió algún otro apoyo? (especifica)",Nominal
+h0601pe,128,H0601PE ESPECIFIQUE,Nominal
+h0603p,129,H0603P ¿Durante cuánto tiempo lo ha recibido?,Nominal
+h0604p,130,H0604P ¿Cuál es el monto que recibe periódicamente?,Escala
+h0604ba,131,H0604BA En los últimos 12 meses alguna persona en este hogar ha sido registrada,Nominal
+h0604bb,132,H0604BB ¿hace cuantos meses que fue registrado?,Nominal
+h0605,133,H0605 ¿Alguna persona en este hogar fue beneficiario del SEGURO POPULAR?,Nominal
+h0606m,134,H0606M ¿Por cuánto tiempo recibió el beneficio? MESES,Nominal
+h0606a,135,H0606A ¿Por cuánto tiempo recibió el beneficio? AÑOS,Escala
+H0607A,136,H0607 ¿Qué tipo de Beneficio(s) recibía?,Nominal
+H0607B,137,H0607 ¿Qué tipo de Beneficio(s) recibía?,Nominal
+H0607C,138,H0607 ¿Qué tipo de Beneficio(s) recibía?,Nominal
+H0607D,139,H0607 ¿Qué tipo de Beneficio(s) recibía?,Nominal
+H0607E,140,H0607 ¿Qué tipo de Beneficio(s) recibía?,Nominal
+H0607F,141,H0607 ¿Qué tipo de Beneficio(s) recibía?,Nominal
+H0607G,142,H0607 ¿Qué tipo de Beneficio(s) recibía?,Nominal
+H0607H,143,H0607 ¿Qué tipo de Beneficio(s) recibía?,Nominal
+H0607I,144,H0607 ¿Qué tipo de Beneficio(s) recibía?,Nominal
+H0607J,145,H0607 ¿Qué tipo de Beneficio(s) recibía?,Nominal
+h0902,146,H0902 Algún médico le ha dicho/le dijo a [NOMBRE] que tiene/tuvo…,Nominal
+h0903,147,H0903 ¿USTED/NOMBRE realizaba algún deporte o actividad física antes de la pande,Nominal
+h0904,148,"H0904 Actualmente durante la pandemia por COVID-19, el tiempo destinado a su dep",Nominal
+h0905,149,H0905 En comparación al tiempo que pasaba sentado(a) o reclinado(a) de forma hab,Nominal
+h0906,150,H0906 En comparación al tiempo que pasaba frente a una pantalla de forma habitua,Nominal
+h1201,151,"H1201 ¿De enero 2021 a la fecha, (USTED/NOMBRE) tuvo la intención o se hizo algu",Nominal
+h1202,152,H1202 ¿Por qué no se hizo (le hicieron) la prueba?,Nominal
+h1203,153,H1203 ¿Dónde acudió para hacerse la prueba?,Nominal
+h1204,154,H1204 ¿Le dieron el resultado de la prueba?,Nominal
+h1205,155,"H1205 ¿De enero del 2021 a la fecha, (USTED/ NOMBRE) fue diagnosticado(a) con CO",Nominal
+h1206,156,H1206 ¿Fue con una prueba o por síntomas?,Nominal
+h1207,157,H1207 ¿En qué mes fue diagnosticado con COVID-19?,Nominal
+h1208,158,"H1208 ¿Cuándo tuvo COVID-19, buscó atención?",Nominal
+H1209A,159,H1209 ¿Por qué motivo no buscó atención médica?,Nominal
+H1209B,160,H1209 ¿Por qué motivo no buscó atención médica?,Nominal
+H1209C,161,H1209 ¿Por qué motivo no buscó atención médica?,Nominal
+H1209D,162,H1209 ¿Por qué motivo no buscó atención médica?,Nominal
+H1209E1,163,H1209 ¿Por qué motivo no buscó atención médica?,Nominal
+H1209F,164,H1209 ¿Por qué motivo no buscó atención médica?,Nominal
+H1209G,165,H1209 ¿Por qué motivo no buscó atención médica?,Nominal
+H1209H,166,H1209 ¿Por qué motivo no buscó atención médica?,Nominal
+H1209I,167,H1209 ¿Por qué motivo no buscó atención médica?,Nominal
+H1209J,168,H1209 ¿Por qué motivo no buscó atención médica?,Nominal
+H1209K,169,H1209 ¿Por qué motivo no buscó atención médica?,Nominal
+H1209L,170,H1209 ¿Por qué motivo no buscó atención médica?,Nominal
+H1209M,171,H1209 ¿Por qué motivo no buscó atención médica?,Nominal
+H1209N,172,H1209 ¿Por qué motivo no buscó atención médica?,Nominal
+h1209e,173,H1209E ESPECIFIQUE,Nominal
+h1210,174,H1210 ¿Cuál es el lugar dónde buscó atención?,Nominal
+h1210e,175,H1210E ESPECIFIQUE,Nominal
+h1211,176,H1211 ¿Fue atendido(a)?,Nominal
+H1212A,177,H1212 ¿Por qué motivo no fue atendido(a)?,Nominal
+H1212B,178,H1212 ¿Por qué motivo no fue atendido(a)?,Nominal
+H1212C,179,H1212 ¿Por qué motivo no fue atendido(a)?,Nominal
+H1212D,180,H1212 ¿Por qué motivo no fue atendido(a)?,Nominal
+H1212E1,181,H1212 ¿Por qué motivo no fue atendido(a)?,Nominal
+H1212F,182,H1212 ¿Por qué motivo no fue atendido(a)?,Nominal
+H1212G,183,H1212 ¿Por qué motivo no fue atendido(a)?,Nominal
+H1212H,184,H1212 ¿Por qué motivo no fue atendido(a)?,Nominal
+H1212I,185,H1212 ¿Por qué motivo no fue atendido(a)?,Nominal
+H1212J,186,H1212 ¿Por qué motivo no fue atendido(a)?,Nominal
+H1212K,187,H1212 ¿Por qué motivo no fue atendido(a)?,Nominal
+H1212L,188,H1212 ¿Por qué motivo no fue atendido(a)?,Nominal
+H1212M,189,H1212 ¿Por qué motivo no fue atendido(a)?,Nominal
+H1212N,190,H1212 ¿Por qué motivo no fue atendido(a)?,Nominal
+H1212O,191,H1212 ¿Por qué motivo no fue atendido(a)?,Nominal
+h1212e,192,H1212E ESPECIFIQUE,Nominal
+H1213A,193,H1213 Después de que lo(a) dieron de alta o un mes después de que iniciara su en,Nominal
+H1213B,194,H1213 Después de que lo(a) dieron de alta o un mes después de que iniciara su en,Nominal
+H1213C,195,H1213 Después de que lo(a) dieron de alta o un mes después de que iniciara su en,Nominal
+H1213D,196,H1213 Después de que lo(a) dieron de alta o un mes después de que iniciara su en,Nominal
+H1213E1,197,H1213 Después de que lo(a) dieron de alta o un mes después de que iniciara su en,Nominal
+H1213F,198,H1213 Después de que lo(a) dieron de alta o un mes después de que iniciara su en,Nominal
+H1213G,199,H1213 Después de que lo(a) dieron de alta o un mes después de que iniciara su en,Nominal
+H1213H,200,H1213 Después de que lo(a) dieron de alta o un mes después de que iniciara su en,Nominal
+H1213I,201,H1213 Después de que lo(a) dieron de alta o un mes después de que iniciara su en,Nominal
+H1213J,202,H1213 Después de que lo(a) dieron de alta o un mes después de que iniciara su en,Nominal
+H1213K,203,H1213 Después de que lo(a) dieron de alta o un mes después de que iniciara su en,Nominal
+H1213L,204,H1213 Después de que lo(a) dieron de alta o un mes después de que iniciara su en,Nominal
+H1213M,205,H1213 Después de que lo(a) dieron de alta o un mes después de que iniciara su en,Nominal
+H1213N,206,H1213 Después de que lo(a) dieron de alta o un mes después de que iniciara su en,Nominal
+H1213O,207,H1213 Después de que lo(a) dieron de alta o un mes después de que iniciara su en,Nominal
+H1213P,208,H1213 Después de que lo(a) dieron de alta o un mes después de que iniciara su en,Nominal
+H1213Q,209,H1213 Después de que lo(a) dieron de alta o un mes después de que iniciara su en,Nominal
+H1213R,210,H1213 Después de que lo(a) dieron de alta o un mes después de que iniciara su en,Nominal
+H1213S,211,H1213 Después de que lo(a) dieron de alta o un mes después de que iniciara su en,Nominal
+H1213T,212,H1213 Después de que lo(a) dieron de alta o un mes después de que iniciara su en,Nominal
+h1213e,213,H1213E ESPECIFIQUE,Nominal
+h1214,214,H1214 ¿Sigue experimentando estas secuelas?,Nominal
+h1215,215,H1215 ¿Por cuánto tiempo tuvo esos síntomas?,Nominal
+h1216,216,"H1216 ¿Estos síntomas le impiden o impidieron cuidarse? Por ejemplo, que no pudi",Nominal
+h1217,217,"H1217 ¿Estos síntomas le impiden o impidieron salir de su casa? Por ejemplo, par",Nominal
+h1601,218,H1601 ¿Usted (NOMBRE) ya ha sido elegible para recibir la vacuna por COVID-19?,Nominal
+h1601e,219,H1601E ESPECIFIQUE,Nominal
+h1602,220,H1602 ¿Le han aplicado la vacuna para COVID-19?,Nominal
+h1603,221,H1603 ¿En qué municipio le aplicaron la vacuna?,Nominal
+h1603e,222,H1603E ESPECIFIQUE,Nominal
+h16041m,223,H16041M ¿Cuándo se la pusieron? 1a dosis:  MES,Nominal
+h16041a,224,H16041A ¿Cuándo se la pusieron? 1a dosis:  AÑO,Escala
+h16042d,225,H16042D ¿Cuándo se la pusieron? 2a dosis: DÍA,Escala
+h16042m,226,H16042M ¿Cuándo se la pusieron? 2a dosis:  MES,Nominal
+h16042a,227,H16042A ¿Cuándo se la pusieron? 2a dosis:  AÑO,Escala
+h1604ud,228,H1604UD ¿Cuándo se la pusieron? Dosis única:  DÍA,Nominal
+h1604um,229,H1604UM ¿Cuándo se la pusieron? Dosis única:   MES,Nominal
+h1604ua,230,H1604UA ¿Cuándo se la pusieron? Dosis única:   AÑO,Escala
+h1605,231,H1605 ¿Qué vacuna le pusieron?,Nominal
+h1605e,232,H1605E ESPECIFIQUE,Nominal
+H1606A,233,H1606 ¿Tuvo alguna molestia después de la vacuna?,Nominal
+H1606B,234,H1606 ¿Tuvo alguna molestia después de la vacuna?,Nominal
+H1606C,235,H1606 ¿Tuvo alguna molestia después de la vacuna?,Nominal
+H1606D,236,H1606 ¿Tuvo alguna molestia después de la vacuna?,Nominal
+H1606E1,237,H1606 ¿Tuvo alguna molestia después de la vacuna?,Nominal
+H1606F,238,H1606 ¿Tuvo alguna molestia después de la vacuna?,Nominal
+h1606e,239,H1606E ESPECIFIQUE,Nominal
+h1607,240,H1607 ¿Por qué no se vacunó?,Nominal
+h1607e,241,H1607E ESPECIFIQUE,Nominal
+h1608,242,H1608 ¿Aceptaría aplicarse la vacuna contra COVID-19 en el momento que usted (NO,Nominal
+h1609,243,H1609 ¿Cuál es la principal razón por la cual no se aplicaría la vacuna contra C,Nominal
+h1609e,244,H1609E ESPECIFIQUE,Nominal
+c1610,245,Calculo para la pregunta 16.10,Escala
+h1610,246,"H1610 De acuerdo con la evidencia científica, las vacunas que actualmente se est",Nominal
+completa1,247,Resultado de Entrevista,Nominal
+x_region,248,Region,Nominal
+entidad,249,Entidad,Nominal
+ponde_f,250,ponderador de integrantes de hogar,Escala
+estrato,251,Estrato urbanidad/ruralidad,Nominal
+est_sel,252, Estrato de seleccion,Escala
+upm,253,Unidad primaria de muestreo,Nominal

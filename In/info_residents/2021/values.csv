@@ -1,0 +1,877 @@
+Valor,,Etiqueta
+h0302,1,Hombre
+,2,Mujer
+h0304d,1,01
+,2,02
+,3,03
+,4,04
+,5,05
+,6,06
+,7,07
+,8,08
+,9,09
+,10,10
+,11,11
+,12,12
+,13,13
+,14,14
+,15,15
+,16,16
+,17,17
+,18,18
+,19,19
+,20,20
+,21,21
+,22,22
+,23,23
+,24,24
+,25,25
+,26,26
+,27,27
+,28,28
+,29,29
+,30,30
+,31,31
+,99,No sabe
+h0304m,1,Enero
+,2,Febrero
+,3,Marzo
+,4,Abril
+,5,Mayo
+,6,Junio
+,7,Julio
+,8,Agosto
+,9,Septiembre
+,10,Octubre
+,11,Noviembre
+,12,Diciembre
+,99,No sabe
+h0305,1,Jefa(e)
+,2,Esposa(o) o pareja
+,3,Hija(o)
+,4,Nieta(o)
+,5,Nuera o yerno
+,6,Madre o Padre
+,7,Suegra(o)
+,8,Otro
+,9,Sin parentesco
+int_nuevo,1,Sí
+,2,No
+h0306,1,"Aquí, en este estado"
+,2,En otro estado
+,3,En Estados Unidos de América
+,4,En otro país
+h0306e,1,01 AGUASCALIENTES
+,2,02 BAJA CALIFORNIA
+,3,03 BAJA CALIFORNIA SUR
+,4,04 CAMPECHE
+,5,05 COAHUILA DE ZARAGOZA
+,6,06 COLIMA
+,7,07 CHIAPAS
+,8,08 CHIHUAHUA
+,9,09 CIUDAD DE MÉXICO
+,10,10 DURANGO
+,11,11 GUANAJUATO
+,12,12 GUERRERO
+,13,13 HIDALGO
+,14,14 JALISCO
+,15,15 MÉXICO
+,16,16 MICHOACÁN DE OCAMPO
+,17,17 MORELOS
+,18,18 NAYARIT
+,19,19 NUEVO LEÓN
+,20,20 OAXACA
+,21,21 PUEBLA
+,22,22 QUERÉTARO
+,23,23 QUINTANA ROO
+,24,24 SAN LUIS POTOSÍ
+,25,25 SINALOA
+,26,26 SONORA
+,27,27 TABASCO
+,28,28 TAMAULIPAS
+,29,29 TLAXCALA
+,30,30 VERACRUZ DE IGNACIO DE LA LLAVE
+,31,31 YUCATÁN
+,32,32 ZACATECAS
+h0306p,1,Afganistán
+,2,Albania
+,3,Alemania
+,4,Andorra
+,5,Angola
+,6,Antigua y Barbuda
+,7,Arabia Saudita
+,8,Argelia
+,9,Argentina
+,10,Armenia
+,11,Australia
+,12,Austria
+,13,Azerbaiyán
+,14,Bahamas
+,15,Bangladés
+,16,Barbados
+,17,Baréin
+,18,Bélgica
+,19,Belice
+,20,Benín
+,21,Bielorrusia
+,22,Birmania
+,23,Bolivia
+,24,Bosnia y Herzegovina
+,25,Botsuana
+,26,Brasil
+,27,Brunéi
+,28,Bulgaria
+,29,Burkina Faso
+,30,Burundi
+,31,Bután
+,32,Cabo Verde
+,33,Camboya
+,34,Camerún
+,35,Canadá
+,36,Catar
+,37,Chad
+,38,Chile
+,39,China
+,40,Chipre
+,41,Ciudad del Vaticano
+,42,Colombia
+,43,Comoras
+,44,Corea del Norte
+,45,Corea del Sur
+,46,Costa de Marfil
+,47,Costa Rica
+,48,Croacia
+,49,Cuba
+,50,Dinamarca
+,51,Dominica
+,52,Ecuador
+,53,Egipto
+,54,El Salvador
+,55,Emiratos Árabes Unidos
+,56,Eritrea
+,57,Eslovaquia
+,58,Eslovenia
+,59,España
+,60,Estados Unidos
+,61,Estonia
+,62,Etiopía
+,63,Filipinas
+,64,Finlandia
+,65,Fiyi
+,66,Francia
+,67,Gabón
+,68,Gambia
+,69,Georgia
+,70,Ghana
+,71,Granada
+,72,Grecia
+,73,Guatemala
+,74,Guyana
+,75,Guinea
+,76,Guinea ecuatorial
+,77,Guinea-Bisáu
+,78,Haití
+,79,Honduras
+,80,Hungría
+,81,India
+,82,Indonesia
+,83,Irak
+,84,Irán
+,85,Irlanda
+,86,Islandia
+,87,Islas Marshall
+,88,Islas Salomón
+,89,Israel
+,90,Italia
+,91,Jamaica
+,92,Japón
+,93,Jordania
+,94,Kazajistán
+,95,Kenia
+,96,Kirguistán
+,97,Kiribati
+,98,Kuwait
+,99,Laos
+,100,Lesoto
+,101,Letonia
+,102,Líbano
+,103,Liberia
+,104,Libia
+,105,Liechtenstein
+,106,Lituania
+,107,Luxemburgo
+,108,Macedonia del Norte
+,109,Madagascar
+,110,Malasia
+,111,Malaui
+,112,Maldivas
+,113,Malí
+,114,Malta
+,115,Marruecos
+,116,Mauricio
+,117,Mauritania
+,118,México
+,119,Micronesia
+,120,Moldavia
+,121,Mónaco
+,122,Mongolia
+,123,Montenegro
+,124,Mozambique
+,125,Namibia
+,126,Nauru
+,127,Nepal
+,128,Nicaragua
+,129,Níger
+,130,Nigeria
+,131,Noruega
+,132,Nueva Zelanda
+,133,Omán
+,134,Países Bajos
+,135,Pakistán
+,136,Palaos
+,137,Panamá
+,138,Papúa Nueva Guinea
+,139,Paraguay
+,140,Perú
+,141,Polonia
+,142,Portugal
+,143,Reino Unido
+,144,República Centroafricana
+,145,República Checa
+,146,República del Congo
+,147,República Democrática del Congo
+,148,República Dominicana
+,149,Ruanda
+,150,Rumanía
+,151,Rusia
+,152,Samoa
+,153,San Cristóbal y Nieves
+,154,San Marino
+,155,San Vicente y las Granadinas
+,156,Santa Lucía
+,157,Santo Tomé y Príncipe
+,158,Senegal
+,159,Serbia
+,160,Seychelles
+,161,Sierra Leona
+,162,Singapur
+,163,Siria
+,164,Somalia
+,165,Sri Lanka
+,166,Suazilandia
+,167,Sudáfrica
+,168,Sudán
+,169,Sudán del Sur
+,170,Suecia
+,171,Suiza
+,172,Surinam
+,173,Tailandia
+,174,Tanzania
+,175,Tayikistán
+,176,Timor Oriental
+,177,Togo
+,178,Tonga
+,179,Trinidad y Tobago
+,180,Túnez
+,181,Turkmenistán
+,182,Turquía
+,183,Tuvalu
+,184,Ucrania
+,185,Uganda
+,186,Uruguay
+,187,Uzbekistán
+,188,Vanuatu
+,189,Venezuela
+,190,Vietnam
+,191,Yemen
+,192,Yibuti
+,193,Zambia
+,194,Zimbabue
+h0307,1,Sí
+,2,"No, vive en otro lugar"
+,3,"No, ya falleció"
+,8,Matrimonio igualitario
+,9,NS/NR
+h0308,1,Sí
+,2,"No, vive en otro lugar"
+,3,"No, ya falleció"
+,8,Matrimonio igualitario
+,9,NS/NR
+h0309,1,Instituto Mexicano del Seguro Social (IMSS)
+,2,ISSSTE/ ISSSTE Estatal
+,3,PEMEX
+,4,Defensa
+,5,Marina
+,6,Centros de Salud u Hospital de la SSA
+,7,IMSS BIENESTAR (antes Oportunidades)
+,8,"DIF federal, estatal o municipal"
+,9,Cruz Roja/ Cruz Verde
+,10,Instituto Nacional de Salud
+,11,Organizaciones (ONG/OSC) que dan atención gratuita/Dispensar
+,12,Consultorios pertenecientes a farmacias/Farmacias con consul
+,13,Consultorio dentro de hospital privado
+,14,Área de urgencias/hospitalización dentro de hospital privado
+,15,Atención privada en torre de consultorios médicos o en una c
+,16,Consultorio en domicilio particular de médico privado
+,17,Atención privada en mi domicilio
+,18,"Atención privada vía remota (teléfono, mensajes de texto, te"
+,19,Médico laboral (médico de la empresa)
+,20,"Curandero, hierbero, naturista"
+,21,"Homeópata, partera, acupunturista"
+,22,Otro (especifique)
+,23,No sabe / No recuerda
+h0311,1,Sí
+,2,No
+h0312,1,Sí
+,2,No
+h0313,1,Sí
+,2,No
+h0314,1,pública?
+,2,privada?
+h0315,1,Matutino
+,2,Vespertino
+,3,Turno completo o mixto
+,4,Turno sabatino o flexible
+h0316,1,Se embarazó o tuvo un hijo
+,2,Se casó o unió
+,3,No había escuela o no había cupo
+,4,Problemas personales o académicos en la escuela
+,5,Por enfermedad y/o discapacidad
+,6,No tenía la edad cumplida
+,7,Por falta de dinero o trabajo
+,8,No quiso o no le gustó estudiar
+,9,Logró su meta educativa
+,10,Nunca ha ido a la escuela
+,11,Otro motivo
+h0317a,1,Preescolar
+,2,Primaria
+,3,Secundaria
+,4,Preparatoria o Bachillerato
+,5,Normal básica
+,6,Estudios técnicos o comerciales con primaria terminada
+,7,Estudios técnicos o comerciales con secundaria terminada
+,8,Estudios técnicos o comerciales con preparatoria terminada
+,9,Normal de licenciatura
+,10,Licenciatura o profesional
+,11,Maestría
+,12,Doctorado
+h0317g,1,1° Grado
+,2,2° Grado
+,3,3° Grado
+,4,4° Grado
+,5,5° Grado
+,6,6° Grado
+h0318,1,Sí
+,2,No
+h0319,1,vive con su pareja en unión libre?
+,2,está separada(o) de una union libre?
+,3,está separada(o) de un matrimonio?
+,4,está divorciada(o)?
+,5,está viuda(o)?
+,6,está casada(o) civil o religiosamente?
+,7,está soltera(o)?
+h0320,1,Sí
+,2,"No, vive en otro lugar"
+,3,"No, ya falleció"
+,8,Matrimonio igualitario
+,9,No sabe
+h0321,1,Sí
+,2,No
+h0322,1,ayudó en un negocio familiar?
+,2,vendió o hizo algún producto para vender?
+,3,ayudó en las labores del campo o en la cría de animales?
+,4,"a cambio de un pago, realizó otro tipo de actividad? (cortar"
+,5,"tenia trabajo, pero estuvo ausente?"
+,6,"no ayudó, ni trabajo?"
+h0323,1,busco trabajo?
+,2,se dedicó a los quehaceres del hogar?
+,3,es estudiante?
+,4,es pensionada(o) o jubilada(o)?
+,5,tiene discapacidad permenente que le impida trabajar?
+,6,¿Otra situación?
+h0324,1,empleada(o)?
+,2,obrera(o)?
+,3,jornalera(o) o peona (ón)?
+,4,Trabajador(a) por su cuenta? (no contrata trabajadores)
+,5,patrón(a) o empleador(a)? (contrata trabajadores)
+,6,trabajador(a) sin pago? (en un negocio familiar o no familia
+,7,¿Otra situación?
+h0325,1,"Sí, soy (es) personal de salud"
+,2,"Sí, soy (es) maestro, docente"
+,3,"Sí, tengo (tiene) contacto con gente"
+,4,No tengo (tiene) contacto con gente
+h0326a,1,Sí
+,2,No
+,3,No sabe
+h0326b,1,Sí
+,2,No
+,3,No sabe
+h0326c,1,Sí
+,2,No
+,3,No sabe
+h0326d,1,Sí
+,2,No
+,3,No sabe
+h0326e,1,Sí
+,2,No
+,3,No sabe
+h0326f,1,Sí
+,2,No
+,3,No sabe
+h0326g,1,Sí
+,2,No
+,3,No sabe
+h0326h,1,Sí
+,2,No
+,3,No sabe
+h0326i,1,Sí
+,2,No
+,3,No sabe
+h0326j,1,Sí
+,2,No
+,3,No sabe
+h0326k,1,Sí
+,2,No
+,3,No sabe
+h0401,1,Sí
+,2,No
+h0402,1,"Infecciones respiratorias (gripe, catarro, dolor de garganta"
+,2,Diarrea o empacho (infección estomacal o intestinal por algu
+,3,Infecciones de vías urinarias (dolor o ardor al orinar)
+,4,"Infección de oído (comezón, ardor, dolor, sangrado o salida"
+,5,"Infección en los ojos (conjuntivitis, orzuelo-perrilla del o"
+,6,Infección vaginal
+,7,Caries
+,8,Otra enfermedad de la boca diferente a caries
+,9,Infección del riñón (dolor en riñón)
+,10,Neumonía (pulmonía)
+,11,Infección de transmisión sexual
+,12,Infección en genitales
+,13,Parasitosis intestinal (lombrices)
+,14,"Infecciones transmitidas por vector-insectos- (Zika, Dengue,"
+,15,COVID-19 (coronavirus)
+,16,"Control, seguimiento o diagnóstico de diabetes (azúcar alta)"
+,17,"Control, seguimiento o diagnóstico de hipertensión arterial"
+,18,"Control de peso (diagnóstico, tratamiento o control de sobre"
+,19,Enfermedades renales
+,20,"Gastritis, úlcera gástrica o duodenitis (reflujo)"
+,21,Piedra o cálculo en el riñón
+,22,Insuficiencia renal aguda o crónica (pérdida de la función d
+,23,Asma
+,24,Bronquitis o enfisema pulmonar (EPOC)
+,25,"Alergias (en piel, ojos o nariz)"
+,26,"Enfermedades reumatológicas (artritis, lupus)"
+,27,Cáncer o tumores
+,28,Vacunación
+,29,Planificación familiar
+,30,Chequeo o consulta médico
+,31,Chequeo o consulta dental
+,32,Control prenatal (embarazo)
+,33,Antígeno prostático y/o examen prostático (tacto rectal)
+,34,Mamografía o mastografía
+,35,Papanicolaou o colposcopía
+,36,Certificado médico
+,37,"Otro estudio médico (resonancia, tomografía, electrocardiogr"
+,38,"Lesión física por accidente (vehículo, fracturas,golpes, etc"
+,39,"Lesión física por agresión de animal, picadura de insecto a"
+,40,Dolor de cabeza
+,41,Fiebre
+,42,"Dolor, inflamación o infección de órganos (Páncreas, vesícul"
+,43,Atención de parto o cesárea
+,44,"Dolor de músculos, huesos y/o articulaciones"
+,45,"Dolor de nervios (hernia lumbar, ciática, sensación de ardor"
+,46,Cirugía u operación de cualquier órgano o parte del cuerpo
+,47,Depresión
+,48,Ansiedad
+,49,Insomnio
+,50,Estrés
+,51,Cualquier otra condición mental
+,52,Otra causa no enlistada en las anteriores (especifique)
+,99,No sabe
+h0403,1,Sí
+,2,No
+h0404,1,Sí
+,2,No
+h0406,1,Sí
+,2,No
+h0408,1,Instituto Mexicano del Seguro Social (IMSS)
+,2,ISSSTE/ISSSTE Estatal
+,3,PEMEX
+,4,Defensa
+,5,Marina
+,6,Centro de salud u Hospital de la SSA
+,7,IMSS Bienestar (antes Oportunidades)?
+,8,"DIF federal, estatal o municipal"
+,9,Cruz Roja / Cruz Verde
+,10,Instituto Nacional de Salud
+,11,Organizaciones (ONG/OSC) que dan atención gratuita/Dispensar
+,12,Consultorios pertenecientes a farmacias / Farmacia con consu
+,13,Consultorio dentro de hospital privado
+,14,Área de urgencias/hospitalización dentro de hospital privado
+,15,Atención privada en torre de consultorios médicos o en una c
+,16,Consultorio en domicilio particular de médico privado
+,17,Atención privada en mi domicilio
+,18,"Atención privada vía remota (teléfono, mensajes de texto, te"
+,19,Médico laboral (médico de la empresa)
+,20,"Curandero, hierbero, naturista"
+,21,"Homeópata, partera, acupunturista"
+,22,Otro (especifique)
+,23,No sabe / No recuerda
+h0601a,1,Sí
+,2,No
+,9,No Sabe
+h0601b,1,Sí
+,2,No
+,9,No Sabe
+h0601c,1,Sí
+,2,No
+,9,No Sabe
+h0601d,1,Sí
+,2,No
+,9,No Sabe
+h0601e,1,Sí
+,2,No
+,9,No Sabe
+h0601f,1,Sí
+,2,No
+,9,No Sabe
+h0601g,1,Sí
+,2,No
+,9,No Sabe
+h0601h,1,Sí
+,2,No
+,9,No Sabe
+h0601i,1,Sí
+,2,No
+,9,No Sabe
+h0601j,1,Sí
+,2,No
+,9,No Sabe
+h0601k,1,Sí
+,2,No
+,9,No Sabe
+h0601l,1,Sí
+,2,No
+,9,No Sabe
+h0601m,1,Sí
+,2,No
+,9,No Sabe
+h16041d,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,6,6
+,7,7
+,8,8
+,9,9
+,10,10
+,11,11
+,12,12
+,13,13
+,14,14
+,15,15
+,16,16
+,17,17
+,18,18
+,19,19
+,20,20
+,21,21
+,22,22
+,23,23
+,24,24
+,25,25
+,26,26
+,27,27
+,28,28
+,29,29
+,30,30
+,31,31
+,99,No recuerda
+h0601n,1,Sí
+,2,No
+,9,No Sabe
+h0601o,1,Sí
+,2,No
+,9,No Sabe
+h0601p,1,Sí
+,2,No
+,9,No Sabe
+h0604ba,1,Sí
+,2,No
+,9,No Sabe
+h0605,1,Sí
+,2,No
+,9,No Sabe
+h0903,1,Sí
+,2,No
+,9,NS/NR
+h0904,1,aumentó?
+,2,disminuyó?
+,3,fue igual?
+h0905,1,aumentó?
+,2,disminuyó?
+,3,fue igual?
+h0906,1,aumentó?
+,2,disminuyó?
+,3,fue igual?
+h1201,1,"SÍ tuve(o) la intención, pero no fui (e) y no me (se) la hic"
+,2,"Sí fui (e), pero no me (se) la hice (hicieron)"
+,3,SÍ me hice la prueba
+,4,No
+,5,NS/NR
+h1202,1,La fila era muy larga
+,2,Me (Le) dio miedo contagiarme
+,3,Se acabaron las fichas
+,4,Se acabaron las pruebas
+,5,No me(se) la quisieron hacer (no elegible)
+,6,Era muy cara/no tenía dinero para pagarla
+,7,Cerraron
+h1203,1,Laboratorio o unidad de atención privada
+,2,Kiosko o unidad de salud pública
+,3,Prueba-auto-aplicada
+,9,N/S/NR
+h1204,1,"Sí, positivo"
+,2,"Sí, negativo"
+,3,No me entregaron el resultado
+h1205,1,Sí
+,2,No
+,9,NS/NR
+h1206,1,Con prueba
+,2,Con síntomas
+,3,Ambas
+,9,NS/NR
+h1207,1,Enero
+,2,Febrero
+,3,Marzo
+,4,Abril
+,5,Mayo
+,6,Junio
+,7,Julio
+,8,Agosto
+,9,Septiembre
+,10,Octubre
+,11,Noviembre
+,12,Diciembre
+,99,NS/NR
+h1208,1,Sí
+,2,No
+,9,NS/NR
+h1210,1,Instituto Mexicano del Seguro Social (IMSS)
+,2,ISSSTE/ISSSTE Estatal
+,3,PEMEX
+,4,Defensa
+,5,Marina
+,6,Centro de Salud u Hospital de la SSA
+,7,IMSS Bienestar (antes Oportunidades)
+,8,"DIF federal, estatal o municipal"
+,9,Cruz Roja/Cruz Verde
+,10,Instituto Nacional de Salud
+,11,Organizaciones (ONG/OSC) que dan atención gratuita/Dispensar
+,12,Consultorios pertenecientes a farmacias/Farmacias con consul
+,13,Consultorio dentro de hospital privado
+,14,Área de urgencias/hospitalización dentro de hospital privado
+,15,Atención privada en torre de consultorios médicos o en una c
+,16,Consultorio en domicilio particular de médico privado
+,17,Atención privada en mi domicilio
+,18,"Atención privada vía remota (teléfono, mensajes de texto, te"
+,19,Médico laboral (médico de la empresa)
+,20,"Curandero, hierbero, naturista"
+,21,"Homeópata, partera, acupunturista"
+,22,Otro (especifique)
+,23,No sabe / No recuerda
+h1211,1,Sí
+,2,No
+,9,NS/NR
+h1214,1,Sí
+,2,No
+,9,NS/NR
+h1215,1,Menos de un mes
+,2,De uno a tres meses
+,3,Tres a seis meses
+,4,Más de 6 meses
+h1216,1,Sí
+,2,No
+,9,NS/NR
+h1217,1,Sí
+,2,No
+,9,NS/NR
+h1601,1,"Sí, soy (es) personal de salud"
+,2,"Sí, tengo (tiene) más de 60 años"
+,3,"Sí, tengo (tiene) entre 50 y 59 años"
+,4,"Sí, tengo (tiene) entre 40 y 49 años"
+,5,"Sí, soy (es) maestro/docente"
+,6,"Sí, estoy (está) o estuve (estuvo) embarazada"
+,7,Otro (especificar)
+,8,No soy (es) elegible
+,9,No sé
+h1602,1,"Sí, una dosis"
+,2,"Sí, dos dosis"
+,3,"Sí, dosis única"
+,4,No
+h1603,1,En el municipio donde actualmente vivo
+,2,En otro lugar (especificar)
+h16041m,1,Enero
+,2,Febrero
+,3,Marzo
+,4,Abril
+,5,Mayo
+,6,Junio
+,7,Julio
+,8,Agosto
+,9,Septiembre
+,10,Octubre
+,11,Noviembre
+,12,Diciembre
+,99,No recuerda
+h16041a,2020,2020
+,2021,2021
+,9999,No recuerda
+h16042d,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,6,6
+,7,7
+,8,8
+,9,9
+,10,10
+,11,11
+,12,12
+,13,13
+,14,14
+,15,15
+,16,16
+,17,17
+,18,18
+,19,19
+,20,20
+,21,21
+,22,22
+,23,23
+,24,24
+,25,25
+,26,26
+,27,27
+,28,28
+,29,29
+,30,30
+,31,31
+,99,No recuerda
+h16042m,1,Enero
+,2,Febrero
+,3,Marzo
+,4,Abril
+,5,Mayo
+,6,Junio
+,7,Julio
+,8,Agosto
+,9,Septiembre
+,10,Octubre
+,11,Noviembre
+,12,Diciembre
+,99,No recuerda
+h16042a,2020,2020
+,2021,2021
+,9999,No recuerda
+h1604ud,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,6,6
+,7,7
+,8,8
+,9,9
+,10,10
+,11,11
+,12,12
+,13,13
+,14,14
+,15,15
+,16,16
+,17,17
+,18,18
+,19,19
+,20,20
+,21,21
+,22,22
+,23,23
+,24,24
+,25,25
+,26,26
+,27,27
+,28,28
+,29,29
+,30,30
+,31,31
+,99,No recuerda
+h1604um,1,Enero
+,2,Febrero
+,3,Marzo
+,4,Abril
+,5,Mayo
+,6,Junio
+,7,Julio
+,8,Agosto
+,9,Septiembre
+,10,Octubre
+,11,Noviembre
+,12,Diciembre
+,99,No recuerda
+h1604ua,2020,2020
+,2021,2021
+,9999,No recuerda
+h1605,1,Pfizer
+,2,Sputnik
+,3,Sinovac
+,4,Astra Zeneca
+,5,CanSino
+,6,Otra (especificar)
+,9,NS/NR
+h1607,1,No he (ha) sido elegible
+,2,Sí me (le) toca/soy (es) elegible pero no ha llegado la vacu
+,3,Creo(e) que la vacuna no sirve
+,4,Creo(e) que la vacuna tiene efectos adversos/consecuencias n
+,5,Me (Le) quedaba muy lejos
+,6,La fila era muy larga
+,7,"COVID no es un problema, no existe"
+,8,"Prefiero(e) esperar, ver cómo avanza esto"
+,9,"No confío(a) en el sistema, en el gobierno"
+,10,Porque no me(le) dejaron salir en mi(su) trabajo
+,11,Porque tengo (tiene) una discapacidad
+,12,Porque no tuve(o) quién me(le) acompañara
+,88,Otro (especificar)
+h1608,1,Sí
+,2,No
+,3,Quizás (indeciso(a))
+,4,No responde
+h1609,1,Creo(e) que la vacuna no sirve
+,2,Creo(e) que la vacuna tiene efectos adversos/consecuencias n
+,3,Me(Le) quedaría muy lejos el lugar donde las aplican
+,4,Las filas son muy largas
+,5,"COVID no es un problema, no existe"
+,6,"Prefiero(e) esperar, ver cómo avanza esto"
+,7,"No confío(a) en el sistema, en el gobierno"
+,8,Porque no me(le) dejarían salir en mi(su) trabajo
+,9,Porque tengo (tiene) una discapacidad
+,10,Porque no tengo (tiene) quién me(le) acompañe
+,88,Otro (especificar)
+h1610,1,Sí
+,2,No
+,3,NS
+,9,NR
+x_region,1,Pacifico-Norte
+,2,Frontera
+,3,Pacífico-Centro
+,4,Guanajuato
+,5,Resto Centro Norte
+,6,Centro
+,7,Cd. México
+,8,Edo. México
+,9,Pacífico Sur
+,10,Península
+estrato,1,Rural  ( <2500 Hab )
+,2,"Urbano ( 2500-99,999 Hab)"
+,3,Metropolitano (100mil y + Hab)
