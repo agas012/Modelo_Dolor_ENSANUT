@@ -25,13 +25,13 @@ DataR20 = pd.read_csv(Path('In/info_residents/2020/data.csv'), encoding="utf8")
 ValueR20 = pd.read_csv(Path('In/info_residents/2020/values.csv'), encoding="utf8")
 VariablesR20 = pd.read_csv(Path('In/info_residents/2020/variables.csv'), encoding="cp1252")
 
-DataR21 = pd.read_csv(Path('In/info_residents/2021/data.csv'), encoding="utf-8")
-ValueR21 = pd.read_csv(Path('In/info_residents/2021/values.csv'), encoding="utf-8")
-VariablesR21 = pd.read_csv(Path('In/info_residents/2021/variables.csv'), encoding="utf-8")
+DataR21 = pd.read_csv(Path('In/info_residents/2021/data.csv'),sep=';', encoding="utf-8")
+ValueR21 = pd.read_csv(Path('In/info_residents/2021/values.csv'), encoding="cp1252")
+VariablesR21 = pd.read_csv(Path('In/info_residents/2021/variables.csv'), encoding="cp1252")
 
 DataR22 = pd.read_csv(Path('In/info_residents/2022/data.csv'), encoding="utf-8")
-ValueR22 = pd.read_csv(Path('In/info_residents/2022/values.csv'), encoding="utf-8")
-VariablesR22 = pd.read_csv(Path('In/info_residents/2022/variables.csv'), encoding="utf-8")
+ValueR22 = pd.read_csv(Path('In/info_residents/2022/values.csv'), encoding="cp1252")
+VariablesR22 = pd.read_csv(Path('In/info_residents/2022/variables.csv'), encoding="cp1252")
 
 #change all column names to proper variable names
 ValueH22.columns = ['Value', 'Num', 'Label']
@@ -76,7 +76,7 @@ VariablesH22 = VariablesH22.applymap(lambda x: x.lower() if isinstance(x, str) e
 
 VariablesR20 = VariablesR20.applymap(lambda x: x.lower() if isinstance(x, str) else x)
 VariablesR21 = VariablesR21.applymap(lambda x: x.lower() if isinstance(x, str) else x)
-VariablesR21 = VariablesR21.applymap(lambda x: x.lower() if isinstance(x, str) else x)
+VariablesR22 = VariablesR22.applymap(lambda x: x.lower() if isinstance(x, str) else x)
 
 # Merge the DataFrames
 # track rows by adding a index
@@ -86,8 +86,8 @@ VariablesH21['index_21'] = VariablesH21.index
 VariablesH22['index_22'] = VariablesH22.index
 
 VariablesR20['index_20'] = VariablesR20.index
-VariablesR21['index_20'] = VariablesR21.index
-VariablesR22['index_20'] = VariablesR22.index
+VariablesR21['index_21'] = VariablesR21.index
+VariablesR22['index_22'] = VariablesR22.index
 
 #delete code from label
 #regular expressions '^h\d' find letter h and number at the beggining 
