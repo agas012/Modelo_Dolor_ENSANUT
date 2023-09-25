@@ -1,304 +1,39 @@
 Valor,,Etiqueta
-region,1,Pacifico-Norte
-,2,Frontera
-,3,Pacífico-Centro
-,4,Centro Norte
-,5,Centro
-,6,Cd./Edo México
-,7,Pacífico Sur
-,8,Península
-,11,Guanajuato
-,15,Edo México
-,19,Nuevo León
-nota1,1,"¿Acepta usted? ,,,, Sí"
-,2,"¿Acepta usted? ,,,, No"
-nota1a,1,Favor de Continuar
-h0101,1,Material de desecho
-,2,Lámina de cartón
-,3,Lámina metálica
-,4,Lámina de asbesto
-,5,Palma o paja
-,6,Madera o tejamanil
-,7,Terrado con viguería
-,8,Teja
-,9,Losa de concreto o viguetas con bovedilla
-h0102,1,Material de desecho
-,2,Lámina de cartón
-,3,Lámina de asbesto o metálica
-,4,"Carrizo, bambú o palma"
-,5,"Embarro, bajareque o paja"
-,6,Madera
-,7,Adobe
-,8,"Tabique, ladrillo, block, piedra, cantera, cemento o concret"
-h0103,1,Tierra
-,2,Cemento o firme
-,3,"Madera, mosaico u otro recubrimiento"
-h0106,1,Sí
-,2,No
-h0107,1,en un pasillo o corredor?
-,2,en un tejabán o techito?
-,3,al aire libre?
-,4,¿No cocinan en esta vivienda?
-h0108,1,Sí
-,2,No
-h0109,1,leña?
-,2,carbón?
-,3,gas de cilindro o estacionario?
-,4,gas natural o de tubería?
-,5,electricidad?
-,6,¿Otro combustible?
-,7,¿No cocinan?
-h0110,1,Estufa o parrilla de gas
-,2,Estufa o parrilla eléctrica
-,3,Fuego abierto u horno sin chimenea ni campana
-,4,Fuego abierto u horno con chimenea o campana
-,5,Horno cerrado con chimenea
-,6,Otro
-h0111,1,Sí
-,2,No
-h0112,1,dentro de la vivienda?
-,2,solo en el terreno?
-,3,no tiene agua entubada?
-h0113,1,del servicio público de agua?
-,2,de un pozo?
-,3,de una pipa?
-,4,de otra vivienda?
-,5,de otro lugar?
-h0114,1,la sacan o acarrean de un pozo?
-,2,la acarrean de una toma o llave comunitaria?
-,3,la traen de otra vivienda?
-,4,la trae una pipa?
-,5,"la acarrean de un río, arroyo o lago?"
-,6,la captan de la lluvia?
-h0118,1,la red pública?
-,2,una fosa séptica o tanque séptico (biodigestor)?
-,3,una tubería que va a dar a una barranca o grieta?
-,4,"una tubería que va a dar a un río, lago o mar?"
-,5,¿No tiene drenaje?
-h0119,1,tiene descarga directa de agua?
-,2,le echan agua con cubeta?
-,3,no se le puede echar agua?
-,4,no tiene servicio sanitario?
-h0120,1,Sí
-,2,No
-h0121,1,la recoge un camión o un carrito de basura?
-,2,la tiran en el basurero público?
-,3,la tiran en un contenedor o depósito?
-,4,la queman?
-,5,la entierran?
-,6,la tiran en un terreno baldío o calle?
-,7,la tiran a la barranca o grieta?
-,8,"la tiran al río, lago o mar?"
-h0122,1,Sí
-,2,No
-h0123,1,Aparato o sistema de calefacción
-,2,Calentón
-,3,Resistencia
-,4,Brasero
-,5,Chimenea
-,6,Otro
-h0124,1,Gas
-,2,Electricidad
-,3,Queroseno
-,4,Carbón mineral
-,5,Carbón vegetal
-,6,Leña o madera
-,7,Residuos agrícolas o de cultivos
-,8,Estiércol animal
-,9,Matojos o hierba
-,10,Otro combustible
-h0125,1,es rentada?
-,2,es prestada?
-,3,es propia pero la están pagando?
-,4,es propia?
-,5,está intestada o en litigio?
-,6,está en otra situación?
-nota2,1,Favor de Continuar
-h0201,1,Sí
-,2,No
-nota3,1,Favor de Continuar
-h305t,1,Sí
-,2,No
-h0327,1,"1- 5,999 pesos"
-,2,"6,000-9,999 pesos"
-,3,"10,000-13,999 pesos"
-,4,"14,000-21,999 pesos"
-,5,"22,000 o más pesos"
-,6,No percibieron ingresos
-,8,No quiso responder
-,9,No sabe
-nota4,1,Favor de Continuar
-nota5,1,Favor de Continuar
-nota5a,1,Favor de Continuar
-h0501a,1,Sí
-,2,No
-h0501b,1,Sí
-,2,No
-h0501c,1,Sí
-,2,No
-h0501e,1,Sí
-,2,No
-h0501f,1,Sí
-,2,No
-h0501g,1,Sí
-,2,No
-h0501k,1,Sí
-,2,No
-h0501l,1,Sí
-,2,No
-h0501n,1,Sí
-,2,No
-h0501o,1,Sí
-,2,No
-h0501p,1,Sí
-,2,No
-h0501q,1,Sí
-,2,No
-h0501r,1,Sí
-,2,No
-h0501s,1,Sí
-,2,No
-h0501t,1,Sí
-,2,No
-h0501u,1,Sí
-,2,No
-h0501v,1,Sí
-,2,No
-h0501w,1,Sí
-,2,No
-h0501x,1,Sí
-,2,No
-h0501y,1,Sí
-,2,No
-nota6,1,Favor de Continuar
-nota8,1,Favor de Continuar
-h0801,1,Nunca (0 veces en las últimas 4 semanas)
-,2,Raramente (1-2 veces en las últimas 4 semanas)
-,3,A veces (3-10 veces en las últimas 4 semanas)
-,4,Frecuentemente (11-20 veces en las últimas 4 semana)
-,5,Siempre (Más de 20 veces en las últimas 4 semanas)
-,88,No aplica
+h0302,1,Hombre
+,2,Mujer
+h0304d,1,01
+,2,02
+,3,03
+,4,04
+,5,05
+,6,06
+,7,07
+,8,08
+,9,09
+,10,10
+,11,11
+,12,12
+,13,13
+,14,14
+,15,15
+,16,16
+,17,17
+,18,18
+,19,19
+,20,20
+,21,21
+,22,22
+,23,23
+,24,24
+,25,25
+,26,26
+,27,27
+,28,28
+,29,29
+,30,30
+,31,31
 ,99,No sabe
-h0802,1,Nunca (0 veces en las últimas 4 semanas)
-,2,Raramente (1-2 veces en las últimas 4 semanas)
-,3,A veces (3-10 veces en las últimas 4 semanas)
-,4,Frecuentemente (11-20 veces en las últimas 4 semana)
-,5,Siempre (Más de 20 veces en las últimas 4 semanas)
-,88,No aplica
-,99,No sabe
-h0803,1,Nunca (0 veces en las últimas 4 semanas)
-,2,Raramente (1-2 veces en las últimas 4 semanas)
-,3,A veces (3-10 veces en las últimas 4 semanas)
-,4,Frecuentemente (11-20 veces en las últimas 4 semana)
-,5,Siempre (Más de 20 veces en las últimas 4 semanas)
-,88,No aplica
-,99,No sabe
-h0804,1,Nunca (0 veces en las últimas 4 semanas)
-,2,Raramente (1-2 veces en las últimas 4 semanas)
-,3,A veces (3-10 veces en las últimas 4 semanas)
-,4,Frecuentemente (11-20 veces en las últimas 4 semana)
-,5,Siempre (Más de 20 veces en las últimas 4 semanas)
-,88,No aplica
-,99,No sabe
-h0805,1,Nunca (0 veces en las últimas 4 semanas)
-,2,Raramente (1-2 veces en las últimas 4 semanas)
-,3,A veces (3-10 veces en las últimas 4 semanas)
-,4,Frecuentemente (11-20 veces en las últimas 4 semana)
-,5,Siempre (Más de 20 veces en las últimas 4 semanas)
-,88,No aplica
-,99,No sabe
-h0806,1,Nunca (0 veces en las últimas 4 semanas)
-,2,Raramente (1-2 veces en las últimas 4 semanas)
-,3,A veces (3-10 veces en las últimas 4 semanas)
-,4,Frecuentemente (11-20 veces en las últimas 4 semana)
-,5,Siempre (Más de 20 veces en las últimas 4 semanas)
-,88,No aplica
-,99,No sabe
-h0807,1,Nunca (0 veces en las últimas 4 semanas)
-,2,Raramente (1-2 veces en las últimas 4 semanas)
-,3,A veces (3-10 veces en las últimas 4 semanas)
-,4,Frecuentemente (11-20 veces en las últimas 4 semana)
-,5,Siempre (Más de 20 veces en las últimas 4 semanas)
-,88,No aplica
-,99,No sabe
-h0808,1,Nunca (0 veces en las últimas 4 semanas)
-,2,Raramente (1-2 veces en las últimas 4 semanas)
-,3,A veces (3-10 veces en las últimas 4 semanas)
-,4,Frecuentemente (11-20 veces en las últimas 4 semana)
-,5,Siempre (Más de 20 veces en las últimas 4 semanas)
-,88,No aplica
-,99,No sabe
-h0809,1,Nunca (0 veces en las últimas 4 semanas)
-,2,Raramente (1-2 veces en las últimas 4 semanas)
-,3,A veces (3-10 veces en las últimas 4 semanas)
-,4,Frecuentemente (11-20 veces en las últimas 4 semana)
-,5,Siempre (Más de 20 veces en las últimas 4 semanas)
-,88,No aplica
-,99,No sabe
-h0810,1,Nunca (0 veces en las últimas 4 semanas)
-,2,Raramente (1-2 veces en las últimas 4 semanas)
-,3,A veces (3-10 veces en las últimas 4 semanas)
-,4,Frecuentemente (11-20 veces en las últimas 4 semana)
-,5,Siempre (Más de 20 veces en las últimas 4 semanas)
-,88,No aplica
-,99,No sabe
-h0811,1,Nunca (0 veces en las últimas 4 semanas)
-,2,Raramente (1-2 veces en las últimas 4 semanas)
-,3,A veces (3-10 veces en las últimas 4 semanas)
-,4,Frecuentemente (11-20 veces en las últimas 4 semana)
-,5,Siempre (Más de 20 veces en las últimas 4 semanas)
-,88,No aplica
-,99,No sabe
-h0812,1,Nunca (0 veces en las últimas 4 semanas)
-,2,Raramente (1-2 veces en las últimas 4 semanas)
-,3,A veces (3-10 veces en las últimas 4 semanas)
-,4,Frecuentemente (11-20 veces en las últimas 4 semana)
-,5,Siempre (Más de 20 veces en las últimas 4 semanas)
-,88,No aplica
-,99,No sabe
-nota08a1,1,Favor de Continuar
-h08a01,1,Integrante del hogar?
-,2,Empleado(a) o administrador(a) del edificio/hogar?
-,3,"Nadie, el suministro es automático?"
-,4,Otro
-,5,No sabe
-,6,No responde
-nota08a2,1,Favor de Continuar
-h08a03,1,Diario
-,2,De cuatro a seis días a la semana
-,3,De uno a tres días a la semana
-,4,De una a tres veces en las últimas 4 semanas
-,5,No me ha llegado agua en las últimas 4 semanas
-,6,"No sabe, Desconozco la frecuencia"
-,7,No responde
-h08a0401,1,Sí
-,2,No
-,99,No responde
-h08a0402,1,Sí
-,2,No
-,99,No responde
-h08a0403,1,Sí
-,2,No
-,99,No responde
-h08a0404,1,Sí
-,2,No
-,99,No responde
-h08a0405,1,Sí
-,2,No
-,99,No responde
-h08a0406,1,Sí
-,2,No
-,99,No responde
-h08a0407,1,Sí
-,2,No
-,99,No responde
-h08a0408,1,Sí
-,2,No
-,99,No responde
-h08a0409,1,Sí
-,2,No
-,99,No responde
-h08a06,1,Enero
+h0304m,1,Enero
 ,2,Febrero
 ,3,Marzo
 ,4,Abril
@@ -310,113 +45,1350 @@ h08a06,1,Enero
 ,10,Octubre
 ,11,Noviembre
 ,12,Diciembre
-,13,Nunca falta agua/ no escaseó en los últimos 12 meses
-,99,No responde
-h08a07,1,Menos de una semana
-,2,Entre una semana y cuatro semanas
-,3,De dos a tres meses
-,4,Más de tres meses
-,96,No sabe
-,99,No responde
-h08a08,1,Diario?
-,2,De cuatro a seis días a la semana?
-,3,De uno a tres días a la semana?
-,4,De una a tres veces durante la temporada de escasez?
-,5,No me llego agua durante la temporada de escasez
-,6,"No sabe, desconozco la frecuencia"
-,7,No responde
-nota08a3,1,Favor de Continuar
-h08a091,1,Sí
+,99,No sabe
+h0305,1,Jefa(e)
+,2,Esposa(o) o pareja
+,3,Hija(o)
+,4,Nieta(o)
+,5,Nuera o yerno
+,6,Madre o Padre
+,7,Suegra(o)
+,8,Otro
+,9,Sin parentesco
+int_nuevo,1,Sí
 ,2,No
-h08a09a,1,Sí
+h0306,1,"Aquí, en este estado"
+,2,En otro estado
+,3,En Estados Unidos de América
+,4,En otro país
+h0306e,1,01 AGUASCALIENTES
+,2,02 BAJA CALIFORNIA
+,3,03 BAJA CALIFORNIA SUR
+,4,04 CAMPECHE
+,5,05 COAHUILA DE ZARAGOZA
+,6,06 COLIMA
+,7,07 CHIAPAS
+,8,08 CHIHUAHUA
+,9,09 CIUDAD DE MÉXICO
+,10,10 DURANGO
+,11,11 GUANAJUATO
+,12,12 GUERRERO
+,13,13 HIDALGO
+,14,14 JALISCO
+,15,15 MÉXICO
+,16,16 MICHOACÁN DE OCAMPO
+,17,17 MORELOS
+,18,18 NAYARIT
+,19,19 NUEVO LEÓN
+,20,20 OAXACA
+,21,21 PUEBLA
+,22,22 QUERÉTARO
+,23,23 QUINTANA ROO
+,24,24 SAN LUIS POTOSÍ
+,25,25 SINALOA
+,26,26 SONORA
+,27,27 TABASCO
+,28,28 TAMAULIPAS
+,29,29 TLAXCALA
+,30,30 VERACRUZ DE IGNACIO DE LA LLAVE
+,31,31 YUCATÁN
+,32,32 ZACATECAS
+h0306p,1,Afganistán
+,2,Albania
+,3,Alemania
+,4,Andorra
+,5,Angola
+,6,Antigua y Barbuda
+,7,Arabia Saudita
+,8,Argelia
+,9,Argentina
+,10,Armenia
+,11,Australia
+,12,Austria
+,13,Azerbaiyán
+,14,Bahamas
+,15,Bangladés
+,16,Barbados
+,17,Baréin
+,18,Bélgica
+,19,Belice
+,20,Benín
+,21,Bielorrusia
+,22,Birmania
+,23,Bolivia
+,24,Bosnia y Herzegovina
+,25,Botsuana
+,26,Brasil
+,27,Brunéi
+,28,Bulgaria
+,29,Burkina Faso
+,30,Burundi
+,31,Bután
+,32,Cabo Verde
+,33,Camboya
+,34,Camerún
+,35,Canadá
+,36,Catar
+,37,Chad
+,38,Chile
+,39,China
+,40,Chipre
+,41,Ciudad del Vaticano
+,42,Colombia
+,43,Comoras
+,44,Corea del Norte
+,45,Corea del Sur
+,46,Costa de Marfil
+,47,Costa Rica
+,48,Croacia
+,49,Cuba
+,50,Dinamarca
+,51,Dominica
+,52,Ecuador
+,53,Egipto
+,54,El Salvador
+,55,Emiratos Árabes Unidos
+,56,Eritrea
+,57,Eslovaquia
+,58,Eslovenia
+,59,España
+,60,Estados Unidos
+,61,Estonia
+,62,Etiopía
+,63,Filipinas
+,64,Finlandia
+,65,Fiyi
+,66,Francia
+,67,Gabón
+,68,Gambia
+,69,Georgia
+,70,Ghana
+,71,Granada
+,72,Grecia
+,73,Guatemala
+,74,Guyana
+,75,Guinea
+,76,Guinea ecuatorial
+,77,Guinea-Bisáu
+,78,Haití
+,79,Honduras
+,80,Hungría
+,81,India
+,82,Indonesia
+,83,Irak
+,84,Irán
+,85,Irlanda
+,86,Islandia
+,87,Islas Marshall
+,88,Islas Salomón
+,89,Israel
+,90,Italia
+,91,Jamaica
+,92,Japón
+,93,Jordania
+,94,Kazajistán
+,95,Kenia
+,96,Kirguistán
+,97,Kiribati
+,98,Kuwait
+,99,Laos
+,100,Lesoto
+,101,Letonia
+,102,Líbano
+,103,Liberia
+,104,Libia
+,105,Liechtenstein
+,106,Lituania
+,107,Luxemburgo
+,108,Macedonia del Norte
+,109,Madagascar
+,110,Malasia
+,111,Malaui
+,112,Maldivas
+,113,Malí
+,114,Malta
+,115,Marruecos
+,116,Mauricio
+,117,Mauritania
+,118,México
+,119,Micronesia
+,120,Moldavia
+,121,Mónaco
+,122,Mongolia
+,123,Montenegro
+,124,Mozambique
+,125,Namibia
+,126,Nauru
+,127,Nepal
+,128,Nicaragua
+,129,Níger
+,130,Nigeria
+,131,Noruega
+,132,Nueva Zelanda
+,133,Omán
+,134,Países Bajos
+,135,Pakistán
+,136,Palaos
+,137,Panamá
+,138,Papúa Nueva Guinea
+,139,Paraguay
+,140,Perú
+,141,Polonia
+,142,Portugal
+,143,Reino Unido
+,144,República Centroafricana
+,145,República Checa
+,146,República del Congo
+,147,República Democrática del Congo
+,148,República Dominicana
+,149,Ruanda
+,150,Rumanía
+,151,Rusia
+,152,Samoa
+,153,San Cristóbal y Nieves
+,154,San Marino
+,155,San Vicente y las Granadinas
+,156,Santa Lucía
+,157,Santo Tomé y Príncipe
+,158,Senegal
+,159,Serbia
+,160,Seychelles
+,161,Sierra Leona
+,162,Singapur
+,163,Siria
+,164,Somalia
+,165,Sri Lanka
+,166,Suazilandia
+,167,Sudáfrica
+,168,Sudán
+,169,Sudán del Sur
+,170,Suecia
+,171,Suiza
+,172,Surinam
+,173,Tailandia
+,174,Tanzania
+,175,Tayikistán
+,176,Timor Oriental
+,177,Togo
+,178,Tonga
+,179,Trinidad y Tobago
+,180,Túnez
+,181,Turkmenistán
+,182,Turquía
+,183,Tuvalu
+,184,Ucrania
+,185,Uganda
+,186,Uruguay
+,187,Uzbekistán
+,188,Vanuatu
+,189,Venezuela
+,190,Vietnam
+,191,Yemen
+,192,Yibuti
+,193,Zambia
+,194,Zimbabue
+h0307,1,Sí
+,2,"No, vive en otro lugar"
+,3,"No, ya falleció"
+,8,Matrimonio igualitario
+,9,NS/NR
+h0308,1,Sí
+,2,"No, vive en otro lugar"
+,3,"No, ya falleció"
+,8,Matrimonio igualitario
+,9,NS/NR
+h0309,1,Instituto Mexicano del Seguro Social (IMSS)
+,2,ISSSTE/ ISSSTE Estatal
+,3,PEMEX
+,4,Defensa
+,5,Marina
+,6,Centros de Salud u Hospital de la SSA
+,7,IMSS BIENESTAR (antes Oportunidades)
+,8,"DIF federal, estatal o municipal"
+,9,Cruz Roja/ Cruz Verde
+,10,Instituto Nacional de Salud
+,11,Organizaciones (ONG/OSC) que dan atención gratuita/Dispensar
+,12,Consultorios pertenecientes a farmacias/Farmacias con consul
+,13,Consultorio dentro de hospital privado
+,14,Área de urgencias/hospitalización dentro de hospital privado
+,15,Atención privada en torre de consultorios médicos o en una c
+,16,Consultorio en domicilio particular de médico privado
+,17,Atención privada en mi domicilio
+,18,"Atención privada vía remota (teléfono, mensajes de texto, te"
+,19,Médico laboral (médico de la empresa)
+,20,"Curandero, hierbero, naturista"
+,21,"Homeópata, partera, acupunturista"
+,22,Otro (especifique)
+,23,No sabe / No recuerda
+H0310A,01,del Seguro Social (IMSS)?
+,02,del  ISSSTE?
+,03,del ISSSTE Estatal?
+,04,de PEMEX?
+,05,de Defensa?
+,06,de Marina?
+,07,de IMSS BIENESTAR (antes Oportunidades)?
+,08,de un seguro privado de gastos médicos?
+,09,de otra institución? (especifique)
+,10,No está afiliado o inscrito  a servicios médicos? (Incluya INSABI)
+,11,Tenía Seguro Popular durante el 2018
+,99,NS/NR
+H0310B,01,del Seguro Social (IMSS)?
+,02,del  ISSSTE?
+,03,del ISSSTE Estatal?
+,04,de PEMEX?
+,05,de Defensa?
+,06,de Marina?
+,07,de IMSS BIENESTAR (antes Oportunidades)?
+,08,de un seguro privado de gastos médicos?
+,09,de otra institución? (especifique)
+,10,No está afiliado o inscrito  a servicios médicos? (Incluya INSABI)
+,11,Tenía Seguro Popular durante el 2018
+,99,NS/NR
+H0310C,01,del Seguro Social (IMSS)?
+,02,del  ISSSTE?
+,03,del ISSSTE Estatal?
+,04,de PEMEX?
+,05,de Defensa?
+,06,de Marina?
+,07,de IMSS BIENESTAR (antes Oportunidades)?
+,08,de un seguro privado de gastos médicos?
+,09,de otra institución? (especifique)
+,10,No está afiliado o inscrito  a servicios médicos? (Incluya INSABI)
+,11,Tenía Seguro Popular durante el 2018
+,99,NS/NR
+h0311,1,Sí
 ,2,No
-h08a09b,1,Sí
+h0312,1,Sí
 ,2,No
-h08a09c,1,Sí
+h0313,1,Sí
 ,2,No
-h08a09d,1,Sí
+h0314,1,pública?
+,2,privada?
+h0316,1,Se embarazó o tuvo un hijo
+,2,Se casó o unió
+,3,No había escuela o no había cupo
+,4,Problemas personales o académicos en la escuela
+,5,Por enfermedad y/o discapacidad
+,6,No tenía la edad cumplida
+,7,Por falta de dinero o trabajo
+,8,No quiso o no le gustó estudiar
+,9,Logró su meta educativa
+,10,Nunca ha ido a la escuela
+,11,Otro motivo (especifique)
+h0317a,1,Preescolar
+,2,Primaria
+,3,Secundaria
+,4,Preparatoria o Bachillerato
+,5,Normal básica
+,6,Estudios técnicos o comerciales con primaria terminada
+,7,Estudios técnicos o comerciales con secundaria terminada
+,8,Estudios técnicos o comerciales con preparatoria terminada
+,9,Normal de licenciatura
+,10,Licenciatura o profesional
+,11,Maestría
+,12,Doctorado
+h0317g,1,1° Grado
+,2,2° Grado
+,3,3° Grado
+,4,4° Grado
+,5,5° Grado
+,6,6° Grado
+h0318,1,Sí
 ,2,No
-h08a09e,1,Sí
+h0319,1,vive con su pareja en unión libre?
+,2,está separada(o) de una unión libre?
+,3,está separada(o) de un matrimonio?
+,4,está divorciado(a)?
+,5,está viuda(o)?
+,6,está casada(o) civil o religiosamente?
+,7,está soltera(o)?
+h0320,1,Sí
+,2,"No, vive en otro lugar"
+,3,"No, ya falleció"
+,8,Matrimonio igualitario
+,9,No sabe
+h0321,1,Sí
 ,2,No
-h08a101,1,Sí
+h0322,1,ayudó en un negocio familiar?
+,2,vendió o hizo algún producto para vender?
+,3,ayudó en las labores del campo o en la cría de animales?
+,4,"a cambio de un pago, realizó otro tipo de actividad? (cortar"
+,5,"tenia trabajo, pero estuvo ausente?"
+,6,"no ayudó, ni trabajo?"
+h0323,1,busco trabajo?
+,2,se dedicó a los quehaceres del hogar?
+,3,es estudiante?
+,4,es pensionada(o) o jubilada(o)?
+,5,tiene discapacidad permanente que le impida trabajar?
+,6,¿Otra situación?
+h0324,1,empleada(o)?
+,2,obrera(o)?
+,3,jornalera(o) o peón(a)?
+,4,Trabajador(a) por su cuenta? (no contrata trabajadores)
+,5,patrón(a) o empleador(a)? (contrata trabajadores)
+,6,trabajador(a) sin pago? (en un negocio familiar o no familia
+,7,¿Otra situación?
+h0401,1,Sí
 ,2,No
-h08a10a,1,Sí
+h0402,1,"01 Infecciones respiratorias (gripe, catarro, dolor de garga"
+,2,02 Diarrea o empacho (infección estomacal o intestinal por a
+,15,15 COVID-19 (coronavirus)
+,16,"16 Control, seguimiento o diagnóstico de diabetes (azúcar al"
+,17,"17 Control, seguimiento o diagnóstico de hipertensión arteri"
+,20,"20 Gastritis, úlcera gástrica o duodenitis (reflujo)"
+,27,27 Cáncer o tumores
+,28,28 Vacunación
+,30,30 Chequeo o consulta médico
+,32,32 Control prenatal (embarazo)
+,38,"38 Lesión física por accidente, vehícular (fracturas, golpes"
+,40,40 Dolor de cabeza
+,41,41 Fiebre
+,44,"44 Dolor de músculos, huesos y/o articulaciones"
+,45,"45 Dolor de nervios (hernia lumbar, ciática, sensación de ar"
+,46,46 cirugía u operación de cualquier órgano o parte del cuerp
+,47,47 Depresión
+,48,48 Ansiedad
+,50,50 Estrés
+,52,52 Otra causa no enlistada en las anteriores (especifique)
+,53,53 Otro especifique (INFECCIONES AGUDAS)
+,54,54 Otro especifique (ENFERMEDADES CRÓNICAS)
+,55,55 Otro especifique (PREVENCIÓN)
+,56,56 Otro especifique (EVENTOS AGUDOS NO INFECCIOSOS)
+,57,57 Otro especifique (DOLOR CRÓNICO O AGUDO)
+,58,58 Otro especifique (CIRUGÍAS)
+,59,59 Otro especifique (SALUD MENTAL)
+,99,99 No sabe
+h0403,1,Sí
 ,2,No
-h08a10b,1,Sí
+h0404,1,Sí
 ,2,No
-h08a10c,1,Sí
+H0405A,1,Decidió que no era necesario buscar atención porque no era tan grave
+,2,No hay dónde atenderse
+,3,Está muy lejos el lugar más cercano donde se brinda atención
+,4,Es caro / No tenía dinero
+,5,No había servicio en el horario en que lo necesitaba
+,6,No tuvo tiempo
+,7,No tuvo quién lo(a) llevara o acompañara
+,8,Quien brinda la atención no me inspira confianza / no es amable
+,9,Los trámites son muy tardados
+,10,"El tiempo de espera para pasar a consulta, por lo común, es muy largo"
+,11,Miedo a contraer COVID-19/miedo a salir de casa
+,12,Me reprogramaron la cita
+,13,Otro (especifica)
+,99,No sabe
+H0405B,1,Decidió que no era necesario buscar atención porque no era tan grave
+,2,No hay dónde atenderse
+,3,Está muy lejos el lugar más cercano donde se brinda atención
+,4,Es caro / No tenía dinero
+,5,No había servicio en el horario en que lo necesitaba
+,6,No tuvo tiempo
+,7,No tuvo quién lo(a) llevara o acompañara
+,8,Quien brinda la atención no me inspira confianza / no es amable
+,9,Los trámites son muy tardados
+,10,"El tiempo de espera para pasar a consulta, por lo común, es muy largo"
+,11,Miedo a contraer COVID-19/miedo a salir de casa
+,12,Me reprogramaron la cita
+,13,Otro (especifica)
+,99,No sabe
+H0405C,1,Decidió que no era necesario buscar atención porque no era tan grave
+,2,No hay dónde atenderse
+,3,Está muy lejos el lugar más cercano donde se brinda atención
+,4,Es caro / No tenía dinero
+,5,No había servicio en el horario en que lo necesitaba
+,6,No tuvo tiempo
+,7,No tuvo quién lo(a) llevara o acompañara
+,8,Quien brinda la atención no me inspira confianza / no es amable
+,9,Los trámites son muy tardados
+,10,"El tiempo de espera para pasar a consulta, por lo común, es muy largo"
+,11,Miedo a contraer COVID-19/miedo a salir de casa
+,12,Me reprogramaron la cita
+,13,Otro (especifica)
+,99,No sabe
+h0406,1,Sí
 ,2,No
-h08a10d,1,Sí
+H0407A,1,La unidad médica estaba cerrada
+,2,"Le dijeron que el seguro, institución o clínica no cubría la enfermedad que tenía"
+,3,El servicio que necesitaba no estaba disponible en el horario en que acudí
+,4,En la unidad médica no tenían el equipo necesario para atender su padecimiento
+,5,Lo(a) rechazaron por no ser derechohabiente
+,6,Le solicitaron un pase de referencia y no lo pudo conseguir
+,7,No alcanzó ficha/había mucha gente
+,8,No sabía que tenía que pagar por la atención y/o los medicamentos
+,9,No podía cubrir el costo total de la atención
+,10,Los trámites eran muy tardados
+,11,El tiempo de espera para ser atendido(a) en el servicio que necesitaba fue muy largo
+,12,Quien brinda la atención pensó que no era necesario
+,13,Le dijeron que su problema no era urgente
+,14,Solo atienden pacientes COVID 19
+,15,Reprogramación de cita
+,16,Otro (especifique)
+,99,No sabe / No recuerda
+H0407B,1,La unidad médica estaba cerrada
+,2,"Le dijeron que el seguro, institución o clínica no cubría la enfermedad que tenía"
+,3,El servicio que necesitaba no estaba disponible en el horario en que acudí
+,4,En la unidad médica no tenían el equipo necesario para atender su padecimiento
+,5,Lo(a) rechazaron por no ser derechohabiente
+,6,Le solicitaron un pase de referencia y no lo pudo conseguir
+,7,No alcanzó ficha/había mucha gente
+,8,No sabía que tenía que pagar por la atención y/o los medicamentos
+,9,No podía cubrir el costo total de la atención
+,10,Los trámites eran muy tardados
+,11,El tiempo de espera para ser atendido(a) en el servicio que necesitaba fue muy largo
+,12,Quien brinda la atención pensó que no era necesario
+,13,Le dijeron que su problema no era urgente
+,14,Solo atienden pacientes COVID 19
+,15,Reprogramación de cita
+,16,Otro (especifique)
+,99,No sabe / No recuerda
+H0407C,1,La unidad médica estaba cerrada
+,2,"Le dijeron que el seguro, institución o clínica no cubría la enfermedad que tenía"
+,3,El servicio que necesitaba no estaba disponible en el horario en que acudí
+,4,En la unidad médica no tenían el equipo necesario para atender su padecimiento
+,5,Lo(a) rechazaron por no ser derechohabiente
+,6,Le solicitaron un pase de referencia y no lo pudo conseguir
+,7,No alcanzó ficha/había mucha gente
+,8,No sabía que tenía que pagar por la atención y/o los medicamentos
+,9,No podía cubrir el costo total de la atención
+,10,Los trámites eran muy tardados
+,11,El tiempo de espera para ser atendido(a) en el servicio que necesitaba fue muy largo
+,12,Quien brinda la atención pensó que no era necesario
+,13,Le dijeron que su problema no era urgente
+,14,Solo atienden pacientes COVID 19
+,15,Reprogramación de cita
+,16,Otro (especifique)
+,99,No sabe / No recuerda
+h0408,1,Instituto Mexicano del Seguro Social (IMSS)
+,2,ISSSTE/ISSSTE Estatal
+,3,PEMEX
+,4,Defensa
+,5,Marina
+,6,Centro de salud u Hospital de la SSA
+,7,IMSS Bienestar (antes Oportunidades)?
+,8,"DIF federal, estatal o municipal"
+,9,Cruz Roja / Cruz Verde
+,10,Instituto Nacional de Salud
+,11,Organizaciones (ONG/OSC) que dan atención gratuita/Dispensar
+,12,Consultorios pertenecientes a farmacias / Farmacia con consu
+,13,Consultorio dentro de hospital privado
+,14,Área de urgencias/hospitalización dentro de hospital privado
+,15,Atención privada en torre de consultorios médicos o en una c
+,16,Consultorio en domicilio particular de médico privado
+,17,Atención privada en mi domicilio
+,18,"Atención privada vía remota (teléfono, mensajes de texto, te"
+,19,Médico laboral (médico de la empresa)
+,20,"Curandero, hierbero, naturista"
+,21,"Homeópata, partera, acupunturista"
+,22,Otro (especifique)
+,23,No sabe / No recuerda
+h0409,1,ir a consulta externa?
+,2,hospitalización (internamiento)?
+,3,ir a consulta de urgencias? (ser atendido en una área de urg
+,4,"Otros (vía remota, domicilio, etc.)"
+h0601a,1,Sí
 ,2,No
-h08a10e,1,Sí
+,9,No Sabe
+h0601b,1,Sí
 ,2,No
-nota08a4,1,Favor de Continuar
-h08a11,1,01 Agua entubada dentro de la vivienda
-,2,02 Agua entubada en el terreno
-,3,03 Agua entubada en el terreno de un vecino
-,4,04 Agua entubada de una toma o llave comunitaria
-,5,05 Agua entubada de un pozo perforado/hincado
-,6,06 Garrafón de marca
-,7,07 Garrafón de purificadora
-,8,08 Botellas de agua
-,9,09 Otra agua embotellada
-,10,10 Pozo protegido
-,11,11 Pozo no protegido
-,12,12 Manantial protegido
-,13,13 Manantial no protegido
-,14,14 Captación de lluvia
-,15,15 Pipa
-,16,16 Otra fuente
-,17,"17 Aguas superficiales (de un rio, arroyo, o lago)"
-,18,18 En este hogar no se bebe agua de ninguna fuente
-h08a12,1,01 Agua entubada dentro de la vivienda
-,2,02 Agua entubada en el terreno
-,3,03 Agua entubada en el terreno de un vecino
-,4,04 Agua entubada de una toma o llave comunitaria
-,5,05 Agua entubada de un pozo perforado/hincado
-,6,06 Garrafón de marca
-,7,07 Garrafón de purificadora
-,8,08 Botellas de agua
-,9,09 Otra agua embotellada
-,10,10 Pozo protegido
-,11,11 Pozo no protegido
-,12,12 Manantial protegido
-,13,13 Manantial no protegido
-,14,14 Captación de lluvia
-,15,15 Pipa
-,16,16 Otra fuente
-,17,"17 Aguas superficiales (de un rio, arroyo, o lago)"
-h08a13,1,01 Agua entubada dentro de la vivienda
-,2,02 Agua entubada en el terreno
-,3,03 Agua entubada en el terreno de un vecino
-,4,04 Agua entubada de una toma o llave comunitaria
-,5,05 Agua entubada de un pozo perforado/hincado
-,6,06 Garrafón de marca
-,7,07 Garrafón de purificadora
-,8,08 Botellas de agua
-,9,09 Otra agua embotellada
-,10,10 Pozo protegido
-,11,11 Pozo no protegido
-,12,12 Manantial protegido
-,13,13 Manantial no protegido
-,14,14 Captación de lluvia
-,15,15 Pipa
-,16,16 Otra fuente
-,17,"17 Aguas superficiales (de un rio, arroyo, o lago)"
-nota12,1,Favor de Continuar
-nota16,1,Favor de Continuar
-completa,1,ENTREVISTA COMPLETA (Favor de continuar)
-,2,ENTREVISTA INCOMPLETA
-,3,INFORMANTE INADECUADO
-,4,ENTREVISTA APLAZADA (HACER CITA)
-,5,AUSENTE DE PERSONAS EN EL MOMENTO DE LA VISITA
-,6,SE NEGÓ A DAR INFORMACIÓN
-,7,VIVIENDA DESHABITADA
-,8,VIVIENDA DE USO TEMPORAL
-,9,HABLA ALGUNA LENGUA EXTRANGERA
-,10,NO ES VIVIENDA
-,11,OTRO
-,12,"SE NEGÓ, POR HABER ALGUN ENFERMO DE COVID EN EL HOGAR"
+,9,No Sabe
+h0601c,1,Sí
+,2,No
+,9,No Sabe
+h0601d,1,Sí
+,2,No
+,9,No Sabe
+h0601e,1,Sí
+,2,No
+,9,No Sabe
+h0601f,1,Sí
+,2,No
+,9,No Sabe
+h0601g,1,Sí
+,2,No
+,9,No Sabe
+h0601h,1,Sí
+,2,No
+,9,No Sabe
+h0601i,1,Sí
+,2,No
+,9,No Sabe
+h0601j,1,Sí
+,2,No
+,9,No Sabe
+h0601k,1,Sí
+,2,No
+,9,No Sabe
+h0601l,1,Sí
+,2,No
+,9,No Sabe
+h0601m,1,Sí
+,2,No
+,9,No Sabe
+h0601n,1,Sí
+,2,No
+,9,No Sabe
+h0604ba,1,Sí
+,2,No
+,9,No Sabe
+h1207a,1,Enero
+,2,Febrero
+,3,Marzo
+,4,Abril
+,5,Mayo
+,6,Junio
+,7,Julio
+,8,Agosto
+,9,Septiembre
+,10,Octubre
+,11,Noviembre
+,12,Diciembre
+,99,NS/NR
+h1207b,2020,2020
+,2021,2021
+,2022,2022
+,9999,NS/NR
+H1213A,A,Tos
+,B,Fatiga o cansancio
+,C,Ansiedad
+,D,Depresión
+,E,Fiebre
+,F,Dificultad para dormir
+,G,Complicaciones en el riñón
+,H,Falta de hambre
+,I,Pérdida de peso
+,J,Dolor de cabeza
+,K,Mareo
+,L,Dolores en músculos o articulaciones
+,M,Dificultad para respirar
+,N,Falta de aire
+,O,Dolor en el pecho
+,P,Vómito o diarrea
+,Q,Pérdida o disminución del olfato
+,R,Pérdida o disminución del gusto
+,S,Dificultad para pensar o concentrarse
+,T,Otro (especifique)
+,U,No tuvo síntomas / secuelas
+,X,Aún no le han dado de alta/ no ha pasado un mes
+,Y,NS/NR
+H1213B,A,Tos
+,B,Fatiga o cansancio
+,C,Ansiedad
+,D,Depresión
+,E,Fiebre
+,F,Dificultad para dormir
+,G,Complicaciones en el riñón
+,H,Falta de hambre
+,I,Pérdida de peso
+,J,Dolor de cabeza
+,K,Mareo
+,L,Dolores en músculos o articulaciones
+,M,Dificultad para respirar
+,N,Falta de aire
+,O,Dolor en el pecho
+,P,Vómito o diarrea
+,Q,Pérdida o disminución del olfato
+,R,Pérdida o disminución del gusto
+,S,Dificultad para pensar o concentrarse
+,T,Otro (especifique)
+,U,No tuvo síntomas / secuelas
+,X,Aún no le han dado de alta/ no ha pasado un mes
+,Y,NS/NR
+H1213C,A,Tos
+,B,Fatiga o cansancio
+,C,Ansiedad
+,D,Depresión
+,E,Fiebre
+,F,Dificultad para dormir
+,G,Complicaciones en el riñón
+,H,Falta de hambre
+,I,Pérdida de peso
+,J,Dolor de cabeza
+,K,Mareo
+,L,Dolores en músculos o articulaciones
+,M,Dificultad para respirar
+,N,Falta de aire
+,O,Dolor en el pecho
+,P,Vómito o diarrea
+,Q,Pérdida o disminución del olfato
+,R,Pérdida o disminución del gusto
+,S,Dificultad para pensar o concentrarse
+,T,Otro (especifique)
+,U,No tuvo síntomas / secuelas
+,X,Aún no le han dado de alta/ no ha pasado un mes
+,Y,NS/NR
+H1213D,A,Tos
+,B,Fatiga o cansancio
+,C,Ansiedad
+,D,Depresión
+,E,Fiebre
+,F,Dificultad para dormir
+,G,Complicaciones en el riñón
+,H,Falta de hambre
+,I,Pérdida de peso
+,J,Dolor de cabeza
+,K,Mareo
+,L,Dolores en músculos o articulaciones
+,M,Dificultad para respirar
+,N,Falta de aire
+,O,Dolor en el pecho
+,P,Vómito o diarrea
+,Q,Pérdida o disminución del olfato
+,R,Pérdida o disminución del gusto
+,S,Dificultad para pensar o concentrarse
+,T,Otro (especifique)
+,U,No tuvo síntomas / secuelas
+,X,Aún no le han dado de alta/ no ha pasado un mes
+,Y,NS/NR
+H1213E1,A,Tos
+,B,Fatiga o cansancio
+,C,Ansiedad
+,D,Depresión
+,E,Fiebre
+,F,Dificultad para dormir
+,G,Complicaciones en el riñón
+,H,Falta de hambre
+,I,Pérdida de peso
+,J,Dolor de cabeza
+,K,Mareo
+,L,Dolores en músculos o articulaciones
+,M,Dificultad para respirar
+,N,Falta de aire
+,O,Dolor en el pecho
+,P,Vómito o diarrea
+,Q,Pérdida o disminución del olfato
+,R,Pérdida o disminución del gusto
+,S,Dificultad para pensar o concentrarse
+,T,Otro (especifique)
+,U,No tuvo síntomas / secuelas
+,X,Aún no le han dado de alta/ no ha pasado un mes
+,Y,NS/NR
+H1213F,A,Tos
+,B,Fatiga o cansancio
+,C,Ansiedad
+,D,Depresión
+,E,Fiebre
+,F,Dificultad para dormir
+,G,Complicaciones en el riñón
+,H,Falta de hambre
+,I,Pérdida de peso
+,J,Dolor de cabeza
+,K,Mareo
+,L,Dolores en músculos o articulaciones
+,M,Dificultad para respirar
+,N,Falta de aire
+,O,Dolor en el pecho
+,P,Vómito o diarrea
+,Q,Pérdida o disminución del olfato
+,R,Pérdida o disminución del gusto
+,S,Dificultad para pensar o concentrarse
+,T,Otro (especifique)
+,U,No tuvo síntomas / secuelas
+,X,Aún no le han dado de alta/ no ha pasado un mes
+,Y,NS/NR
+H1213G,A,Tos
+,B,Fatiga o cansancio
+,C,Ansiedad
+,D,Depresión
+,E,Fiebre
+,F,Dificultad para dormir
+,G,Complicaciones en el riñón
+,H,Falta de hambre
+,I,Pérdida de peso
+,J,Dolor de cabeza
+,K,Mareo
+,L,Dolores en músculos o articulaciones
+,M,Dificultad para respirar
+,N,Falta de aire
+,O,Dolor en el pecho
+,P,Vómito o diarrea
+,Q,Pérdida o disminución del olfato
+,R,Pérdida o disminución del gusto
+,S,Dificultad para pensar o concentrarse
+,T,Otro (especifique)
+,U,No tuvo síntomas / secuelas
+,X,Aún no le han dado de alta/ no ha pasado un mes
+,Y,NS/NR
+H1213H,A,Tos
+,B,Fatiga o cansancio
+,C,Ansiedad
+,D,Depresión
+,E,Fiebre
+,F,Dificultad para dormir
+,G,Complicaciones en el riñón
+,H,Falta de hambre
+,I,Pérdida de peso
+,J,Dolor de cabeza
+,K,Mareo
+,L,Dolores en músculos o articulaciones
+,M,Dificultad para respirar
+,N,Falta de aire
+,O,Dolor en el pecho
+,P,Vómito o diarrea
+,Q,Pérdida o disminución del olfato
+,R,Pérdida o disminución del gusto
+,S,Dificultad para pensar o concentrarse
+,T,Otro (especifique)
+,U,No tuvo síntomas / secuelas
+,X,Aún no le han dado de alta/ no ha pasado un mes
+,Y,NS/NR
+H1213I,A,Tos
+,B,Fatiga o cansancio
+,C,Ansiedad
+,D,Depresión
+,E,Fiebre
+,F,Dificultad para dormir
+,G,Complicaciones en el riñón
+,H,Falta de hambre
+,I,Pérdida de peso
+,J,Dolor de cabeza
+,K,Mareo
+,L,Dolores en músculos o articulaciones
+,M,Dificultad para respirar
+,N,Falta de aire
+,O,Dolor en el pecho
+,P,Vómito o diarrea
+,Q,Pérdida o disminución del olfato
+,R,Pérdida o disminución del gusto
+,S,Dificultad para pensar o concentrarse
+,T,Otro (especifique)
+,U,No tuvo síntomas / secuelas
+,X,Aún no le han dado de alta/ no ha pasado un mes
+,Y,NS/NR
+H1213J,A,Tos
+,B,Fatiga o cansancio
+,C,Ansiedad
+,D,Depresión
+,E,Fiebre
+,F,Dificultad para dormir
+,G,Complicaciones en el riñón
+,H,Falta de hambre
+,I,Pérdida de peso
+,J,Dolor de cabeza
+,K,Mareo
+,L,Dolores en músculos o articulaciones
+,M,Dificultad para respirar
+,N,Falta de aire
+,O,Dolor en el pecho
+,P,Vómito o diarrea
+,Q,Pérdida o disminución del olfato
+,R,Pérdida o disminución del gusto
+,S,Dificultad para pensar o concentrarse
+,T,Otro (especifique)
+,U,No tuvo síntomas / secuelas
+,X,Aún no le han dado de alta/ no ha pasado un mes
+,Y,NS/NR
+H1213K,A,Tos
+,B,Fatiga o cansancio
+,C,Ansiedad
+,D,Depresión
+,E,Fiebre
+,F,Dificultad para dormir
+,G,Complicaciones en el riñón
+,H,Falta de hambre
+,I,Pérdida de peso
+,J,Dolor de cabeza
+,K,Mareo
+,L,Dolores en músculos o articulaciones
+,M,Dificultad para respirar
+,N,Falta de aire
+,O,Dolor en el pecho
+,P,Vómito o diarrea
+,Q,Pérdida o disminución del olfato
+,R,Pérdida o disminución del gusto
+,S,Dificultad para pensar o concentrarse
+,T,Otro (especifique)
+,U,No tuvo síntomas / secuelas
+,X,Aún no le han dado de alta/ no ha pasado un mes
+,Y,NS/NR
+H1213L,A,Tos
+,B,Fatiga o cansancio
+,C,Ansiedad
+,D,Depresión
+,E,Fiebre
+,F,Dificultad para dormir
+,G,Complicaciones en el riñón
+,H,Falta de hambre
+,I,Pérdida de peso
+,J,Dolor de cabeza
+,K,Mareo
+,L,Dolores en músculos o articulaciones
+,M,Dificultad para respirar
+,N,Falta de aire
+,O,Dolor en el pecho
+,P,Vómito o diarrea
+,Q,Pérdida o disminución del olfato
+,R,Pérdida o disminución del gusto
+,S,Dificultad para pensar o concentrarse
+,T,Otro (especifique)
+,U,No tuvo síntomas / secuelas
+,X,Aún no le han dado de alta/ no ha pasado un mes
+,Y,NS/NR
+H1213M,A,Tos
+,B,Fatiga o cansancio
+,C,Ansiedad
+,D,Depresión
+,E,Fiebre
+,F,Dificultad para dormir
+,G,Complicaciones en el riñón
+,H,Falta de hambre
+,I,Pérdida de peso
+,J,Dolor de cabeza
+,K,Mareo
+,L,Dolores en músculos o articulaciones
+,M,Dificultad para respirar
+,N,Falta de aire
+,O,Dolor en el pecho
+,P,Vómito o diarrea
+,Q,Pérdida o disminución del olfato
+,R,Pérdida o disminución del gusto
+,S,Dificultad para pensar o concentrarse
+,T,Otro (especifique)
+,U,No tuvo síntomas / secuelas
+,X,Aún no le han dado de alta/ no ha pasado un mes
+,Y,NS/NR
+H1213N,A,Tos
+,B,Fatiga o cansancio
+,C,Ansiedad
+,D,Depresión
+,E,Fiebre
+,F,Dificultad para dormir
+,G,Complicaciones en el riñón
+,H,Falta de hambre
+,I,Pérdida de peso
+,J,Dolor de cabeza
+,K,Mareo
+,L,Dolores en músculos o articulaciones
+,M,Dificultad para respirar
+,N,Falta de aire
+,O,Dolor en el pecho
+,P,Vómito o diarrea
+,Q,Pérdida o disminución del olfato
+,R,Pérdida o disminución del gusto
+,S,Dificultad para pensar o concentrarse
+,T,Otro (especifique)
+,U,No tuvo síntomas / secuelas
+,X,Aún no le han dado de alta/ no ha pasado un mes
+,Y,NS/NR
+H1213O,A,Tos
+,B,Fatiga o cansancio
+,C,Ansiedad
+,D,Depresión
+,E,Fiebre
+,F,Dificultad para dormir
+,G,Complicaciones en el riñón
+,H,Falta de hambre
+,I,Pérdida de peso
+,J,Dolor de cabeza
+,K,Mareo
+,L,Dolores en músculos o articulaciones
+,M,Dificultad para respirar
+,N,Falta de aire
+,O,Dolor en el pecho
+,P,Vómito o diarrea
+,Q,Pérdida o disminución del olfato
+,R,Pérdida o disminución del gusto
+,S,Dificultad para pensar o concentrarse
+,T,Otro (especifique)
+,U,No tuvo síntomas / secuelas
+,X,Aún no le han dado de alta/ no ha pasado un mes
+,Y,NS/NR
+H1213P,A,Tos
+,B,Fatiga o cansancio
+,C,Ansiedad
+,D,Depresión
+,E,Fiebre
+,F,Dificultad para dormir
+,G,Complicaciones en el riñón
+,H,Falta de hambre
+,I,Pérdida de peso
+,J,Dolor de cabeza
+,K,Mareo
+,L,Dolores en músculos o articulaciones
+,M,Dificultad para respirar
+,N,Falta de aire
+,O,Dolor en el pecho
+,P,Vómito o diarrea
+,Q,Pérdida o disminución del olfato
+,R,Pérdida o disminución del gusto
+,S,Dificultad para pensar o concentrarse
+,T,Otro (especifique)
+,U,No tuvo síntomas / secuelas
+,X,Aún no le han dado de alta/ no ha pasado un mes
+,Y,NS/NR
+H1213Q,A,Tos
+,B,Fatiga o cansancio
+,C,Ansiedad
+,D,Depresión
+,E,Fiebre
+,F,Dificultad para dormir
+,G,Complicaciones en el riñón
+,H,Falta de hambre
+,I,Pérdida de peso
+,J,Dolor de cabeza
+,K,Mareo
+,L,Dolores en músculos o articulaciones
+,M,Dificultad para respirar
+,N,Falta de aire
+,O,Dolor en el pecho
+,P,Vómito o diarrea
+,Q,Pérdida o disminución del olfato
+,R,Pérdida o disminución del gusto
+,S,Dificultad para pensar o concentrarse
+,T,Otro (especifique)
+,U,No tuvo síntomas / secuelas
+,X,Aún no le han dado de alta/ no ha pasado un mes
+,Y,NS/NR
+H1213R,A,Tos
+,B,Fatiga o cansancio
+,C,Ansiedad
+,D,Depresión
+,E,Fiebre
+,F,Dificultad para dormir
+,G,Complicaciones en el riñón
+,H,Falta de hambre
+,I,Pérdida de peso
+,J,Dolor de cabeza
+,K,Mareo
+,L,Dolores en músculos o articulaciones
+,M,Dificultad para respirar
+,N,Falta de aire
+,O,Dolor en el pecho
+,P,Vómito o diarrea
+,Q,Pérdida o disminución del olfato
+,R,Pérdida o disminución del gusto
+,S,Dificultad para pensar o concentrarse
+,T,Otro (especifique)
+,U,No tuvo síntomas / secuelas
+,X,Aún no le han dado de alta/ no ha pasado un mes
+,Y,NS/NR
+H1213S,A,Tos
+,B,Fatiga o cansancio
+,C,Ansiedad
+,D,Depresión
+,E,Fiebre
+,F,Dificultad para dormir
+,G,Complicaciones en el riñón
+,H,Falta de hambre
+,I,Pérdida de peso
+,J,Dolor de cabeza
+,K,Mareo
+,L,Dolores en músculos o articulaciones
+,M,Dificultad para respirar
+,N,Falta de aire
+,O,Dolor en el pecho
+,P,Vómito o diarrea
+,Q,Pérdida o disminución del olfato
+,R,Pérdida o disminución del gusto
+,S,Dificultad para pensar o concentrarse
+,T,Otro (especifique)
+,U,No tuvo síntomas / secuelas
+,X,Aún no le han dado de alta/ no ha pasado un mes
+,Y,NS/NR
+H1213T,A,Tos
+,B,Fatiga o cansancio
+,C,Ansiedad
+,D,Depresión
+,E,Fiebre
+,F,Dificultad para dormir
+,G,Complicaciones en el riñón
+,H,Falta de hambre
+,I,Pérdida de peso
+,J,Dolor de cabeza
+,K,Mareo
+,L,Dolores en músculos o articulaciones
+,M,Dificultad para respirar
+,N,Falta de aire
+,O,Dolor en el pecho
+,P,Vómito o diarrea
+,Q,Pérdida o disminución del olfato
+,R,Pérdida o disminución del gusto
+,S,Dificultad para pensar o concentrarse
+,T,Otro (especifique)
+,U,No tuvo síntomas / secuelas
+,X,Aún no le han dado de alta/ no ha pasado un mes
+,Y,NS/NR
+h1215,1,Menos de un mes
+,2,De uno a tres meses
+,3,Tres a seis meses
+,4,Más de 6 meses
+,5,Sigue teniendo
+h1216,1,Sí
+,2,No
+,9,NS/NR
+h1602,1,Sí
+,2,No
+h16041d,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,6,6
+,7,7
+,8,8
+,9,9
+,10,10
+,11,11
+,12,12
+,13,13
+,14,14
+,15,15
+,16,16
+,17,17
+,18,18
+,19,19
+,20,20
+,21,21
+,22,22
+,23,23
+,24,24
+,25,25
+,26,26
+,27,27
+,28,28
+,29,29
+,30,30
+,31,31
+,99,No recuerda
+h16041m,1,Enero
+,2,Febrero
+,3,Marzo
+,4,Abril
+,5,Mayo
+,6,Junio
+,7,Julio
+,8,Agosto
+,9,Septiembre
+,10,Octubre
+,11,Noviembre
+,12,Diciembre
+,99,No recuerda
+h16041a,2020,2020
+,2021,2021
+,2022,2022
+,9999,No recuerda
+h16051,1,Pfizer
+,2,Sputnik
+,3,Sinovac
+,4,Astra Zeneca
+,5,CanSino
+,6,Moderna
+,7,Johnson & Johnson
+,8,Otra (especificar)
+,9,NS/NR
+h16042d,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,6,6
+,7,7
+,8,8
+,9,9
+,10,10
+,11,11
+,12,12
+,13,13
+,14,14
+,15,15
+,16,16
+,17,17
+,18,18
+,19,19
+,20,20
+,21,21
+,22,22
+,23,23
+,24,24
+,25,25
+,26,26
+,27,27
+,28,28
+,29,29
+,30,30
+,31,31
+,77,No tiene otra dosis
+,99,No recuerda
+h16042m,1,Enero
+,2,Febrero
+,3,Marzo
+,4,Abril
+,5,Mayo
+,6,Junio
+,7,Julio
+,8,Agosto
+,9,Septiembre
+,10,Octubre
+,11,Noviembre
+,12,Diciembre
+,77,No tiene otra dosis
+,99,No recuerda
+h16042a,2020,2020
+,2021,2021
+,2022,2022
+,7777,No tiene otra dosis
+,9999,No recuerda
+h16052,1,Pfizer
+,2,Sputnik
+,3,Sinovac
+,4,Astra Zeneca
+,5,CanSino
+,6,Moderna
+,7,Johnson & Johnson
+,8,Otra (especificar)
+,9,NS/NR
+h16043d,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,6,6
+,7,7
+,8,8
+,9,9
+,10,10
+,11,11
+,12,12
+,13,13
+,14,14
+,15,15
+,16,16
+,17,17
+,18,18
+,19,19
+,20,20
+,21,21
+,22,22
+,23,23
+,24,24
+,25,25
+,26,26
+,27,27
+,28,28
+,29,29
+,30,30
+,31,31
+,77,No tiene otra dosis
+,99,No recuerda
+h16043m,1,Enero
+,2,Febrero
+,3,Marzo
+,4,Abril
+,5,Mayo
+,6,Junio
+,7,Julio
+,8,Agosto
+,9,Septiembre
+,10,Octubre
+,11,Noviembre
+,12,Diciembre
+,77,No tiene otra dosis
+,99,No recuerda
+h16043a,2020,2020
+,2021,2021
+,2022,2022
+,7777,No tiene otra dosis
+,9999,No recuerda
+h16053,1,Pfizer
+,2,Sputnik
+,3,Sinovac
+,4,Astra Zeneca
+,5,CanSino
+,6,Moderna
+,7,Johnson & Johnson
+,8,Otra (especificar)
+,9,NS/NR
+h16044d,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,6,6
+,7,7
+,8,8
+,9,9
+,10,10
+,11,11
+,12,12
+,13,13
+,14,14
+,15,15
+,16,16
+,17,17
+,18,18
+,19,19
+,20,20
+,21,21
+,22,22
+,23,23
+,24,24
+,25,25
+,26,26
+,27,27
+,28,28
+,29,29
+,30,30
+,31,31
+,77,No tiene otra dosis
+,99,No recuerda
+h16044m,1,Enero
+,2,Febrero
+,3,Marzo
+,4,Abril
+,5,Mayo
+,6,Junio
+,7,Julio
+,8,Agosto
+,9,Septiembre
+,10,Octubre
+,11,Noviembre
+,12,Diciembre
+,77,No tiene otra dosis
+,99,No recuerda
+h16044a,2020,2020
+,2021,2021
+,2022,2022
+,7777,No tiene otra dosis
+,9999,No recuerda
+h16054,1,Pfizer
+,2,Sputnik
+,3,Sinovac
+,4,Astra Zeneca
+,5,CanSino
+,6,Moderna
+,7,Johnson & Johnson
+,8,Otra (especificar)
+,9,NS/NR
+h1607,1,No he (ha) sido elegible por su edad
+,2,Sí soy (es) elegible pero no ha llegado la vacuna dónde vivi
+,3,Creo(e) que la vacuna no sirve
+,4,Creo(e) que la vacuna tiene efectos adversos/consecuencias n
+,5,Me (Le) quedaba muy lejos
+,6,La fila era muy larga
+,7,"COVID no es un problema, no existe"
+,8,"Prefiero(e) esperar, ver cómo avanza esto"
+,9,"No confío(a) en el sistema, en el gobierno"
+,10,Porque no me(le) dejaron salir en mi(su) trabajo
+,11,Porque tengo (tiene) una discapacidad
+,12,Porque no tuve(o) quién me(le) acompañara
+,13,Por miedo
+,14,No tuvo tiempo
+,15,Está/estuvo enfermo o por alguna enfermedad
+,88,Otro (especificar)
+region,1,Pacifico-Norte
+,2,Frontera
+,3,Pacífico-Centro
+,4,Centro Norte
+,5,Centro
+,6,Cd./Edo México
+,7,Pacífico Sur
+,8,Península
+,11,Guanajuato
+,15,Edo México
+,19,Nuevo León
 estrato,"1,00",Rural  ( <2500 Hab )
 ,"2,00","Urbano ( 2500-99,999 Hab)"
 ,"3,00",Metropolitano (100mil y + Hab)
+derechohab,1,IMSS
+,2,ISSSTE
+,3,Sin derechohabiencia
+,4,Otros público
+,5,Seguro médico privado
