@@ -1,0 +1,2254 @@
+﻿Valor,,Etiqueta
+nota1,1,"¿Acepta usted? ,,,, Sí"
+,2,"¿Acepta usted? ,,,, No"
+sexo,1,Hombre
+,2,Mujer
+asexo,1,Hombre
+,2,Mujer
+nota014,1,Favor de continuar
+a0107,1,Ganó peso.
+,2,Perdió peso.
+,3,No ha experimentado cambios en su Peso.
+,4,Ganó o perdió peso porque está embarazada.
+,9,No sabe.
+a0109,1,SI.
+,2,NO.
+A0110A,1,disminuir el tamaño de las porciones?
+,2,aumentar la actividad física?
+,3,seguir las recomendaciones de un profesional de la salud?
+,4,tomar medicamentos para perder peso?
+,5,eliminar el consumo de refrescos?
+,6,"aumentar el consumo de vegetales y alimentos ricos en fibra (por ejemplo, cereales integrales)?"
+,7,realizar algún tipo de ejercicio?
+,8,tomar mucha agua?
+,9,Otra forma (especifica).
+A0110B,1,disminuir el tamaño de las porciones?
+,2,aumentar la actividad física?
+,3,seguir las recomendaciones de un profesional de la salud?
+,4,tomar medicamentos para perder peso?
+,5,eliminar el consumo de refrescos?
+,6,"aumentar el consumo de vegetales y alimentos ricos en fibra (por ejemplo, cereales integrales)?"
+,7,realizar algún tipo de ejercicio?
+,8,tomar mucha agua?
+,9,Otra forma (especifica).
+A0110C,1,disminuir el tamaño de las porciones?
+,2,aumentar la actividad física?
+,3,seguir las recomendaciones de un profesional de la salud?
+,4,tomar medicamentos para perder peso?
+,5,eliminar el consumo de refrescos?
+,6,"aumentar el consumo de vegetales y alimentos ricos en fibra (por ejemplo, cereales integrales)?"
+,7,realizar algún tipo de ejercicio?
+,8,tomar mucha agua?
+,9,Otra forma (especifica).
+A0110D,1,disminuir el tamaño de las porciones?
+,2,aumentar la actividad física?
+,3,seguir las recomendaciones de un profesional de la salud?
+,4,tomar medicamentos para perder peso?
+,5,eliminar el consumo de refrescos?
+,6,"aumentar el consumo de vegetales y alimentos ricos en fibra (por ejemplo, cereales integrales)?"
+,7,realizar algún tipo de ejercicio?
+,8,tomar mucha agua?
+,9,Otra forma (especifica).
+A0110E,1,disminuir el tamaño de las porciones?
+,2,aumentar la actividad física?
+,3,seguir las recomendaciones de un profesional de la salud?
+,4,tomar medicamentos para perder peso?
+,5,eliminar el consumo de refrescos?
+,6,"aumentar el consumo de vegetales y alimentos ricos en fibra (por ejemplo, cereales integrales)?"
+,7,realizar algún tipo de ejercicio?
+,8,tomar mucha agua?
+,9,Otra forma (especifica).
+A0110F,1,disminuir el tamaño de las porciones?
+,2,aumentar la actividad física?
+,3,seguir las recomendaciones de un profesional de la salud?
+,4,tomar medicamentos para perder peso?
+,5,eliminar el consumo de refrescos?
+,6,"aumentar el consumo de vegetales y alimentos ricos en fibra (por ejemplo, cereales integrales)?"
+,7,realizar algún tipo de ejercicio?
+,8,tomar mucha agua?
+,9,Otra forma (especifica).
+A0110G,1,disminuir el tamaño de las porciones?
+,2,aumentar la actividad física?
+,3,seguir las recomendaciones de un profesional de la salud?
+,4,tomar medicamentos para perder peso?
+,5,eliminar el consumo de refrescos?
+,6,"aumentar el consumo de vegetales y alimentos ricos en fibra (por ejemplo, cereales integrales)?"
+,7,realizar algún tipo de ejercicio?
+,8,tomar mucha agua?
+,9,Otra forma (especifica).
+A0110H,1,disminuir el tamaño de las porciones?
+,2,aumentar la actividad física?
+,3,seguir las recomendaciones de un profesional de la salud?
+,4,tomar medicamentos para perder peso?
+,5,eliminar el consumo de refrescos?
+,6,"aumentar el consumo de vegetales y alimentos ricos en fibra (por ejemplo, cereales integrales)?"
+,7,realizar algún tipo de ejercicio?
+,8,tomar mucha agua?
+,9,Otra forma (especifica).
+A0110I,1,disminuir el tamaño de las porciones?
+,2,aumentar la actividad física?
+,3,seguir las recomendaciones de un profesional de la salud?
+,4,tomar medicamentos para perder peso?
+,5,eliminar el consumo de refrescos?
+,6,"aumentar el consumo de vegetales y alimentos ricos en fibra (por ejemplo, cereales integrales)?"
+,7,realizar algún tipo de ejercicio?
+,8,tomar mucha agua?
+,9,Otra forma (especifica).
+nota015,1,Favor de continuar
+nota016,1,Favor de continuar
+a0211,1,Rara vez o nunca (menos de un día).
+,2,Pocas veces o alguna vez (1-2 días).
+,3,Un número de veces considerable (3-4 dias).
+,4,Todo el tiempo o la mayoría del tiempo (5-7 días).
+a0212,1,Rara vez o nunca (menos de un día).
+,2,Pocas veces o alguna vez (1-2 días).
+,3,Un número de veces considerable (3-4 dias).
+,4,Todo el tiempo o la mayoría del tiempo    (5-7 días).
+a0213,1,Rara vez o nunca (menos de un día).
+,2,Pocas veces o alguna vez (1-2 días).
+,3,Un número de veces considerable (3-4 dias).
+,4,Todo el tiempo o la mayoría del tiempo    (5-7 días).
+a0214,1,Rara vez o nunca (menos de un día).
+,2,Pocas veces o alguna vez (1-2 días).
+,3,Un número de veces considerable (3-4 dias).
+,4,Todo el tiempo o la mayoría del tiempo    (5-7 días).
+a0215,1,Rara vez o nunca (menos de un día).
+,2,Pocas veces o alguna vez (1-2 días).
+,3,Un número de veces considerable (3-4 dias).
+,4,Todo el tiempo o la mayoría del tiempo    (5-7 días).
+a0216,1,Rara vez o nunca (menos de un día).
+,2,Pocas veces o alguna vez (1-2 días).
+,3,Un número de veces considerable (3-4 dias).
+,4,Todo el tiempo o la mayoría del tiempo    (5-7 días).
+a0217,1,Rara vez o nunca (menos de un día).
+,2,Pocas veces o alguna vez (1-2 días).
+,3,Un número de veces considerable (3-4 dias).
+,4,Todo el tiempo o la mayoría del tiempo    (5-7 días).
+a0202,1,Sí
+,2,No
+nota017,1,Favor de continuar
+nota018,1,Favor de continuar
+a0301,1,SÍ.
+,2,"Sí, durante el embarazo  (solo mujeres, diabetes gestacional"
+,3,NO.
+a0305,1,Instituto Mexicano del Seguro Social (IMSS).
+,2,IMSS Bienestar (antes Oportunidades).
+,3,ISSSTE/ISSSTE Estatal.
+,4,Centro de Salud u Hospital de la SSA/Instituto Nacional de S
+,5,"PEMEX, Defensa, Marina o DIF."
+,6,Consultorios pertenecientes a farmacias/Farmacias con consul
+,7,"Atención privada en domicilio o vía remota, médico de la emp"
+,8,Consultorio en domicilio particular de médico privado.
+,9,Otro (especifique).
+,10,No sabe / No recuerda.
+a0306a,1,Si.
+,2,No.
+,9,No Sabe/No responde.
+a0306b,1,Si.
+,2,No.
+,9,No Sabe/No responde.
+a0306c,1,Si.
+,2,No.
+,9,No Sabe/No responde.
+a0306d,1,Si.
+,2,No.
+,9,No Sabe/No responde.
+a0306e,1,Si.
+,2,No.
+,9,No Sabe/No responde.
+a0306f,1,Si.
+,2,No.
+,9,No Sabe/No responde.
+a0306g,1,Si.
+,2,No.
+,9,No Sabe/No responde.
+a0306h,1,Si.
+,2,No.
+,9,No Sabe/No responde.
+a0306i,1,Si.
+,2,No.
+,9,No Sabe/No responde.
+a0306j,1,Si.
+,2,No.
+,9,No Sabe/No responde.
+a0306l,1,Si.
+,2,No.
+,9,No Sabe/No responde.
+a0307,1,"Sí, solo insulina."
+,2,"Sí, solo pastillas."
+,3,"Sí, ambas."
+,4,Ninguno.
+a0310,1,SÍ.
+,2,NO.
+,8,No responde.
+A0312A,1,Plan de alimentación (dieta recomendada por personal de salu
+,2,Plan de ejercicio físico?
+,3,Come frutas y verduras todos los días?
+,4,Otros?
+,5,Ninguno.
+A0312B,1,Plan de alimentación (dieta recomendada por personal de salu
+,2,Plan de ejercicio físico?
+,3,Come frutas y verduras todos los días?
+,4,Otros?
+,5,Ninguno.
+A0312C,1,Plan de alimentación (dieta recomendada por personal de salu
+,2,Plan de ejercicio físico?
+,3,Come frutas y verduras todos los días?
+,4,Otros?
+,5,Ninguno.
+A0312D,1,Plan de alimentación (dieta recomendada por personal de salu
+,2,Plan de ejercicio físico?
+,3,Come frutas y verduras todos los días?
+,4,Otros?
+,5,Ninguno.
+a0313,1,Sí.
+,2,No.
+,9,No sabe.
+a0314,1,Se le olvidó tomar los medicamentos.
+,2,Consideró que no lo necesitaba.
+,3,Tuvo miedo a la hipoglucemia.
+,4,Tuvo temor sobre la seguridad del medicamento.
+,5,No le surtieron los medicamentos en la unidad  médica.
+,6,No encontró el medicamento en la farmacia.
+,7,No tuvo dinero para comprarlo(s).
+,8,Otro.
+A0315A,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+A0315B,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+A0315C,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+A0315D,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+A0315E,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+A0315F,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+A0315G,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+A0315H,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+A0315I,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+A0315J,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+A0315K,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+A0315L,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+A0315M,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+A0315N,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+A0315O,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+A0315P,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+A0315Q,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+A0315R,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+A0315S,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+A0315T,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+A0315U,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+A0315V,2,Toma una aspirina diaria.
+,3,Revisión de pies.
+,5,Microalbuminuria (con recolección de orina de 24 horas).
+,6,Medición de la presión arterial.
+,7,Aplicación de vacuna contra influenza o neumococo
+,9,Medición del colesterol y los triglicéridos.
+,10,"Toma un medicamento para disminuir la concentración de colesterol (pravastatina atorvastatina, simvastatina, rosuvastatina)."
+,11,"Toma un medicamento para el control de su presión arterial (enalapril, captopril, tenormin diurético)."
+,12,Dejó de fumar.
+,13,Revisión dental.
+,14,Recibió educación sobre su enfermedad.
+,15,Electrocardiograma.
+,17,Acude a algún grupo de ayuda mutua.
+,18,Otro.
+,19,No realiza ninguna medida preventiva.
+,20,Medición de glucosa en sangre capilar en casa
+a0316a,1,SI
+,2,NO
+a0316b,1,SI
+,2,NO
+a0316c,1,SI
+,2,NO
+a0316d,1,SI
+,2,NO
+a0316e,1,SI
+,2,NO
+a0316f,1,SI
+,2,NO
+a0316g,1,SI
+,2,NO
+a0316h,1,SI
+,2,NO
+a0316i,1,SI
+,2,NO
+a0316j,1,SI
+,2,NO
+nota019,1,Favor de continuar
+nota020,1,Favor de continuar
+a0401,1,SÍ.
+,2,"SÍ, durante el embarazo."
+,3,NO.
+a0404,1,SÍ.
+,2,NO.
+a0406a,1,SÍ.
+,2,NO.
+a0407,1,Instituto Mexicano del Seguro Social (IMSS).
+,2,IMSS Bienestar (antes Oportunidades).
+,3,ISSSTE/ISSSTE Estatal.
+,4,Centro de Salud u Hospital de la SSA/Instituto Nacional de S
+,5,"PEMEX, Defensa, Marina o DIF."
+,6,Consultorios pertenecientes a farmacia/Farmacias con consult
+,7,"Atención privada en el domicilio o vía remota, médico de la"
+,8,Consultorio en domicilio particular de médico privado.
+,9,Otro (especifique).
+,10,No sabe / No recuerda.
+A0408A,1,Plan de alimentación (dieta recomendada por personal de salu
+,2,Realiza algún ejercicio físico.
+,3,Disminución en el consumo de sal.
+,4,Medicina alternativa.
+,5,Ninguno.
+A0408B,1,Plan de alimentación (dieta recomendada por personal de salu
+,2,Realiza algún ejercicio físico.
+,3,Disminución en el consumo de sal.
+,4,Medicina alternativa.
+,5,Ninguno.
+A0408C,1,Plan de alimentación (dieta recomendada por personal de salu
+,2,Realiza algún ejercicio físico.
+,3,Disminución en el consumo de sal.
+,4,Medicina alternativa.
+,5,Ninguno.
+A0408D,1,Plan de alimentación (dieta recomendada por personal de salu
+,2,Realiza algún ejercicio físico.
+,3,Disminución en el consumo de sal.
+,4,Medicina alternativa.
+,5,Ninguno.
+A0408E,1,Plan de alimentación (dieta recomendada por personal de salu
+,2,Realiza algún ejercicio físico.
+,3,Disminución en el consumo de sal.
+,4,Medicina alternativa.
+,5,Ninguno.
+a0409,1,Diario.
+,2,Semanal.
+,3,Mensual.
+,4,Anual.
+,5,No se la toman
+a0410a,1,SI.
+,2,NO.
+a0410b,1,SI.
+,2,NO.
+a0410c,1,SI.
+,2,NO.
+a0410d,1,SI.
+,2,NO.
+a0410e,1,SI.
+,2,NO.
+a0410f,1,SI.
+,2,NO.
+nota021,1,Favor de continuar
+nota037,1,Favor de continuar
+a0502a,1,SÍ.
+,2,NO.
+a0502b,1,SÍ.
+,2,NO.
+a0502c,1,SÍ.
+,2,NO.
+a0502d,1,SÍ.
+,2,NO.
+nota022,1,Favor de continuar
+nota023,1,Favor de continuar
+a0601a,1,SI.
+,2,NO.
+a0601b,1,SI.
+,2,NO.
+a0601c,1,SI.
+,2,NO.
+a0603,1,SÍ.
+,2,NO.
+,9,No sabe.
+a0604,1,SI.
+,2,NO.
+A0605A,1,"Medicamento como, pravastatina, atorvastatina, simvastatina,"
+,2,Dieta.
+,3,Aumento de actividad física.
+,4,Medicina Alternativa
+,5,Ninguna.
+A0605B,1,"Medicamento como, pravastatina, atorvastatina, simvastatina,"
+,2,Dieta.
+,3,Aumento de actividad física.
+,4,Medicina Alternativa
+,5,Ninguna.
+A0605C,1,"Medicamento como, pravastatina, atorvastatina, simvastatina,"
+,2,Dieta.
+,3,Aumento de actividad física.
+,4,Medicina Alternativa
+,5,Ninguna.
+A0605D,1,"Medicamento como, pravastatina, atorvastatina, simvastatina,"
+,2,Dieta.
+,3,Aumento de actividad física.
+,4,Medicina Alternativa
+,5,Ninguna.
+a0606,1,SI.
+,2,NO.
+A0607A1,1,"Medicamento como, bezafibrato, fenofibrato, gemfibrozil, cip"
+,2,Dieta.
+,3,Aumento de actividad física.
+,4,Medicina Alternativa
+,5,Ninguna.
+A0607B,1,"Medicamento como, bezafibrato, fenofibrato, gemfibrozil, cip"
+,2,Dieta.
+,3,Aumento de actividad física.
+,4,Medicina Alternativa
+,5,Ninguna.
+A0607C,1,"Medicamento como, bezafibrato, fenofibrato, gemfibrozil, cip"
+,2,Dieta.
+,3,Aumento de actividad física.
+,4,Medicina Alternativa
+,5,Ninguna.
+A0607D,1,"Medicamento como, bezafibrato, fenofibrato, gemfibrozil, cip"
+,2,Dieta.
+,3,Aumento de actividad física.
+,4,Medicina Alternativa
+,5,Ninguna.
+nota024,1,Favor de continuar
+nota025,1,Favor de continuar
+a07her,1,SI
+,2,NO
+a0701p,1,SI.
+,2,NO.
+,9,NO SABE.
+a0702p,1,SI.
+,2,NO.
+,9,NO SABE.
+a0703p,1,SI.
+,2,NO.
+,9,NO SABE.
+a0704p,1,<50.
+,2,>=50.
+,9,NO SABE.
+a0701m,1,SI.
+,2,NO.
+,9,NO SABE.
+a0702m,1,SI.
+,2,NO.
+,9,NO SABE.
+a0703m,1,SI.
+,2,NO.
+,9,NO SABE.
+a0704m,1,<50.
+,2,>=50.
+,9,NO SABE.
+a0701h,1,SI.
+,2,NO.
+,9,NO SABE.
+a0702h,1,SI.
+,2,NO.
+,9,NO SABE.
+a0703h,1,SI.
+,2,NO.
+,9,NO SABE.
+a0704h,1,<50.
+,2,>=50.
+,9,NO SABE.
+nota026,1,Favor de continuar
+nota027,1,Favor de continuar
+A0803A,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Ritmo, calendario, termómetro, Billings."
+,11,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,NS/NR.
+A0803B,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Ritmo, calendario, termómetro, Billings."
+,11,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,NS/NR.
+A0803C,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Ritmo, calendario, termómetro, Billings."
+,11,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,NS/NR.
+A0803D,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Ritmo, calendario, termómetro, Billings."
+,11,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,NS/NR.
+A0803E,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Ritmo, calendario, termómetro, Billings."
+,11,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,NS/NR.
+A0803F,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Ritmo, calendario, termómetro, Billings."
+,11,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,NS/NR.
+A0803G,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Ritmo, calendario, termómetro, Billings."
+,11,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,NS/NR.
+A0803H,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Ritmo, calendario, termómetro, Billings."
+,11,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,NS/NR.
+A0803I,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Ritmo, calendario, termómetro, Billings."
+,11,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,NS/NR.
+A0803J,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Ritmo, calendario, termómetro, Billings."
+,11,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,NS/NR.
+A0803K,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Ritmo, calendario, termómetro, Billings."
+,11,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,NS/NR.
+A0803L,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Ritmo, calendario, termómetro, Billings."
+,11,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,NS/NR.
+A0803M,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Ritmo, calendario, termómetro, Billings."
+,11,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,NS/NR.
+A0803N,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Ritmo, calendario, termómetro, Billings."
+,11,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,NS/NR.
+A0803O,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Ritmo, calendario, termómetro, Billings."
+,11,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,NS/NR.
+A0804A,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Operación femenina, OTB o ligadura de trompas."
+,11,Operación masculina o vasectomía.
+,12,"Ritmo, calendario, abstinencia periódica, termómetro, billings."
+,13,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,No responde.
+A0804B,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Operación femenina, OTB o ligadura de trompas."
+,11,Operación masculina o vasectomía.
+,12,"Ritmo, calendario, abstinencia periódica, termómetro, billings."
+,13,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,No responde.
+A0804C,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Operación femenina, OTB o ligadura de trompas."
+,11,Operación masculina o vasectomía.
+,12,"Ritmo, calendario, abstinencia periódica, termómetro, billings."
+,13,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,No responde.
+A0804D,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Operación femenina, OTB o ligadura de trompas."
+,11,Operación masculina o vasectomía.
+,12,"Ritmo, calendario, abstinencia periódica, termómetro, billings."
+,13,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,No responde.
+A0804E,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Operación femenina, OTB o ligadura de trompas."
+,11,Operación masculina o vasectomía.
+,12,"Ritmo, calendario, abstinencia periódica, termómetro, billings."
+,13,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,No responde.
+A0804F,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Operación femenina, OTB o ligadura de trompas."
+,11,Operación masculina o vasectomía.
+,12,"Ritmo, calendario, abstinencia periódica, termómetro, billings."
+,13,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,No responde.
+A0804G,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Operación femenina, OTB o ligadura de trompas."
+,11,Operación masculina o vasectomía.
+,12,"Ritmo, calendario, abstinencia periódica, termómetro, billings."
+,13,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,No responde.
+A0804H,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Operación femenina, OTB o ligadura de trompas."
+,11,Operación masculina o vasectomía.
+,12,"Ritmo, calendario, abstinencia periódica, termómetro, billings."
+,13,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,No responde.
+A0804I,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Operación femenina, OTB o ligadura de trompas."
+,11,Operación masculina o vasectomía.
+,12,"Ritmo, calendario, abstinencia periódica, termómetro, billings."
+,13,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,No responde.
+A0804J,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Operación femenina, OTB o ligadura de trompas."
+,11,Operación masculina o vasectomía.
+,12,"Ritmo, calendario, abstinencia periódica, termómetro, billings."
+,13,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,No responde.
+A0804K,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Operación femenina, OTB o ligadura de trompas."
+,11,Operación masculina o vasectomía.
+,12,"Ritmo, calendario, abstinencia periódica, termómetro, billings."
+,13,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,No responde.
+A0804L,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Operación femenina, OTB o ligadura de trompas."
+,11,Operación masculina o vasectomía.
+,12,"Ritmo, calendario, abstinencia periódica, termómetro, billings."
+,13,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,No responde.
+A0804M,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Operación femenina, OTB o ligadura de trompas."
+,11,Operación masculina o vasectomía.
+,12,"Ritmo, calendario, abstinencia periódica, termómetro, billings."
+,13,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,No responde.
+A0804N,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Operación femenina, OTB o ligadura de trompas."
+,11,Operación masculina o vasectomía.
+,12,"Ritmo, calendario, abstinencia periódica, termómetro, billings."
+,13,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,No responde.
+A0804O,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Operación femenina, OTB o ligadura de trompas."
+,11,Operación masculina o vasectomía.
+,12,"Ritmo, calendario, abstinencia periódica, termómetro, billings."
+,13,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,No responde.
+A0804P,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Operación femenina, OTB o ligadura de trompas."
+,11,Operación masculina o vasectomía.
+,12,"Ritmo, calendario, abstinencia periódica, termómetro, billings."
+,13,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,No responde.
+A0804Q,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas de anticoncepción de emergencia o del día siguiente.
+,4,Pastillas o píldoras.
+,5,Inyecciones.
+,6,Parche anticonceptivo.
+,7,"Dispositivo, DIU o aparato."
+,8,"Implantes, tubos o norplant."
+,9,"Óvulos, jaleas, espuma o diafragma."
+,10,"Operación femenina, OTB o ligadura de trompas."
+,11,Operación masculina o vasectomía.
+,12,"Ritmo, calendario, abstinencia periódica, termómetro, billings."
+,13,Retiro o coito interrumpido.
+,14,Nada.
+,77,Otro.
+,88,No recuerda.
+,99,No responde.
+a0805,1,Sí.
+,2,No.
+,9,NS/NR.
+a0807,1,Si.
+,2,No.
+,9,No responde.
+a0808,1,Sí.
+,2,No.
+,8,No sabe.
+,9,No responde.
+a0811d,1,01
+,2,02
+,3,03
+,4,04
+,5,05
+,6,06
+,7,07
+,8,08
+,9,09
+,10,10
+,11,11
+,12,12
+,13,13
+,14,14
+,15,15
+,16,16
+,17,17
+,18,18
+,19,19
+,20,20
+,21,21
+,22,22
+,23,23
+,24,24
+,25,25
+,26,26
+,27,27
+,28,28
+,29,29
+,30,30
+,31,31
+,88,No responde
+,99,No sabe
+a0811m,1,Enero
+,2,Febrero
+,3,Marzo
+,4,Abril
+,5,Mayo
+,6,Junio
+,7,Julio
+,8,Agosto
+,9,Septiembre
+,10,Octubre
+,11,Noviembre
+,12,Diciembre
+,88,No responde
+,99,No sabe
+nota028,1,Favor de continuar
+a0813,1,Instituto Mexicano del Seguro Social (IMSS).
+,2,IMSS Bienestar (antes Oportunidades).
+,3,ISSSTE/ISSSTE Estatal.
+,4,Centro de Salud u Hospital de la SSA/Instituto Nacional de S
+,5,"Otros públicos (PEMEX, Defensa, Marina o DIF)"
+,6,Consultorios pertenecientes a farmacia/Farmacias con consult
+,7,"Otros privados (atención privada en domicilio o vía remota,"
+,8,Consultorio en domicilio particular de médico privado.
+,9,Casa de la partera
+,10,Casa de la entrevistada
+,11,Otro (especifique)
+,88,No sabe / No recuerda.
+a0815a,1,Sí.
+,2,No.
+,9,NS/NR.
+a0815b,1,Sí.
+,2,No.
+,9,NS/NR.
+a0815c,1,Sí.
+,2,No.
+,9,NS/NR.
+a0815d,1,Sí.
+,2,No.
+,9,NS/NR.
+a0815e,1,Sí.
+,2,No.
+,9,NS/NR.
+a0815f,1,Sí.
+,2,No.
+,9,NS/NR.
+a0815g,1,Sí.
+,2,No.
+,9,NS/NR.
+a0815h,1,Sí.
+,2,No.
+,9,NS/NR.
+a0815i,1,Sí.
+,2,No.
+,9,NS/NR.
+a0815j,1,Sí.
+,2,No.
+,9,NS/NR.
+a0815k,1,Sí.
+,2,No.
+,9,NS/NR.
+a0815l,1,Sí.
+,2,No.
+,9,NS/NR.
+a0815m,1,Sí.
+,2,No.
+,9,NS/NR.
+a0815n,1,Sí.
+,2,No.
+,9,NS/NR.
+a0815o,1,Sí.
+,2,No.
+,9,NS/NR.
+a0815p,1,Sí.
+,2,No.
+,9,NS/NR.
+a0816,1,Instituto Mexicano del Seguro Social (IMSS).
+,2,IMSS Bienestar (antes Oportunidades).
+,3,ISSSTE/ISSSTE Estatal.
+,4,Centro de Salud u Hospital de la SSA/Instituto Nacional de S
+,5,"Otros públicos (PEMEX, Defensa, Marina o DIF)"
+,6,Consultorios pertenecientes a farmacia/Farmacias con consult
+,7,"Otros privados (atención privada en domicilio o vía remota,"
+,8,Consultorio en domicilio particular de médico privado.
+,9,Casa de la partera
+,10,Casa de la entrevistada
+,11,Otro (especifique)
+,88,No sabe / No recuerda.
+a0817,1,normal (vaginal)?
+,2,cesárea por urgencias?
+,3,cesárea programada?
+,9,NS/NR.
+a0818,1,Sí.
+,2,No.
+,8,No recuerda.
+,9,NS/NR.
+a0819f,1,De la cartilla del niño o de otro documento.
+,2,"Del recuerdo de su mamá, cuidadora o informante."
+,9,NS/NR.
+a0821a,1,Si.
+,2,No.
+,9,NS/NR.
+a0821b,1,Si.
+,2,No.
+,9,NS/NR.
+a0821c,1,Si.
+,2,No.
+,9,NS/NR.
+a0821d,1,Si.
+,2,No.
+,9,NS/NR.
+a0821e,1,Si.
+,2,No.
+,9,NS/NR.
+a0821f,1,Si.
+,2,No.
+,9,NS/NR.
+a0821g,1,Si.
+,2,No.
+,9,NS/NR.
+a0821h,1,Si.
+,2,No.
+,9,NS/NR.
+a0821i,1,Si.
+,2,No.
+,9,NS/NR.
+a0821j,1,Si.
+,2,No.
+,9,NS/NR.
+a0822,1,"Sí, Antes de salir del hospital."
+,2,"Sí, Durante el primer mes después de haber salido del hospit"
+,3,"Sí, Después del primer mes."
+,8,No recuerda en qué momento.
+,9,NS/NR.
+a0823,1,Condón o preservativo masculino.
+,2,Condón femenino.
+,3,Pastillas o píldoras.
+,4,Inyecciones.
+,5,Parche anticonceptivo.
+,6,"Dispositivo, DIU o aparato."
+,7,"Implantes, tubos o norplant."
+,8,"Óvulos, jaleas, espuma o diafragma."
+,9,"Operación femenina, OTB o ligadura de trompas."
+,10,Operación masculina o vasectomía.
+,77,Otro.
+,88,No recuerda.
+,99,NS/NR.
+a0824,1,Sí
+,8,No recuerda.
+,9,No responde.
+a0825,1,Sí.
+,2,No.
+,9,NS/NR.
+nota030,1,Favor de continuar
+nota031,1,Favor de continuar
+a0901,1,Sí mostró la Cartilla Nacional de Salud(Hombres o Mujeres de
+,2,Tiene documento probatorio o comprobante.
+,3,"Sí la tiene, pero no la mostró."
+,4,No tiene cartilla.
+,5,"Sí mostró la cartilla, pero no tiene información."
+a0902,1,No se la han dado.
+,2,La extravió.
+,3,No le han dado la reposición.
+,4,No la tiene disponible en este momento.
+,5,Vivienda afectada por sismo u otro desastre Natural.
+,6,Otra.
+,9,No  sabe.
+a0903,1,No se ha vacunado.
+,2,"Se vacunó, tiene documento probatorio o comprobante, pero no"
+,3,No sabe / No responde.
+nota032,1,Favor de continuar
+a0904,1,SÍ.
+,2,NO.
+,9,No sabe / No recuerda.
+a0906,1,SÍ.
+,2,NO.
+,9,No sabe / No recuerda.
+a0908,1,SÍ.
+,2,NO.
+,9,No sabe / No recuerda.
+nota033,1,Favor de continuar
+a09091a,1,Sí.
+,2,NO.
+a09092a,1,Sí.
+,2,NO.
+a09093a,1,Sí.
+,2,NO.
+a09101a,1,Sí.
+,2,NO.
+a09102a,1,Sí.
+,2,NO.
+a09103a,1,Sí.
+,2,NO.
+a09104a,1,Sí.
+,2,NO.
+a09111a,1,Sí.
+,2,NO.
+a09121a,1,Sí.
+,2,NO.
+a09122a,1,Sí.
+,2,NO.
+o_vac1,1,Sí
+,2,No
+a09131a,1,Sí.
+,2,NO.
+o_vac2,1,Sí
+,2,No
+a09132a,1,Sí.
+,2,NO.
+o_vac3,1,Sí
+,2,No
+a09133a,1,Sí.
+,2,NO.
+o_vac4,1,Sí
+,2,No
+a09134a,1,Sí.
+,2,NO.
+o_vac5,1,Sí
+,2,No
+a09135a,1,Sí.
+,2,NO.
+nota034,1,Favor de continuar
+a0914,1,Sí mostró la Cartilla Nacional de Salud (Adultos mayores de
+,2,Sí mostró documento probatorio o comprobante.
+,3,"Sí la tiene, pero no la mostró."
+,4,No tiene cartilla.
+,5,"Sí mostró la Cartilla, pero no tiene información."
+a0915,1,No se la han dado.
+,2,La extravió.
+,3,No le han dado la reposición.
+,4,No la tiene disponible en este momento.
+,5,Vivienda afectada por sismo u otro desastre natural.
+,6,Otra.
+,9,No sabe.
+a0916,1,No se ha vacunado.
+,2,"Se vacunó, tiene documento probatorio o comprobante, pero no"
+,9,No sabe.
+nota035,1,Favor de continuar
+a0917,1,SÍ.
+,2,NO.
+,9,No sabe / No recuerda.
+a0919,1,SÍ.
+,2,NO.
+,9,No sabe / No recuerda.
+a0921,1,SÍ.
+,2,NO.
+,9,No sabe / No recuerda.
+nota036,1,Favor de continuar
+a09221a,1,Sí.
+,2,NO.
+a09222a,1,Sí.
+,2,NO.
+a09223a,1,Sí.
+,2,NO.
+a09231a,1,Sí.
+,2,NO.
+a09232a,1,Sí.
+,2,NO.
+a09233a,1,Sí.
+,2,NO.
+a09234a,1,Sí.
+,2,NO.
+a09241a,1,Sí.
+,2,NO.
+o_vac11,1,Sí
+,2,No
+a09251a,1,Sí.
+,2,NO.
+o_vac12,1,Sí
+,2,No
+a09252a,1,Sí.
+,2,NO.
+o_vac13,1,Sí
+,2,No
+a09253a,1,Sí.
+,2,NO.
+o_vac14,1,Sí
+,2,No
+a09254a,1,Sí.
+,2,NO.
+o_vac15,1,Sí
+,2,No
+a09255a,1,Sí.
+,2,NO.
+nota001,1,Favor de continuar
+a1001a,1,Sí
+,2,No
+a1002a,1,IMSS
+,2,IMSS Bienestar (antes Oportunidades)
+,3,"ISSSTE, ISSSTE Estatal"
+,4,Centro de Salud u Hospital de la SSA/Instituto Nacional de S
+,5,"PEMEX, Defensa, Marina o DIF"
+,6,Consultorios pertenecientes a farmacia/Farmacias con consult
+,7,"Atención privada en el domicilio o vía remota, médico de la"
+,8,Consultorio en domicilio particular de médico privado
+,9,Otra (especifique)
+,10,No sabe
+a1003a,1,Sí
+,2,No
+a1004a,1,Sí
+,2,No
+a1005a,1,Positivo
+,2,Bien o Negativo
+,8,No responde
+,9,No sabe
+a1006a,1,Sí
+,2,No
+a1007a,1,No hay dónde atenderse
+,2,Es caro
+,3,No tenía dinero
+,4,La unidad médica le queda lejos
+,5,Falta de confianza
+,6,Tratan mal
+,7,No tuvo tiempo
+,8,"Fue, pero no lo(a) atendieron"
+,9,Otra
+,99,No sabe
+a1001b,1,Sí
+,2,No
+a1002b,1,IMSS
+,2,IMSS Bienestar (antes Oportunidades)
+,3,"ISSSTE, ISSSTE Estatal"
+,4,Centro de Salud u Hospital de la SSA/Instituto Nacional de S
+,5,"PEMEX, Defensa, Marina o DIF"
+,6,Consultorios pertenecientes a farmacia/Farmacias con consult
+,7,"Atención privada en el domicilio o vía remota, médico de la"
+,8,Consultorio en domicilio particular de médico privado
+,9,Otra (especifique)
+,10,No sabe
+a1003b,1,Sí
+,2,No
+a1004b,1,Sí
+,2,No
+a1005b,1,Positivo
+,2,Bien o Negativo
+,8,No responde
+,9,No sabe
+a1006b,1,Sí
+,2,No
+a1007b,1,No hay dónde atenderse
+,2,Es caro
+,3,No tenía dinero
+,4,La unidad médica le queda lejos
+,5,Falta de confianza
+,6,Tratan mal
+,7,No tuvo tiempo
+,8,"Fue, pero no lo(a) atendieron"
+,9,Otra
+,99,No sabe
+a1001c,1,Sí
+,2,No
+a1002c,1,IMSS
+,2,IMSS Bienestar (antes Oportunidades)
+,3,"ISSSTE, ISSSTE Estatal"
+,4,Centro de Salud u Hospital de la SSA/Instituto Nacional de S
+,5,"PEMEX, Defensa, Marina o DIF"
+,6,Consultorios pertenecientes a farmacia/Farmacias con consult
+,7,"Atención privada en el domicilio o vía remota, médico de la"
+,8,Consultorio en domicilio particular de médico privado
+,9,Otra (especifique)
+,10,No sabe
+a1003c,1,Sí
+,2,No
+a1004c,1,Sí
+,2,No
+a1005c,1,Positivo
+,2,Bien o Negativo
+,8,No responde
+,9,No sabe
+a1006c,1,Sí
+,2,No
+a1007c,1,No hay dónde atenderse
+,2,Es caro
+,3,No tenía dinero
+,4,La unidad médica le queda lejos
+,5,Falta de confianza
+,6,Tratan mal
+,7,No tuvo tiempo
+,8,"Fue, pero no lo(a) atendieron"
+,9,Otra
+,99,No sabe
+a1001d,1,Sí
+,2,No
+a1002d,1,IMSS
+,2,IMSS Bienestar (antes Oportunidades)
+,3,"ISSSTE, ISSSTE Estatal"
+,4,Centro de Salud u Hospital de la SSA/Instituto Nacional de S
+,5,"PEMEX, Defensa, Marina o DIF"
+,6,Consultorios pertenecientes a farmacia/Farmacias con consult
+,7,"Atención privada en el domicilio o vía remota, médico de la"
+,8,Consultorio en domicilio particular de médico privado
+,9,Otra (especifique)
+,10,No sabe
+a1003d,1,Sí
+,2,No
+a1004d,1,Sí
+,2,No
+a1005d,1,Positivo
+,2,Bien o Negativo
+,8,No responde
+,9,No sabe
+a1006d,1,Sí
+,2,No
+a1007d,1,No hay dónde atenderse
+,2,Es caro
+,3,No tenía dinero
+,4,La unidad médica le queda lejos
+,5,Falta de confianza
+,6,Tratan mal
+,7,No tuvo tiempo
+,8,"Fue, pero no lo(a) atendieron"
+,9,Otra
+,99,No sabe
+a1001f,1,Sí
+,2,No
+a1002f,1,IMSS
+,2,IMSS Bienestar (antes Oportunidades)
+,3,"ISSSTE, ISSSTE Estatal"
+,4,Centro de Salud u Hospital de la SSA/Instituto Nacional de S
+,5,"PEMEX, Defensa, Marina o DIF"
+,6,Consultorios pertenecientes a farmacia/Farmacias con consult
+,7,"Atención privada en el domicilio o vía remota, médico de la"
+,8,Consultorio en domicilio particular de médico privado
+,9,Otra (especifique)
+,10,No sabe
+a1003f,1,Sí
+,2,No
+a1004f,1,Sí
+,2,No
+a1005f,1,Positivo
+,2,Bien o Negativo
+,8,No responde
+,9,No sabe
+a1006f,1,Sí
+,2,No
+a1007f,1,No hay dónde atenderse
+,2,Es caro
+,3,No tenía dinero
+,4,La unidad médica le queda lejos
+,5,Falta de confianza
+,6,Tratan mal
+,7,No tuvo tiempo
+,8,"Fue, pero no lo(a) atendieron"
+,9,Otra
+,99,No sabe
+a1001g,1,Sí
+,2,No
+a1002g,1,IMSS
+,2,IMSS Bienestar (antes Oportunidades)
+,3,"ISSSTE, ISSSTE Estatal"
+,4,Centro de Salud u Hospital de la SSA/Instituto Nacional de S
+,5,"PEMEX, Defensa, Marina o DIF"
+,6,Consultorios pertenecientes a farmacia/Farmacias con consult
+,7,"Atención privada en el domicilio o vía remota, médico de la"
+,8,Consultorio en domicilio particular de médico privado
+,9,Otra (especifique)
+,10,No sabe
+a1003g,1,Sí
+,2,No
+a1004g,1,Sí
+,2,No
+a1005g,1,Positivo
+,2,Bien o Negativo
+,8,No responde
+,9,No sabe
+a1006g,1,Sí
+,2,No
+a1007g,1,No hay dónde atenderse
+,2,Es caro
+,3,No tenía dinero
+,4,La unidad médica le queda lejos
+,5,Falta de confianza
+,6,Tratan mal
+,7,No tuvo tiempo
+,8,"Fue, pero no lo(a) atendieron"
+,9,Otra
+,99,No sabe
+a1001h,1,Sí
+,2,No
+a1002h,1,IMSS
+,2,IMSS Bienestar (antes Oportunidades)
+,3,"ISSSTE, ISSSTE Estatal"
+,4,Centro de Salud u Hospital de la SSA/Instituto Nacional de S
+,5,"PEMEX, Defensa, Marina o DIF"
+,6,Consultorios pertenecientes a farmacia/Farmacias con consult
+,7,"Atención privada en el domicilio o vía remota, médico de la"
+,8,Consultorio en domicilio particular de médico privado
+,9,Otra (especifique)
+,10,No sabe
+a1003h,1,Sí
+,2,No
+a1004h,1,Sí
+,2,No
+a1005h,1,Positivo
+,2,Bien o Negativo
+,8,No responde
+,9,No sabe
+a1006h,1,Sí
+,2,No
+a1007h,1,No hay dónde atenderse
+,2,Es caro
+,3,No tenía dinero
+,4,La unidad médica le queda lejos
+,5,Falta de confianza
+,6,Tratan mal
+,7,No tuvo tiempo
+,8,"Fue, pero no lo(a) atendieron"
+,9,Otra
+,99,No sabe
+a1001i,1,Sí
+,2,No
+a1002i,1,IMSS
+,2,IMSS Bienestar (antes Oportunidades)
+,3,"ISSSTE, ISSSTE Estatal"
+,4,Centro de Salud u Hospital de la SSA/Instituto Nacional de S
+,5,"PEMEX, Defensa, Marina o DIF"
+,6,Consultorios pertenecientes a farmacia/Farmacias con consult
+,7,"Atención privada en el domicilio o vía remota, médico de la"
+,8,Consultorio en domicilio particular de médico privado
+,9,Otra (especifique)
+,10,No sabe
+a1003i,1,Sí
+,2,No
+a1004i,1,Sí
+,2,No
+a1005i,1,Positivo
+,2,Bien o Negativo
+,8,No responde
+,9,No sabe
+a1006i,1,Sí
+,2,No
+a1007i,1,No hay dónde atenderse
+,2,Es caro
+,3,No tenía dinero
+,4,La unidad médica le queda lejos
+,5,Falta de confianza
+,6,Tratan mal
+,7,No tuvo tiempo
+,8,"Fue, pero no lo(a) atendieron"
+,9,Otra
+,99,No sabe
+a1001j,1,Sí
+,2,No
+a1002j,1,IMSS
+,2,IMSS Bienestar (antes Oportunidades)
+,3,"ISSSTE, ISSSTE Estatal"
+,4,Centro de Salud u Hospital de la SSA/Instituto Nacional de S
+,5,"PEMEX, Defensa, Marina o DIF"
+,6,Consultorios pertenecientes a farmacia/Farmacias con consult
+,7,"Atención privada en el domicilio o vía remota, médico de la"
+,8,Consultorio en domicilio particular de médico privado
+,9,Otra (especifique)
+,10,No sabe
+a1003j,1,Sí
+,2,No
+a1004j,1,Sí
+,2,No
+a1005j,1,Positivo
+,2,Bien o Negativo
+,8,No responde
+,9,No sabe
+a1006j,1,Sí
+,2,No
+a1007j,1,No hay dónde atenderse
+,2,Es caro
+,3,No tenía dinero
+,4,La unidad médica le queda lejos
+,5,Falta de confianza
+,6,Tratan mal
+,7,No tuvo tiempo
+,8,"Fue, pero no lo(a) atendieron"
+,9,Otra
+,99,No sabe
+nota002,1,Favor de continuar
+a1101,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+a1102,1,Choque entre vehiculos de 4 o más ruedas
+,2,Choque en motocicleta
+,3,Choque atropellamiento como ciclista
+,4,Atropellado(a) como peatón
+,5,"Otros accidentes de transporte: avión, tren, lancha"
+,6,Caída a nivel de piso
+,7,"Golpe con objeto, equipo o maquinaria"
+,8,"Caída de un nivel a otro: silla, escalera, etc"
+,9,"Golpe, rasguño o mordida de persona o animal (caballo, perro"
+,10,"Exposición a corriente eléctrica, radiación"
+,11,Exposición a humo o fuego
+,12,Contacto con superficies o sustancias calientes (quemaduras)
+,13,"Exposición a fuerzas de la naturaleza: rayo, granizo"
+,14,Picadura de animal ponzoñoso o contacto con plantas venenosa
+,15,"Envenenamiento accidental: alimentos, medicamentos"
+,16,"Sumersión en depósitos de agua: alberca, cisterna"
+,17,Otros accidentes que obstruyen la respiración: objeto extrañ
+,18,Exposición accidental a otros factores
+,99,NS/NR
+a1103,1,Sí
+,2,No
+a1104,1,Sí
+,2,No
+a1105,1,Hogar
+,2,Escuela
+,3,Trabajo
+,4,Vía pública
+,5,Campo
+,6,"Antro, bar"
+,7,Centro recreativo o deportivo
+,8,Establecimiento comercial
+,77,Otro
+,99,NS/NR
+a1107,1,Instituto Mexicano del Seguro Social (IMSS).
+,2,IMSS Bienestar (antes Oportunidades).
+,3,ISSSTE/ISSSTE Estatal.
+,4,Centro de Salud u Hospital de la SSA/Instituto Nacional de S
+,5,"PEMEX, Defensa, Marina o DIF."
+,6,Consultorios pertenecientes a farmacia/Farmacias con consult
+,7,"Atención privada en el domicilio o vía remota, médico de la"
+,8,Consultorio en domicilio particular de médico privado.
+,9,Otro (especifique).
+,10,No sabe / No recuerda.
+,11,No se atendió
+a1108,1,alcohol?
+,2,drogas? (especifique)
+,3,ambos?
+,8,No estaba bajo efectos de alcohol o drogas
+,9,NS/NR
+,77,Otro (especifique)
+a1109,1,Ningún problema
+,2,Limitación o dificultad para moverse o caminar (o lo hace co
+,3,Limitación o dificultad para usar sus brazos y manos
+,4,Dificultad para oír
+,5,Dificultad para hablar
+,6,Dificultar para ver o ceguera
+,7,Otra limitación física o mental (especifique)
+,9,NS/NR
+nota003,1,Favor de continuar
+nota004,1,Favor de continuar
+a1201,1,Sí
+,2,No
+,9,NR
+A1202A,1,Agresiones con substancias
+,2,"Sofocación, estrangulamiento, ahogamiento"
+,3,Herida por arma de fuego
+,4,"Herida por arma punzocortante (cuchillos, navajas, etc)"
+,5,Empujón desde un lugar elevado
+,6,"Golpes, patadas, puñetazos"
+,7,Agresión sexual
+,8,Envenenamiento u obstrucción de las vías respiratorias por substancias u objetos calientes
+,9,Agresiones verbales
+,77,Otro (especifique)
+,99,No responde
+A1202B,1,Agresiones con substancias
+,2,"Sofocación, estrangulamiento, ahogamiento"
+,3,Herida por arma de fuego
+,4,"Herida por arma punzocortante (cuchillos, navajas, etc)"
+,5,Empujón desde un lugar elevado
+,6,"Golpes, patadas, puñetazos"
+,7,Agresión sexual
+,8,Envenenamiento u obstrucción de las vías respiratorias por substancias u objetos calientes
+,9,Agresiones verbales
+,77,Otro (especifique)
+,99,No responde
+A1202C,1,Agresiones con substancias
+,2,"Sofocación, estrangulamiento, ahogamiento"
+,3,Herida por arma de fuego
+,4,"Herida por arma punzocortante (cuchillos, navajas, etc)"
+,5,Empujón desde un lugar elevado
+,6,"Golpes, patadas, puñetazos"
+,7,Agresión sexual
+,8,Envenenamiento u obstrucción de las vías respiratorias por substancias u objetos calientes
+,9,Agresiones verbales
+,77,Otro (especifique)
+,99,No responde
+A1202D,1,Agresiones con substancias
+,2,"Sofocación, estrangulamiento, ahogamiento"
+,3,Herida por arma de fuego
+,4,"Herida por arma punzocortante (cuchillos, navajas, etc)"
+,5,Empujón desde un lugar elevado
+,6,"Golpes, patadas, puñetazos"
+,7,Agresión sexual
+,8,Envenenamiento u obstrucción de las vías respiratorias por substancias u objetos calientes
+,9,Agresiones verbales
+,77,Otro (especifique)
+,99,No responde
+A1202E1,1,Agresiones con substancias
+,2,"Sofocación, estrangulamiento, ahogamiento"
+,3,Herida por arma de fuego
+,4,"Herida por arma punzocortante (cuchillos, navajas, etc)"
+,5,Empujón desde un lugar elevado
+,6,"Golpes, patadas, puñetazos"
+,7,Agresión sexual
+,8,Envenenamiento u obstrucción de las vías respiratorias por substancias u objetos calientes
+,9,Agresiones verbales
+,77,Otro (especifique)
+,99,No responde
+A1202F,1,Agresiones con substancias
+,2,"Sofocación, estrangulamiento, ahogamiento"
+,3,Herida por arma de fuego
+,4,"Herida por arma punzocortante (cuchillos, navajas, etc)"
+,5,Empujón desde un lugar elevado
+,6,"Golpes, patadas, puñetazos"
+,7,Agresión sexual
+,8,Envenenamiento u obstrucción de las vías respiratorias por substancias u objetos calientes
+,9,Agresiones verbales
+,77,Otro (especifique)
+,99,No responde
+A1202G,1,Agresiones con substancias
+,2,"Sofocación, estrangulamiento, ahogamiento"
+,3,Herida por arma de fuego
+,4,"Herida por arma punzocortante (cuchillos, navajas, etc)"
+,5,Empujón desde un lugar elevado
+,6,"Golpes, patadas, puñetazos"
+,7,Agresión sexual
+,8,Envenenamiento u obstrucción de las vías respiratorias por substancias u objetos calientes
+,9,Agresiones verbales
+,77,Otro (especifique)
+,99,No responde
+A1202H,1,Agresiones con substancias
+,2,"Sofocación, estrangulamiento, ahogamiento"
+,3,Herida por arma de fuego
+,4,"Herida por arma punzocortante (cuchillos, navajas, etc)"
+,5,Empujón desde un lugar elevado
+,6,"Golpes, patadas, puñetazos"
+,7,Agresión sexual
+,8,Envenenamiento u obstrucción de las vías respiratorias por substancias u objetos calientes
+,9,Agresiones verbales
+,77,Otro (especifique)
+,99,No responde
+A1202I,1,Agresiones con substancias
+,2,"Sofocación, estrangulamiento, ahogamiento"
+,3,Herida por arma de fuego
+,4,"Herida por arma punzocortante (cuchillos, navajas, etc)"
+,5,Empujón desde un lugar elevado
+,6,"Golpes, patadas, puñetazos"
+,7,Agresión sexual
+,8,Envenenamiento u obstrucción de las vías respiratorias por substancias u objetos calientes
+,9,Agresiones verbales
+,77,Otro (especifique)
+,99,No responde
+A1202J,1,Agresiones con substancias
+,2,"Sofocación, estrangulamiento, ahogamiento"
+,3,Herida por arma de fuego
+,4,"Herida por arma punzocortante (cuchillos, navajas, etc)"
+,5,Empujón desde un lugar elevado
+,6,"Golpes, patadas, puñetazos"
+,7,Agresión sexual
+,8,Envenenamiento u obstrucción de las vías respiratorias por substancias u objetos calientes
+,9,Agresiones verbales
+,77,Otro (especifique)
+,99,No responde
+A1202K,1,Agresiones con substancias
+,2,"Sofocación, estrangulamiento, ahogamiento"
+,3,Herida por arma de fuego
+,4,"Herida por arma punzocortante (cuchillos, navajas, etc)"
+,5,Empujón desde un lugar elevado
+,6,"Golpes, patadas, puñetazos"
+,7,Agresión sexual
+,8,Envenenamiento u obstrucción de las vías respiratorias por substancias u objetos calientes
+,9,Agresiones verbales
+,77,Otro (especifique)
+,99,No responde
+a1203,1,Robo o asalto
+,2,Incidente de tránsito
+,3,Riña con desconocidos
+,4,Riña con conocidos
+,5,Secuestro
+,6,Detención
+,10,Violencia con familiares
+,11,Violencia por novio(a)/pareja/esposo(a)
+,12,Intento de homicidio
+,77,Otro (especifique)
+,99,NS/NR
+a1204,1,Hogar
+,2,Escuela
+,3,Trabajo
+,4,Transporte público
+,5,Vía pública
+,6,Campo
+,7,Centro recreativo o deportivo
+,8,"Antro, bar"
+,9,Establecimiento comercial
+,77,Otro (especifique)
+,99,NS/NR
+a1206,1,Instituto Mexicano del Seguro Social (IMSS).
+,2,IMSS Bienestar (antes Oportunidades).
+,3,ISSSTE/ISSSTE Estatal.
+,4,Centro de Salud u Hospital de la SSA/Instituto Nacional de S
+,5,"PEMEX, Defensa, Marina o DIF."
+,6,Consultorios pertenecientes a farmacia/Farmacias con consult
+,7,"Atención privada en el domicilio o vía remota, médico de la"
+,8,Consultorio en domicilio particular de médico privado.
+,9,Otro (especifique).
+,10,No sabe / No recuerda.
+,11,No se atendió
+a1207,1,alcohol?
+,2,drogas?
+,3,ambos?
+,7,Otro (especifique)
+,8,No estaba bajo efectos de alcohol o drogas
+,9,NS/NR
+a1208,1,Ningún problema
+,2,Limitación o dificultad para moverse o caminar (o lo hace co
+,3,Limitación o dificultad para usar sus brazos y manos
+,4,Dificultad para oír
+,5,Dificultad para hablar
+,6,Dificultar para ver o ceguera
+,7,Otra limitación física o mental (especifique)
+,9,NS/NR
+a1209,1,Pareja
+,2,Familiar
+,3,Amigo(a)
+,4,Novio(a)
+,5,Vecino(a) u otro(a) conocido(a)
+,6,Desconocido(a)
+,7,Policia
+,9,No responde
+a1210,1,"Sí, antes de los 12 años"
+,2,"Sí, cuando tenía 12 años o más"
+,3,"No, nunca"
+,8,No recuerda
+,9,No responde
+a1211,1,Sí
+,2,No
+,9,No responde
+a1212,1,Siempre o muy frecuentemente
+,2,Casi siempre
+,3,Algunas veces
+,4,Rara vez
+,9,No responde
+a1213,1,"Sí, una vez"
+,2,"Sí, 2 o más veces"
+,3,Nunca
+a1214,1,Sí
+,2,No
+,9,No responde
+nota005,1,Favor de continuar
+nota006,1,Favor de continuar
+a1301,1,todos los días?
+,2,algunos días?
+,3,no fuma actualmente?
+,9,No responde
+a1305,1,todos los días?
+,2,algunos días?
+,3,nunca ha fumado?
+,9,No responde
+a1306p,1,Años
+,2,Meses
+,3,Semanas
+,4,Días
+,5,Menos de un día
+,9,No responde
+a1307,1,todos los días?
+,2,algunos días?
+,3,Actualmente no consume
+,4,No conoce el cigarro electrónico
+,9,No responde
+a1308,1,Diario
+,2,Semanal
+,3,Mensual
+,4,Anual
+,5,No ha consumido en los últimos 12 meses
+,6,Nunca ha consumido
+,9,No responde
+a1309,1,Diario
+,2,Semanal
+,3,Mensual
+,4,7 a 11 veces al año
+,5,1 a 6 veces al año
+,6,No en los últimos 12 meses
+,9,No responde
+a1310,1,Diario
+,2,Semanal
+,3,Mensual
+,4,7 a 11 veces al año
+,5,1 a 6 veces al año
+,6,No en los últimos 12 meses
+,9,No responde
+a1311,1,Sí
+,2,No
+,9,No responde
+a1312,1,Sí
+,2,No
+,9,No responde
+nota007,1,Favor de continuar
+a1401,1,Sí
+,2,No
+a1402,1,Sí
+,2,No
+nota008,1,Favor de continuar
+a1403a,1,Ninguna dificultad
+,2,Cierta dificultad
+,3,Mucha dificultad
+,4,Le resulta imposible ver
+a1403b,1,Ninguna dificultad
+,2,Cierta dificultad
+,3,Mucha dificultad
+,4,Le resulta imposible ver
+a1404a,1,Ninguna dificultad
+,2,Cierta dificultad
+,3,Mucha dificultad
+,4,Le resulta imposible oír
+a1404b,1,Ninguna dificultad
+,2,Cierta dificultad
+,3,Mucha dificultad
+,4,Le resulta imposible oír
+a1405,1,Ninguna dificultad
+,2,Cierta dificultad
+,3,Mucha dificultad
+,4,Le resulta imposible caminar o subir escalones
+a1406,1,Ninguna dificultad
+,2,Cierta dificultad
+,3,Mucha dificultad
+,4,Le resulta imposible recordar o concentrarse
+a1407,1,Ninguna dificultad
+,2,Cierta dificultad
+,3,Mucha dificultad
+,4,Le resulta imposible encargarse de su autocuidado
+a1408,1,Ninguna dificultad
+,2,Cierta dificultad
+,3,Mucha dificultad
+completa,1,ENTREVISTA COMPLETA
+,2,ENTREVISTA INCOMPLETA
+,3,INFORMANTE INADECUADO
+,4,ENTREVISTA APLAZADA (HACER CITA)
+,5,AUSENTE DE PERSONAS EN EL MOMENTO DE LA VISITA
+,6,SE NEGÓ A DAR INFORMACIÓN
+,7,HABLA ALGUNA LENGUA EXTRANJERA
+,8,OTRO
+,99,ADULTO QUE SE CONVIERTE EN ADOLESCENTE
+estrato,"1,00",Rural  ( <2500 Hab )
+,"2,00","Urbano ( 2500-99,999 Hab)"
+,"3,00",Metropolitano (100mil y + Hab)
+region,1,Pacifico-Norte
+,2,Frontera
+,3,Pacífico-Centro
+,4,Centro Norte
+,5,Centro
+,6,Cd./Edo México
+,7,Pacífico Sur
+,8,Península
+,11,Guanajuato
+,15,Edo México
+,19,Nuevo León

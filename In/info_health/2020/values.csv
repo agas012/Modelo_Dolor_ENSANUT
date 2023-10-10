@@ -1,0 +1,278 @@
+﻿Valor,,Etiqueta
+estrato,1.00,menos 2500
+,2.00, 2500-100mil
+,3.00,100 mil o mas
+region_cv,1.00,Pacifico-Norte
+,2.00,Frontera
+,3.00,Pacifico-Centro
+,4.00,Centro-Norte
+,5.00,Centro
+,6.00,Cd México
+,7.00,Edo México
+,8.00,Pacífico-Sur
+,9.00,Península
+NOTA1,1,"¿Acepta usted? ,,,, Sí"
+,2,"¿Acepta usted? ,,,, No"
+ADUL,1,Favor de continuar
+H0302,1,Hombre
+,2,Mujer
+NOTA04,1,Favor de continuar
+ADUL101,1,"Sí, dice haberse aplicado la vacuna"
+,2,No
+,9,NS/NR
+ADUL102,1,Sí
+,2,No
+,9,NS/NR
+ADUL103,1,Sí
+,2,No
+,9,NS/NR
+NOTA05,1,Favor de Continuar
+ADUL104,1,"Sí, dice haberse aplicado la vacuna"
+,2,No
+,9,NS/NR
+ADUL106,1,"Sí, dice haberse aplicado la vacuna"
+,2,No
+,9,NS/NR
+ADUL107,1,Sí
+,2,No
+,9,NS/NR
+ADUL108,1,Sí
+,2,No
+,9,NS/NR
+NOTA05A,1,Favor de Continuar
+ADUL1A01,1,todos los días?
+,2,algunos días?
+,3,no fuma actualmente?
+,9,No responde
+ADUL1A04A,1,todos los días?
+,2,algunos días?
+,3,Nunca ha fumado?
+,9,No responde
+ADUL1A04B,1,Años
+,2,Meses
+,3,Semanas
+,4,Días
+,5,Menos de un día
+,9,No responde
+ADUL1A05,1,todos los días?
+,2,algunos días?
+,3,actualmente no consume
+,4,No conoce el cigarro electrónico
+,9,No responde
+ADUL1A06,1,Diario?
+,2,Semanal?
+,3,Mensual?
+,4,Anual?
+,5,No consume
+,9,No responde
+ADUL1A06A,1,Diario?
+,2,Semanal?
+,3,Mensual?
+,4,7 a 11 veces al año
+,5,1 a 6  veces al año
+,6,Nunca
+,9,No responde
+ADUL1A06B,1,Diario?
+,2,Semanal?
+,3,Mensual?
+,4,7 a 11 veces al año
+,5,1 a 6  veces al año
+,6,Nunca
+,9,No responde
+NOTA06,1,Favor de Continuar
+ADUL201,1,Sí
+,2,No
+,9,NS/NR
+ADUL202A,01,Agresiones con substancias
+,02,"Sofocación, estrangulamiento, ahogamiento"
+,03,Herida por arma de fuego
+,04,"Herida por arma punzocortante (cuchillos, navajas, etc.)"
+,05,Empujón desde un lugar elevado
+,06,"Golpes, patadas, puñetazos"
+,07,Agresión sexual
+,08,Envenenamiento u obstrucción de las vías respiratorias por s
+,09,Agresiones verbales
+,76,Otras agresiones o maltrato
+,77,Otro
+,99,NS/NR
+ADUL202B,01,Agresiones con substancias
+,02,"Sofocación, estrangulamiento, ahogamiento"
+,03,Herida por arma de fuego
+,04,"Herida por arma punzocortante (cuchillos, navajas, etc.)"
+,05,Empujón desde un lugar elevado
+,06,"Golpes, patadas, puñetazos"
+,07,Agresión sexual
+,08,Envenenamiento u obstrucción de las vías respiratorias por s
+,09,Agresiones verbales
+,76,Otras agresiones o maltrato
+,77,Otro
+,99,NS/NR
+ADUL202C,01,Agresiones con substancias
+,02,"Sofocación, estrangulamiento, ahogamiento"
+,03,Herida por arma de fuego
+,04,"Herida por arma punzocortante (cuchillos, navajas, etc.)"
+,05,Empujón desde un lugar elevado
+,06,"Golpes, patadas, puñetazos"
+,07,Agresión sexual
+,08,Envenenamiento u obstrucción de las vías respiratorias por s
+,09,Agresiones verbales
+,76,Otras agresiones o maltrato
+,77,Otro
+,99,NS/NR
+ADUL202D,0,Agresiones con substancias
+,7,Otras agresiones o maltrato
+,9,NS/NR
+ADUL202E,0,Agresiones con substancias
+,7,Otras agresiones o maltrato
+,9,NS/NR
+ADUL202F,0,Agresiones con substancias
+,7,Otras agresiones o maltrato
+,9,NS/NR
+ADUL203,1,Robo o asalto
+,2,Incidente de tránsito
+,3,Riña con desconocidos
+,4,Riña con conocidos
+,5,Secuestro
+,6,Detención
+,10,Violencia con familiares
+,11,Violencia con novio/pareja/esposo
+,12,Intento de homicidio
+,77,Otro
+,99,No responde
+ADUL204,1,Hogar
+,2,Escuela
+,3,Trabajo
+,4,Transporte público
+,5,Vía pública
+,6,Campo
+,7,Centro recreativo o deportivo
+,8,"Antro, bar"
+,9,Establecimiento comercial
+,77,Otro
+,99,No responde
+ADUL205,1,Familiar
+,2,Amigo(a)/vecino(a)
+,3,Dependiente de la farmacia
+,4,Curandero
+,5,Yerbero
+,6,"Huesero(a), sobador(a)"
+,7,Quiropráctico
+,8,Homeópata
+,9,Acupunturista
+,10,Encargado de la comunidad/promotor/auxiliar de salud
+,11,Médico general
+,12,Médico especialista
+,13,Dentista
+,14,Enfermera
+,15,Psicólogo
+,20,Nadie
+,77,Otro
+,99,NS/NR
+ADUL206,1,drogas?
+,2,alcohol?
+,3,ambos?
+,7,Otro
+,8,No estaba bajo efectos de alcohol o drogas
+,9,NS/NR
+ADUL20601,1,Sí
+,2,No
+,8,No responde
+,9,No sabe
+ADUL207,1,Ningún problema
+,2,Limitación o dificultad para moverse o caminar (o lo hace co
+,3,Limitación o dificultad para usar sus brazos y manos
+,4,Dificultad para oír
+,5,Dificultad para hablar
+,6,Dificultad para ver o ceguera
+,7,Otra limitación física o mental
+,9,NS/NR
+ADUL208,1,Todo el tiempo
+,2,Casi siempre
+,3,Algunas veces
+,4,Rara vez
+,5,No
+,9,No responde
+ADUL209,1,"Sí, una vez"
+,2,"Sí, 2 o más veces"
+,3,Nunca
+ADUL210A,01,Envenenamiento con medicamentos
+,02,Envenenamiento con narcóticos
+,03,Envenenamiento con alcohol
+,04,Envenenamiento por inhalación de hidrocarburos
+,05,"Envenenamiento con fumigantes, insecticidas"
+,06,"Envenenamiento con productos químicos, ácidos, corrosivos"
+,07,Ahorcamiento
+,08,Arma de fuego
+,09,Quemadura
+,10,Objetos cortantes
+,11,Arrojarse al vacío o vehículo en movimiento
+,77,Otro
+,88,No responde
+ADUL210B,01,Envenenamiento con medicamentos
+,02,Envenenamiento con narcóticos
+,03,Envenenamiento con alcohol
+,04,Envenenamiento por inhalación de hidrocarburos
+,05,"Envenenamiento con fumigantes, insecticidas"
+,06,"Envenenamiento con productos químicos, ácidos, corrosivos"
+,07,Ahorcamiento
+,08,Arma de fuego
+,09,Quemadura
+,10,Objetos cortantes
+,11,Arrojarse al vacío o vehículo en movimiento
+,77,Otro
+,88,No responde
+ADUL210C,01,Envenenamiento con medicamentos
+,02,Envenenamiento con narcóticos
+,03,Envenenamiento con alcohol
+,04,Envenenamiento por inhalación de hidrocarburos
+,05,"Envenenamiento con fumigantes, insecticidas"
+,06,"Envenenamiento con productos químicos, ácidos, corrosivos"
+,07,Ahorcamiento
+,08,Arma de fuego
+,09,Quemadura
+,10,Objetos cortantes
+,11,Arrojarse al vacío o vehículo en movimiento
+,77,Otro
+,88,No responde
+ADUL211,1,Sí
+,2,No
+,9,No responde
+NOTA07,1,Favor de Continuar
+ADUL301A,1,Sí
+,2,No
+,9,No responde
+ADUL302A,1,Se presentaron por primera vez?
+,2,Ya existían y siguieron?
+,3,Fueron más frecuentes?
+,4,Disminuyeron?
+,9,No responde
+ADUL301B,1,Sí
+,2,No
+,9,No responde
+ADUL302B,1,Se presentaron por primera vez?
+,2,Ya existían y siguieron?
+,3,Fueron más frecuentes?
+,4,Disminuyeron?
+,9,No responde
+ADUL301C,1,Sí
+,2,No
+,9,No responde
+ADUL302C,1,Se presentaron por primera vez?
+,2,Ya existían y siguieron?
+,3,Fueron más frecuentes?
+,4,Disminuyeron?
+,9,No responde
+ADUL301D,1,Sí
+,2,No
+,9,No responde
+ADUL302D,1,Se presentaron por primera vez?
+,2,Ya existían y siguieron?
+,3,Fueron más frecuentes?
+,4,Disminuyeron?
+,9,No responde
+COMPLETA,1,Favor de continuar (Entrevista Completa)
+rural_20,1.00,Rural
+,2.00,Urbano
+,3.00,Metropolitano
+area_20,1.00,Rural
+,2.00,Urbano

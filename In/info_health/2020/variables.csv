@@ -1,0 +1,115 @@
+﻿Variable,Posición,Etiqueta
+FOLIO_I,1,Folio
+ID_INT,2,Integrante en el Hogar
+FOLIO_INT,3,Folio Integrante en el hogar
+estrato,4,Estrato de Urbanidad según tamaño de la localidad
+region_cv,5,Regiones CV-19
+est_sel,6,Estrato de selección
+Upm,7,Unidad Primaria de Muestreo
+ENTIDAD,8,Entidad
+DESC_ENT,9,DESC_ENT
+MUNICIPIO,10,Municipio
+DESC_MUN,11,DESC_MUN
+MAQUINA,12,Maquina
+HORA_INI_1,13,Hora de Inicio 1
+FECHA_INI_1,14,Fecha de Inicio 1
+HORA_FIN_1,15,Hora termino 1
+FECHA_FIN_1,16,Fecha termino 1
+TIEMPO1,17,Duración de la Entrevista 1
+RESULTADO_1,18,Resultado de entrevista 1
+HORA_INI_2,19,Hora de Inicio 2
+FECHA_INI_2,20,Fecha de Inicio 2
+HORA_FIN_2,21,Hora de Termino 2
+FECHA_FIN_2,22,Fecha de Termino 2
+TIEMPO2,23,Duración de la Entrevista 2
+RESULTADO_2,24,Resultado de entrevista 2
+HORA_INI_3,25,Hora de Inicio 3
+FECHA_INI_3,26,Fecha de Inicio 3
+HORA_FIN_3,27,Hora de Termino 3
+FECHA_FIN_3,28,Fecha de Termino 3
+TIEMPO3,29,Duración de la Entrevista 3
+RESULTADO_3,30,Resultado de entrevista 3
+HORA_INI_4,31,Hora de Inicio 4
+FECHA_INI_4,32,Fecha de Inicio 4
+HORA_FIN_4,33,Hora de Termino 4
+FECHA_FIN_4,34,Fecha de Termino 4
+TIEMPO4,35,Duración de la Entrevista 4
+RESULTADO_4,36,Resultado de entrevista 4
+HORA_INI,37,Hora de Inicio
+FECHA_INI,38,Fecha de inicio
+NOTA1,39,Concentimiento para realizar la entrevista
+ADUL,40,ADULTOS
+H0302,41,Sexo
+H0303,42,Edad
+H0304,43,Fecha de Nacimiento
+MESES,44,Meses adicionales en relacion a la fecha de cumpleaños
+LOCALIZADO,45,localizado
+NOTA04,46,NOTA04 Sección 1. Aceptabilidad Vacunas
+ADUL101,47,"ADUL101 1. A partir de septiembre del año pasado y hasta el día de hoy, ¿le han aplicado la vacuna contra la Influenza?"
+ADUL102,48,ADUL102 2. Aceptaría aplicarse la vacuna de la influenza en los próximos meses (octubre-diciembre 2020)?
+ADUL103,49,ADUL103 3.  Aceptaría aplicarse la vacuna contra COVID en el momento en el que esté disponible?
+NOTA05,50,"NOTA05 LAS SIGUIENTES PREGUNTAS SE REFIEREN A TODAS LAS VACUNAS QUE LE HAN APLICADO A PARTIR DE LOS 60 AÑOS, CONSIDERE LAS VACUNAS QUE LE APLICARON EN LA UNIDAD MÉDICA, CON EL MÉDICO PRIVADO, DURANTE CAMPAÑAS DE VACUNACIÓN O EN SU CASA"
+ADUL104,51,ADUL104 4. ¿Le han aplicado la vacuna contra el Neumococo?
+ADUL105,52,ADUL105 5.  ¿Cuántas veces le han aplicado la vacuna contra Neumococo?
+ADUL106,53,"ADUL106 6. A partir de septiembre del año pasado y hasta el día de hoy, ¿le han aplicado la vacuna contra la Influenza?"
+ADUL107,54,ADUL107 7. Aceptaría aplicarse la vacuna de la influenza en los próximos meses (octubre-diciembre 2020)?
+ADUL108,55,ADUL108 8. Aceptaría aplicarse la vacuna contra COVID en el momento en el que esté disponible?
+NOTA05A,56,NOTA05A Sección 1A Tabaco
+ADUL1A01,57,ADUL1a01 Actualmente fuma tabaco...
+ADUL1A02A,58,ADUL1a02A ¿A que edad comenzaste a fumar productos de tabaco todos los días?
+ADUL1A02B,59,ADUL1a02B En promedio ¿Cuántos cigarrillos fuma actualmente por día?
+ADUL1A03,60,ADUL1a03 En promedio ¿Cuántos cigarrillos fuma actualmente por semana?
+ADUL1A04A,61,ADUL1a04a En el pasado ¿Has fumado productos de tabaco...
+ADUL1A04B,62,ADUL1a04b ¿Hace cuánto tiempo dejaste definitivamente de fumar?
+ADUL1A04BT,63,ADUL1a04bT Tiempo
+ADUL1A05,64,ADUL1a05 ¿Actualmente consumes cigarros electrónicos ?
+ADUL1A06,65,"ADUL1a06 Piensa en tu consumo de alcohol, ¿con qué frecuencia tomas una copa de ya sea vino, cerveza, whisky o cualquier otra bebida que contenga alcohol?"
+ADUL1A06A,66,ADUL1a06a ¿Con que frecuencia tomas o has tomado cinco o más copas de cualquier bebida alcohólica en una sola ocasión?
+ADUL1A06B,67,ADUL1a06b ¿Con que frecuencia tomas o has tomado cuatro o más copas de cualquier bebida alcohólica en una sola ocasión?
+NOTA06,68,NOTA06 Sección 2. Ataque y violencia
+ADUL201,69,"ADUL201 2.1  En los últimos 12 meses ¿Sufrió usted algún daño a su salud por robo, agresión o violencia?"
+ADUL202A,70,ADUL202 2.2 ¿Qué fue lo que le pasó?
+ADUL202B,71,ADUL202 2.2 ¿Qué fue lo que le pasó?
+ADUL202C,72,ADUL202 2.2 ¿Qué fue lo que le pasó?
+ADUL202D,73,ADUL202 2.2 ¿Qué fue lo que le pasó?
+ADUL202E,74,ADUL202 2.2 ¿Qué fue lo que le pasó?
+ADUL202F,75,ADUL202 2.2 ¿Qué fue lo que le pasó?
+ADUL202ES,76,ADUL202ES Especifique
+ADUL203,77,ADUL203 2.3 ¿Cuál fue el principal motivo?
+ADUL203ES,78,ADUL203ES Especifique
+ADUL204,79,ADUL204 2.4 ¿En qué lugar ocurrió la ataque o violencia?
+ADUL204ES,80,ADUL204ES Especifique
+ADUL205,81,ADUL205 2.5 ¿Quién te atendió cuando ocurrió el ataque  o violencia?
+ADUL205ES,82,ADUL205ES Especifique
+ADUL206,83,ADUL206 2.6 Cuando sufrió el ataque  o violencia ¿estaba usted bajo los efectos de ?
+ADUL206ES,84,ADUL206ES Especifique
+ADUL20601,85,"ADUL20601 Quien lo atacó, ¿estaba bajo los efectos del alcohol o drogas?"
+ADUL207,86,ADUL207 2.7 ¿Qué problema de salud permanente le ocasionó el ataque o violencia?
+ADUL207ES,87,ADUL207ES Especifique
+ADUL208,88,ADUL208 2.8 ¿Alguna vez ha pensado en suicidarse?
+ADUL209,89,"ADUL209 2.9 ¿Alguna vez a propósito se ha herido, cortado, intoxicado o hecho daño con el fin de quitarse la vida?"
+ADUL210A,90,ADUL210 2.10 ¿Cómo lo hizo?
+ADUL210B,91,ADUL210 2.10 ¿Cómo lo hizo?
+ADUL210C,92,ADUL210 2.10 ¿Cómo lo hizo?
+ADUL210ES,93,ADUL210ES Especifique
+ADUL211,94,ADUL211  2.11  ¿Estuvo hospitalizado(a) o bajo tratamiento médico debido a las lesiones que se hizo?
+NOTA07,95,NOTA07 Sección 3. Violencia durante el confinamiento. Para mujeres de 20 años o más.
+ADUL301A,96,"ADUL301A 3.1a Durante el período de confinamiento (23 de marzo al 1 de junio) ¿Vivió hechos de violencia o agresiones por algún integrante de su hogar como Gritos, insultos o amenazas?"
+ADUL302A,97,ADUL302A 3.2a Considera que estos hechos de violencia o agresiones entre los integrantes de su hogar aumentaron durante el confinamiento?
+ADUL301B,98,"ADUL301B 3.1b Durante el período de confinamiento (23 de marzo al 1 de junio) ¿Vivió hechos de violencia o agresiones por algún integrante de su hogar como Empujones, jalones o golpes?"
+ADUL302B,99,ADUL302B 3.2b Considera que estos hechos de violencia o agresiones entre los integrantes de su hogar aumentaron durante el confinamiento?
+ADUL301C,100,ADUL301C 3.1c Durante el período de confinamiento (23 de marzo al 1 de junio) ¿Vivió hechos de violencia o agresiones por algún integrante de su hogar como Actos de carácter sexual o violaciones?
+ADUL302C,101,ADUL302C 3.2c Considera que estos hechos de violencia o agresiones entre los integrantes de su hogar aumentaron durante el confinamiento?
+ADUL301D,102,ADUL301D 3.1d Durante el período de confinamiento (23 de marzo al 1 de junio) ¿Vivió hechos de violencia o agresiones por algún integrante de su hogar como Agresión económica?
+ADUL302D,103,ADUL302D 3.2d Considera que estos hechos de violencia o agresiones entre los integrantes de su hogar aumentaron durante el confinamiento?
+COMENTARIO,104,¿Algún comentario de la entrevista?
+TIEMPO,105,Duración de la Entrevista
+HORA_FIN,106,Hora de termino
+FECHA_FIN,107,Fecha de Termino
+COMPLETA,108,Resultado de Entrevista
+OTROENT,109,Especifique otro resultado de entrevista
+ADUL_COMP,110,Entrevista de Adulto Completa
+ponde_g,111,Ponderador
+rural_20,112,Estrato de urbanidad Censo 2020
+ponde_g20,113,ponderador actualizado a Censo 2020
+area_20,114,Estrato de urbanidad Censo 2020 recodificado

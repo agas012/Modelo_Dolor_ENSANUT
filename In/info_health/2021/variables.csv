@@ -1,0 +1,704 @@
+﻿Variable,Posición,Etiqueta
+FOLIO_I,1,Folio
+FOLIO_INT,2,Folio_Integrante
+maquina,3,Maquina
+hora_ini_1,4,Hora de Inicio 1
+fecha_ini_1,5,Fecha de Inicio 1
+hora_fin_1,6,Hora termino 1
+fecha_fin_1,7,Fecha termino 1
+tiempo1,8,Duración de la Entrevista 1
+resultado_1,9,Resultado de entrevista 1
+hora_ini_2,10,Hora de Inicio 2
+fecha_ini_2,11,Fecha de Inicio 2
+hora_fin_2,12,Hora de Termino 2
+fecha_fin_2,13,Fecha de Termino 2
+tiempo2,14,Duración de la Entrevista 2
+resultado_2,15,Resultado de entrevista 2
+hora_ini_3,16,Hora de Inicio 3
+fecha_ini_3,17,Fecha de Inicio 3
+hora_fin_3,18,Hora de Termino 3
+fecha_fin_3,19,Fecha de Termino 3
+tiempo3,20,Duración de la Entrevista 3
+resultado_3,21,Resultado de entrevista 3
+hora_ini_4,22,Hora de Inicio 4
+fecha_ini_4,23,Fecha de Inicio 4
+hora_fin_4,24,Hora de Termino 4
+fecha_fin_4,25,Fecha de Termino 4
+tiempo4,26,Duración de la Entrevista 4
+resultado_4,27,Resultado de entrevista 4
+hora_ini,28,Hora de Inicio
+fecha_ini,29,Fecha de inicio
+region,30,Region o zona de trabajo
+entidad,31,Entidad
+desc_ent,32,DESC_ENT
+municipio,33,Municipio
+desc_mun,34,DESC_MUN
+vivienda,35,Vivienda
+hogar,36,hogar
+upm,37,Unidad primaria de muestreo
+edad,38,Edad del Seleccionado
+sexo,39,Sexo del Seleccionado
+fech_nac,40,Fecha de Nacimiento
+asexo,41,ASEXO ¿Cuál es el sexo de (NOMBRE) ?
+aedad,42,AEDAD ¿Cuántos años cumplidos tiene actualmente (NOMBRE) ?
+nota014,43,NOTA014
+a0101,44,¿Alguna vez le ha dicho un médico/dietista/nutriólogo que tiene o tuvo obesidad?
+a0102,45,¿Qué edad tenía cuando le diagnosticaron obesidad?
+a0103,46,¿Siguió algún tratamiento para controlar su peso?
+a0104,47,"Ahora le voy a mostrar unas figuras corporales, por favor, dígame qué figura siente que más se parece a usted en este momento"
+a0105,48,¿Cuál es su peso habitual sin ropa y zapatos?
+a0106,49,¿Considera que su peso actual es...
+a0107,50,"Durante los últimos 12 meses, ¿ha perdido o ganado peso?"
+a0108,51,¿Cuántos kilos fueron los que ganó (perdió)?
+a0109,52,¿Esta pérdida de peso fue intencional?
+A0110A,53,¿Las acciones que tomó para perder peso fueron...
+A0110B,54,¿Las acciones que tomó para perder peso fueron...
+A0110C,55,¿Las acciones que tomó para perder peso fueron...
+A0110D,56,¿Las acciones que tomó para perder peso fueron...
+A0110E,57,¿Las acciones que tomó para perder peso fueron...
+A0110F,58,¿Las acciones que tomó para perder peso fueron...
+A0110G,59,¿Las acciones que tomó para perder peso fueron...
+A0110H,60,¿Las acciones que tomó para perder peso fueron...
+A0110I,61,¿Las acciones que tomó para perder peso fueron...
+a01esp,62,Las acciones que tomé para perder peso fueron ESPECIFIQUE
+nota015,63,NOTA015
+nota016,64,NOTA016
+a0211,65,Durante la última semana...¿Sentía como si no pudiera quitarse de encima la tristeza?
+a0212,66,Durante la última semana...¿le costaba concentrarse en lo que estaba haciendo?
+a0213,67,Durante la última semana...¿se sintió deprimido/a?
+a0214,68,Durante la última semana...¿le parecía que todo lo que hacía era un esfuerzo?
+a0215,69,Durante la última semana...¿no durmió bien?
+a0216,70,Durante la última semana...¿disfruto de la vida?
+a0217,71,Durante la última semana...¿se sintió triste?
+a0202,72,¿Alguna vez le ha dicho un médico u otra personal de salud que sufre o ha sufrido depresión?
+a0203,73,¿Le mandaron medicinas o algún otro tipo de tratamiento para la depresión?
+a0204,74,"Durante las últimas 2 semanas, ¿ha tomado algún medicamento o ha seguido otro tipo de tratamiento para la depresión?"
+nota017,75,NOTA017
+nota018,76,NOTA018
+a0301,77,¿Algún médico le ha dicho que tiene diabetes (o alta el azúcar en la sangre)?
+a0302,78,¿Qué edad tenía usted cuando el médico le dijo que tenía diabetes (o alta el azúcar en la sangre)?
+a0303cod,79,"En los últimos 12 meses, ¿cuántas veces y con qué frecuencia acudió al médico para controlar su diabetes (o azúcar alta en la sangre)?"
+a0303num,80,"En los últimos 12 meses, ¿cuántas veces y con qué frecuencia acudió al médico para controlar su diabetes (o azúcar alta en la sangre)?"
+a0304d,81,¿Hace cuánto tiempo fue la última ocasión en la que acudió con un profesional de la salud para tratar su diabetes?
+a0304m,82,¿Hace cuánto tiempo fue la última ocasión en la que acudió con un profesional de la salud para tratar su diabetes MESES?
+a0304a,83,¿Hace cuánto tiempo fue la última ocasión en la que acudió con un profesional de la salud para tratar su diabetes AÑOS?
+a0305,84,"En esa última ocasión, ¿en dónde se atendió?"
+a0305esp,85,"En esa última ocasión, ¿en dónde se atendió? Especifique"
+a0306a,86,"En esa última ocasión, en el lugar en donde lo(a) atendieron, alguna persona¿revisó sus niveles de glucosa?"
+a0306b,87,"En esa última ocasión, en el lugar en donde lo(a) atendieron, alguna persona¿le tomó la tensión arterial?"
+a0306c,88,"En esa última ocasión, en el lugar en donde lo(a) atendieron, alguna persona¿lo(a) pesó?"
+a0306d,89,"En esa última ocasión, en el lugar en donde lo(a) atendieron, alguna persona¿le pidió quitarse el calzado y le revisó los pies?"
+a0306e,90,"En esa última ocasión, en el lugar en donde lo(a) atendieron, alguna persona¿le hizo sugerencias sobre su forma de alimentarse?"
+a0306f,91,"En esa última ocasión, en el lugar en donde lo(a) atendieron, alguna persona¿le hizo sugerencias sobre cómo aumentar su actividad física (caminar, correr, etcétera)?"
+a0306g,92,"En esa última ocasión, en el lugar en donde lo(a) atendieron, alguna persona¿lo invitó a participar en algún Grupo de ayuda mutua para el control de su diabetes?"
+a0306h,93,"En esa última ocasión, en el lugar en donde lo(a) atendieron, alguna persona¿le solicitó que acudiera a revisión de la vista?"
+a0306i,94,"En esa última ocasión, en el lugar en donde lo(a) atendieron, alguna persona¿le solicitó que acudiera a revisión con un dentista?"
+a0306j,95,"En esa última ocasión, en el lugar en donde lo(a) atendieron, alguna persona¿le solicitó exámenes de laboratorio en muestras de sangre?"
+a0306k,96,"En esa última ocasión, en el lugar en donde lo(a) atendieron, alguna persona¿le solicitó exámenes de laboratorio en muestras de orina?"
+a0306l,97,"En esa última ocasión, en el lugar en donde lo(a) atendieron, alguna persona¿le dio explicaciones sobre los medicamentos que le recetó?"
+a0307,98,¿Actualmente toma pastillas o le aplican insulina para controlar su azúcar?
+a0308m,99,¿Cuánto tiempo tiene tomando pastillas para controlar su azúcar? meses
+a0308a,100,¿Cuánto tiempo tiene tomando pastillas para controlar su azúcar?  años
+a0309m,101,¿Hace cuánto tiempo inició el tratamiento con insulina? Meses
+a0309a,102,¿Hace cuánto tiempo inició el tratamiento con insulina? Años
+a0310,103,¿Se aplica insulina todos los días?
+a0311,104,¿Cuántas veces al día se aplica insulina?
+A0312A,105,"Actualmente, ¿qué otro tratamiento lleva para controlar su azúcar?"
+A0312B,106,"Actualmente, ¿qué otro tratamiento lleva para controlar su azúcar?"
+A0312C,107,"Actualmente, ¿qué otro tratamiento lleva para controlar su azúcar?"
+A0312D,108,"Actualmente, ¿qué otro tratamiento lleva para controlar su azúcar?"
+a0313,109,En los últimos seis meses ¿Ha suspendido algun(os) de los medicamentos más de una vez a la semana?
+a0314,110,¿Cuál fue la causa de la suspensión?
+A0315A,111,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+A0315B,112,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+A0315C,113,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+A0315D,114,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+A0315E,115,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+A0315F,116,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+A0315G,117,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+A0315H,118,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+A0315I,119,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+A0315J,120,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+A0315K,121,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+A0315L,122,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+A0315M,123,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+A0315N,124,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+A0315O,125,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+A0315P,126,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+A0315Q,127,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+A0315R,128,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+A0315S,129,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+A0315T,130,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+A0315U,131,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+A0315V,132,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año?"
+a0315es,133,"Debido a la diabetes, ¿qué medidas preventivas ha seguido para evitar complicaciones en el último año? Especifique"
+a0316a,134,¿Debido a la diabetes ha tenido úlceras en piernas o pies?
+a0316b,135,¿Debido a la diabetes le han amputado alguna parte del cuerpo?
+a0316c,136,¿Debido a la diabetes le ha disminuido la visión?
+a0316d,137,¿Debido a la diabetes ha perdido la vista?
+a0316e,138,¿Debido a la diabetes le han hecho diálisis?
+a0316f,139,¿Debido a la diabetes ha sufrido de un infarto al corazón?
+a0316g,140,¿Debido a la diabetes ha tenido un infarto cerebral?
+a0316h,141,¿Debido a la diabetes ha tenido pie diabético?
+a0316i,142,¿Debido a la diabetes sufrió de un coma diabético?
+a0316j,143,"¿Debido a la diabetes se le ha bajado el azúcar hasta el punto de tener un episodio de aparición súbita de sudoración, confusión o pérdida de conocimiento, que requirió ayuda de una tercera persona para su resolución?"
+nota019,144,NOTA019
+nota020,145,NOTA020
+a0401,146,¿Algún médico le ha dicho que tiene la presión alta?
+a0402m,147,¿Hace cuánto tiempo le dijo su médico que tiene la presión alta? Meses
+a0402a,148,¿Hace cuánto tiempo le dijo su médico que tiene la presión alta? Años
+a0403,149,¿Estaba embarazada cuando le dijeron que su presión estaba alta?
+a0404,150,¿Actualmente toma alguna medicina (pastillas) para controlar su presión alta?
+a0405m,151,¿Cuánto tiempo tiene tomando este medicamento? Meses
+a0405a,152,¿Cuánto tiempo tiene tomando este medicamento? Años
+a0406,153,"En los últimos 12 meses, ¿cuántas veces acudió al médico para controlar su hipertensión (sin contar las visitas al servicio de urgencias)?"
+a0407,154,¿En dónde se atiende principalmente para controlar su presión alta?
+a0407esp,155,¿En dónde se atiende principalmente para controlar su presión alta? Especifique
+A0408A,156,"Actualmente, ¿qué otro tratamiento lleva para controlar su presión alta?"
+A0408B,157,"Actualmente, ¿qué otro tratamiento lleva para controlar su presión alta?"
+A0408C,158,"Actualmente, ¿qué otro tratamiento lleva para controlar su presión alta?"
+A0408D,159,"Actualmente, ¿qué otro tratamiento lleva para controlar su presión alta?"
+A0408E,160,"Actualmente, ¿qué otro tratamiento lleva para controlar su presión alta?"
+a0409,161,"En los últimos 12 meses, ¿cada cuándo le tomaron la presión?"
+a0409a,162,¿Cuántas veces?
+a04010a,163,¿Debido a la hipertensión ha sufrido daño en la retina?
+a04010b,164,¿Debido a la hipertensión le han hecho diálisis?
+a04010c,165,¿Debido a la hipertensión ha sufrido de un infarto al corazón?
+a04010d,166,¿Debido a la hipertensión ha tenido un infarto o embolia cerebral?
+a04010e,167,¿Debido a la hipertensión ha acudido a un servicio de urgencias en el último año?
+a04010ev,168,¿Cuántas veces?
+a04010f,169,¿Debido a la hipertensión ha estado hospitalizado por más de 24 horas en el último año?
+a04010fv,170,¿Cuántas veces?
+a04010fd,171,¿Cuántos días en total en el último año?
+not0021,172,NOTA021
+not0037,173,NOTA037
+a0501,174,"¿Ha tenido alguna vez un dolor fuerte en el pecho, sudoración, con falta de aire o gran malestar que durara media hora o más?"
+a0502a,175,¿Le ha dicho el médico que usted tiene (o tuvo) un infarto o ataque al corazón?
+a0502b,176,"¿Le ha dicho el médico que usted tiene (o tuvo) angina de pecho (dolor o molestia en el pecho, que desaparece regularmente de forma espontánea con el reposo o con medicinas?"
+a0502c,177,"¿Le ha dicho el médico que usted tiene (o tuvo) insuficiencia cardiaca (debilitamiento de la capacidad de bombeo del corazón, que provoca edema en pies, tobillos y piernas, cansancio y falta de aire)?"
+a0503,178,¿Lo hospitalizaron para atender el infarto que presentó?
+a0504,179,¿A qué edad tuvo el primer infarto?
+a0505,180,¿Actualmente está tomando algún medicamento por el infarto?
+a0506,181,"¿Le ha dicho su médico, si ha tenido una embolia o un infarto cerebral?"
+a0507,182,¿Lo(a) hospitalizaron por esta razón?
+nota022,183,NOTA022
+nota023,184,NOTA023
+a0601a,185,"¿Alguna vez un médico le ha dicho que padece de alguna enfermedad del riñón, como infección de vías urinarias en más de una ocasión?"
+a0601b,186,"¿Alguna vez un médico le ha dicho que padece de alguna enfermedad del riñón, como cálculos renales?"
+a0601c,187,"¿Alguna vez un médico le ha dicho que padece de alguna enfermedad del riñón, como insuficiencia renal o enfermedad renal crónica?"
+a0602a,188,¿El tipo de tratamiento que tiene para su enfermedad renal es dieta sin sal?
+a0602b,189,¿El tipo de tratamiento que tiene para su enfermedad renal es medicamentos?
+a0602c,190,¿El tipo de tratamiento que tiene para su enfermedad renal es diálisis?
+a0602d,191,¿El tipo de tratamiento que tiene para su enfermedad renal es hemodiálisis?
+a0602e,192,¿El tipo de tratamiento que tiene para su enfermedad renal es medicina alternativa?
+a0602f,193,¿El tipo de tratamiento que tiene para su enfermedad renal es Otro (especifica)
+a0602esp,194,Especifique
+a0602g,195,Ninguno
+a0603,196,¿Le han medido alguna vez la concentración de colesterol y triglicéridos?
+a0604,197,¿Algún médico le ha dicho que tiene el colesterol alto?
+A0605A,198,Mencione las acciones que actualmente toma para el control del colesterol
+A0605B,199,Mencione las acciones que actualmente toma para el control del colesterol
+A0605C,200,Mencione las acciones que actualmente toma para el control del colesterol
+A0605D,201,Mencione las acciones que actualmente toma para el control del colesterol
+a0606,202,¿Algún médico le ha dicho que tiene los triglicéridos  altos?
+A0607A,203,Mencione las acciones que actualmente toma para el control de los triglicéridos altos
+A0607B,204,Mencione las acciones que actualmente toma para el control de los triglicéridos altos
+A0607C,205,Mencione las acciones que actualmente toma para el control de los triglicéridos altos
+A0607D,206,Mencione las acciones que actualmente toma para el control de los triglicéridos altos
+A0608A,207,¿Toma alguno de los siguientes medicamentos para el control del colesterol y/o los triglicéridos?.
+A0608B,208,¿Toma alguno de los siguientes medicamentos para el control del colesterol y/o los triglicéridos?.
+A0608C,209,¿Toma alguno de los siguientes medicamentos para el control del colesterol y/o los triglicéridos?.
+nota024,210,NOTA024
+nota025,211,NOTA025
+a07her,212,Tiene/Tuvo usted hermanos(as)
+a0701p,213,¿Su PADRE tiene o tuvo diabetes o azúcar alta en la sangre?
+a0702p,214,¿Su PADRE tiene o tuvo hipertensión o presión alta?
+a0703p,215,¿Su PADRE  tuvo un infarto?
+a0704p,216,¿A qué edad su PADRE tuvo su primer infarto?
+a0705p,217,¿Su PADRE tuvo valores altos de colesterol y/o triglicéridos?
+a0701m,218,¿Su MADRE tiene o tuvo diabetes o azúcar alta en la sangre?
+a0702m,219,¿Su MADRE tiene o tuvo hipertensión o presión alta?
+a0703m,220,¿Su MADRE  tuvo un infarto?
+a0704m,221,¿A qué edad su MADRE tuvo su primer infarto?
+a0705m,222,¿Su MADRE tuvo valores altos de colesterol y/o triglicéridos?
+a0701h,223,¿Su HERMANO(A) tiene o tuvo diabetes o azúcar alta en la sangre?
+a0702h,224,¿Su HERMANO(A) tiene o tuvo hipertensión o presión alta?
+a0703h,225,¿Su HERMANO(A)  tuvo un infarto?
+a0704h,226,¿A qué edad su HERMANO(A) tuvo su primer infarto?
+a0705h,227,¿Su HERMANO(A) tuvo valores altos de colesterol y/o triglicéridos?
+nota026,228,NOTA026
+nota027,229,NOTA027
+a0801,230,¿A qué edad tuvo su primera relación sexual?
+a0802,231,¿Qué edad tenía su pareja en su primera relación sexual?
+A0803A,232,"La primera vez que tuvo relaciones sexuales, ¿qué hicieron o qué usaron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0803B,233,"La primera vez que tuvo relaciones sexuales, ¿qué hicieron o qué usaron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0803C,234,"La primera vez que tuvo relaciones sexuales, ¿qué hicieron o qué usaron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0803D,235,"La primera vez que tuvo relaciones sexuales, ¿qué hicieron o qué usaron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0803E,236,"La primera vez que tuvo relaciones sexuales, ¿qué hicieron o qué usaron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0803F,237,"La primera vez que tuvo relaciones sexuales, ¿qué hicieron o qué usaron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0803G,238,"La primera vez que tuvo relaciones sexuales, ¿qué hicieron o qué usaron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0803H,239,"La primera vez que tuvo relaciones sexuales, ¿qué hicieron o qué usaron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0803I,240,"La primera vez que tuvo relaciones sexuales, ¿qué hicieron o qué usaron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0803J,241,"La primera vez que tuvo relaciones sexuales, ¿qué hicieron o qué usaron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0803K,242,"La primera vez que tuvo relaciones sexuales, ¿qué hicieron o qué usaron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0803L,243,"La primera vez que tuvo relaciones sexuales, ¿qué hicieron o qué usaron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0803M,244,"La primera vez que tuvo relaciones sexuales, ¿qué hicieron o qué usaron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0803N,245,"La primera vez que tuvo relaciones sexuales, ¿qué hicieron o qué usaron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0803O,246,"La primera vez que tuvo relaciones sexuales, ¿qué hicieron o qué usaron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+a0803esp,247,"La primera vez que tuvo relaciones sexuales, ¿qué hicieron o qué usaron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?  ESPECIFIQUE"
+A0804A,248,"En su última relación sexual, ¿Qué hicieron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0804B,249,"En su última relación sexual, ¿Qué hicieron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0804C,250,"En su última relación sexual, ¿Qué hicieron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0804D,251,"En su última relación sexual, ¿Qué hicieron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0804E,252,"En su última relación sexual, ¿Qué hicieron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0804F,253,"En su última relación sexual, ¿Qué hicieron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0804G,254,"En su última relación sexual, ¿Qué hicieron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0804H,255,"En su última relación sexual, ¿Qué hicieron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0804I,256,"En su última relación sexual, ¿Qué hicieron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0804J,257,"En su última relación sexual, ¿Qué hicieron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0804K,258,"En su última relación sexual, ¿Qué hicieron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0804L,259,"En su última relación sexual, ¿Qué hicieron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0804M,260,"En su última relación sexual, ¿Qué hicieron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0804N,261,"En su última relación sexual, ¿Qué hicieron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0804O,262,"En su última relación sexual, ¿Qué hicieron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0804P,263,"En su última relación sexual, ¿Qué hicieron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+A0804Q,264,"En su última relación sexual, ¿Qué hicieron usted o su pareja para evitar un embarazo o una infección de transmisión sexual?"
+a0804esp,265,"En su última relación sexual, ¿Qué hicieron usted o su pareja para evitar un embarzo o una infección de transmisión sexual? ESPECIFIQUE"
+a0805,266,¿Y además utilizaron condón masculino?
+a0806,267,¿A qué edad tuvo su primera regla o menstruación?
+a0807,268,¿Alguna vez ha estado embarazada?
+a0808,269,¿Está actualmente embarazada?
+a0809,270,¿Cuántos embarazos en total ha tenido?
+a0810a,271,¿De estos embarazos cuántos han sido pérdidas o abortos?
+a0810b,272,¿De estos embarazos cuántos han sido nacidos muertos?
+a0810c,273,¿De estos embarazos cuántos han sido nacidos vivos?
+a0810ad,274,¿Cuántos han fallecido Antes de cumplir un año de edad?
+a0810ae,275,¿Cuántos han fallecido Después de cumplir un año de edad?
+a0811d,276,"¿En qué día, mes y año  nació su último(a) hijo(a) nacido(a) vivo(a) y que sigue vivo(a) DIA?"
+a0811m,277,"¿En qué día, mes y año  nació su último(a) hijo(a) nacido(a) vivo(a) y que sigue vivo(a) MES?"
+a0811a,278,"¿En qué día, mes y año  nació su último(a) hijo(a) nacido(a) vivo(a) y que sigue vivo(a) AÑO?"
+not028,279,NOTA028
+a0812,280,En total ¿cuántas veces la revisaron durante su último embarazo?
+a0813,281,¿En qué institución o lugar la revisaron la mayoría de las veces durante este embarazo?
+a0813es,282,¿En qué institución o lugar la revisaron la mayoría de las veces durante este embarazo? Especifique
+a0814,283,¿Cuántos meses de embarazo tenía cuando la revisaron por primera vez?
+a0815a,284,"Durante el embarazo, cuando visitó al médico, enfermera o algún otro personal de salud, ¿Se le realizó algo de lo siguiente al menos una vez la midieron?"
+a0815b,285,"Durante el embarazo, cuando visitó al médico, enfermera o algún otro personal de salud, ¿Se le realizó algo de lo siguiente al menos una vez la pesaron?"
+a0815c,286,"Durante el embarazo, cuando visitó al médico, enfermera o algún otro personal de salud, ¿Se le realizó algo de lo siguiente al menos una vez le tomaron la presión arterial?"
+a0815d,287,"Durante el embarazo, cuando visitó al médico, enfermera o algún otro personal de salud, ¿Se le realizó algo de lo siguiente al menos una vez le realizaron examen(es) general(es) de orina?"
+a0815e,288,"Durante el embarazo, cuando visitó al médico, enfermera o algún otro personal de salud, ¿Se le realizó algo de lo siguiente al menos una vez le realizaron examen(es) de sangre?"
+a0815f,289,"Durante el embarazo, cuando visitó al médico, enfermera o algún otro personal de salud, ¿Se le realizó algo de lo siguiente al menos una vez le midieron su nivel de azúcar en sangre?"
+a0815g,290,"Durante el embarazo, cuando visitó al médico, enfermera o algún otro personal de salud, ¿Se le realizó algo de lo siguiente al menos una vez le realizaron la prueba de detección de sífilis (VRDL)?"
+a0815h,291,"Durante el embarazo, cuando visitó al médico, enfermera o algún otro personal de salud, ¿Se le realizó algo de lo siguiente al menos una vez le realizaron la prueba para detectar Virus de Inmunodeficiencia Humana (VIH)?"
+a0815i,292,"Durante el embarazo, cuando visitó al médico, enfermera o algún otro personal de salud, ¿Se le realizó algo de lo siguiente al menos una vez le hicieron un ultrasonido?"
+a0815j,293,"Durante el embarazo, cuando visitó al médico, enfermera o algún otro personal de salud, ¿Se le realizó algo de lo siguiente al menos una vez la vacunaron contra el tétanos?"
+a0815k,294,"Durante el embarazo, cuando visitó al médico, enfermera o algún otro personal de salud, ¿Se le realizó algo de lo siguiente al menos una vez le mandaron ácido fólico?"
+a0815l,295,"Durante el embarazo, cuando visitó al médico, enfermera o algún otro personal de salud, ¿Se le realizó algo de lo siguiente al menos una vez le mandaron vitaminas, hierro, o algún  suplemento alimenticio?"
+a0815m,296,"Durante el embarazo, cuando visitó al médico, enfermera o algún otro personal de salud, ¿Se le realizó algo de lo siguiente al menos una vez le ofrecieron algún servicio de detección o atención para la salud mental (ansiedad, depresión)?"
+a0815n,297,"Durante el embarazo, cuando visitó al médico, enfermera o algún otro personal de salud, ¿Se le realizó algo de lo siguiente al menos una vez le ofrecieron algún método anticonceptivo para cuando terminara su embarazo?"
+a0815o,298,"Durante el embarazo, cuando visitó al médico, enfermera o algún otro personal de salud, ¿Se le realizó algo de lo siguiente al menos una vez le enseñaron o explicaron cómo dar a su bebé leche materna?"
+a0815p,299,"Durante el embarazo, cuando visitó al médico, enfermera o algún otro personal de salud, ¿Se le realizó algo de lo siguiente al menos una vez le midierón la panza (fondo uterino)?"
+a0816,300,¿En dónde la atendieron de su último parto?
+a0816es,301,¿En dónde la atendieron de su último parto? Especifique
+a0817,302,¿Su último parto fue?
+a0818,303,"Inmediatamente después del nacimiento, ¿pusieron a su último(a) hijo(a) desnudo directamente sobre la piel desnuda de su pecho?"
+a0819k,304,¿Cuánto pesó al nacer su último(a) hijo(a)?  Kg
+a0819f,305,¿Cuánto pesó al nacer su último(a) hijo(a)?  ¿De dónde obtuvo la información?
+a0820t,306,¿Cuántos meses amamantó a su último(a) hijo(a)? Tiempo
+a0820p,307,¿Cuántos meses amamantó a su último(a) hijo(a)? Período
+a0821a,308,En la primera semana después del parto de su último(a) hijo(a) ¿algún profesional de la salud le dio información sobre signos y síntomas de hemorragia?
+a0821b,309,"En la primera semana después del parto de su último(a) hijo(a) ¿algún profesional de la salud le dio información sobre signos y síntomas de preeclampsia, eclampsia? (es decir, la presión alta durante el embarazo o poco después del parto)"
+a0821c,310,En la primera semana después del parto de su último(a) hijo(a) ¿algún profesional de la salud le dio información sobre signos y síntomas de infecciones?
+a0821d,311,En la primera semana después del parto de su último(a) hijo(a) ¿algún profesional de la salud le dio información sobre signos y síntomas de trombosis o coágulos?
+a0821e,312,En la primera semana después del parto de su último(a) hijo(a) ¿algún profesional de la salud le dio información sobre nutrición?
+a0821f,313,En la primera semana después del parto de su último(a) hijo(a) ¿algún profesional de la salud le dio información sobre lactancia materna?
+a0821g,314,"En la primera semana después del parto de su último(a) hijo(a) ¿algún profesional de la salud le dio información sobre higiene, sobre todo lavado de manos?"
+a0821h,315,En la primera semana después del parto de su último(a) hijo(a) ¿algún profesional de la salud le dio información sobre anticoncepción?
+a0821i,316,En la primera semana después del parto de su último(a) hijo(a) ¿algún profesional de la salud le dio información sobre signos y síntomas de la depresión post natal o post parto?
+a0821j,317,En la primera semana después del parto de su último(a) hijo(a) ¿algún profesional de la salud le dio información sobre la importancia de que el bebé duerma boca arriba?
+a0822,318,"Después del nacimiento de su último(a) hijo(a), ¿le proporcionaron un método anticonceptivo?"
+a0823,319,¿Qué método anticonceptivo le proporcionaron?
+a0823es,320,¿Qué método anticonceptivo le proporcionaron? Especifique
+a0824,321,"No quiero saber los resultados, pero ¿ le hiciero una prueba para detectar inmunodeficiencia humana (VIH)?"
+a0825,322,"No quiero saber los resultados de la prueba, pero ¿los recibió?"
+nota029,323,NOTA029
+a0826,324,En los últimos 12 meses ¿Ha tomado ácido fólico?
+nota030,325,NOTA030
+nota031,326,NOTA031
+a0901,327,"¿Me puede mostrar su Cartilla Nacional de Salud (Hombre o Mujer de 20 a 59 años), el documento probatorio o comprobante en el que le registran las vacunas que le han aplicado?"
+a0902,328,¿Por qué no tiene la cartilla?
+a0903,329,¿Por qué no tiene información registrada en su cartilla?
+nota032,330,NOTA032
+a0904,331,"Desde sus 20 años de edad, ¿le han aplicado la vacuna contra el Sarampión y la Rubéola (SR)? (para personas entre 20 a 39 años)"
+a0905,332,¿Cuántas veces se la han aplicado?
+a0906,333,"En los últimos 10 años, ¿le han aplicado la vacuna contra el Tétanos?"
+a0907,334,¿Cuántas veces se la han aplicado?
+a0908,335,"A partir de septiembre del año pasado y hasta el día de hoy, ¿le han aplicado la vacuna contra la Influenza"
+not0033,336,NOTA033
+a09091a,337,Sarampión y Rubéola (SR) Primera dosis dosis administrada.
+a09091bd,338,Sarampión y Rubéola (SR) Primera dosis dosis Fecha aplicación (ddmmaaaa).
+a09091c,339,Sarampión y Rubéola (SR) Primera dosis dosis institución de aplicación.
+a09091cesp,340,Sarampión y Rubéola (SR) Primera dosis dosis institución de aplicación ESPECIFIQUE.
+a09092a,341,Sarampión y Rubéola (SR) Segunda dosis dosis administrada.
+a09092bd,342,Sarampión y Rubéola (SR) Segunda dosis dosis Fecha aplicación (ddmmaaaa).
+a09092c,343,Sarampión y Rubéola (SR) Segunda dosis dosis institución de aplicación.
+a09092cesp,344,Sarampión y Rubéola (SR) Segunda dosis dosis institución de aplicación ESPECIFIQUE.
+a09093a,345,Sarampión y Rubéola (SR) Tercera dosis dosis administrada.
+a09093bd,346,Sarampión y Rubéola (SR) Tercera dosis dosis Fecha aplicación (ddmmaaaa).
+a09093c,347,Sarampión y Rubéola (SR) Tercera dosis dosis institución de aplicación.
+a09093cesp,348,Sarampión y Rubéola (SR) Tercera dosis dosis institución de aplicación ESPECIFIQUE.
+a09101a,349,Td (tétanos y difteria) Refuerzo administrada.
+a09101bd,350,Td (tétanos y difteria) Refuerzo Fecha aplicación (ddmmaaaa).
+a09101c,351,Td (tétanos y difteria) Refuerzo institución de aplicación.
+a09101cesp,352,Td (tétanos y difteria) Refuerzo institución de aplicación ESPECIFIQUE.
+a09102a,353,Td (tétanos y difteria) Primera dosis dosis administrada.
+a09102bd,354,Td (tétanos y difteria) Primera dosis dosis Fecha aplicación (ddmmaaaa).
+a09102c,355,Td (tétanos y difteria) Primera dosis dosis institución de aplicación.
+a09102cesp,356,Td (tétanos y difteria) Primera dosis institución de aplicación. ESPECIFIQUE.
+a09103a,357,Td (tétanos y difteria) Segunda dosis dosis administrada.
+a09103bd,358,Td (tétanos y difteria) Segunda dosis dosis Fecha aplicación (ddmmaaaa).
+a09103c,359,Td (tétanos y difteria) Segunda dosis dosis institución de aplicación.
+a0910cesp,360,Td (tétanos y difteria) Segunda dosis institución de aplicación. ESPECIFIQUE.
+a09104a,361,Td (tétanos y difteria) Tercera dosis dosis administrada.
+a09104bd,362,Td (tétanos y difteria) Tercera dosis dosis Fecha aplicación (ddmmaaaa).
+a09104c,363,Td (tétanos y difteria) Tercera dosis dosis institución de aplicación.
+a09104cesp,364,Td (tétanos y difteria) Tercera dosis institución de aplicación ESPECIFIQUE.
+a09111a,365,Tdpa Única dosis administrada.
+a09111bd,366,Tdpa Única dosis Fecha aplicación (ddmmaaaa).
+a09111c,367,Tdpa Única dosis institución de aplicación.
+a09111cesp,368,Tdpa Única dosis institución de aplicación ESPECIFIQUE
+a09121a,369,Influenza estacional Factores de Riesgo dosis administrada.
+a09121bd,370,Influenza estacional Factores de Riesgo dosis Fecha aplicación (ddmmaaaa).
+a09121c,371,Influenza estacional Factores de Riesgo dosis institución de aplicación.
+a09121cesp,372,Influenza estacional Factores de Riesgo dosis institución de aplicación ESPECIFIQUE
+a09122a,373,Influenza estacional Embarazadas Única dosis administrada.
+a09122bd,374,Influenza estacional Embarazadas Única dosis Fecha aplicación (ddmmaaaa).
+a09122c,375,Influenza estacional Embarazadas Única dosis institución de aplicación.
+a09122cesp,376,Influenza estacional Embarazadas Única dosis institución de aplicación ESPECIFIQUE
+o_vac1,377,¿Existen Otras Vacunas?
+a09131nom,378,Otras Vacunas 1 Dosis
+a09131ed,379,Otras Vacunas 1 Edad
+a09131a,380,Otras Vacunas 1 administrada.
+a09131bd,381,Otras Vacunas 1 Fecha aplicación (ddmmaaaa).
+a09131c,382,Otras Vacunas 1 institución de aplicación.
+a09131cesp,383,Otras Vacunas 1 institución de aplicación. ESPECIFIQUE.
+o_vac2,384,¿Existen Otras Vacunas?
+a09132nom,385,Otras Vacunas 2 Dosis
+a09132edad,386,Otras Vacunas 2 Edad
+a09132a,387,Otras Vacunas 2 administrada.
+a09132bd,388,Otras Vacunas 2 Fecha aplicación (ddmmaaaa).
+a09132c,389,Otras Vacunas 2 institución de aplicación.
+a09132cesp,390,Otras Vacunas 2 institución de aplicación. ESPECIFIQUE.
+o_vac3,391,¿Existen Otras Vacunas?
+a09133nom,392,Otras Vacunas 3 Dosis
+a09133ed,393,Otras Vacunas 3 Edad
+a09133a,394,Otras Vacunas 3 Única dosis administrada.
+a09133bd,395,Otras Vacunas 3 Única dosis Fecha aplicación (ddmmaaaa).
+a09133c,396,Otras Vacunas 3 Única dosis institución de aplicación.
+a09133cesp,397,Otras Vacunas 3 Única dosis institución de aplicación. ESPECIFIQUE.
+not034,398,NOTA034
+a0914,399,"¿Me puede mostrar su Cartilla Nacional de Salud del Adulto Mayor, el documento probatorio o comprobante en el que le registran las vacunas que le han aplicado?"
+a0915,400,¿Por qué no tiene la cartilla?
+a0916,401,¿Por qué no tiene información registrada en su cartilla?
+not035,402,NOTA035
+a0917,403,¿Le han aplicado la vacuna contra el Neumococo?
+a0918,404,¿Cuántas veces le han aplicado la vacuna contra el Neumococo?
+a0919,405,¿Le han aplicado la vacuna contra el Tétanos?
+a0920,406,¿Cuántas veces se le han aplicado la vacuna contra el Tétanos?
+a0921,407,"A partir de septiembre del año pasado y hasta el día de hoy, ¿le han aplicado la vacuna contra la Influenza?"
+not036,408,NOTA036
+a09221a,409,Neumocócica Polisacárida Dosis Unica (Neumonía por neumococo) administrada.
+a09221bd,410,Neumocócica Polisacárida Dosis Unica (Neumonía por neumococo) Fecha aplicación (ddmmaaaa).
+a09221c,411,Neumocócica Polisacárida Dosis Unica (Neumonía por neumococo) institución de aplicación.
+a09221cesp,412,Neumocócica Polisacárida Dosis Unica (Neumonía por neumococo) institución de aplicación. ESPECIFIQUE.
+a09222a,413,Neumocócica Polisacárida dosis Inicial (Neumonía por neumococo) administrada.
+a09222bd,414,Neumocócica Polisacárida dosis Inicial (Neumonía por neumococo) Fecha aplicación (ddmmaaaa).
+a09222c,415,Neumocócica Polisacárida dosis Inicial (Neumonía por neumococo) institución de aplicación.
+a09222cesp,416,Neumocócica Polisacárida dosis Inicial (Neumonía por neumococo) institución de aplicación. ESPECIFIQUE.
+a09223a,417,Neumocócica Polisacárida Revacunación única (Neumonía por neumococo) administrada.
+a09223bd,418,Neumocócica Polisacárida Revacunación única (Neumonía por neumococo) Fecha aplicación (ddmmaaaa).
+a09223c,419,Neumocócica Polisacárida Revacunación única (Neumonía por neumococo) institución de aplicación.
+a09223cesp,420,Neumocócica Polisacárida Revacunación única (Neumonía por neumococo) institución de aplicación. ESPECIFIQUE.
+a09231a,421,Td (tétanos y difteria) Refuerzo administrada.
+a09231bd,422,Td (tétanos y difteria) Refuerzo Fecha aplicación (ddmmaaaa).
+a09231c,423,Td (tétanos y difteria) Refuerzo institución de aplicación.
+a09231cesp,424,Td (tétanos y difteria) Refuerzo institución de aplicación. ESPECIFIQUE.
+a09232a,425,Td (tétanos y difteria) Primera dosis dosis administrada.
+a09232bd,426,Td (tétanos y difteria) Primera dosis dosis Fecha aplicación (ddmmaaaa).
+a09232c,427,Td (tétanos y difteria) Primera dosis dosis institución de aplicación.
+a09232cesp,428,Td (tétanos y difteria) Primera dosis dosis institución de aplicación.ESPECIFIQUE.
+a09233a,429,Td (tétanos y difteria) Segunda dosis dosis administrada.
+a09233bd,430,Td (tétanos y difteria) Segunda dosis dosis Fecha aplicación (ddmmaaaa).
+a09233c,431,Td (tétanos y difteria) Segunda dosis dosis institución de aplicación.
+a09233cesp,432,Td (tétanos y difteria) Segunda dosis dosis institución de aplicación. ESPECIFIQUE.
+a09234a,433,Td (tétanos y difteria) Tercera dosis dosis administrada.
+a09234bd,434,Td (tétanos y difteria) Tercera dosis dosis Fecha aplicación (ddmmaaaa).
+a09234c,435,Td (tétanos y difteria) Tercera dosis dosis institución de aplicación.
+a09234cesp,436,Td (tétanos y difteria) Tercera dosis dosis institución de aplicación. ESPECIFIQUE.
+a09241a,437,Influenza estacional ( De septiembre de 2017 a la fecha) Única dosis administrada.
+a09241bd,438,Influenza estacional ( De septiembre de 2017 a la fecha) Única dosis Fecha aplicación (ddmmaaaa).
+a09241c,439,Influenza estacional ( De septiembre de 2017 a la fecha) Única dosis institución de aplicación.
+a09241cesp,440,Influenza estacional ( De septiembre de 2017 a la fecha) Única dosis institución de aplicación. ESPECIFIQUE.
+o_vac11,441,¿Existen Otras Vacunas?
+a09251nom,442,Otras Vacunas 1 Dosis
+a09251ed,443,Otras Vacunas 1 Edad
+a09251a,444,Otras Vacunas 1 administrada.
+a09251bd,445,Otras Vacunas 1 Fecha aplicación (ddmmaaaa).
+a09251c,446,Otras Vacunas 1 institución de aplicación.
+a09251cesp,447,Otras Vacunas 1 institución de aplicación. ESPECIFIQUE.
+o_vac12,448,¿Existen Otras Vacunas?
+a09252nom,449,Otras Vacunas 2 Dosis
+a09252ed,450,Otras Vacunas 2 Edad
+a09252a,451,Otras Vacunas 2 administrada.
+a09252bd,452,Otras Vacunas 2 Fecha aplicación (ddmmaaaa).
+a09252c,453,Otras Vacunas 2 institución de aplicación.
+a09252cesp,454,Otras Vacunas 2 institución de aplicación. ESPECIFIQUE.
+o_vac13,455,¿Existen Otras Vacunas?
+a09253nom,456,Otras Vacunas 3 Dosis
+a09253ed,457,Otras Vacunas 3 Edad
+a09253a,458,Otras Vacunas 3 administrada.
+a09253bd,459,Otras Vacunas 3 Fecha aplicación (ddmmaaaa).
+a09253c,460,Otras Vacunas 3 institución de aplicación.
+a09253cesp,461,Otras Vacunas 3 institución de aplicación. ESPECIFIQUE.
+nota001,462,NOTA001 X. PROGRAMAS PREVENTIVOS
+a1001a,463,A1001A a) prueba de papanicolaou?
+a1002a,464,A1002A ¿En qué institución le dieron servicio?
+a1002ae,465,A1002AE Especifique:
+a1003a,466,A1003A ¿Presentaba algún síntoma por el que le realizaron la prueba de detección?
+a1004a,467,A1004A ¿Le entregaron el resultado del estudio?
+a1005a,468,A1005A ¿Qué diagnóstico le dieron?
+a1006a,469,A1006A ¿Recibió tratamiento?
+a1007a,470,A1007A ¿Cuál es la causa por la que no recibió tratamiento?
+a1007ae,471,A1007AE Especifique:
+a1001b,472,A1001B b) prueba del virus del papiloma?
+a1002b,473,A1002B ¿En qué institución le dieron servicio?
+a1002be,474,A1002BE Especifique:
+a1003b,475,A1003B ¿Presentaba algún síntoma por el que le realizaron la prueba de detección?
+a1004b,476,A1004B ¿Le entregaron el resultado del estudio?
+a1005b,477,A1005B ¿Qué diagnóstico le dieron?
+a1006b,478,A1006B ¿Recibió tratamiento?
+a1007b,479,A1007B ¿Cuál es la causa por la que no recibió tratamiento?
+a1007be,480,A1007BE Especifique:
+a1001c,481,A1001C c)exploración clínica de los enos?
+a1002c,482,A1002C ¿En qué institución le dieron servicio?
+a1002ce,483,A1002CE Especifique:
+a1003c,484,A1003C ¿Presentaba algún síntoma por el que le realizaron la prueba de detección?
+a1004c,485,A1004C ¿Le entregaron el resultado del estudio?
+a1005c,486,A1005C ¿Qué diagnóstico le dieron?
+a1006c,487,A1006C ¿Recibió tratamiento?
+a1007c,488,A1007C ¿Cuál es la causa por la que no recibió tratamiento?
+a1007ce,489,A1007CE Especifique:
+a1001d,490,A1001D d) detección de cáncer de mama?
+a1002d,491,A1002D ¿En qué institución le dieron servicio?
+a1002de,492,A1002DE Especifique:
+a1003d,493,A1003D ¿Presentaba algún síntoma por el que le realizaron la prueba de detección?
+a1004d,494,A1004D ¿Le entregaron el resultado del estudio?
+a1005d,495,A1005D ¿Qué diagnóstico le dieron?
+a1006d,496,A1006D ¿Recibió tratamiento?
+a1007d,497,A1007D ¿Cuál es la causa por la que no recibió tratamiento?
+a1007de,498,A1007DE Especifique:
+a1001e,499,A1001E e)detección de tuberculosis?
+a1002e,500,A1002E ¿En qué institución le dieron servicio?
+a1002ee,501,A1002EE Especifique:
+a1003e,502,A1003E ¿Presentaba algún síntoma por el que le realizaron la prueba de detección?
+a1004e,503,A1004E ¿Le entregaron el resultado del estudio?
+a1005e,504,A1005E ¿Qué diagnóstico le dieron?
+a1006e,505,A1006E ¿Recibió tratamiento?
+a1007e,506,A1007E ¿Cuál es la causa por la que no recibió tratamiento?
+a1007ee,507,A1007EE Especifique:
+a1001f,508,A1001F f) detección de sobrepeso u obesidad?
+a1002f,509,A1002F ¿En qué institución le dieron servicio?
+a1002fe,510,A1002FE Especifique:
+a1003f,511,A1003F ¿Presentaba algún síntoma por el que le realizaron la prueba de detección?
+a1004f,512,A1004F ¿Le entregaron el resultado del estudio?
+a1005f,513,A1005F ¿Qué diagnóstico le dieron?
+a1006f,514,A1006F ¿Recibió tratamiento?
+a1007f,515,A1007F ¿Cuál es la causa por la que no recibió tratamiento?
+a1007fe,516,A1007FE Especifique:
+a1001g,517,A1001G g) detección de diabetes?
+a1002g,518,A1002G ¿En qué institución le dieron servicio?
+a1002ge,519,A1002GE Especifique:
+a1003g,520,A1003G ¿Presentaba algún síntoma por el que le realizaron la prueba de detección?
+a1004g,521,A1004G ¿Le entregaron el resultado del estudio?
+a1005g,522,A1005G ¿Qué diagnóstico le dieron?
+a1006g,523,A1006G ¿Recibió tratamiento?
+a1007g,524,A1007G ¿Cuál es la causa por la que no recibió tratamiento?
+a1007ge,525,A1007GE Especifique:
+a1001h,526,A1001H h) detección de hipertensión?
+a1002h,527,A1002H ¿En qué institución le dieron servicio?
+a1002he,528,A1002HE Especifique:
+a1003h,529,A1003H ¿Presentaba algún síntoma por el que le realizaron la prueba de detección?
+a1004h,530,A1004H ¿Le entregaron el resultado del estudio?
+a1005h,531,A1005H ¿Qué diagnóstico le dieron?
+a1006h,532,A1006H ¿Recibió tratamiento?
+a1007h,533,A1007H ¿Cuál es la causa por la que no recibió tratamiento?
+a1007he,534,A1007HE Especifique:
+a1001i,535,A1001I i) detección de colesterol o triglicéridos altos (examen de sangre)?
+a1002i,536,A1002I ¿En qué institución le dieron servicio?
+a1002ie,537,A1002IE Especifique:
+a1003i,538,A1003I ¿Presentaba algún síntoma por el que le realizaron la prueba de detección?
+a1004i,539,A1004I ¿Le entregaron el resultado del estudio?
+a1005i,540,A1005I ¿Qué diagnóstico le dieron?
+a1006i,541,A1006I ¿Recibió tratamiento?
+a1007i,542,A1007I ¿Cuál es la causa por la que no recibió tratamiento?
+a1007ie,543,A1007IE Especifique:
+a1001j,544,A1001J j) detección de cáncer de próstata (análisis de sangre para detectar antígenos prostáticos)?
+a1002j,545,A1002J ¿En qué institución le dieron servicio?
+a1002je,546,A1002JE Especifique:
+a1003j,547,A1003J ¿Presentaba algún síntoma por el que le realizaron la prueba de detección?
+a1004j,548,A1004J ¿Le entregaron el resultado del estudio?
+a1005j,549,A1005J ¿Qué diagnóstico le dieron?
+a1006j,550,A1006J ¿Recibió tratamiento?
+a1007j,551,A1007J ¿Cuál es la causa por la que no recibió tratamiento?
+a1007je,552,A1007JE Especifique:
+a1001k,553,A1001K k) prueba de tacto rectal para detectar cáncer de próstata?
+a1002k,554,A1002K ¿En qué institución le dieron servicio?
+a1002ke,555,A1002KE Especifique:
+a1003k,556,A1003K ¿Presentaba algún síntoma por el que le realizaron la prueba de detección?
+a1004k,557,A1004K ¿Le entregaron el resultado del estudio?
+a1005k,558,A1005K ¿Qué diagnóstico le dieron?
+a1006k,559,A1006K ¿Recibió tratamiento?
+a1007k,560,A1007K ¿Cuál es la causa por la que no recibió tratamiento?
+a1007ke,561,A1007KE Especifique:
+nota002,562,NOTA002 XI. ACCIDENTES
+a1101,563,A1101 ¿Sufrió usted algún daño a su salud a causa de un accidente en los últimos 12 meses?
+a1102,564,A1102 ¿Cómo fue que se accidentó?
+a1103,565,A1103 ¿Llevaba puesto el cinturón?
+a1104,566,A1104 ¿Llevaba puesto el casco?
+a1105,567,A1105 ¿En qué lugar se encontraba cuando ocurrió el accidente?
+a1105e,568,A1105E Especifique:
+a1106a,569,"A1106A A. cara, cabeza y/o cuello?"
+a1106b,570,A1106B B. tórax y/o abdomen?
+a1106c,571,A1106C C. pelvis (cadera)?
+a1106d,572,A1106D D. columna vertebral?
+a1106e,573,A1106E E. brazo y/o antebrazo?
+a1106f,574,A1106F F. mano y/o dedos de la mano?
+a1106h,575,A1106H H. muslo y/o pierna?
+a1106i,576,A1106I I pie (tobillo) y/o dedos del pie?
+a1106j,577,A1106J J. genitales?
+a1106la,578,A1106LA L. ¿Tuviste otra lesión en el cuerpo?
+a1106lb,579,A1106LB Especifique:
+a1106lc,580,A1106LC L. ¿Qué tipo de daño tuviste?
+a1107,581,A1107 ¿Dónde lo atendieron cuando ocurrio el accidente?
+a1107e,582,A1107E Especifique:
+a1108,583,A1108 ¿Cuándo sufrió el accidente estaba bajo los efectos de…
+a1108e,584,A1108E Especifique:
+a1109,585,A1109 ¿Qué problema de salud permanente le ocasionó este accidente?
+a1109e,586,A1109E Especifique:
+nota003,587,NOTA003 XII. ATAQUE Y VIOLENCIA PARA ADULTOS DE 20 AÑOS O MÁS
+nota004,588,NOTA004 Ahora le preguntaré sobre algún incidente de agresión o violencia que haya presentado
+a1201,589,"A1201 ¿En los últimos 12 meses,  ¿Usted fue víctima de algún incidente en el que la/lo atacaran o violentaran físicamente?"
+A1202A,590,A1202 ¿Qué fue lo que pasó?
+A1202B,591,A1202 ¿Qué fue lo que pasó?
+A1202C,592,A1202 ¿Qué fue lo que pasó?
+A1202D,593,A1202 ¿Qué fue lo que pasó?
+A1202E1,594,A1202 ¿Qué fue lo que pasó?
+A1202F,595,A1202 ¿Qué fue lo que pasó?
+A1202G,596,A1202 ¿Qué fue lo que pasó?
+A1202H,597,A1202 ¿Qué fue lo que pasó?
+A1202I,598,A1202 ¿Qué fue lo que pasó?
+A1202J,599,A1202 ¿Qué fue lo que pasó?
+A1202K,600,A1202 ¿Qué fue lo que pasó?
+a1202e,601,A1202E Especifique:
+A1203A,602,A1203 ¿Cuál fue el principal motivo?
+A1203B,603,A1203 ¿Cuál fue el principal motivo?
+A1203C,604,A1203 ¿Cuál fue el principal motivo?
+A1203D,605,A1203 ¿Cuál fue el principal motivo?
+A1203E1,606,A1203 ¿Cuál fue el principal motivo?
+A1203F,607,A1203 ¿Cuál fue el principal motivo?
+A1203G,608,A1203 ¿Cuál fue el principal motivo?
+A1203H,609,A1203 ¿Cuál fue el principal motivo?
+A1203I,610,A1203 ¿Cuál fue el principal motivo?
+A1203J,611,A1203 ¿Cuál fue el principal motivo?
+a1203e,612,A1203E Especifique:
+a1204,613,A1204 ¿En qué lugar ocurrió el ataque o violencia?
+a1204e,614,A1204E Especifique:
+a1205,615,A1205 ¿Sufrió usted algún daño a su salud por el ataque o agresión?
+a1206,616,A1206 ¿En qué institución lo(a) atendieron cuando ocurrió el ataque o agresión?
+a1206e,617,A1206E Especifique:
+a1207,618,A1207 Cuando sufrió el ataque o violencia ¿estaba usted bajo los efectos de…
+a1207e,619,A1207E Especifique:
+a1208,620,A1208 ¿Qué problema de salud permanente le ocasionó el ataque o violencia?
+a1208e,621,A1208E Especifique:
+a1209,622,A1209 ¿Quién fue la persona que le atacó?
+a1210,623,"A1210 ¿A lo largo de su vida, alguien le manoseó, tocó o acarició alguna parte de su cuerpo o tuvo relaciones sexuales con usted cuando era muy pequeño/a?"
+a1211,624,A1211 ¿Alguna vez ha pensado en suicidarse?
+a1212,625,A1212 ¿Con qué frecuencia lo ha pensado?
+a1213,626,"A1213 ¿Alguna vez a propósito se ha herido, cortado, intoxicado o hecho daño con el fin de quitarse la vida?"
+a1214,627,A1214 ¿Esto fue en los últimos 12 meses?
+nota005,628,NOTA005 XIII. FACTORES DE RIESGO
+nota006,629,NOTA006 TABACO Y ALCOHOL
+a1301,630,"A1301 Actualmente, ¿fuma tabaco…"
+a1302,631,A1302 ¿A qué edad comenzó a fumar productos del tabaco todos los días?
+a1303,632,"A1303 En pormedio, ¿cuántos cigarros fuma actualmente por día?"
+a1304,633,"A1304 En pormedio, ¿cuántos cigarros fuma actualmente por semana?"
+a1305,634,A1305 En el pasado¿ha fumado productos del tabaco…
+a1306p,635,A1306P ¿Hace cuánto tiempo dejó definitivamente de fumar? PERIODO
+a1306t,636,A1306T ¿Hace cuánto tiempo dejó definitivamente de fumar? TIEMPO
+a1307,637,"A1307 Los cigarros electrónicos son productos que utilizan baterías u otros métodos para producir un vapor que puede contener nicotina. Se conocen como “e-cigarrete”, “Vape-pen”, “e-shisha” y “e-pipes”"
+a1308,638,"A1308 En los últimos 12 meses,¿Con qué frecuencia tomó al menos una copa ya sea de vino, cerveza, whisky o cualquier otra bebida que contenga alcohol?"
+a1309,639,"A1309 En los últimos 12 meses, ¿Con qué frecuencia tomó cinco o más copas de cualquier bebida alcohólica en una sola ocasión?"
+a1310,640,"A1310 En los últimos 12 meses, ¿Con qué frecuencia tomó cuatro o más copas de cualquier bebida alcohólica en una sola ocasión?"
+a1311,641,"A1311 En los últimos 30 días, ¿Tomó cinco o más copas de alcohol en al menos una ocasión"
+a1312,642,"A1312 En los últimos 30 días, ¿Tomó cuatro o más copas de alcohol en al menos una ocasión?"
+nota007,643,NOTA007 XIV. FUNCIONAMIENTO
+a1401,644,A1401 ¿Usa anteojos o lentes de contacto?
+a1402,645,A1402 ¿Usa una prótesis auditiva?
+nota008,646,NOTA008 NOTA
+a1403a,647,"A1403A Cunado usa anteojos o lentes de contacto, ¿tiene dificultad para ver?"
+a1403b,648,A1403B ¿Tiene dificultades para ver?
+a1404a,649,"A1404A Cuando usa su(s) prótesis auditiva(s), ¿tiene dificultad para oír?"
+a1404b,650,A1404B ¿Tiene dificultades para oír?
+a1405,651,A1405 ¿Tiene dificultad para caminar o subir escalones?
+a1406,652,A1406 ¿Tiene dificultad para recordar o concentrarse?
+a1407,653,"A1407 ¿Tiene dificultad para el cuidado propio, tal como lavarse todo el cuerpo o vestirse?"
+a1408,654,"A1408 Usando su idioma habitual, ¿tiene dificultad para comunicarse, por ejemplo, entender a otros o hacerse entender?"
+a1409,655,"A1409 Durante los últimos 7 días, ¿Cuántos días usted caminó por lo menos 10 minutos seguidos? Solo para trasladarse de un lugar a otro"
+a1410h,656,"A1410H Generalmente, ¿Cuánto tiempo camina usted en uno de esos días? HORAS"
+a1410m,657,"A1410M Generalmente, ¿Cuánto tiempo camina usted en uno de esos días? MINUTOS"
+a1411,658,"A1411 Entonces, ¿el tiempo que pasó usted caminando, solo para trasladarse de un lugar a otro, durante los últimos ____días es de aproximadamente ___(horas/minutos)?"
+a1412,659,"A1412 Durante los últimos 7 días, ¿Cuántos días usted caminó por lo menos 10 minutos seguidos?"
+a1413h,660,A1413H Generalmente ¿Cuánto tiempo camina usted en uno de esos días? Caminar HORAS
+a1413m,661,A1413M Generalmente ¿Cuánto tiempo camina usted en uno de esos días? Caminar MINUTOS
+a1414,662,"A1414 Entonces, ¿el tiempo que paso usted caminando, solo por recreación, deporte, ejercicio o placer,  durante los últimos ____ días es de aproximadamente ___ (horas/ minutos)?"
+nota009,663,NOTA009 XV. PARA RECONOCIMIENTO SITUACIONAL DE SOCIALIZACIÓN
+a1501,664,A1501 ¿Usted/(NOMBRE) utiliza celular?
+a1502,665,A1502 ¿Usted/(NOMBRE) utiliza computadora?
+a1503,666,A1503 ¿Usted/(NOMBRE) utiliza internet?
+A1504A,667,A1504 ¿Usted/(NOMBRE) utiliza redes sociales? (Pregunte cuál o cuáles)
+A1504B,668,A1504 ¿Usted/(NOMBRE) utiliza redes sociales? (Pregunte cuál o cuáles)
+A1504C,669,A1504 ¿Usted/(NOMBRE) utiliza redes sociales? (Pregunte cuál o cuáles)
+A1504D,670,A1504 ¿Usted/(NOMBRE) utiliza redes sociales? (Pregunte cuál o cuáles)
+A1504E1,671,A1504 ¿Usted/(NOMBRE) utiliza redes sociales? (Pregunte cuál o cuáles)
+A1504F,672,A1504 ¿Usted/(NOMBRE) utiliza redes sociales? (Pregunte cuál o cuáles)
+A1504G,673,A1504 ¿Usted/(NOMBRE) utiliza redes sociales? (Pregunte cuál o cuáles)
+a1504e,674,A1504E Especifique:
+nota010,675,NOTA010 NOTA
+a1505,676,"A1505 ¿A cuántos familiares ve (en persona o por videollamada) o tiene noticias de ellos (por teléfono, WhatsApp, Skype, Facebook, etcétera) al menos una vez al mes?"
+a1506,677,A1506 ¿Con cuántos familiares se siente cómodo(a) como para hablar sobre sus asuntos personales?
+a1507,678,A1507 ¿A cuántos de sus familiares siente lo suficientemente cercanos como para llamarlos cuando necesita ayuda?
+nota011,679,NOTA011 NOTA
+a1508,680,"A1508 ¿A cuántos amigos ve (en persona o por videollamada) o tiene noticias de ellos (por teléfono, WhatsApp, Skype, Facebook, etcétera) al menos una vez al mes?"
+a1509,681,A1509 ¿Con cuántos amigos se siente cómodo(a) como para hablar sobre sus asuntos personales?
+a1510,682,A1510 A cuántos de sus amigos siente lo suficientemente cercanos como para llamarlos cuando necesita ayuda?
+nota012,683,NOTA012 NOTA
+a1511,684,"A1511 ¿Cuántas veces durante la semana pasada pasó tiempo con alguien que no vive con usted, es decir, usted fue a visitar a alguien o lo vinieron a visitar a usted, o salieron juntos?"
+a1512,685,"A1512 ¿Cuántas veces habló con alguien (amigos, familiares u otras personas) por teléfono, WhatsApp, Skype, Facebook, etcétera durante la semana pasada (lo llamaron o usted los llamó)?"
+a1513,686,"A1513 ¿Qué tan a menudo asistió a reuniones de clubes, reuniones religiosas o de otros grupos la semana pasada?"
+nota013,687,NOTA013 NOTA
+a1514,688,A1514 ¿Con qué frecuencia siente que le falta compañía?
+a1515,689,A1515 ¿Con qué frecuencia se siente excluido?
+a1516,690,A1516 ¿Con qué frecuencia se siente aislado de los demás?
+comentario,691,¿Algún comentario de la entrevista?
+tiempo,692,Duración de la Entrevista
+hora_fin,693,Hora de termino
+fecha_fin,694,Fecha de Termino
+completa,695,Resultado de Entrevista
+otroent,696,Especifique otro resultado de entrevista
+ponde_f,697,Ponderador
+estrato,698,Estrato urbanidad/ruralidad
+est_sel,699, Estrato de seleccion
+x_region,700,Region
+indice1,701,<ninguno>
+nseF,702,<ninguno>
+nse5F,703,<ninguno>
