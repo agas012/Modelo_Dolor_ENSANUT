@@ -1,0 +1,631 @@
+,0,1
+Dolor,0,1
+aedad_Value,43.71(16.81),49.33(17.69)
+completa_Value,1.00(0.01),1.00(0.00)
+edad_Value,43.61(15.74),49.24(17.67)
+est_sel_x_Value,158.69(85.37),155.21(81.02)
+fech_nac_Value,16856412.65(14050565.60),16701066.62(12606595.54)
+municipio_x_Value,36.90(59.40),42.61(78.55)
+region_x_Value,4.76(2.44),5.01(2.35)
+resultado_1_Value,1.19(0.74),1.20(0.76)
+resultado_2_Value,0.12(0.48),0.15(0.57)
+id_int_Value,2.79(1.73),1.68(0.97)
+municipio1_Value,36.90(59.40),42.61(78.55)
+h0303_Value,34.07(29.78),53.65(18.12)
+int_nuevo_Value,1.27(0.45),1.19(0.40)
+h0307_Value,1.78(0.84),2.37(0.72)
+intp3_Value,2.79(1.73),1.68(0.97)
+intp4_Value,2.79(1.73),1.68(0.97)
+h1205_Value,39.72(46.98),42.77(47.60)
+h1602_Value,2.05(1.21),1.64(0.89)
+region_y_Value,4.76(2.44),5.01(2.35)
+est_sel_y_Value,158.69(85.37),155.21(81.02)
+region_Value,4.76(2.44),5.01(2.35)
+municipio_y_Value,36.90(59.40),42.61(78.55)
+h0204_Value,4.59(2.05),3.90(1.90)
+h305i_Value,1.82(0.91),1.74(0.81)
+h0809_Value,1.67(4.14),1.81(3.53)
+h0812_Value,1.44(4.41),1.42(3.45)
+a1210_Frequency_1,3572,42
+a1210_Frequency_2,1882,24
+a1210_Frequency_3,84758,586
+a1210_Frequency_8,1357,12
+a1210_Frequency_9,327,3
+a1211_Frequency_1,6975,78
+a1211_Frequency_2,84551,587
+a1211_Frequency_9,370,2
+a1213_Frequency_1,1643,16
+a1213_Frequency_2,1595,17
+a1213_Frequency_3,88658,634
+a1301_Frequency_1,6899,37
+a1301_Frequency_2,8434,48
+a1301_Frequency_3,76298,579
+a1301_Frequency_9,265,3
+a1307_Frequency_1,153,0
+a1307_Frequency_2,1073,7
+a1307_Frequency_3,43227,304
+a1307_Frequency_4,47173,355
+a1307_Frequency_9,270,1
+a1308_Frequency_1,1191,8
+a1308_Frequency_2,11507,67
+a1308_Frequency_3,15868,114
+a1308_Frequency_4,17977,133
+a1308_Frequency_5,22544,179
+a1308_Frequency_6,22714,166
+a1308_Frequency_9,95,0
+a1401_Frequency_1,33492,304
+a1401_Frequency_2,58404,363
+a1402_Frequency_1,833,6
+a1402_Frequency_2,91063,661
+a1404b_Frequency_1,81559,549
+a1404b_Frequency_2,8501,91
+a1404b_Frequency_3,987,21
+a1404b_Frequency_4,16,0
+a1405_Frequency_1,74612,403
+a1405_Frequency_2,13395,156
+a1405_Frequency_3,3342,95
+a1405_Frequency_4,547,13
+a1406_Frequency_1,69823,419
+a1406_Frequency_2,20276,217
+a1406_Frequency_3,1732,31
+a1406_Frequency_4,65,0
+a1407_Frequency_1,87931,604
+a1407_Frequency_2,3244,49
+a1407_Frequency_3,553,7
+a1407_Frequency_4,168,7
+a1408_Frequency_1,86922,612
+a1408_Frequency_2,4616,49
+a1408_Frequency_3,358,6
+asexo_Frequency_1,35347,250
+asexo_Frequency_2,56549,417
+entidad_x_Frequency_1,2319,10
+entidad_x_Frequency_2,2006,13
+entidad_x_Frequency_3,2260,8
+entidad_x_Frequency_4,2510,17
+entidad_x_Frequency_5,2127,16
+entidad_x_Frequency_6,2241,12
+entidad_x_Frequency_7,3109,41
+entidad_x_Frequency_8,1861,23
+entidad_x_Frequency_9,7341,55
+entidad_x_Frequency_10,2478,18
+entidad_x_Frequency_11,8932,74
+entidad_x_Frequency_12,2593,20
+entidad_x_Frequency_13,2453,24
+entidad_x_Frequency_14,1684,3
+entidad_x_Frequency_15,7036,46
+entidad_x_Frequency_16,2289,19
+entidad_x_Frequency_17,2320,18
+entidad_x_Frequency_18,1761,7
+entidad_x_Frequency_19,4999,34
+entidad_x_Frequency_20,2514,31
+entidad_x_Frequency_21,2184,15
+entidad_x_Frequency_22,2349,19
+entidad_x_Frequency_23,1786,8
+entidad_x_Frequency_24,2628,17
+entidad_x_Frequency_25,2269,12
+entidad_x_Frequency_26,1873,9
+entidad_x_Frequency_27,2556,35
+entidad_x_Frequency_28,2014,10
+entidad_x_Frequency_29,2223,18
+entidad_x_Frequency_30,2325,17
+entidad_x_Frequency_31,2096,3
+entidad_x_Frequency_32,2760,15
+estrato_x_Frequency_1,23049,230
+estrato_x_Frequency_2,27971,168
+estrato_x_Frequency_3,40876,269
+resultado_3_Frequency_0,90904,657
+resultado_3_Frequency_1,742,7
+resultado_3_Frequency_2,93,0
+resultado_3_Frequency_3,11,0
+resultado_3_Frequency_4,13,0
+resultado_3_Frequency_5,133,3
+resultado_4_Frequency_0,91646,664
+resultado_4_Frequency_1,250,3
+sexo_Frequency_1,35193,249
+sexo_Frequency_2,56703,418
+entidad1_Frequency_1,2319,10
+entidad1_Frequency_2,2006,13
+entidad1_Frequency_3,2260,8
+entidad1_Frequency_4,2510,17
+entidad1_Frequency_5,2127,16
+entidad1_Frequency_6,2241,12
+entidad1_Frequency_7,3109,41
+entidad1_Frequency_8,1861,23
+entidad1_Frequency_9,7341,55
+entidad1_Frequency_10,2478,18
+entidad1_Frequency_11,8932,74
+entidad1_Frequency_12,2593,20
+entidad1_Frequency_13,2453,24
+entidad1_Frequency_14,1684,3
+entidad1_Frequency_15,7036,46
+entidad1_Frequency_16,2289,19
+entidad1_Frequency_17,2320,18
+entidad1_Frequency_18,1761,7
+entidad1_Frequency_19,4999,34
+entidad1_Frequency_20,2514,31
+entidad1_Frequency_21,2184,15
+entidad1_Frequency_22,2349,19
+entidad1_Frequency_23,1786,8
+entidad1_Frequency_24,2628,17
+entidad1_Frequency_25,2269,12
+entidad1_Frequency_26,1873,9
+entidad1_Frequency_27,2556,35
+entidad1_Frequency_28,2014,10
+entidad1_Frequency_29,2223,18
+entidad1_Frequency_30,2325,17
+entidad1_Frequency_31,2096,3
+entidad1_Frequency_32,2760,15
+desc_ent1_Frequency_01 AGUASCALIENTES,2319,10
+desc_ent1_Frequency_02 BAJA CALIFORNIA,2006,13
+desc_ent1_Frequency_03 BAJA CALIFORNIA SUR,2260,8
+desc_ent1_Frequency_04 CAMPECHE,2510,17
+desc_ent1_Frequency_05 COAHUILA DE ZARAGOZA,2127,16
+desc_ent1_Frequency_06 COLIMA,2241,12
+desc_ent1_Frequency_07 CHIAPAS,3109,41
+desc_ent1_Frequency_08 CHIHUAHUA,1861,23
+desc_ent1_Frequency_09 CIUDAD DE MÉXICO,7341,55
+desc_ent1_Frequency_10 DURANGO,2478,18
+desc_ent1_Frequency_11 GUANAJUATO,8932,74
+desc_ent1_Frequency_12 GUERRERO,2593,20
+desc_ent1_Frequency_13 HIDALGO,2453,24
+desc_ent1_Frequency_14 JALISCO,1684,3
+desc_ent1_Frequency_15 MÉXICO,7036,46
+desc_ent1_Frequency_16 MICHOACÁN DE OCAMPO,2289,19
+desc_ent1_Frequency_17 MORELOS,2320,18
+desc_ent1_Frequency_18 NAYARIT,1761,7
+desc_ent1_Frequency_19 NUEVO LEÓN,4999,34
+desc_ent1_Frequency_20 OAXACA,2514,31
+desc_ent1_Frequency_21 PUEBLA,2184,15
+desc_ent1_Frequency_22 QUERÉTARO,2349,19
+desc_ent1_Frequency_23 QUINTANA ROO,1786,8
+desc_ent1_Frequency_24 SAN LUIS POTOSÍ,2628,17
+desc_ent1_Frequency_25 SINALOA,2269,12
+desc_ent1_Frequency_26 SONORA,1873,9
+desc_ent1_Frequency_27 TABASCO,2556,35
+desc_ent1_Frequency_28 TAMAULIPAS,2014,10
+desc_ent1_Frequency_29 TLAXCALA,2223,18
+desc_ent1_Frequency_30 VERACRUZ DE IGNACIO DE LA LLAVE,2325,17
+desc_ent1_Frequency_31 YUCATÁN,2096,3
+desc_ent1_Frequency_32 ZACATECAS,2760,15
+h0302_Frequency_1,43090,276
+h0302_Frequency_2,48806,391
+h0304d_Frequency_1,921,12
+h0304d_Frequency_2,870,6
+h0304d_Frequency_3,876,0
+h0304d_Frequency_4,963,6
+h0304d_Frequency_5,916,4
+h0304d_Frequency_6,964,13
+h0304d_Frequency_7,939,6
+h0304d_Frequency_8,954,3
+h0304d_Frequency_9,830,6
+h0304d_Frequency_10,985,6
+h0304d_Frequency_11,827,1
+h0304d_Frequency_12,916,4
+h0304d_Frequency_13,827,6
+h0304d_Frequency_14,842,5
+h0304d_Frequency_15,930,5
+h0304d_Frequency_16,800,11
+h0304d_Frequency_17,844,15
+h0304d_Frequency_18,895,11
+h0304d_Frequency_19,845,7
+h0304d_Frequency_20,877,5
+h0304d_Frequency_21,830,2
+h0304d_Frequency_22,823,9
+h0304d_Frequency_23,796,1
+h0304d_Frequency_24,852,9
+h0304d_Frequency_25,860,9
+h0304d_Frequency_26,808,5
+h0304d_Frequency_27,872,4
+h0304d_Frequency_28,830,4
+h0304d_Frequency_29,737,3
+h0304d_Frequency_30,744,3
+h0304d_Frequency_31,409,5
+h0304d_Frequency_99,334,2
+h0304d_Frequency_1,2318,20
+h0304d_Frequency_10,2231,20
+h0304d_Frequency_11,2080,18
+h0304d_Frequency_12,2193,16
+h0304d_Frequency_13,1978,19
+h0304d_Frequency_14,1968,13
+h0304d_Frequency_15,2172,21
+h0304d_Frequency_16,2052,14
+h0304d_Frequency_17,1990,15
+h0304d_Frequency_18,1956,12
+h0304d_Frequency_19,1913,16
+h0304d_Frequency_2,2269,13
+h0304d_Frequency_20,2227,15
+h0304d_Frequency_21,2045,14
+h0304d_Frequency_22,2020,9
+h0304d_Frequency_23,1965,23
+h0304d_Frequency_24,2039,14
+h0304d_Frequency_25,2061,10
+h0304d_Frequency_26,1916,14
+h0304d_Frequency_27,2018,13
+h0304d_Frequency_28,2134,13
+h0304d_Frequency_29,1850,9
+h0304d_Frequency_3,2236,19
+h0304d_Frequency_30,1846,21
+h0304d_Frequency_31,1032,7
+h0304d_Frequency_4,2255,14
+h0304d_Frequency_5,2294,17
+h0304d_Frequency_6,2224,15
+h0304d_Frequency_7,2077,15
+h0304d_Frequency_8,2276,14
+h0304d_Frequency_9,1926,24
+h0304d_Frequency_99,1577,2
+h0304m_Frequency_1,2230,13
+h0304m_Frequency_2,2033,10
+h0304m_Frequency_3,2198,13
+h0304m_Frequency_4,2074,8
+h0304m_Frequency_5,2255,18
+h0304m_Frequency_6,2164,13
+h0304m_Frequency_7,2259,19
+h0304m_Frequency_8,2316,17
+h0304m_Frequency_9,2314,14
+h0304m_Frequency_10,2310,25
+h0304m_Frequency_11,2136,15
+h0304m_Frequency_12,2260,23
+h0304m_Frequency_99,167,0
+h0304m_Frequency_1,5297,57
+h0304m_Frequency_10,5365,40
+h0304m_Frequency_11,5248,38
+h0304m_Frequency_12,5421,45
+h0304m_Frequency_2,4844,36
+h0304m_Frequency_3,5258,43
+h0304m_Frequency_4,5050,30
+h0304m_Frequency_5,5229,27
+h0304m_Frequency_6,5166,37
+h0304m_Frequency_7,5660,38
+h0304m_Frequency_8,5865,42
+h0304m_Frequency_9,5563,44
+h0304m_Frequency_99,1172,2
+meses_Frequency_0,2359,17
+meses_Frequency_1,2639,24
+meses_Frequency_2,2228,11
+meses_Frequency_3,2165,13
+meses_Frequency_4,2154,12
+meses_Frequency_5,2131,19
+meses_Frequency_6,2109,8
+meses_Frequency_7,2114,17
+meses_Frequency_8,2202,7
+meses_Frequency_9,2228,20
+meses_Frequency_10,2194,24
+meses_Frequency_11,2193,16
+meses_Frequency_0,5505,42
+meses_Frequency_1,7460,39
+meses_Frequency_10,5225,35
+meses_Frequency_11,5565,41
+meses_Frequency_2,5430,45
+meses_Frequency_3,5214,29
+meses_Frequency_4,5026,24
+meses_Frequency_5,5033,44
+meses_Frequency_6,4983,42
+meses_Frequency_7,5061,46
+meses_Frequency_8,5160,39
+meses_Frequency_9,5476,53
+h0305_Frequency_1,24959,356
+h0305_Frequency_2,15725,175
+h0305_Frequency_3,35035,78
+h0305_Frequency_4,8889,9
+h0305_Frequency_5,2319,6
+h0305_Frequency_6,927,15
+h0305_Frequency_7,430,5
+h0305_Frequency_8,3034,23
+h0305_Frequency_9,578,0
+h0306_Frequency_1,77022,512
+h0306_Frequency_2,14389,152
+h0306_Frequency_3,352,3
+h0306_Frequency_4,133,0
+h0308_Frequency_1,29189,53
+h0308_Frequency_2,32255,200
+h0308_Frequency_3,30082,414
+h0308_Frequency_8,23,0
+h0308_Frequency_9,347,0
+h0309_Frequency_1,26415,160
+h0309_Frequency_2,4117,43
+h0309_Frequency_3,199,3
+h0309_Frequency_4,211,7
+h0309_Frequency_5,130,0
+h0309_Frequency_6,25910,165
+h0309_Frequency_7,1370,8
+h0309_Frequency_8,86,1
+h0309_Frequency_9,118,0
+h0309_Frequency_10,121,3
+h0309_Frequency_11,61,3
+h0309_Frequency_12,15658,120
+h0309_Frequency_13,2186,13
+h0309_Frequency_14,291,2
+h0309_Frequency_15,631,5
+h0309_Frequency_16,13114,121
+h0309_Frequency_17,306,2
+h0309_Frequency_18,26,0
+h0309_Frequency_19,41,0
+h0309_Frequency_20,91,1
+h0309_Frequency_21,33,0
+h0309_Frequency_22,662,9
+h0309_Frequency_23,119,1
+H0310A_Frequency_1,32830,214
+H0310A_Frequency_2,4189,40
+H0310A_Frequency_3,1022,19
+H0310A_Frequency_4,273,8
+H0310A_Frequency_5,281,12
+H0310A_Frequency_6,108,0
+H0310A_Frequency_7,857,8
+H0310A_Frequency_8,252,1
+H0310A_Frequency_9,554,2
+H0310A_Frequency_10,41358,287
+H0310A_Frequency_11,9552,72
+H0310A_Frequency_99,620,4
+h0401_Frequency_1,20203,667
+h0401_Frequency_2,71693,0
+h0601a_Frequency_1,2248,15
+h0601a_Frequency_2,89058,652
+h0601a_Frequency_9,64,0
+h0601c_Frequency_1,1133,17
+h0601c_Frequency_2,90709,650
+h0601c_Frequency_9,54,0
+h0601g_Frequency_1,116,0
+h0601g_Frequency_2,91703,666
+h0601g_Frequency_9,77,1
+h0601h_Frequency_1,161,2
+h0601h_Frequency_2,91675,665
+h0601h_Frequency_9,60,0
+h0604ba_Frequency_1,777,8
+h0604ba_Frequency_2,90769,657
+h0604ba_Frequency_9,350,2
+entidad_y_Frequency_1,2319,10
+entidad_y_Frequency_2,2006,13
+entidad_y_Frequency_3,2260,8
+entidad_y_Frequency_4,2510,17
+entidad_y_Frequency_5,2127,16
+entidad_y_Frequency_6,2241,12
+entidad_y_Frequency_7,3109,41
+entidad_y_Frequency_8,1861,23
+entidad_y_Frequency_9,7341,55
+entidad_y_Frequency_10,2478,18
+entidad_y_Frequency_11,8932,74
+entidad_y_Frequency_12,2593,20
+entidad_y_Frequency_13,2453,24
+entidad_y_Frequency_14,1684,3
+entidad_y_Frequency_15,7036,46
+entidad_y_Frequency_16,2289,19
+entidad_y_Frequency_17,2320,18
+entidad_y_Frequency_18,1761,7
+entidad_y_Frequency_19,4999,34
+entidad_y_Frequency_20,2514,31
+entidad_y_Frequency_21,2184,15
+entidad_y_Frequency_22,2349,19
+entidad_y_Frequency_23,1786,8
+entidad_y_Frequency_24,2628,17
+entidad_y_Frequency_25,2269,12
+entidad_y_Frequency_26,1873,9
+entidad_y_Frequency_27,2556,35
+entidad_y_Frequency_28,2014,10
+entidad_y_Frequency_29,2223,18
+entidad_y_Frequency_30,2325,17
+entidad_y_Frequency_31,2096,3
+entidad_y_Frequency_32,2760,15
+estrato_y_Frequency_1,23049,230
+estrato_y_Frequency_2,27971,168
+estrato_y_Frequency_3,40876,269
+entidad_Frequency_1,2319,10
+entidad_Frequency_2,2006,13
+entidad_Frequency_3,2260,8
+entidad_Frequency_4,2510,17
+entidad_Frequency_5,2127,16
+entidad_Frequency_6,2241,12
+entidad_Frequency_7,3109,41
+entidad_Frequency_8,1861,23
+entidad_Frequency_9,7341,55
+entidad_Frequency_10,2478,18
+entidad_Frequency_11,8932,74
+entidad_Frequency_12,2593,20
+entidad_Frequency_13,2453,24
+entidad_Frequency_14,1684,3
+entidad_Frequency_15,7036,46
+entidad_Frequency_16,2289,19
+entidad_Frequency_17,2320,18
+entidad_Frequency_18,1761,7
+entidad_Frequency_19,4999,34
+entidad_Frequency_20,2514,31
+entidad_Frequency_21,2184,15
+entidad_Frequency_22,2349,19
+entidad_Frequency_23,1786,8
+entidad_Frequency_24,2628,17
+entidad_Frequency_25,2269,12
+entidad_Frequency_26,1873,9
+entidad_Frequency_27,2556,35
+entidad_Frequency_28,2014,10
+entidad_Frequency_29,2223,18
+entidad_Frequency_30,2325,17
+entidad_Frequency_31,2096,3
+entidad_Frequency_32,2760,15
+desc_ent_y_Frequency_01 AGUASCALIENTES,2319,10
+desc_ent_y_Frequency_02 BAJA CALIFORNIA,2006,13
+desc_ent_y_Frequency_03 BAJA CALIFORNIA SUR,2260,8
+desc_ent_y_Frequency_04 CAMPECHE,2510,17
+desc_ent_y_Frequency_05 COAHUILA DE ZARAGOZA,2127,16
+desc_ent_y_Frequency_06 COLIMA,2241,12
+desc_ent_y_Frequency_07 CHIAPAS,3109,41
+desc_ent_y_Frequency_08 CHIHUAHUA,1861,23
+desc_ent_y_Frequency_09 CIUDAD DE MÉXICO,7341,55
+desc_ent_y_Frequency_10 DURANGO,2478,18
+desc_ent_y_Frequency_11 GUANAJUATO,8932,74
+desc_ent_y_Frequency_12 GUERRERO,2593,20
+desc_ent_y_Frequency_13 HIDALGO,2453,24
+desc_ent_y_Frequency_14 JALISCO,1684,3
+desc_ent_y_Frequency_15 MÉXICO,7036,46
+desc_ent_y_Frequency_16 MICHOACÁN DE OCAMPO,2289,19
+desc_ent_y_Frequency_17 MORELOS,2320,18
+desc_ent_y_Frequency_18 NAYARIT,1761,7
+desc_ent_y_Frequency_19 NUEVO LEÓN,4999,34
+desc_ent_y_Frequency_20 OAXACA,2514,31
+desc_ent_y_Frequency_21 PUEBLA,2184,15
+desc_ent_y_Frequency_22 QUERÉTARO,2349,19
+desc_ent_y_Frequency_23 QUINTANA ROO,1786,8
+desc_ent_y_Frequency_24 SAN LUIS POTOSÍ,2628,17
+desc_ent_y_Frequency_25 SINALOA,2269,12
+desc_ent_y_Frequency_26 SONORA,1873,9
+desc_ent_y_Frequency_27 TABASCO,2556,35
+desc_ent_y_Frequency_28 TAMAULIPAS,2014,10
+desc_ent_y_Frequency_29 TLAXCALA,2223,18
+desc_ent_y_Frequency_30 VERACRUZ DE IGNACIO DE LA LLAVE,2325,17
+desc_ent_y_Frequency_31 YUCATÁN,2096,3
+desc_ent_y_Frequency_32 ZACATECAS,2760,15
+nota1a_Frequency_1,91718,666
+h0101_Frequency_1,114,10
+h0101_Frequency_2,476,1
+h0101_Frequency_3,11697,125
+h0101_Frequency_4,4730,42
+h0101_Frequency_5,279,0
+h0101_Frequency_6,1710,15
+h0101_Frequency_7,598,7
+h0101_Frequency_8,828,4
+h0101_Frequency_9,71286,462
+h0102_Frequency_1,61,4
+h0102_Frequency_2,41,0
+h0102_Frequency_3,605,5
+h0102_Frequency_4,182,1
+h0102_Frequency_5,155,0
+h0102_Frequency_6,2215,22
+h0102_Frequency_7,3985,41
+h0102_Frequency_8,84474,593
+h0103_Frequency_1,1808,10
+h0103_Frequency_2,51191,407
+h0103_Frequency_3,38719,249
+h0106_Frequency_1,87466,635
+h0106_Frequency_2,4252,31
+h0110_Frequency_1,77929,526
+h0110_Frequency_2,1257,8
+h0110_Frequency_3,8802,85
+h0110_Frequency_4,2421,38
+h0110_Frequency_5,228,4
+h0110_Frequency_6,763,5
+h0111_Frequency_1,91088,660
+h0111_Frequency_2,630,6
+h0112_Frequency_1,71599,474
+h0112_Frequency_2,16085,153
+h0112_Frequency_3,4034,39
+h0118_Frequency_1,71730,481
+h0118_Frequency_2,17857,174
+h0118_Frequency_3,611,4
+h0118_Frequency_4,225,4
+h0118_Frequency_5,1295,3
+h0119_Frequency_1,64695,440
+h0119_Frequency_2,24127,205
+h0119_Frequency_3,2143,18
+h0119_Frequency_4,753,3
+h0120_Frequency_1,5946,66
+h0120_Frequency_2,85019,597
+h0122_Frequency_1,7103,71
+h0122_Frequency_2,84615,595
+h0125_Frequency_1,9763,58
+h0125_Frequency_2,8058,68
+h0125_Frequency_3,4781,19
+h0125_Frequency_4,68342,511
+h0125_Frequency_5,579,8
+h0125_Frequency_6,195,2
+nota2_Frequency_1,91718,666
+h0201_Frequency_1,91424,662
+h0201_Frequency_2,294,4
+h305t_Frequency_1,91896,667
+h0327_Frequency_1,41716,343
+h0327_Frequency_2,25396,161
+h0327_Frequency_3,11889,68
+h0327_Frequency_4,4458,38
+h0327_Frequency_5,2104,16
+h0327_Frequency_6,819,13
+h0327_Frequency_8,3055,15
+h0327_Frequency_9,2459,13
+h0501a_Frequency_1,85658,604
+h0501a_Frequency_2,6238,63
+h0501b_Frequency_1,45707,271
+h0501b_Frequency_2,46189,396
+h0501c_Frequency_1,30280,230
+h0501c_Frequency_2,61616,437
+h0501e_Frequency_1,37457,188
+h0501e_Frequency_2,54439,479
+h0501f_Frequency_1,87122,608
+h0501f_Frequency_2,4774,59
+h0501g_Frequency_1,58109,349
+h0501g_Frequency_2,33787,318
+h0501k_Frequency_1,84720,589
+h0501k_Frequency_2,7176,78
+h0501l_Frequency_1,84271,603
+h0501l_Frequency_2,7625,64
+h0501n_Frequency_1,70586,472
+h0501n_Frequency_2,21310,195
+h0501o_Frequency_1,41477,267
+h0501o_Frequency_2,50419,400
+h0801_Frequency_1,59363,381
+h0801_Frequency_2,12917,98
+h0801_Frequency_3,9424,93
+h0801_Frequency_4,5601,50
+h0801_Frequency_5,4357,43
+h0801_Frequency_88,215,2
+h0801_Frequency_99,19,0
+h0802_Frequency_1,55730,356
+h0802_Frequency_2,15123,108
+h0802_Frequency_3,10463,90
+h0802_Frequency_4,5964,63
+h0802_Frequency_5,4142,44
+h0802_Frequency_88,426,6
+h0802_Frequency_99,48,0
+h0803_Frequency_1,61411,427
+h0803_Frequency_2,13245,72
+h0803_Frequency_3,9181,95
+h0803_Frequency_4,5101,38
+h0803_Frequency_5,2740,31
+h0803_Frequency_88,202,4
+h0803_Frequency_99,16,0
+h0804_Frequency_1,65575,446
+h0804_Frequency_2,12924,84
+h0804_Frequency_3,7231,71
+h0804_Frequency_4,3982,43
+h0804_Frequency_5,1966,21
+h0804_Frequency_88,201,2
+h0804_Frequency_99,17,0
+h0805_Frequency_1,69450,482
+h0805_Frequency_2,11635,79
+h0805_Frequency_3,6279,63
+h0805_Frequency_4,2889,29
+h0805_Frequency_5,1432,12
+h0805_Frequency_88,190,2
+h0805_Frequency_99,21,0
+h0806_Frequency_1,73627,528
+h0806_Frequency_2,10010,54
+h0806_Frequency_3,4647,51
+h0806_Frequency_4,2284,22
+h0806_Frequency_5,1117,10
+h0806_Frequency_88,201,2
+h0806_Frequency_99,10,0
+h0807_Frequency_1,69914,475
+h0807_Frequency_2,11374,77
+h0807_Frequency_3,6320,75
+h0807_Frequency_4,2754,27
+h0807_Frequency_5,1341,11
+h0807_Frequency_88,182,2
+h0807_Frequency_99,11,0
+h0808_Frequency_1,75964,548
+h0808_Frequency_2,8642,54
+h0808_Frequency_3,3790,39
+h0808_Frequency_4,2015,14
+h0808_Frequency_5,1190,9
+h0808_Frequency_88,279,3
+h0808_Frequency_99,16,0
+h0810_Frequency_1,80256,567
+h0810_Frequency_2,6782,51
+h0810_Frequency_3,2758,31
+h0810_Frequency_4,1156,9
+h0810_Frequency_5,701,7
+h0810_Frequency_88,235,2
+h0810_Frequency_99,8,0
+h0811_Frequency_1,69847,482
+h0811_Frequency_2,9224,63
+h0811_Frequency_3,5079,55
+h0811_Frequency_4,3085,26
+h0811_Frequency_5,4225,39
+h0811_Frequency_88,358,2
+h0811_Frequency_99,78,0
+Dolor_Frequency_0,91896,0
+Dolor_Frequency_1,0,667
