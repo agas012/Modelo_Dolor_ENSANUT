@@ -389,7 +389,7 @@ convert_dict = {
  'A0408D': 'category',
  'A0408E': 'category',
  'a0409': 'category',
- 'a0409a': 'category',
+ 'a0409a': 'int64',
  'a0502a': 'category',
  'a0502b': 'category',
  'a0502c': 'category',
@@ -818,11 +818,10 @@ Data_test.drop(['upm_y'], axis=1, inplace=True)
 Data_test.drop(['desc_ent_y'], axis=1, inplace=True)
 Data_test.drop(['desc_mun_y'], axis=1, inplace=True)
 
-
+array=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,70,71,72,73,75,76,77,78,79,80,81,85,86,87,88,89,90,91,92,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173]
+Data_test = Data_test.iloc[:,array]
 #Data_test['Dolor']=Data_test['Dolor'].astype('int64')
 #Data_test.A0110A = Data_test.A0110A.astype('category')
+
 stats_p = populationtest(Data_test, 'Dolor', Data_test['Dolor'].unique().tolist(), out_path_files, 'Dolor')
 #or_test(data_I, 'TipoPoblacion',np.r_[5:10,18,19:27],out_path_files, 'OR')
-
-# %%
-ctableT = pd.crosstab(pd.to_numeric(Data_test['a0104']),Data_test['Dolor'],margins=True)

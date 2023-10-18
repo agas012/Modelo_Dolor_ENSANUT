@@ -104,16 +104,18 @@ def populationtest(data_in, colgrouped, valueslist, outpath, filename):
                 ctableT.rename(columns={'All':'Totales'}, inplace = True)
                 data_sig.loc[data_sig.Name==cols,'p'] = pvalue
                 data_sig.loc[data_sig.Name==cols,'statistic'] = stat
-                if((ctableT.index == 0).any()):
-                    ctableT = ctableT.drop(0)
-                    ctableT.rename({1:cols}, inplace = True) 
+                # if((ctableT.index == 0).any()):
+                #     ctableT = ctableT.drop(0)
+                #     ctableT.rename({1:cols}, inplace = True) 
                 # if(pvalue < 0.001):
                 #     ctableT.loc[ctableT.index[0], 'p'] = '<0.001'
                 # elif(pvalue < 0.01):
                 #     ctableT.loc[ctableT.index[0], 'p'] = '<0.01'
                 # else:
-                ctableT.loc[ctableT.index[0], 'p'] = "{:.6f}".format(pvalue) 
-                ctableT = ctableT.dropna()
+                ctableT.loc[:, 'p'] = "{:.6f}".format(pvalue) 
+                prefix = cols + '_'
+                ctableT.rename(lambda x: f'{prefix}{x}', axis=0, inplace = True)
+                # ctableT = ctableT.dropna()
             else:
                 ctableT.rename(columns={'All':'Totales'}, inplace = True) 
                 ctableT.rename(index={ ctableT.index[0]: cols }, inplace = True)
