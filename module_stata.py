@@ -97,7 +97,7 @@ def populationtest(data_in, colgrouped, valueslist, outpath, filename):
             ctableT = ctableT.drop('All')
             if(ctableT.shape[0]>1):
                 ctablen = pd.crosstab(pd.to_numeric(data_in[cols]),data_in[colgrouped], normalize='columns',margins=True)*100.00
-                ctablen = ctablen.applymap(lambda x: " ({:.2f})".format(x))
+                ctablen = ctablen.applymap(lambda x: " ({:.2f}%)".format(x))
                 stat, pvalue, dof, expected = ss.chi2_contingency(ctableT.loc[:,valueslist])
                 ctableT = ctableT.astype(str)
                 ctableT = ctableT + ctablen

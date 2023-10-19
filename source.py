@@ -2,6 +2,7 @@
 from pathlib import Path
 #dataframe
 import pandas as pd
+from datetime import date
 
 #Math
 import numpy as np
@@ -172,7 +173,7 @@ convert_dict = {
  'h0304': 'category',
  'h0304d': 'category',
  'h0304m': 'category',
- 'h0304a': 'category',
+ 'h0304a': 'float64',
  'meses': 'category',
  'h0305': 'category',
  'h0305_es': 'category',
@@ -389,7 +390,7 @@ convert_dict = {
  'A0408D': 'category',
  'A0408E': 'category',
  'a0409': 'category',
- 'a0409a': 'int64',
+ 'a0409a': 'float64',
  'a0502a': 'category',
  'a0502b': 'category',
  'a0502c': 'category',
@@ -419,8 +420,8 @@ convert_dict = {
  'a0704m': 'category',
  'a0704p': 'category',
  'a07her': 'category',
- 'a0801': 'category',
- 'a0802': 'category',
+ 'a0801': 'float64',
+ 'a0802': 'float64',
  'A0803A': 'category',
  'A0803B': 'category',
  'A0803C': 'category',
@@ -456,21 +457,21 @@ convert_dict = {
  'A0804P': 'category',
  'A0804Q': 'category',
  'a0805': 'category',
- 'a0806': 'category',
+ 'a0806': 'float64',
  'a0807': 'category',
  'a0808': 'category',
- 'a0809': 'category',
- 'a0810a': 'category',
- 'a0810ad': 'category',
- 'a0810ae': 'category',
- 'a0810b': 'category',
- 'a0810c': 'category',
- 'a0811a': 'category',
- 'a0811d': 'category',
- 'a0811m': 'category',
- 'a0812': 'category',
+ 'a0809': 'float64',
+ 'a0810a': 'float64',
+ 'a0810ad': 'float64',
+ 'a0810ae': 'float64',
+ 'a0810b': 'float64',
+ 'a0810c': 'float64',
+ 'a0811a': 'float64',
+ 'a0811d': 'float64',
+ 'a0811m': 'float64',
+ 'a0812': 'float64',
  'a0813': 'category',
- 'a0814': 'category',
+ 'a0814': 'float64',
  'a0815a': 'category',
  'a0815b': 'category',
  'a0815c': 'category',
@@ -490,7 +491,7 @@ convert_dict = {
  'a0816': 'category',
  'a0817': 'category',
  'a0818': 'category',
- 'a0819k': 'category',
+ 'a0819k': 'float64',
  'a0821a': 'category',
  'a0821b': 'category',
  'a0821c': 'category',
@@ -512,35 +513,22 @@ convert_dict = {
  'a0906': 'category',
  'a0908': 'category',
  'a09091a': 'category',
- 'a09091bd': 'category',
  'a09092a': 'category',
- 'a09092bd': 'category',
  'a09093a': 'category',
- 'a09093bd': 'category',
  'a09101a': 'category',
- 'a09101bd': 'category',
  'a09102a': 'category',
- 'a09102bd': 'category',
  'a09103a': 'category',
- 'a09103bd': 'category',
  'a09104a': 'category',
- 'a09104bd': 'category',
  'a09111a': 'category',
- 'a09111bd': 'category',
  'a09121a': 'category',
- 'a09121bd': 'category',
  'a09122a': 'category',
- 'a09122bd': 'category',
  'a09131a': 'category',
- 'a09131bd': 'category',
  'a09131ed': 'category',
  'a09131nom': 'category',
  'a09132a': 'category',
- 'a09132bd': 'category',
  'a09132edad': 'category',
  'a09132nom': 'category',
  'a09133a': 'category',
- 'a09133bd': 'category',
  'a09133ed': 'category',
  'a09133nom': 'category',
  'a0914': 'category',
@@ -552,30 +540,19 @@ convert_dict = {
  'a0920': 'category',
  'a0921': 'category',
  'a09221a': 'category',
- 'a09221bd': 'category',
  'a09222a': 'category',
- 'a09222bd': 'category',
  'a09223a': 'category',
- 'a09223bd': 'category',
  'a09231a': 'category',
- 'a09231bd': 'category',
- 'a09232bd': 'category',
  'a09233a': 'category',
- 'a09233bd': 'category',
  'a09234a': 'category',
- 'a09234bd': 'category',
  'a09241a': 'category',
- 'a09241bd': 'category',
  'a09251a': 'category',
- 'a09251bd': 'category',
  'a09251ed': 'category',
  'a09251nom': 'category',
  'a09252a': 'category',
- 'a09252bd': 'category',
  'a09252ed': 'category',
  'a09252nom': 'category',
  'a09253a': 'category',
- 'a09253bd': 'category',
  'a09253ed': 'category',
  'a09253nom': 'category',
  'a1001a': 'category',
@@ -699,18 +676,18 @@ convert_dict = {
  'a1213': 'category',
  'a1214': 'category',
  'a1301': 'category',
- 'a1302': 'category',
- 'a1303': 'category',
- 'a1304': 'category',
+ 'a1302': 'float64',
+ 'a1303': 'float64',
+ 'a1304': 'float64',
  'a1305': 'category',
- 'a1306p': 'category',
- 'a1306t': 'category',
+ 'a1306p': 'float64',
+ 'a1306t': 'float64',
  'a1307': 'category',
- 'a1308': 'category',
- 'a1309': 'category',
- 'a1310': 'category',
- 'a1311': 'category',
- 'a1312': 'category',
+ 'a1308': 'float64',
+ 'a1309': 'float64',
+ 'a1310': 'float64',
+ 'a1311': 'float64',
+ 'a1312': 'float64',
  'a1401': 'category',
  'a1402': 'category',
  'a1403a': 'category',
@@ -745,7 +722,12 @@ convert_dict = {
  'sexo': 'category'
 }
 DataHe21_sub = DataHe21_sub.astype(convert_dict)
+DataHe22_sub.a0819k = DataHe22_sub.a0819k.str.replace(',', '.')
 DataHe22_sub = DataHe22_sub.astype(convert_dict)
+
+
+#DataHe22_sub['a09091bd'] = pd.to_datetime(DataHe22_sub['a09091bd'], format='%Y%m%d') 
+
 
 #merge
 result_21 = DataHe21_sub.merge(DataR21_sub, on='FOLIO_I', how='left')
@@ -759,22 +741,27 @@ Data = pd.concat(frames,keys=["2021", "2022"])
 Data['Dolor'] = 0
 Data.loc[Data.h0402=='44','Dolor'] = 1
 Data['Dolor']=Data['Dolor'].astype('category')
+#defragmentation of data
+Data = Data.copy()
 
 nan_counts = Data.isna().sum()
 # Set a limit for the number of NaN values allowed per column
-nan_limit = 92563/2
+nan_limit = len(Data)/2 #in statistics it should be 10%
 # Drop columns where the number of NaN values exceeds the limit
+#before the filtere we have 648
 columns_to_drop = nan_counts[nan_counts > nan_limit].index
-Data.drop(columns=columns_to_drop, inplace=True)
+Data_sub = Data.copy()
+Data_sub.drop(columns=columns_to_drop, inplace=True)
+#after we only have 187
 
-file_name = 'Data'
+file_name = 'Data_sub'
 file_save = out_path_files / (file_name + ".csv")
-Data.to_csv(file_save)
+Data_sub.to_csv(file_save)
 
 # Filter and select only the numeric columns
-numeric_columns = Data.select_dtypes(include=['number'])
+numeric_columns = Data_sub.select_dtypes(include=['number'])
 # Group the DataFrame by 'Category' and calculate statistics for numeric columns
-grouped = numeric_columns.groupby(Data['Dolor'])
+grouped = numeric_columns.groupby(Data_sub['Dolor'])
 summary_numeric = grouped.agg(['mean', 'std', lambda x: x.mode().iloc[0]])
 # Iterate over the first level of the multi-index and combine 'sum' and 'mean' for each index
 for index_name in summary_numeric.columns.levels[0]:
@@ -785,12 +772,12 @@ summary_numeric = summary_numeric.reset_index()
 summary_numeric = summary_numeric.droplevel(level=1, axis=1)
 
 # Group the DataFrame by 'Category' and calculate statistics for categorical columns
-categorical_columns = Data.select_dtypes(include=['category']).columns.tolist()
+categorical_columns = Data_sub.select_dtypes(include=['category']).columns.tolist()
 # Create an empty DataFrame to store the frequency counts
 summary_categorical = pd.DataFrame(columns=['Dolor'])
 # Loop through each categorical column and calculate frequencies
 for col in categorical_columns:
-    grouped_categorical = Data[col].groupby(Data['Dolor'])
+    grouped_categorical = Data_sub[col].groupby(Data_sub['Dolor'])
     col_summary = grouped_categorical.value_counts().unstack(fill_value=0)
     col_summary.columns = [f'{col}_Frequency_{c}' for c in col_summary.columns]
     col_summary.reset_index(inplace=True)
@@ -803,7 +790,7 @@ file_save = out_path_files / (file_name + ".csv")
 summary.T.to_csv(file_save)
 
 
-Data_test = Data.copy()
+Data_test = Data_sub.copy()
 Data_test.drop(['FOLIO_I'], axis=1, inplace=True)
 Data_test.drop(['FOLIO_INT_x'], axis=1, inplace=True)
 Data_test.drop(['desc_ent_x'], axis=1, inplace=True)
@@ -817,11 +804,89 @@ Data_test.drop(['upm_x'], axis=1, inplace=True)
 Data_test.drop(['upm_y'], axis=1, inplace=True)
 Data_test.drop(['desc_ent_y'], axis=1, inplace=True)
 Data_test.drop(['desc_mun_y'], axis=1, inplace=True)
+Data_test.drop(['resultado_1'], axis=1, inplace=True)
+Data_test.drop(['resultado_2'], axis=1, inplace=True)
+Data_test.drop(['resultado_3'], axis=1, inplace=True)
+Data_test.drop(['resultado_4'], axis=1, inplace=True)
 
-array=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,70,71,72,73,75,76,77,78,79,80,81,85,86,87,88,89,90,91,92,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173]
+
+array=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,68,70,71,72,73,74,75,76,77,79,80,81,82,83,84,85,86,87,88,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169]
 Data_test = Data_test.iloc[:,array]
-#Data_test['Dolor']=Data_test['Dolor'].astype('int64')
-#Data_test.A0110A = Data_test.A0110A.astype('category')
+Data_test.drop(Data_test.columns[80], axis=1, inplace=True)
 
 stats_p = populationtest(Data_test, 'Dolor', Data_test['Dolor'].unique().tolist(), out_path_files, 'Dolor')
+#or_test(data_I, 'TipoPoblacion',np.r_[5:10,18,19:27],out_path_files, 'OR')
+
+
+
+Data_sample_np = Data.loc[Data.Dolor==0,:]
+Data_sample_p = Data.loc[Data.Dolor==1,:]
+Data_sample_np = Data_sample_np.sample(len(Data_sample_p)*3)
+frames = [Data_sample_p, Data_sample_np]
+Data_sample = pd.concat(frames)
+
+Data_sample.drop(columns=columns_to_drop, inplace=True)
+#after we only have 187
+
+file_name = 'Data_sample'
+file_save = out_path_files / (file_name + ".csv")
+Data_sample.to_csv(file_save)
+
+# Filter and select only the numeric columns
+numeric_columns = Data_sample.select_dtypes(include=['number'])
+# Group the DataFrame by 'Category' and calculate statistics for numeric columns
+grouped = numeric_columns.groupby(Data_sample['Dolor'])
+summary_numeric = grouped.agg(['mean', 'std', lambda x: x.mode().iloc[0]])
+# Iterate over the first level of the multi-index and combine 'sum' and 'mean' for each index
+for index_name in summary_numeric.columns.levels[0]:
+    summary_numeric[f'{index_name}_Value'] = summary_numeric[index_name]['mean'].apply(lambda x: f'{x:.2f}').astype(str) + '(' + summary_numeric[index_name]['std'].apply(lambda x: f'{x:.2f}').astype(str) + ')'
+    summary_numeric.drop([(index_name, 'mean'), (index_name, 'std'), (index_name,'<lambda_0>')], axis=1, inplace=True)
+# Reset the index to make 'Category' a regular column
+summary_numeric = summary_numeric.reset_index()
+summary_numeric = summary_numeric.droplevel(level=1, axis=1)
+
+# Group the DataFrame by 'Category' and calculate statistics for categorical columns
+categorical_columns = Data_sample.select_dtypes(include=['category']).columns.tolist()
+# Create an empty DataFrame to store the frequency counts
+summary_categorical = pd.DataFrame(columns=['Dolor'])
+# Loop through each categorical column and calculate frequencies
+for col in categorical_columns:
+    grouped_categorical = Data_sample[col].groupby(Data_sample['Dolor'])
+    col_summary = grouped_categorical.value_counts().unstack(fill_value=0)
+    col_summary.columns = [f'{col}_Frequency_{c}' for c in col_summary.columns]
+    col_summary.reset_index(inplace=True)
+    summary_categorical = pd.merge(summary_categorical, col_summary, on='Dolor', how='outer')
+
+# Merge the summary dataframes on 'Category'
+summary = pd.merge(summary_numeric, summary_categorical, on='Dolor')
+file_name = 'summary_Data_sample'
+file_save = out_path_files / (file_name + ".csv")
+summary.T.to_csv(file_save)
+
+
+Data_test = Data_sample.copy()
+Data_test.drop(['FOLIO_I'], axis=1, inplace=True)
+Data_test.drop(['FOLIO_INT_x'], axis=1, inplace=True)
+Data_test.drop(['desc_ent_x'], axis=1, inplace=True)
+Data_test.drop(['desc_mun_x'], axis=1, inplace=True)
+Data_test.drop(['ponde_f_x'], axis=1, inplace=True)
+Data_test.drop(['FOLIO_INT_y'], axis=1, inplace=True)
+Data_test.drop(['desc_ent1'], axis=1, inplace=True)
+Data_test.drop(['desc_mun1'], axis=1, inplace=True)
+Data_test.drop(['ponde_f_y'], axis=1, inplace=True)
+Data_test.drop(['upm_x'], axis=1, inplace=True)
+Data_test.drop(['upm_y'], axis=1, inplace=True)
+Data_test.drop(['desc_ent_y'], axis=1, inplace=True)
+Data_test.drop(['desc_mun_y'], axis=1, inplace=True)
+Data_test.drop(['resultado_1'], axis=1, inplace=True)
+Data_test.drop(['resultado_2'], axis=1, inplace=True)
+Data_test.drop(['resultado_3'], axis=1, inplace=True)
+Data_test.drop(['resultado_4'], axis=1, inplace=True)
+
+
+array=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,68,70,71,72,73,74,75,76,77,79,80,81,82,83,84,85,86,87,88,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169]
+Data_test = Data_test.iloc[:,array]
+Data_test.drop(Data_test.columns[80], axis=1, inplace=True)
+
+stats_p = populationtest(Data_test, 'Dolor', Data_test['Dolor'].unique().tolist(), out_path_files, 'Dolor_sample')
 #or_test(data_I, 'TipoPoblacion',np.r_[5:10,18,19:27],out_path_files, 'OR')
