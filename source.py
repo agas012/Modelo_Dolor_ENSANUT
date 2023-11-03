@@ -736,6 +736,7 @@ result_22 = DataHe22_sub.merge(DataR22_sub, on='FOLIO_I', how='left')
 result_21 = result_21.merge(DataH21_sub, on='FOLIO_I', how='left')
 result_22 = result_22.merge(DataH22_sub, on='FOLIO_I', how='left')
 
+#creation of the dolor column using question h0402
 frames = [result_21, result_22]
 Data = pd.concat(frames,keys=["2021", "2022"])
 Data['Dolor'] = 0
@@ -886,7 +887,21 @@ Data_test.drop(['resultado_4'], axis=1, inplace=True)
 
 array=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,68,70,71,72,73,74,75,76,77,79,80,81,82,83,84,85,86,87,88,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169]
 Data_test = Data_test.iloc[:,array]
+#for all the individuals in the sample
 Data_test.drop(Data_test.columns[80], axis=1, inplace=True)
+
+Data_test.drop('h0304d',axis=1, inplace=True)
+Data_test.drop('h0304m',axis=1, inplace=True)
+Data_test.drop('h0304a',axis=1, inplace=True)
+Data_test.drop('meses',axis=1, inplace=True)
 
 stats_p = populationtest(Data_test, 'Dolor', Data_test['Dolor'].unique().tolist(), out_path_files, 'Dolor_sample')
 #or_test(data_I, 'TipoPoblacion',np.r_[5:10,18,19:27],out_path_files, 'OR')
+
+
+df_reset = Data_test.reset_index()
+df_reset = df_reset.drop('level_1', axis=1)
+filtered_df = df_reset[df_reset['Dolor'] == 1]
+filtered_df = filtered_df.rename(columns={'level_0': 'Ano'})
+#filtered is only for people with pain
+stats_p = populationtest(filtered_df, 'Ano', filtered_df['Ano'].unique().tolist(), out_path_files, 'Dolor_sample_year')

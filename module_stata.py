@@ -93,11 +93,15 @@ def populationtest(data_in, colgrouped, valueslist, outpath, filename):
 
     for cols in colnames:
         if(not is_numeric_dtype(data_in[cols])):
+            #https://www.geeksforgeeks.org/pandas-crosstab-function-in-python/
+            #https://www.bing.com/search?q=cross+tabulation&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=cross+tabulation&sc=10-16&sk=&cvid=C930E975EEB5425190E742EBC984D32F&ghsh=0&ghacc=0&ghpl=
             ctableT = pd.crosstab(pd.to_numeric(data_in[cols]),data_in[colgrouped],margins=True)
             ctableT = ctableT.drop('All')
             if(ctableT.shape[0]>1):
                 ctablen = pd.crosstab(pd.to_numeric(data_in[cols]),data_in[colgrouped], normalize='columns',margins=True)*100.00
                 ctablen = ctablen.applymap(lambda x: " ({:.2f}%)".format(x))
+                #https://en.wikipedia.org/wiki/Chi-squared_distribution
+                #https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chi2_contingency.html
                 stat, pvalue, dof, expected = ss.chi2_contingency(ctableT.loc[:,valueslist])
                 ctableT = ctableT.astype(str)
                 ctableT = ctableT + ctablen
@@ -129,6 +133,8 @@ def populationtest(data_in, colgrouped, valueslist, outpath, filename):
             dataset_numeric = pd.concat([data_in[cols], data_in[colgrouped]], axis=1)
             for coltitle in valueslist:
                 x.append(dataset_numeric.loc[dataset_numeric[colgrouped] == coltitle,cols])
+            #https://en.wikipedia.org/wiki/Kruskal%E2%80%93Wallis_one-way_analysis_of_variance 
+            #https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.kruskal.html    
             correlation, pvalue = ss.kruskal(*x)
             ctableT = dataset_numeric.groupby(colgrouped).mean().T
             ctableT.columns = ctableT.columns.tolist()
